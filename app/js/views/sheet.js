@@ -56,14 +56,11 @@ export async function openSheet(bwvInput, pushState = true) {
     // Render header + loading spinner first
     sheetEl.innerHTML = `
         <div class="sheet-top-row">
-            <button class="sheet-back" id="close-sheet-btn">
-                <span class="material-symbols-outlined">close</span>
-                <span>Close</span>
-            </button>
             <div class="hero-nav bwv-nav">
                 <button class="hero-nav-btn" ${prevBwv ? `data-open-bwv="${prevBwv}"` : 'disabled'}><span class="material-symbols-outlined">chevron_left</span></button>
                 <button class="hero-nav-btn" ${nextBwv ? `data-open-bwv="${nextBwv}"` : 'disabled'}><span class="material-symbols-outlined">chevron_right</span></button>
             </div>
+            <button class="sheet-close" id="close-sheet-btn"><span class="material-symbols-outlined">close</span></button>
         </div>
         <div class="sheet-header">
             <div class="sheet-title-block">
@@ -208,14 +205,11 @@ export async function openSheet(bwvInput, pushState = true) {
     // Re-render full sheet content (replaces loading spinner)
     sheetEl.innerHTML = `
         <div class="sheet-top-row">
-            <button class="sheet-back" id="close-sheet-btn">
-                <span class="material-symbols-outlined">close</span>
-                <span>Close</span>
-            </button>
             <div class="hero-nav bwv-nav">
                 <button class="hero-nav-btn" ${prevBwv ? `data-open-bwv="${prevBwv}"` : 'disabled'}><span class="material-symbols-outlined">chevron_left</span></button>
                 <button class="hero-nav-btn" ${nextBwv ? `data-open-bwv="${nextBwv}"` : 'disabled'}><span class="material-symbols-outlined">chevron_right</span></button>
             </div>
+            <button class="sheet-close" id="close-sheet-btn"><span class="material-symbols-outlined">close</span></button>
         </div>
         <div class="sheet-header">
             <div class="sheet-title-block">

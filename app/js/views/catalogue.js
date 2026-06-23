@@ -278,10 +278,7 @@ export function openCycleDetail(cycleKey, pushState = true) {
 
     const container = document.getElementById('occasion-body');
     container.innerHTML = `
-        <button class="sheet-back" id="close-occasion-btn">
-            <span class="material-symbols-outlined">close</span>
-            <span>Close</span>
-        </button>
+        <button class="sheet-close" id="close-occasion-btn"><span class="material-symbols-outlined">close</span></button>
         <div class="occasion-detail-full">
             <div class="occasion-hero-layout">
                 ${cycleNavHtml}
