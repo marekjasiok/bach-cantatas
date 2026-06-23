@@ -1,0 +1,153 @@
+bwv: '167'
+title: Ihr Menschen, rühmet Gottes Liebe
+cycle: C1
+occasion: St. John's
+date: '1723-06-24'
+url: https://en.wikipedia.org/wiki/BWV_167
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ihr Menschen, rühmet Gottes Liebe
+      Und preiset seine Gütigkeit!
+      Lobt ihn aus reinem Herzenstriebe,
+      Dass er uns zu bestimmter Zeit
+      Das Horn des Heils, den Weg zum Leben
+      An Jesu, seinem Sohn, gegeben.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Gelobet sei der Herr Gott Israel,
+      Der sich in Gnaden zu uns wendet
+      Und seinen Sohn
+      Vom hohen Himmelsthron
+      Zum Welterlöser sendet.
+      Erst stellte sich Johannes ein
+      Und musste Weg und Bahn
+      Dem Heiland zubereiten;
+      Hierauf kam Jesus selber an,
+      Die armen Menschenkinder
+      Und die verlornen Sünder
+      Mit Gnad und Liebe zu erfreun
+      Und sie zum Himmelreich in wahrer Buß zu leiten
+  - num: 3
+    type: Aria
+    voices: ''
+    instruments: Oboe da caccia, Continuo
+    de: |-
+      Gottes Wort, das trüget nicht,
+      Es geschieht, was er verspricht.
+      Was er in dem Paradies
+      Und vor so viel hundert Jahren
+      Denen Vätern schon verhieß,
+      Haben wir gottlob erfahren.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Des Weibes Samen kam,
+      Nachdem die Zeit erfüllet;
+      Der Segen, den Gott Abraham,
+      Dem Glaubensheld, versprochen,
+      Ist wie der Glanz der Sonne angebrochen,
+      Und unser Kummer ist gestillet.
+      Ein stummer Zacharias preist
+      Mit lauter Stimme Gott vor seine Wundertat,
+      Die er dem Volk erzeiget hat.
+      Bedenkt, ihr Christen, auch, was Gott an euch getan
+      Und stimmet ihm ein Loblied an!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Clarino, Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Sei Lob und Preis mit Ehren
+      Gott Vater, Sohn, Heiligem Geist!
+      Der woll in uns vermehren,
+      Was er uns aus Genad verheißt,
+      Dass wir ihm fest vertrauen,
+      Gänzlich verlassn auf ihn,
+      Von Herzen auf ihn bauen,
+      Dass unsr Herz, Mut und Sinn
+      Ihm festiglich anhangen;
+      Darauf singn wir zur Stund:
+      Amen, wir werdns erlangen,
+      Gläubn wir aus Herzens Grund.
+scoring: 'Soli: S A T B, Coro: S A T B, Clarino, Oboe, Oboe da caccia, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 1
+    A: 1
+    B: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - tromba
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ihr Menschen, rühmet Gottes Liebe, BWV\_167 in Leipzig for the Feast of St. John the Baptist and first performed it on 24 June 1723. It is part of his first cantata cycle in Leipzig."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Anton-Sturm%2C_Burggen%2C_Wallfahrtskirche_hl._Zacharias.JPG/330px-Anton-Sturm%2C_Burggen%2C_Wallfahrtskirche_hl._Zacharias.JPG
+  url: https://en.wikipedia.org/wiki/Ihr_Menschen%2C_r%C3%BChmet_Gottes_Liebe%2C_BWV_167
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ihr Menschen, rühmet Gottes Liebe</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>167</b> in Leipzig for the Feast of St. John the Baptist and first performed it on 24 June 1723. It is part of his first cantata cycle in Leipzig.</p>"
+performances:
+  - id: ZW9SSNTdfKM
+    title: J. S. Bach - Kantate "Ihr Menschen, rühmet Gottes Liebe" (BWV 167) - Live-Mitschnitt
+    channel: BachCollegiumZuerich
+    performer: BachCollegiumZuerich
+    place: Zürich
+    year: '2022'
+    duration: '18:43'
+    thumbnail: https://img.youtube.com/vi/ZW9SSNTdfKM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ZW9SSNTdfKM
+  - id: 0kNe4wSkTqI
+    title: 'Bach, Cantata BWV 167, Chorale: Sei Lob und Preis mit Ehren'
+    channel: Panagiotis Adám
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '2:10'
+    thumbnail: https://img.youtube.com/vi/0kNe4wSkTqI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0kNe4wSkTqI
+  - id: 3kzbiOz0hwo
+    title: '"Ihr Menschen, rühmet Gottes Liebe" BWV 167'
+    channel: Amsterdam Baroque Orchestra - Topic
+    performer: Koopman
+    place: Amsterdam
+    year: '2007'
+    duration: '2:07'
+    thumbnail: https://img.youtube.com/vi/3kzbiOz0hwo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3kzbiOz0hwo
+  - id: SCLrFLRHu8w
+    title: J. S. Bach- Cantatas BWV 167, 147, 186 & 136 - H.-Ch. Rademann
+    channel: Miguel Zampedri
+    performer: Rademann
+    place: ''
+    year: ''
+    duration: '1:27:56'
+    thumbnail: https://img.youtube.com/vi/SCLrFLRHu8w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SCLrFLRHu8w
+  - id: Yj1KeB6WMQ4
+    title: 'Bach: Ihr Menschen, rühmet Gottes Liebe, BWV 167 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Boston
+    year: '2024'
+    duration: '17:54'
+    thumbnail: https://img.youtube.com/vi/Yj1KeB6WMQ4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Yj1KeB6WMQ4
+key: C major

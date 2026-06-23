@@ -1,0 +1,94 @@
+bwv: '58'
+title: Ach Gott, wie manches Herzeleid
+cycle: C3
+occasion: New Year I
+date: '1727-01-05'
+url: https://en.wikipedia.org/wiki/BWV_58
+edges: {}
+movements:
+  - num: 1
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Ach Gott, wie manches Herzeleid
+      Begegnet mir zu dieser Zeit!
+      Der schmale Weg ist Trübsals voll,
+      Den ich zum Himmel wandern soll.
+      Nur Geduld, Geduld, mein Herze,
+      Es ist eine böse Zeit!
+      Doch der Gang zur Seligkeit
+      Führt zur Freude nach dem Schmerze.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Verfolgt dich gleich die arge Welt,
+      So hast du dennoch Gott zum Freunde,
+      Der wider deine Feinde
+      Dir stets den Rücken hält.
+      Und wenn der wütende Herodes
+      Das Urteil eines schmähen Todes
+      Gleich über unsern Heiland fällt,
+      So kommt ein Engel in der Nacht,
+      Der lässet Joseph träumen,
+      Dass er dem Würger soll entfliehen
+      Und nach Ägypten ziehen.
+      Gott hat ein Wort, das dich vertrauend macht.
+      Er spricht: Wenn Berg und Hügel niedersinken,
+      Wenn dich die Flut des Wassers will ertrinken,
+      So will ich dich doch nicht verlassen noch versäumen.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Violino solo, Continuo
+    de: |-
+      Ich bin vergnügt in meinem Leiden,
+      Denn Gott ist meine Zuversicht.
+      Ich habe sichern Brief und Siegel,
+      Und dieses ist der feste Riegel,
+      Den bricht die Hölle selber nicht.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Kann es die Welt nicht lassen,
+      Mich zu verfolgen und zu hassen,
+      So weist mir Gottes Hand
+      Ein andres Land.
+      Ach! könnt es heute noch geschehen,
+      Dass ich mein Eden möchte sehen!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Ich hab für mir ein schwere Reis
+      Zu dir ins Himmels Paradeis,
+      Da ist mein rechtes Vaterland,
+      Daran du dein Blut hast gewandt.
+      Nur getrost, getrost, ihr Herzen,
+      Hier ist Angst, dort Herrlichkeit!
+      Und die Freude jener Zeit
+      Überwieget alle Schmerzen.
+scoring: 'Soli: S B, Oboe I/II, Taille, Violino solo, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorale
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 1
+    S: 2
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - violino_solo
+key: B♭ major

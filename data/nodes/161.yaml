@@ -1,0 +1,256 @@
+bwv: '161'
+title: Komm, du süße Todesstunde
+cycle: EARLY
+occasion: Trinity XVI
+date: '1715-09-27'
+url: https://en.wikipedia.org/wiki/BWV_161
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: A
+    instruments: Flauto dolce I/II, Organo, Continuo
+    de: |-
+      Komm, du süße Todesstunde,
+      Da mein Geist
+      Honig speist
+      Aus des Löwens Munde;
+      Mache meinen Abschied süße,
+      Säume nicht,
+      Letztes Licht,
+      Dass ich meinen Heiland küsse.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Welt! deine Lust ist Last,
+      Dein Zucker ist mir als ein Gift verhasst,
+      Dein Freudenlicht
+      Ist mein Komete,
+      Und wo man deine Rosen bricht,
+      Sind Dornen ohne Zahl
+      Zu meiner Seele Qual!
+      Der blasse Tod ist meine Morgenröte,
+      Mit solcher geht mir auf die Sonne
+      Der Herrlichkeit und Himmelswonne.
+      Drum seufz ich recht von Herzensgrunde
+      Nur nach der letzten Todesstunde!
+      Ich habe Lust, bei Christo bald zu weiden,
+      Ich habe Lust, von dieser Welt zu scheiden.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Mein Verlangen
+      Ist, den Heiland zu umfangen
+      Und bei Christo bald zu sein.
+      Ob ich sterblich' Asch und Erde
+      Durch den Tod zermalmet werde,
+      Wird der Seele reiner Schein
+      Dennoch gleich den Engeln prangen.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Flauto dolce I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Der Schluss ist schon gemacht:
+      Welt, gute Nacht!
+      Und kann ich nur den Trost erwerben,
+      In Jesu Armen bald zu sterben:
+      Er ist mein sanfter Schlaf!
+      Das kühle Grab wird mich mit Rosen decken,
+      Bis Jesus mich wird auferwecken,
+      Bis er sein Schaf
+      Führt auf die süße Himmelsweide,
+      Dass mich der Tod von ihm nicht scheide!
+      So brich herein, du froher Todestag!
+      So schlage doch, du letzter Stundenschlag!
+  - num: 5
+    type: Chorus
+    voices: SATB
+    instruments: Flauto dolce I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wenn es meines Gottes Wille,
+      Wünsch ich, dass des Leibes Last
+      Heute noch die Erde fülle,
+      Und der Geist, des Leibes Gast,
+      Mit Unsterblichkeit sich kleide
+      In der süßen Himmelsfreude.
+      Jesu, komm und nimm mich fort!
+      Dieses sei mein letztes Wort.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Flauto dolce I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Der Leib zwar in der Erden
+      Von Würmen wird verzehrt,
+      Doch auferweckt soll werden,
+      Durch Christum schön verklärt,
+      Wird leuchten als die Sonne
+      Und leben ohne Not
+      In himml'scher Freud und Wonne.
+      Was schadt mir denn der Tod?
+scoring: 'Soli: A T, Coro: S A T B, Flauto dolce I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    A: 2
+    T: 2
+    SATB: 2
+  instrumentation_families:
+    - organ
+    - recorder
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Komm, du süße Todesstunde, BWV\_161, in Weimar for the 16th Sunday after Trinity, probably first performed on 27 September 1716."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BWV161-P124-staatsbibliothek-berlin.jpeg/330px-BWV161-P124-staatsbibliothek-berlin.jpeg
+  url: https://en.wikipedia.org/wiki/Komm%2C_du_s%C3%BC%C3%9Fe_Todesstunde%2C_BWV_161
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Komm, du süße Todesstunde</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>161</b>, in Weimar for the 16th Sunday after Trinity, probably first performed on 27 September 1716.</p>"
+performances:
+  - id: qDxxf19fbNI
+    title: J. S. Bach - Cantata BWV 161 "Komm, du süße Todesstunde" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Verlangen
+    year: '2009'
+    duration: '21:51'
+    thumbnail: https://img.youtube.com/vi/qDxxf19fbNI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qDxxf19fbNI
+  - id: _cSJB10S45U
+    title: Bach - Cantata Komm, du süße Todesstunde BWV 161 - Johanna Soller | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Oude Kerk Charlois
+    year: '2024'
+    duration: '19:28'
+    thumbnail: https://img.youtube.com/vi/_cSJB10S45U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_cSJB10S45U
+  - id: Gk0v6R7K2Pc
+    title: 'J.S Bach - Cantata: Komm, du süsse Todesstunde, BWV 161'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: Verlangen ist
+    year: ''
+    duration: '21:01'
+    thumbnail: https://img.youtube.com/vi/Gk0v6R7K2Pc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Gk0v6R7K2Pc
+  - id: n6iI4_gTXsA
+    title: J.S.Bach.Cantata "Komm, du suesse Todesstunde" (BWV 161) "Bach-consort"
+    channel: bachconsort
+    performer: bachconsort
+    place: ''
+    year: '2011'
+    duration: '21:25'
+    thumbnail: https://img.youtube.com/vi/n6iI4_gTXsA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=n6iI4_gTXsA
+  - id: xXMUpqSyJJo
+    title: Bach - Cantata Gottes Zeit..., 'Actus Tragicus' BWV 106 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Oostkerk
+    year: '2015'
+    duration: '20:54'
+    thumbnail: https://img.youtube.com/vi/xXMUpqSyJJo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xXMUpqSyJJo
+  - id: o151o-oY8uE
+    title: J. S. Bach - Christus, der ist mein Leben (Cantatas BWV 27, 84, 95 & 161)- Ph. Herreweghe
+    channel: Miguel Zampedri
+    performer: Herreweghe
+    place: ''
+    year: ''
+    duration: '1:02:33'
+    thumbnail: https://img.youtube.com/vi/o151o-oY8uE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=o151o-oY8uE
+  - id: 0MWrMBkKm_Q
+    title: 'Bach: Komm, du süße Todesstunde, BWV 161 — October 2014'
+    channel: Tempesta di Mare
+    performer: Tempesta di Mare
+    place: Daniela Giulia Pierson
+    year: October 2014
+    duration: '18:45'
+    thumbnail: https://img.youtube.com/vi/0MWrMBkKm_Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0MWrMBkKm_Q
+  - id: YKGexUsEAfY
+    title: J.S. Bach - BWV 161 (Come, O sweet hour of death)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '21:42'
+    thumbnail: https://img.youtube.com/vi/YKGexUsEAfY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YKGexUsEAfY
+  - id: C-2pGca8uO8
+    title: Bach Kantate BWV161 Komm du süße Todesstunde, Georg Christoph Biller live
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Krumbiegel Tenor
+    year: '2003'
+    duration: '18:40'
+    thumbnail: https://img.youtube.com/vi/C-2pGca8uO8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=C-2pGca8uO8
+  - id: Er7tAFkYzKI
+    title: 'J.S. Bach: Cantata BWV161 "Komm, du süße Todesstunde" Nikolaus Harnoncourt　バッハ：カンタータ161番　アーノンクール'
+    channel: SPT
+    performer: Harnoncourt
+    place: Verlangen
+    year: '1981'
+    duration: '19:36'
+    thumbnail: https://img.youtube.com/vi/Er7tAFkYzKI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Er7tAFkYzKI
+  - id: 9v_Q7uxE7Vc
+    title: 'J.S. Bach, Kantate BWV 161: 4 Rec. & 5 Coro & 6 Choral „Der Leib zwar in der Erden“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2015'
+    duration: '6:51'
+    thumbnail: https://img.youtube.com/vi/9v_Q7uxE7Vc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9v_Q7uxE7Vc
+  - id: '-f5Ue0OrvIo'
+    title: 'J.S. Bach, Kantate BWV 161: 1 Aria „Komm, du süße Todesstunde” | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2015'
+    duration: '4:52'
+    thumbnail: https://img.youtube.com/vi/-f5Ue0OrvIo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-f5Ue0OrvIo
+  - id: 2c1iSQSeudM
+    title: 'Komm, du susse Todesstunde, BWV 161: Wenn es meines Gottes Wille (Chorus)'
+    channel: Katherine Fuge - Topic
+    performer: Gardiner
+    place: Tyson
+    year: '2000'
+    duration: '3:07'
+    thumbnail: https://img.youtube.com/vi/2c1iSQSeudM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2c1iSQSeudM
+  - id: 7LPNYjjCXeY
+    title: BCA135 BWV161 Cantata for 16th Sunday after Trinity Herreweghe 2007
+    channel: Johann Sebastian
+    performer: Herreweghe
+    place: ''
+    year: '2007'
+    duration: '17:29'
+    thumbnail: https://img.youtube.com/vi/7LPNYjjCXeY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7LPNYjjCXeY
+  - id: GayEslJ13pI
+    title: JS Bach Cantata　BWV161　Rilling
+    channel: Miruko Yume
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '20:40'
+    thumbnail: https://img.youtube.com/vi/GayEslJ13pI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GayEslJ13pI
+key: C major

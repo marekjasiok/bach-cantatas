@@ -1,0 +1,97 @@
+bwv: '122'
+title: Das neugeborne Kindelein
+cycle: C2
+occasion: Christmas I
+date: '1724-12-31'
+url: https://en.wikipedia.org/wiki/BWV_122
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Das neugeborne Kindelein,
+      Das herzeliebe Jesulein
+      Bringt abermal ein neues Jahr
+      Der auserwählten Christenschar.
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      O Menschen, die ihr täglich sündigt,
+      Ihr sollt der Engel Freude sein.
+      Ihr jubilierendes Geschrei,
+      Dass Gott mit euch versöhnet sei,
+      Hat euch den süßen Trost verkündigt.
+  - num: 3
+    type: Recitative
+    voices: S
+    instruments: Flauto I-III, Continuo
+    de: |-
+      Die Engel, welche sich zuvor
+      Vor euch als vor Verfluchten scheuen,
+      Erfüllen nun die Luft im höhern Chor,
+      Um über euer Heil sich zu erfreuen.
+      Gott, so euch aus dem Paradies
+      Aus englischer Gemeinschaft stieß,
+      Läßt euch nun wiederum auf Erden
+      Durch seine Gegenwart vollkommen selig werden:
+      So danket nun mit vollem Munde
+      Vor die gewünschte Zeit im neuen Bunde.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ist Gott versöhnt und unser Freund,
+      O wohl uns, die wir an ihn glauben,
+      Was kann uns tun der arge Feind?
+      Sein Grimm kann unsern Trost nicht rauben;
+      Trotz Teufel und der Höllen Pfort,
+      Ihr Wüten wird sie wenig nützen,
+      Das Jesulein ist unser Hort.
+      Gott ist mit uns und will uns schützen.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Dies ist ein Tag, den selbst der Herr gemacht,
+      Der seinen Sohn in diese Welt gebracht.
+      O selge Zeit, die nun erfüllt!
+      O gläubigs Warten, das nunmehr gestillt!
+      O Glaube, der sein Ende sieht!
+      O Liebe, die Gott zu sich zieht!
+      O Freudigkeit, so durch die Trübsal dringt
+      Und Gott der Lippen Opfer bringt!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Taille e Viola col Tenore, Continuo
+    de: |-
+      Es bringt das rechte Jubeljahr,
+      Was trauern wir denn immerdar?
+      Frisch auf! itzt ist es Singenszeit,
+      Das Jesulein wendt alles Leid.
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto I-III, Oboe I/II, Taille, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 2
+    S: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - recorder
+key: G minor

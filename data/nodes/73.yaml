@@ -1,0 +1,120 @@
+bwv: '73'
+title: Herr, wie du willt, so schicks mit mir
+cycle: C1
+occasion: Epiphany III
+date: '1724-01-23'
+url: https://en.wikipedia.org/wiki/BWV_73
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Corno ossia Organo obligato, Continuo
+    de: |-
+      Herr, wie du willt, so schick's mit mir
+      Im Leben und im Sterben!
+      Tenor
+      Ach! aber ach! wieviel
+      Läßt mich dein Wille leiden!
+      Mein Leben ist des Unglücks Ziel,
+      Da Jammer und Verdruss
+      Mich lebend foltern muss,
+      Und kaum will meine Not im Sterben von mir scheiden.
+      Allein zu dir steht mein Begier,
+      Herr, lass mich nicht verderben!
+      Bass
+      Du bist mein Helfer, Trost und Hort,
+      So der Betrübten Tränen zählet
+      Und ihre Zuversicht,
+      Das schwache Rohr, nicht gar zerbricht;
+      Und weil du mich erwählet,
+      So sprich ein Trost- und Freudenwort!
+      Erhalt mich nur in deiner Huld,
+      Sonst wie du willt, gib mir Geduld,
+      Denn dein Will ist der beste.
+      Sopran
+      Dein Wille zwar ist ein versiegelt Buch,
+      Da Menschenweisheit nichts vernimmt;
+      Der Segen scheint uns oft ein Fluch,
+      Die Züchtigung ergrimmte Strafe,
+      Die Ruhe, so du in dem Todesschlafe
+      Uns einst bestimmt,
+      Ein Eingang zu der Hölle.
+      Doch macht dein Geist uns dieses Irrtums frei
+      und zeigt, dass uns dein Wille heilsam sei.
+      Herr, wie du willt!
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe I, Continuo
+    de: |-
+      Ach senke doch den Geist der Freuden
+      Dem Herzen ein!
+      Es will oft bei mir geistlich Kranken
+      Die Freudigkeit und Hoffnung wanken
+      Und zaghaft sein.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Ach, unser Wille bleibt verkehrt,
+      Bald trotzig, bald verzagt,
+      Des Sterbens will er nie gedenken;
+      Allein ein Christ, in Gottes Geist gelehrt,
+      Lernt sich in Gottes Willen senken
+      Und sagt:
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Herr, so du willt,
+      So presst, ihr Todesschmerzen,
+      Die Seufzer aus dem Herzen,
+      Wenn mein Gebet nur vor dir gilt.
+      Herr, so du willt,
+      So lege meine Glieder
+      In Staub und Asche nieder,
+      Dies höchst verderbte Sündenbild,
+      Herr, so du willt,
+      So schlagt, ihr Leichenglocken,
+      Ich folge unerschrocken,
+      Mein Jammer ist nunmehr gestillt.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Corno e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Das ist des Vaters Wille,
+      Der uns erschaffen hat;
+      Sein Sohn hat Guts die Fülle
+      Erworben und Genad;
+      Auch Gott der Heilge Geist
+      Im Glauben uns regieret,
+      Zum Reich des Himmels führet.
+      Ihm sei Lob Ehr und Preis!
+scoring: 'Soli: S T B, Coro: S A T B, Corno, Oboe I/II, Violino I/II, Viola, Organo, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    B: 2
+  instrumentation_families:
+    - corno
+    - oboe
+    - organ
+key: E♭ major
+wiki:
+  summary: "Herr, wie du willt, so schicks mit mir, BWV\_73, is a church cantata by Johann Sebastian Bach. He composed it for the third Sunday after Epiphany and first performed it in Leipzig on 23 January 1724. It was probably composed shortly before the first performance."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Herr%2C_wie_du_willt%2C_so_schicks_mit_mir%2C_BWV_73
+  summary_html: "<p><b><span><i lang=\"de\">Herr, wie du willt, so schicks mit mir</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>73</b>, is a church cantata by Johann Sebastian Bach. He composed it for the third Sunday after Epiphany and first performed it in Leipzig on 23 January 1724. It was probably composed shortly before the first performance.</p>"

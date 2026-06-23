@@ -1,0 +1,110 @@
+bwv: '48'
+title: Ich elender Mensch, wer wird mich...
+cycle: C1
+occasion: Trinity XIX
+date: '1723-10-03'
+url: https://en.wikipedia.org/wiki/BWV_48
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Ich elender Mensch, wer wird mich erlösen
+      vom Leibe dieses Todes?
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      O Schmerz, o Elend, so mich trifft,
+      Indem der Sünden Gift
+      Bei mir in Brust und Adern wütet:
+      Die Welt wird mir ein Siech- und Sterbehaus,
+      Der Leib muss seine Plagen
+      Bis zu dem Grabe mit sich tragen.
+      Allein die Seele fühlet den stärksten Gift,
+      Damit sie angestecket;
+      Drum, wenn der Schmerz den Leib des Todes trifft,
+      Wenn ihr der Kreuzkelch bitter schmecket,
+      So treibt er ihr ein brünstig Seufzen aus.
+  - num: 3
+    type: Chorale
+    voices: T
+    instruments: Tromba e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Solls ja so sein,
+      Dass Straf und Pein
+      Auf Sünde folgen müssen,
+      So fahr hie fort
+      Und schone dort
+      Und lass mich hie wohl büßen.
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Oboe solo, Continuo
+    de: |-
+      Ach, lege das Sodom der sündlichen Glieder,
+      Wofern es dein Wille, zerstöret darnieder!
+      Nur schone der Seele und mache sie rein,
+      Um vor dir ein heiliges Zion zu sein.
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Hier aber tut des Heilands Hand
+      Auch unter denen Toten Wunder.
+      Scheint deine Seele gleich erstorben,
+      Der Leib geschwächt und ganz verdorben,
+      Doch wird uns Jesu Kraft bekannt:
+      Er weiß im geistlich Schwachen
+      Den Leib gesund, die Seele stark zu machen.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Vergibt mir Jesus meine Sünden,
+      So wird mir Leib und Seele gesund.
+      Er kann die Toten lebend machen
+      Und zeigt sich kräftig in den Schwachen,
+      Er hält den längst geschlossnen Bund,
+      Dass wir im Glauben Hilfe enden.
+  - num: 7
+    type: Chorale
+    voices: T
+    instruments: Tromba e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Herr Jesu Christ, einiger Trost,
+      Zu dir will ich mich wenden;
+      Mein Herzleid ist dir wohl bewusst,
+      Du kannst und wirst es enden.
+      In deinen Willen seis gestellt,
+      Mach's, lieber Gott, wie dir's gefällt:
+      Dein bleib und will ich bleiben.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba, Oboe solo, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 5
+    A: 2
+  instrumentation_families:
+    - oboe
+    - tromba
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ich elender Mensch, wer wird mich erlösen, BWV\_48, in Leipzig for the 19th Sunday after Trinity and first performed it on 3 October 1723."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Ich_elender_Mensch%2C_wer_wird_mich_erl%C3%B6sen%2C_BWV_48
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ich elender Mensch, wer wird mich erlösen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>48</b>, in Leipzig for the 19th Sunday after Trinity and first performed it on 3 October 1723.</p>"
+key: C minor

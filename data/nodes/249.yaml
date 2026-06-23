@@ -1,0 +1,165 @@
+bwv: '249'
+title: Osteroratorium
+occasion: Easter Sunday
+cycle: C3
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Fagotto, Continuo
+    de: ''
+  - num: 3
+    type: Aria
+    voices: ''
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Kommt, eilet und laufet, ihr flüchtigen Füße,
+      Erreichet die Höhle, die Jesum bedeckt!
+      Lachen und Scherzen
+      Begleitet die Herzen,
+      Denn unser Heil ist auferweckt.
+  - num: 4
+    type: Recitative
+    voices: A, S, T, B
+    instruments: Fagotto, Continuo
+    de: |-
+      Alt
+      O kalter Männer Sinn!
+      Wo ist die Liebe hin,
+      Die ihr dem Heiland schuldig seid?
+      Sopran
+      Ein schwaches Weib muss euch beschämen!
+      Tenor
+      Ach, ein betrübtes Grämen
+      Bass
+      Und banges Herzeleid
+      Tenor, Bass
+      Hat mit gesalznen Tränen
+      Und wehmutsvollem Sehnen
+      Ihm eine Salbung zugedacht,
+      Sopran, Alt
+      Die ihr, wie wir, umsonst gemacht.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Flauto traverso o Violino solo, Fagotto, Continuo
+    de: |-
+      Seele, deine Spezereien
+      Sollen nicht mehr Myrrhen sein.
+      Denn allein
+      Mit dem Lorbeerkranze prangen,
+      Stillt dein ängstliches Verlangen.
+  - num: 6
+    type: Recitative
+    voices: T, B, A
+    instruments: Fagotto, Continuo
+    de: |-
+      Tenor
+      Hier ist die Gruft
+      Bass
+      Und hier der Stein,
+      Der solche zugedeckt.
+      Wo aber wird mein Heiland sein?
+      Alt
+      Er ist vom Tode auferweckt!
+      Wir trafen einen Engel an,
+      Der hat uns solches kundgetan.
+      Tenor
+      Hier seh ich mit Vergnügen
+      Das Schweißtuch abgewickelt liegen.
+  - num: 7
+    type: Aria
+    voices: T
+    instruments: Flauto dolce I/II, Violino I/II, Fagotto, Continuo
+    de: |-
+      Sanfte soll mein Todeskummer,
+      Nur ein Schlummer,
+      Jesu, durch dein Schweißtuch sein.
+      Ja, das wird mich dort erfrischen
+      Und die Zähren meiner Pein
+      Von den Wangen tröstlich wischen.
+  - num: 8
+    type: Recitative
+    voices: S, A
+    instruments: Fagotto, Continuo
+    de: |-
+      Indessen seufzen wir
+      Mit brennender Begier:
+      Ach, könnt es doch nur bald geschehen,
+      Den Heiland selbst zu sehen!
+  - num: 9
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Saget, saget mir geschwinde,
+      Saget, wo ich Jesum finde,
+      Welchen meine Seele liebt!
+      Komm doch, komm, umfasse mich;
+      Denn mein Herz ist ohne dich
+      Ganz verwaiset und betrübt.
+  - num: 10
+    type: Recitative
+    voices: B
+    instruments: Fagotto, Continuo
+    de: |-
+      Wir sind erfreut,
+      Dass unser Jesus wieder lebt,
+      Und unser Herz,
+      So erst in Traurigkeit zerflossen und geschwebt
+      Vergisst den Schmerz
+      Und sinnt auf Freudenlieder;
+      Denn unser Heiland lebet wieder.
+  - num: 11
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Preis und Dank
+      Bleibe, Herr, dein Lobgesang.
+      Höll und Teufel sind bezwungen,
+      Ihre Pforten sind zerstört.
+      Jauchzet, ihr erlösten Zungen,
+      Dass man es im Himmel hört.
+      Eröffnet, ihr Himmel, die prächtigen Bogen,
+      Der Löwe von Juda kommt siegend gezogen!
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Flauto traverso, Flauto I/II, Oboe I/II, Oboe d'amore, Violino
+  I/II, Viola, Fagotto, Continuo
+features:
+  structure:
+    - Sinfonia
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Sinfonia
+  closing: Chorus
+  voice_profile:
+    T: 3
+    A, S, T, B: 1
+    S: 1
+    T, B, A: 1
+    S, A: 1
+    A: 1
+    B: 1
+  instrumentation_families:
+    - fagotto
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+    - recorder
+    - timpani
+    - tromba
+    - violino_solo
+wiki:
+  summary: "The Easter Oratorio, BWV\_249, is an oratorio by Johann Sebastian Bach. He wrote an autograph score in Leipzig in 1738 under this title, matching his Christmas Oratorio and Ascension Oratorio. Bach had already composed the work in 1725, when he used most of its music for two compositions, the congratulatory Shepherd Cantata, BWV 249a, and a church cantata for Easter Sunday, Kommt, gehet und eilet, BWV 249.3, that later became the oratorio. The two 1725 works, premiered a few weeks apart, are both musical dramas involving characters: in the secular cantata two shepherds and two shepherdesses, and in the Easter cantata four Biblical figures from the Easter narratives in the Gospel of Luke and other Evangelists. In the oratorio, Bach assigned the music to voice parts instead."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Title_page_of_1738_autograph_of_Easter_Oratorio_BWV_249_by_J.S._Bach.jpg/330px-Title_page_of_1738_autograph_of_Easter_Oratorio_BWV_249_by_J.S._Bach.jpg
+  url: https://en.wikipedia.org/wiki/Easter_Oratorio
+  summary_html: "<p>The <i><b>Easter Oratorio</b></i>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>249</b>, is an oratorio by Johann Sebastian Bach. He wrote an autograph score in Leipzig in 1738 under this title, matching his <i>Christmas Oratorio</i> and <i>Ascension Oratorio</i>. Bach had already composed the work in 1725, when he used most of its music for two compositions, the congratulatory <i>Shepherd Cantata</i>, BWV 249a, and a church cantata for Easter Sunday, <b><span><i lang=\"de\">Kommt, gehet und eilet</i></span></b>, BWV 249.3, that later became the oratorio. The two 1725 works, premiered a few weeks apart, are both musical dramas involving characters: in the secular cantata two shepherds and two shepherdesses, and in the Easter cantata four Biblical figures from the Easter narratives in the Gospel of Luke and other Evangelists. In the oratorio, Bach assigned the music to voice parts instead.</p>"

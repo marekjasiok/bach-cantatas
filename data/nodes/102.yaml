@@ -1,0 +1,113 @@
+bwv: '102'
+title: Herr, deine Augen sehen nach dem Glauben
+cycle: C3
+occasion: Trinity X
+date: '1726-08-25'
+url: https://en.wikipedia.org/wiki/BWV_102
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Herr, deine Augen sehen nach dem Glauben!
+      Du schlägest sie, aber sie fühlen's nicht; du plagest sie,
+      aber sie bessern sich nicht. Sie haben ein härter Angesicht denn
+      ein Fels und wollen sich nicht bekehren.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wo ist das Ebenbild, das Gott uns eingepräget,
+      Wenn der verkehrte Will sich ihm zuwiderleget?
+      Wo ist die Kraft von seinem Wort,
+      Wenn alle Besserung weicht aus dem Herzen fort?
+      Der Höchste suchet uns durch Sanftmut zwar zu zähmen,
+      Ob der verirrte Geist sich wollte noch bequemen;
+      Doch, fährt er fort in dem verstockten Sinn,
+      So gibt er ihn in's Herzens Dünkel hin.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe, Continuo
+    de: |-
+      Weh der Seele, die den Schaden
+      Nicht mehr kennt
+      Und, die Straf auf sich zu laden,
+      Störrig rennt,
+      Ja von ihres Gottes Gnaden
+      Selbst sich trennt.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Verachtest du den Reichtum seiner Gnade,
+      Geduld und Langmütigkeit? Weißest du nicht, dass dich
+      Gottes Güte zur Buße locket? Du aber nach deinem verstockten
+      und unbußfertigen Herzen häufest dir selbst den Zorn auf
+      den Tag des Zorns und der Offenbarung des gerechten Gerichts Gottes.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Flauto traverso solo, Continuo
+    de: |-
+      Erschrecke doch,
+      Du allzu sichre Seele!
+      Denk, was dich würdig zähle
+      Der Sünden Joch.
+      Die Gotteslangmut geht auf einem Fuß von Blei,
+      Damit der Zorn hernach dir desto schwerer sei.
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Beim Warten ist Gefahr;
+      Willst du die Zeit verlieren?
+      Der Gott, der ehmals gnädig war,
+      Kann leichtlich dich vor seinen Richtstuhl führen.
+      Wo bleibt sodann die Buß? Es ist ein Augenblick,
+      Der Zeit und Ewigkeit, der Leib und Seele scheidet;
+      Verblendter Sinn, ach kehre doch zurück,
+      Dass dich dieselbe Stund nicht finde unbereitet!
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Flauto traverso in octava e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Heut lebst du, heut bekehre dich,
+      Eh morgen kömmt, kann's ändern sich;
+      Wer heut ist frisch, gesund und rot,
+      Ist morgen krank, ja wohl gar tot.
+      So du nun stirbest ohne Buß,
+      Dein Leib und Seel dort brennen muss.
+      Hilf, o Herr Jesu, hilf du mir,
+      Dass ich noch heute komm zu dir
+      Und Buße tu den Augenblick,
+      Eh mich der schnelle Tod hinrück,
+      Auf dass ich heut und jederzeit
+      Zu meiner Heimfahrt sei bereit.
+scoring: 'Soli: A T B, Coro: S A T B, Flauto traverso solo, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 2
+    A: 2
+    T: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+key: B♭ major

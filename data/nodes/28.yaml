@@ -1,0 +1,247 @@
+bwv: '28'
+title: Gottlob! nun geht das Jahr zu Ende
+cycle: C3
+occasion: Christmas I
+date: '1725-12-30'
+url: https://en.wikipedia.org/wiki/BWV_28
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: S
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Gottlob! nun geht das Jahr zu Ende,
+      Das neue rücket schon heran.
+      Gedenke, meine Seele, dran,
+      Wieviel dir deines Gottes Hände
+      Im alten Jahre Guts getan!
+      Stimm ihm ein frohes Danklied an;
+      So wird er ferner dein gedenken
+      Und mehr zum neuen Jahre schenken.
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Cornetto e Oboe I e Violino I col Soprano, Trombone I e Oboe II e Violino II coll' Alto, Trombone II e Taille e
+      Viola col Tenore, Trombone III col Basso, Continuo
+    de: |-
+      Nun lob, mein Seel, den Herren,
+      Was in mir ist, den Namen sein!
+      Sein Wohltat tut er mehren,
+      Vergiß es nicht, o Herze mein!
+      Hat dir dein Sünd vergeben
+      Und heilt dein Schwachheit groß,
+      Errett' dein armes Leben,
+      Nimmt dich in seinen Schoß.
+      Mit reichem Trost beschüttet,
+      Verjüngt, dem Adler gleich.
+      Der Kön'g schafft Recht, behütet,
+      Die leid'n in seinem Reich.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      So spricht der Herr: Es soll mir eine Lust sein,
+      dass ich ihnen Gutes tun soll,
+      und ich will sie in diesem Lande pflanzen treulich,
+      von ganzem Herzen und von ganzer Seele.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Gott ist ein Quell, wo lauter Güte fleußt;
+      Gott ist ein Licht, wo lauter Gnade scheinet;
+      Gott ist ein Schatz, der lauter Segen heißt;
+      Gott ist ein Herr, der's treu und herzlich meinet.
+      Wer ihn im Glauben liebt, in Liebe kindlich ehrt,
+      Sein Wort von Herzen hört
+      Und sich von bösen Wegen kehrt,
+      Dem gibt er sich mit allen Gaben.
+      Wer Gott hat, der muss alles haben.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Gott hat uns im heurigen Jahre gesegnet,
+      Dass Wohltun und Wohlsein einander begegnet.
+      Wir loben ihn herzlich und bitten darneben,
+      Er woll auch ein glückliches neues Jahr geben.
+      Wir hoffens von seiner beharrlichen Güte
+      Und preisens im voraus mit dankbarm Gemüte.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Cornetto e Oboe I e Violino I col Soprano, Trombone I e Oboe II e Violino II coll' Alto, Trombone II e Taille e
+      Viola col Tenore, Trombone III col Basso, Continuo
+    de: |-
+      All solch dein Güt wir preisen,
+      Vater ins Himmels Thron,
+      Die du uns tust beweisen
+      Durch Christum, deinen Sohn,
+      Und bitten ferner dich:
+      Gib uns ein friedsam Jahre,
+      Für allem Leid bewahre
+      Und nähr uns mildiglich.
+scoring: 'Soli: S A T B, Coro: S A T B, Cornetto, Trombone I-III, Oboe I/II, Taille, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Chorus
+    - Recitative
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    S: 1
+    SATB: 2
+    A: 1
+    T: 1
+  instrumentation_families:
+    - cornetto
+    - oboe
+    - oboe_da_caccia
+    - trombone
+key: D major
+performances:
+  - id: k64wRdAbcFA
+    title: J.S. Bach - Cantata BWV 28 "Gottlob! nun geht das Jahr zu Ende" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Seel
+    year: '2022'
+    duration: '17:57'
+    thumbnail: https://img.youtube.com/vi/k64wRdAbcFA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=k64wRdAbcFA
+  - id: 2gGSPAfdYJc
+    title: J.S. Bach - Cantata No.28 〈Gottlob! nun geht das Jahr zu Ende〉 BWV 28 / Pieter Jan Leusink
+    channel: protestant7 (baroque music)
+    performer: protestant7 (baroque music)
+    place: Seel
+    year: ''
+    duration: '15:33'
+    thumbnail: https://img.youtube.com/vi/2gGSPAfdYJc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2gGSPAfdYJc
+  - id: 75VBcvPucL8
+    title: Bach - Cantate BWV 28 - Gottlob! nun geht das Jahr zu Ende
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Seel
+    year: '1972'
+    duration: '15:52'
+    thumbnail: https://img.youtube.com/vi/75VBcvPucL8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=75VBcvPucL8
+  - id: Ih51HIyTW0Q
+    title: Bach - Cantata Wir danken dir... BWV 29 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: B minor
+    year: ''
+    duration: '24:55'
+    thumbnail: https://img.youtube.com/vi/Ih51HIyTW0Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ih51HIyTW0Q
+  - id: 9KDMPET_iGk
+    title: J S  Bach Kantate – BWV 28  „Gottlob! Nun geht das Jahr zu Ende“ Ton Koopman
+    channel: Karin Sommer
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '13:26'
+    thumbnail: https://img.youtube.com/vi/9KDMPET_iGk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9KDMPET_iGk
+  - id: 0W0t6TU9hAs
+    title: 'Johann Sebastian Bach - Cantata: Gottlob! Nun geht das Jahr zu Ende, BWV 28. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Koopman
+    place: Seel
+    year: ''
+    duration: '13:27'
+    thumbnail: https://img.youtube.com/vi/0W0t6TU9hAs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0W0t6TU9hAs
+  - id: cmw3wOz_ru4
+    title: J.S. Bach - BWV 28 (Praise God! The year now draws to a close)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '16:09'
+    thumbnail: https://img.youtube.com/vi/cmw3wOz_ru4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=cmw3wOz_ru4
+  - id: SP3Z3E0BN9Y
+    title: 'J.S. Bach: Gottlob! Nun geht das Jahr zu Ende, Cantata BWV 28: V. "Gott hat uns im heurigen...'
+    channel: Anna Reynolds - Topic
+    performer: Richter
+    place: Berlin
+    year: '1972'
+    duration: '2:50'
+    thumbnail: https://img.youtube.com/vi/SP3Z3E0BN9Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SP3Z3E0BN9Y
+  - id: sqdXwd7FEyI
+    title: Bach - Sinfonia from Cantata BWV 29 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Groningen
+    year: ''
+    duration: '4:12'
+    thumbnail: https://img.youtube.com/vi/sqdXwd7FEyI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sqdXwd7FEyI
+  - id: GeVUFkXDKX8
+    title: J. S. Bach. Coral de la Cantata BWV 28
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '1:05'
+    thumbnail: https://img.youtube.com/vi/GeVUFkXDKX8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GeVUFkXDKX8
+  - id: OCvNjE3ud6c
+    title: 'J.S. Bach: Gottlob! Nun geht das Jahr zu Ende, Cantata BWV 28: V. "Gott hat uns im heurigen...'
+    channel: Anna Reynolds - Topic
+    performer: Richter
+    place: Berlin
+    year: '1972'
+    duration: '2:50'
+    thumbnail: https://img.youtube.com/vi/OCvNjE3ud6c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OCvNjE3ud6c
+  - id: n7xzz9ZIp3g
+    title: J. S. Bach - Cantata BWV 78 "Jesu, der du meine Seele" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Gewissen stillen
+    year: '2008'
+    duration: '25:54'
+    thumbnail: https://img.youtube.com/vi/n7xzz9ZIp3g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=n7xzz9ZIp3g
+  - id: atoJuH8bY4U
+    title: Bach Gott hat uns heurigen Jahre gesegnet aus BWV 28 Gottlob, nun geht das Jahr zu Ende
+    channel: Susanne Langner
+    performer: Susanne Langner
+    place: Like und teilen Sie es mit Ihren Lieben
+    year: '2020'
+    duration: '2:35'
+    thumbnail: https://img.youtube.com/vi/atoJuH8bY4U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=atoJuH8bY4U
+  - id: s17XQEd2VYY
+    title: Bach - Cantata Ich bin vergnügt BWV 84 - Bonizzoni | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Walloon Church
+    year: January 2015
+    duration: '15:31'
+    thumbnail: https://img.youtube.com/vi/s17XQEd2VYY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=s17XQEd2VYY
+  - id: WYNDjTpNd-M
+    title: 'Bach, Cantata BWV 28, duet (A-T): Gott hat uns im heurigen Jahre gesegnet'
+    channel: Panagiotis Adám
+    performer: Masaaki
+    place: Blaze
+    year: ''
+    duration: '2:15'
+    thumbnail: https://img.youtube.com/vi/WYNDjTpNd-M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WYNDjTpNd-M

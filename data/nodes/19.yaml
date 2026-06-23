@@ -1,0 +1,267 @@
+bwv: '19'
+title: Es erhub sich ein Streit
+cycle: C3
+occasion: St. Michael's
+date: '1726-09-29'
+url: https://en.wikipedia.org/wiki/BWV_19
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Violino I/II, Oboe I/II, Viola e Taille, Continuo
+    de: |-
+      Es erhub sich ein Streit.
+      Die rasende Schlange, der höllische Drache
+      Stürmt wider den Himmel mit wütender Rache.
+      Aber Michael bezwingt,
+      Und die Schar, die ihn umringt
+      Stürzt des Satans Grausamkeit.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gottlob! der Drache liegt.
+      Der unerschaffne Michael
+      Und seiner Engel
+      Heer hat ihn besiegt.
+      Dort liegt er in der Finsternis
+      Mit Ketten angebunden,
+      Und seine Stätte wird nicht mehr
+      Im Himmelreich gefunden.
+      Wir stehen sicher und gewiss,
+      Und wenn uns gleich sein Brüllen schrecket,
+      So wird doch unser Leib und Seel
+      Mit Engeln zugedecket.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Gott schickt uns Mahanaim zu;
+      Wir stehen oder gehen,
+      So können wir in sichrer Ruh
+      Vor unsern Feinden stehen.
+      Es lagert sich, so nah als fern,
+      Um uns der Engel unsers Herrn
+      Mit Feuer, Roß und Wagen.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Was ist der schnöde Mensch, das Erdenkind?
+      Ein Wurm, ein armer Sünder.
+      Schaut, wie ihn selbst der Herr so lieb gewinnt,
+      Dass er ihn nicht zu niedrig schätzet
+      Und ihm die Himmelskinder,
+      Der Seraphinen Heer,
+      Zu seiner Wacht und Gegenwehr,
+      Zu seinem Schutze setzet.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Bleibt, ihr Engel, bleibt bei mir!
+      Führet mich auf beiden Seiten,
+      Dass mein Fuß nicht möge gleiten!
+      Aber lernt mich auch allhier
+      Euer großes Heilig singen
+      Und dem Höchsten Dank zu singen!
+  - num: 6
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Lasst uns das Angesicht
+      Der frommen Engel lieben
+      Und sie mit unsern Sünden nicht
+      Vertreiben oder auch betrüben.
+      So sein sie, wenn der Herr gebeut,
+      Der Welt Valet zu sagen,
+      Zu unsrer Seligkeit
+      Auch unser Himmelswagen.
+  - num: 7
+    type: Chorale
+    voices: T
+    instruments: >-
+      Tromba I-III, Tamburi, Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Taille e Viola col Tenore,
+      Continuo
+    de: |-
+      Lass dein' Engel mit mir fahren
+      Auf Elias Wagen rot
+      Und mein Seele wohl bewahren,
+      Wie Lazrum nach seinem Tod.
+      Lass sie ruhn in deinem Schoß,
+      Erfüll sie mit Freud und Trost,
+      Bis der Leib kommt aus der Erde
+      Und mit ihr vereinigt werde.
+scoring: >-
+  Soli: S T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I/II, Oboe d'amore I/II, Taille (Oboe da caccia), Violino
+  I/II, Viola, Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    B: 1
+    S: 2
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - timpani
+    - tromba
+key: C major
+wiki:
+  summary: "Es erhub sich ein Streit, BWV\_19, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig in 1726 for the Feast of Saint Michael and first performed it on 29 September 1726. It is the second of his three extant cantatas for this feast."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GuidoReni_MichaelDefeatsSatan.jpg/330px-GuidoReni_MichaelDefeatsSatan.jpg
+  url: https://en.wikipedia.org/wiki/Es_erhub_sich_ein_Streit%2C_BWV_19
+  summary_html: "<p><i><b><span><i lang=\"de\">Es erhub sich ein Streit</i></span></b></i>, <b><span><abbr>BWV</abbr></span><span class=\"nowrap\">\_</span>19</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig in 1726 for the Feast of Saint Michael and first performed it on 29 September 1726. It is the second of his three extant cantatas for this feast.</p>"
+performances:
+  - id: CSE5NzrRmNA
+    title: Bach - Cantata Es erhub sich ein Streit BWV 19 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Concertzaal Tilburg
+    year: '2022'
+    duration: '19:44'
+    thumbnail: https://img.youtube.com/vi/CSE5NzrRmNA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CSE5NzrRmNA
+  - id: ggPuYK2EPZI
+    title: J.S. Bach - Cantata BWV 19 "Es erhub sich ein Streit" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: lutz
+    place: Streit
+    year: '2022'
+    duration: '23:41'
+    thumbnail: https://img.youtube.com/vi/ggPuYK2EPZI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ggPuYK2EPZI
+  - id: LtCg07ekFQ4
+    title: Es erhub sich ein Streit (BWV 19 - J.S. Bach) Score Animation
+    channel: ScoreAnimation
+    performer: ScoreAnimation
+    place: ''
+    year: ''
+    duration: '4:25'
+    thumbnail: https://img.youtube.com/vi/LtCg07ekFQ4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=LtCg07ekFQ4
+  - id: gelYowgE4q4
+    title: Bach Kantate BWV 19 Es erhub sich ein Streit, Martin Flämig
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Streit
+    year: '1998'
+    duration: '21:25'
+    thumbnail: https://img.youtube.com/vi/gelYowgE4q4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gelYowgE4q4
+  - id: DVNvh-wNu_A
+    title: 'J.S. Bach, Kantate BWV 19: 4 Recit. & 5 Aria „Bleibt, ihr Engel, bleibt bei mir!“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2014'
+    duration: '8:24'
+    thumbnail: https://img.youtube.com/vi/DVNvh-wNu_A/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DVNvh-wNu_A
+  - id: xXMUpqSyJJo
+    title: Bach - Cantata Gottes Zeit..., 'Actus Tragicus' BWV 106 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Oostkerk
+    year: '2015'
+    duration: '20:54'
+    thumbnail: https://img.youtube.com/vi/xXMUpqSyJJo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xXMUpqSyJJo
+  - id: YNjAHgMMsFs
+    title: Bach - Cantata Der Herr denket an uns BWV 196 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Dornheim
+    year: '2015'
+    duration: '11:52'
+    thumbnail: https://img.youtube.com/vi/YNjAHgMMsFs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YNjAHgMMsFs
+  - id: PXg66t_K-QI
+    title: Bach - Cantate BWV 19 - Es erhub sich ein Streit
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Streit
+    year: '1971'
+    duration: '19:40'
+    thumbnail: https://img.youtube.com/vi/PXg66t_K-QI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PXg66t_K-QI
+  - id: VfwQk3CWBoA
+    title: 'Es erhub sich ein Streit, BWV 19: Chorale: Lass dein'' Engel mit mir fahren'
+    channel: Gächinger Kantorei Stuttgart - Topic
+    performer: Rilling
+    place: Streit
+    year: '1996'
+    duration: '1:22'
+    thumbnail: https://img.youtube.com/vi/VfwQk3CWBoA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=VfwQk3CWBoA
+  - id: nMCHE_lalQk
+    title: 'Es erhub sich ein Streit, BWV 19: Es erhub sich ein Streit (Chorus)'
+    channel: Monteverdi Choir - Topic
+    performer: Gardiner
+    place: Streit
+    year: '2009'
+    duration: '3:55'
+    thumbnail: https://img.youtube.com/vi/nMCHE_lalQk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=nMCHE_lalQk
+  - id: jfdpB9etqdQ
+    title: 'J.S. Bach: Es erhub sich ein Streit, BWV 19: No. 5, Bleibt, ihr Engel, bleibt bei mir!'
+    channel: Neues Bachisches Collegium Musicum - Topic
+    performer: Neues Bachisches Collegium Musicum - Topic
+    place: Streit
+    year: '2005'
+    duration: '6:43'
+    thumbnail: https://img.youtube.com/vi/jfdpB9etqdQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jfdpB9etqdQ
+  - id: h97JE4--p84
+    title: Bach - Cantata Herz und Mund und Tat und Leben BWV 147 - Creed | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Leipzig
+    year: '2018'
+    duration: '30:18'
+    thumbnail: https://img.youtube.com/vi/h97JE4--p84/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=h97JE4--p84
+  - id: Wh8KwrLm0hY
+    title: J. S. Bach - Cantatas BWV 19, 169, 158 & 149 - H.-Ch. Rademann
+    channel: Miguel Zampedri
+    performer: Rademann
+    place: Streit
+    year: ''
+    duration: '1:13:21'
+    thumbnail: https://img.youtube.com/vi/Wh8KwrLm0hY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Wh8KwrLm0hY
+  - id: tKXlzI0pKO4
+    title: J.S. Bach/M.Dupré Sinfonia Cantata 29  - Olivier Penin, Orgue Ste Clotilde Paris
+    channel: Vincent Hildebrandt
+    performer: Vincent Hildebrandt
+    place: Paris
+    year: '1971'
+    duration: '4:53'
+    thumbnail: https://img.youtube.com/vi/tKXlzI0pKO4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=tKXlzI0pKO4
+  - id: h4KXc4G6zJY
+    title: 'J.S. Bach - BWV 19 - Aria: "Bleibt ihr Engel"'
+    channel: toxiconegro
+    performer: Rilling
+    place: Stuttgart
+    year: ''
+    duration: '6:30'
+    thumbnail: https://img.youtube.com/vi/h4KXc4G6zJY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=h4KXc4G6zJY

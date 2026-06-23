@@ -1,0 +1,184 @@
+bwv: '93'
+title: Wer nur den lieben Gott lässt walten
+cycle: C2
+occasion: Trinity V
+date: '1724-07-09'
+url: https://en.wikipedia.org/wiki/BWV_93
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wer nur den lieben Gott lässt walten
+      Und hoffet auf ihn allezeit,
+      Den wird er wunderlich erhalten
+      In allem Kreuz und Traurigkeit.
+      Wer Gott, dem Allerhöchsten, traut,
+      Der hat auf keinen Sand gebaut.
+  - num: 2
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Was helfen uns die schweren Sorgen?
+      Sie drücken nur das Herz
+      Mit Zentnerpein, mit tausend Angst und Schmerz.
+      Was hilft uns unser Weh und Ach?
+      Es bringt nur bittres Ungemach.
+      Was hilft es, dass wir alle Morgen
+      mit Seufzen von dem Schlaf aufstehn
+      Und mit beträntem Angesicht des Nachts zu Bette gehn?
+      Wir machen unser Kreuz und Leid
+      Durch bange Traurigkeit nur größer.
+      Drum tut ein Christ viel besser,
+      Er trägt sein Kreuz mit christlicher Gelassenheit.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Man halte nur ein wenig stille,
+      Wenn sich die Kreuzesstunde naht,
+      Denn unsres Gottes Gnadenwille
+      Verlässt uns nie mit Rat und Tat.
+      Gott, der die Auserwählten kennt,
+      Gott, der sich uns ein Vater nennt,
+      Wird endlich allen Kummer wenden
+      Und seinen Kindern Hilfe senden.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Er kennt die rechten Freudesstunden,
+      Er weiß wohl, wenn es nützlich sei;
+      Wenn er uns nur hat treu erfunden
+      Und merket keine Heuchelei,
+      So kömmt Gott, eh wir uns versehn,
+      Und lässet uns viel Guts geschehn.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Denk nicht in deiner Drangsalhitze,
+      Wenn Blitz und Donner kracht
+      Und dir ein schwüles Wetter bange macht,
+      Dass du von Gott verlassen seist.
+      Gott bleibt auch in der größten Not,
+      Ja gar bis in den Tod
+      Mit seiner Gnade bei den Seinen.
+      Du darfst nicht meinen,
+      Dass dieser Gott im Schoße sitze,
+      Der täglich wie der reiche Mann,
+      In Lust und Freuden leben kann.
+      Der sich mit stetem Glücke speist,
+      Bei lauter guten Tagen,
+      Muss oft zuletzt,
+      Nachdem er sich an eitler Lust ergötzt,
+      "Der Tod in Töpfen" sagen.
+      Die Folgezeit verändert viel!
+      Hat Petrus gleich die ganze Nacht
+      Mit leerer Arbeit zugebracht
+      Und nichts gefangen:
+      Auf Jesu Wort kann er noch einen Zug erlangen.
+      Drum traue nur in Armut, Kreuz und Pein
+      Auf deines Jesu Güte
+      Mit gläubigem Gemüte;
+      Nach Regen gibt er Sonnenschein
+      Und setzet jeglichem sein Ziel.
+  - num: 6
+    type: Aria
+    voices: S
+    instruments: Oboe I, Continuo
+    de: |-
+      Ich will auf den Herren schaun
+      Und stets meinem Gott vertraun.
+      Er ist der rechte Wundermann.
+      Der die Reichen arm und bloß
+      Und die Armen reich und groß
+      Nach seinem Willen machen kann.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Sing, bet und geh auf Gottes Wegen,
+      Verricht das Deine nur getreu
+      Und trau des Himmels reichem Segen,
+      So wird er bei dir werden neu;
+      Denn welcher seine Zuversicht
+      Auf Gott setzt, den verlässt er nicht.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Aria
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 4
+    T: 1
+    S: 1
+  instrumentation_families:
+    - oboe
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Wer nur den lieben Gott läßt walten, BWV\_93, in Leipzig for the fifth Sunday after Trinity and first performed it on 9 July 1724. It is part of his chorale cantata cycle, the second cantata cycle he started after being appointed Thomaskantor in 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Georg_Neumark_%28144355593%29.jpg/330px-Georg_Neumark_%28144355593%29.jpg
+  url: https://en.wikipedia.org/wiki/Wer_nur_den_lieben_Gott_l%C3%A4%C3%9Ft_walten%2C_BWV_93
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Wer nur den lieben Gott läßt walten</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>93</b>, in Leipzig for the fifth Sunday after Trinity and first performed it on 9 July 1724. It is part of his chorale cantata cycle, the second cantata cycle he started after being appointed Thomaskantor in 1723.</p>"
+performances:
+  - id: in5XDlJnrB8
+    title: J.S. Bach - Cantata BWV 93 "Wer nur den lieben Gott läßt walten" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2010'
+    duration: '24:22'
+    thumbnail: https://img.youtube.com/vi/in5XDlJnrB8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=in5XDlJnrB8
+  - id: vfBexMur_v4
+    title: 'J.S Bach - Cantata: Wer nur den lieben Gott lässt walten, BWV 93'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '20:08'
+    thumbnail: https://img.youtube.com/vi/vfBexMur_v4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vfBexMur_v4
+  - id: vn3qHI5NpWM
+    title: Bach BWV 93 Wer nur den lieben Gott läßt walten, G Chr Biller 1996 live
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Krumbiegel Tenor
+    year: '1996'
+    duration: '18:53'
+    thumbnail: https://img.youtube.com/vi/vn3qHI5NpWM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vn3qHI5NpWM
+  - id: '-GPdJQW94Ww'
+    title: Cantate BWV 93 de JS Bach - aria soprano "Ich will auf den Herren schaun" - Angéline Le Ray
+    channel: Klasel Musique
+    performer: Klasel Musique
+    place: Paris
+    year: '2024'
+    duration: '2:37'
+    thumbnail: https://img.youtube.com/vi/-GPdJQW94Ww/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-GPdJQW94Ww
+  - id: sFw6IDdmm9s
+    title: J.S. Bach / Wer nur den lieben Gott läßt walten, BWV 93 (Herreweghe)
+    channel: scrymgeour34
+    performer: Herreweghe
+    place: ''
+    year: '1993'
+    duration: '19:53'
+    thumbnail: https://img.youtube.com/vi/sFw6IDdmm9s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sFw6IDdmm9s
+key: E minor

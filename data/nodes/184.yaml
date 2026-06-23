@@ -1,0 +1,124 @@
+bwv: '184'
+title: Erwünschtes Freudenlicht
+cycle: C1
+occasion: Pentecost 3
+date: '1724-05-30'
+url: https://en.wikipedia.org/wiki/BWV_184
+edges: {}
+movements:
+  - num: 1
+    type: Recitative
+    voices: T
+    instruments: Flauto traverso I/II, Continuo
+    de: |-
+      Erwünschtes Freudenlicht,
+      Das mit dem neuen Bund anbricht
+      Durch Jesum, unsern Hirten!
+      Wir, die wir sonst in Todes Tälern irrten,
+      Empfinden reichlich nun,
+      Wie Gott zu uns den längst erwünschten Hirten sendet,
+      Der unsre Seele speist
+      Und unsern Gang durch Wort und Geist
+      Zum rechten Wege wendet.
+      Wir, sein erwähltes Volk, empfinden seine Kraft;
+      In seiner Hand allein ist, was uns Labsal schafft,
+      Was unser Herze kräftig stärket.
+      Er liebt uns, seine Herde,
+      Die seinen Trost und Beistand merket.
+      Er ziehet sie vom Eitlen, von der Erde,
+      Auf ihn zu schauen
+      Und jederzeit auf seine Huld zu trauen.
+      O Hirte, so sich vor die Herde gibt,
+      Der bis ins Grab und bis in Tod sie liebt!
+      Sein Arm kann denen Feinden wehren,
+      Sein Sorgen kann uns Schafe geistlich nähren,
+      Ja, kömmt die Zeit, durchs finstre Tal zu gehen,
+      So hilft und tröstet uns sein sanfter Stab.
+      Drum folgen wir mit Freuden bis ins Grab.
+      Auf! Eilt zu ihm, verklärt vor ihm zu stehen.
+  - num: 2
+    type: Aria
+    voices: ''
+    instruments: Flauto traverso I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Gesegnete Christen, glückselige Herde,
+      Kommt, stellt euch bei Jesu mit Dankbarkeit ein!
+      Verachtet das Locken der schmeichlenden Erde,
+      Dass euer Vergnügen vollkommen kann sein!
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      So freuet euch, ihr auserwählten Seelen!
+      Die Freude gründet sich in Jesu Herz.
+      Dies Labsal kann kein Mensch erzählen.
+      Die Freude steigt auch unterwärts
+      Zu denen, die in Sündenbanden lagen,
+      Die hat der Held aus Juda schon zuschlagen.
+      Ein David steht uns bei.
+      Ein Heldenarm macht uns von Feinden frei.
+      Wenn Gott mit Kraft die Herde schützt,
+      Wenn er im Zorn auf ihre Feinde blitzt,
+      Wenn er den bittern Kreuzestod
+      Vor sie nicht scheuet,
+      So trifft sie ferner keine Not,
+      So lebet sie in ihrem Gott erfreuet.
+      Hier schmecket sie die edle Weide
+      Und hoffet dort vollkommne Himmelsfreude.
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violino solo, Continuo
+    de: |-
+      Glück und Segen sind bereit,
+      Die geweihte Schar zu krönen.
+      Jesus bringt die güldne Zeit,
+      Welche sich zu ihm gewöhnen.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Flauto traverso I/II, Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Herr, ich hoff je, du werdest die
+      In keiner Not verlassen,
+      Die dein Wort recht als treue Knecht
+      Im Herzn und Glauben fassen;
+      Gibst ihn' bereit die Seligkeit
+      Und lässt sie nicht verderben.
+      O Herr, durch dich bitt ich, lass mich
+      Fröhlich und willig sterben.
+  - num: 6
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Guter Hirte, Trost der Deinen,
+      Lass uns nur dein heilig Wort!
+      Lass dein gnädig Antlitz scheinen,
+      Bleibe unser Gott und Hort,
+      Der durch allmachtsvolle Hände
+      Unsern Gang zum Leben wende!
+scoring: 'Soli: S A T, Coro: S A T B, Flauto traverso I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Chorus
+  opening: Recitative
+  closing: Chorus
+  voice_profile:
+    T: 3
+    SATB: 2
+  instrumentation_families:
+    - flauto_traverso
+    - violino_solo
+key: C major
+wiki:
+  summary: "Erwünschtes Freudenlicht, BWV\_184, is a cantata by Johann Sebastian Bach for the Lutheran church service. He composed it in Leipzig for the third day of Pentecost and first performed it on 30 May 1724. It was probably based on an earlier secular cantata. This work, mostly lost, was composed in Köthen as a duet cantata for soprano and bass with several dance movements."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Erw%C3%BCnschtes_Freudenlicht%2C_BWV_184
+  summary_html: "<p><b><span><i lang=\"de\">Erwünschtes Freudenlicht</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>184</b>, is a cantata by Johann Sebastian Bach for the Lutheran church service. He composed it in Leipzig for the third day of Pentecost and first performed it on 30 May 1724. It was probably based on an earlier secular cantata. This work, mostly lost, was composed in Köthen as a duet cantata for soprano and bass with several dance movements.</p>"

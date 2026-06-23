@@ -1,0 +1,129 @@
+bwv: '187'
+title: Es wartet alles auf dich
+cycle: C3
+occasion: Trinity VII
+date: '1726-08-04'
+url: https://en.wikipedia.org/wiki/BWV_187
+movements:
+  - num: 1
+    type: Chorus
+    voices: S, A, T, B
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Es wartet alles auf dich,
+      dass du ihnen Speise gebest zu seiner Zeit.
+      Wenn du ihnen gibest,
+      so sammlen sie,
+      wenn du deine Hand auftust,
+      so werden sie mit Güte gesättiget.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Was Kreaturen hält
+      Das große Rund der Welt!
+      Schau doch die Berge an,
+      da sie bei tausend gehen;
+      Was zeuget nicht die Flut?
+      Es wimmeln Ström und Seen.
+      Der Vögel großes Heer
+      Zieht durch die Luft zu Feld.
+      Wer nähret solche Zahl,
+      Und wer
+      Vermag ihr wohl die Notdurft abzugeben?
+      Kann irgendein Monarch nach solcher Ehre streben?
+      Zahlt aller Erden Gold
+      Ihr wohl ein einig Mal?
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe I e Violino I all' unisono, Violino II, Viola, Continuo
+    de: |-
+      Du Herr, du krönst allein das Jahr mit deinem Gut.
+      Es träufet Fett und Segen
+      Auf deines Fußes Wegen,
+      Und deine Gnade ists, die allen Gutes tut.
+      Zweiter Teil
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino I/II all' unisono, Continuo
+    de: |-
+      Darum sollt ihr nicht sorgen noch sagen:
+      Was werden wir essen,
+      was werden wir trinken,
+      womit werden wir uns kleiden?
+      Nach solchem allen trachten die Heiden.
+      Denn euer himmlischer Vater weiß,
+      dass ihr dies alles bedürfet.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe solo, Continuo
+    de: |-
+      Gott versorget alles Leben,
+      Was hienieden Odem hegt.
+      Sollt er mir allein nicht geben,
+      Was er allen zugesagt?
+      Weicht, ihr Sorgen, seine Treue
+      Ist auch meiner eingedenk
+      Und wird ob mir täglich neue
+      Durch manch Vaterliebs Geschenk.
+  - num: 6
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Halt ich nur fest an ihm mit kindlichem Vertrauen
+      Und nehm mit Dankbarkeit, was er mir zugedacht,
+      So werd ich mich nie ohne Hülfe schauen,
+      Und wie er auch vor mich die Rechnung hab gemacht.
+      Das Grämen nützet nicht, die Mühe ist verloren,
+      Die das verzagte Herz um seine Notdurft nimmt;
+      Der ewig reiche Gott hat sich die Sorge auserkoren,
+      So weiß ich, dass er mir auch meinen Teil bestimmt.
+  - num: 7
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll'Alto, Viola col Tenore, Continuo
+    de: |-
+      Gott hat die Erde zugericht',
+      Lässts an Nahrung mangeln nicht;
+      Berg und Tal, die macht er nass,
+      Dass dem Vieh auch wächst sein Gras;
+      Aus der Erden Wein und Brot
+      Schaffet Gott und gibts uns satt,
+      Dass der Mensch sein Leben bat.
+      Wir danken sehr und bitten ihn,
+      Dass er uns geb des Geistes Sinn,
+      Dass wir solches recht verstehn,
+      Stets in sein' Geboten gehn,
+      Seinen Namen machen groß
+      In Christo ohn Unterlass:
+      So sing'n wir recht das Gratias.
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    S, A, T, B: 2
+    B: 2
+    A: 1
+    S: 2
+  instrumentation_families:
+    - oboe
+edges: {}
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Es wartet alles auf dich, BWV\_187 in Leipzig for the seventh Sunday after Trinity and first performed it on 4 August 1726."
+  image: https://upload.wikimedia.org/wikipedia/commons/6/6b/FeedingMultitudes_Bernardo.jpg
+  url: https://en.wikipedia.org/wiki/Es_wartet_alles_auf_dich%2C_BWV_187
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Es wartet alles auf dich</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>187</b> in Leipzig for the seventh Sunday after Trinity and first performed it on 4 August 1726.</p>"
+key: G minor

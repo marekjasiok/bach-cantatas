@@ -1,0 +1,122 @@
+bwv: '125'
+title: Mit Fried und Freud ich fahr dahin
+cycle: C2
+occasion: Purification
+date: '1725-02-02'
+url: https://en.wikipedia.org/wiki/BWV_125
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso, Oboe, Violino I/II, Viola, Corno col Soprano, Continuo
+    de: |-
+      Mit Fried und Freud ich fahr dahin
+      In Gottes Willen;
+      Getrost ist mir mein Herz und Sinn,
+      Sanft und stille;
+      Wie Gott mir verheißen hat,
+      Der Tod ist mein Schlaf worden.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Flauto traverso, Oboe d'amore, Continuo
+    de: |-
+      Ich will auch mit gebrochnen Augen
+      Nach dir, mein treuer Heiland, sehn.
+      Wenngleich des Leibes Bau zerbricht,
+      Doch fällt mein Herz und Hoffen nicht.
+      Mein Jesus sieht auf mich im Sterben
+      Und lässet mir kein Leid geschehn.
+  - num: 3
+    type: Recitative
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      O Wunder, dass ein Herz
+      Vor der dem Fleisch verhassten Gruft und gar des Todes Schmerz
+      Sich nicht entsetzet!
+      Das macht Christus, wahr' Gottes Sohn,
+      Der treue Heiland,
+      Der auf dem Sterbebette schon
+      Mit Himmelssüßigkeit den Geist ergötzet,
+      Den du mich, Herr, hast sehen lan,
+      Da in erfüllter Zeit ein Glaubensarm das Heil des Herrn umfinge;
+      Und machst bekannt
+      Von dem erhabnen Gott, dem Schöpfer aller Dinge
+      Dass er sei das Leben und Heil,
+      Der Menschen Trost und Teil,
+      Ihr Retter vom Verderben
+      Im Tod und auch im Sterben.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Continuo
+    de: |-
+      Ein unbegreiflich Licht erfüllt den ganzen Kreis der Erden.
+      Es schallet kräftig fort und fort
+      Ein höchst erwünscht Verheißungswort:
+      Wer glaubt, soll selig werden.
+  - num: 5
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      O unerschöpfter Schatz der Güte,
+      So sich uns Menschen aufgetan: es wird der Welt,
+      So Zorn und Fluch auf sich geladen,
+      Ein Stuhl der Gnaden
+      Und Siegeszeichen aufgestellt,
+      Und jedes gläubige Gemüte
+      Wird in sein Gnadenreich geladen.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Corno e Flauto traverso in octava e Oboe e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Er ist das Heil und selge Licht
+      Für die Heiden,
+      Zu erleuchten, die dich kennen nicht,
+      Und zu weiden.
+      Er ist deins Volks Israel
+      Der Preis, Ehr, Freud und Wonne.
+scoring: 'Soli: A T B, Coro: S A T B, Corno, Flauto traverso, Oboe, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 2
+  instrumentation_families:
+    - corno
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+key: E minor
+wiki:
+  summary: >-
+    Johann Sebastian Bach composed the cantata Mit Fried und Freud ich fahr dahin, BWV 125, for use in a Lutheran
+    service. He composed this chorale cantata in Leipzig in 1725 for the feast for the Purification of Mary, which is
+    celebrated on 2 February and is also known as Candlemas. The cantata is based on Martin Luther's 1524 hymn "Mit
+    Fried und Freud ich fahr dahin" and forms part of Bach's chorale cantata cycle, written to provide Sundays and feast
+    days of the liturgical year with cantatas based on a related Lutheran hymn.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aert_de_Gelder_-_Het_loflied_van_Simeon.jpg/330px-Aert_de_Gelder_-_Het_loflied_van_Simeon.jpg
+  url: https://en.wikipedia.org/wiki/Mit_Fried_und_Freud_ich_fahr_dahin%2C_BWV_125
+  summary_html: >-
+    <p>Johann Sebastian Bach composed the cantata <b><span><i lang="de">Mit Fried und Freud ich fahr
+    dahin</i></span></b>, <b><span class="nowrap">BWV 125</span></b>, for use in a Lutheran service. He composed this
+    chorale cantata in Leipzig in 1725 for the feast for the Purification of Mary, which is celebrated on 2 February and
+    is also known as Candlemas. The cantata is based on Martin Luther's 1524 hymn "<span><span
+    style="font-style:normal">Mit Fried und Freud ich fahr dahin</span></span>" and forms part of Bach's chorale cantata
+    cycle, written to provide Sundays and feast days of the liturgical year with cantatas based on a related Lutheran
+    hymn.</p>

@@ -1,0 +1,175 @@
+bwv: '107'
+title: Was willst du dich betrüben
+cycle: C2
+occasion: Trinity VII
+date: '1724-07-23'
+url: https://en.wikipedia.org/wiki/BWV_107
+movements:
+  - num: 1
+    type: Chorus
+    voices: S, A, T, B
+    instruments: Corno da caccia col Soprano, Flauto traverso I/II, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Was willst du dich betrüben,
+      O meine liebe Seel?
+      Ergib dich, den zu lieben,
+      Der heißt Immanuel!
+      Vertraue ihm allein,
+      Er wird gut alles machen
+      Und fördern deine Sachen.
+      Wie dir's wird selig sein!
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Denn Gott verlässet keinen,
+      Der sich auf ihn verlässt.
+      Er bleibt getreu den Seinen.
+      Die ihm vertrauen fest.
+      Läßt sich's an wunderlich,
+      So lass dir doch nicht grauen!
+      Mit Freuden wirst du schauen,
+      Wie Gott wird retten dich.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Auf ihn magst du es wagen
+      Mit unerschrocknem Mut,
+      Du wird mit ihm erjagen,
+      Was dir ist nütz und gut.
+      Was Gott beschlossen hat,
+      Das kann niemand hindern
+      Aus allen Menschenkindern;
+      Es geht nach seinem Rat.
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wenn auch gleich aus der Höllen
+      Der Satan wollte sich
+      Dir selbst entgegenstellen
+      Und toben wider dich.
+      So muss er doch mit Spott
+      Von seinen Ränken lassen,
+      Damit er dich will fassen;
+      Denn dein Werk fördert Gott.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Es richt's zu seinen Ehren
+      Und deiner Seligkeit;
+      Soll's sein, kein Mensch kanns wehren.
+      Und wärs ihm doch so leid.
+      Will's denn Gott haben nicht,
+      So kann's niemand forttreiben.
+      Es muss zurückebleiben,
+      Was Gott will, das geschicht.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Flauto traverso I/II all' unisono, Continuo
+    de: |-
+      Darum ich mich ihm ergebe,
+      Im sei es heimgestellt;
+      Nach nichts ich sonst mehr strebe
+      Denn nur was ihm gefällt.
+      Drauf wart ich und bin still,
+      Sein Will der ist der beste.
+      Das glaub ich steif und feste,
+      Gott mach es, wie er will!
+  - num: 7
+    type: Chorale
+    voices: S, A, T, B
+    instruments: >-
+      Corno da caccia col Soprano, Flauto I/II e Oboe I coll'Alto, Oboe d'amore II col Tenore, Violino I/II, Viola,
+      Continuo
+    de: |-
+      Herr, gib, dass ich dein Ehre
+      Ja all mein Leben lang
+      Von Herzensgrund vermehre,
+      Dir sage Lob und Dank!
+      O Vater, Sohn und Geist,
+      Der du aus lauter Gnade
+      Abwendest Not und Schaden,
+      Sei immerdar gepreist.
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    S, A, T, B: 2
+    B: 2
+    T: 2
+    S: 1
+  instrumentation_families:
+    - corno_da_caccia
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+    - recorder
+edges: {}
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Was willst du dich betrüben, BWV\_107 in Leipzig for the seventh Sunday after Trinity and first performed on 23 July 1724. The chorale cantata is based on Johann Heermann's hymn in seven stanzas \"Was willst du dich betrüben\" (1630)."
+  image: https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Bwv107.jpg/330px-Bwv107.jpg
+  url: https://en.wikipedia.org/wiki/Was_willst_du_dich_betr%C3%BCben%2C_BWV_107
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Was willst du dich betrüben</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>107</b> in Leipzig for the seventh Sunday after Trinity and first performed on 23 July 1724. The chorale cantata is based on Johann Heermann's hymn in seven stanzas \"Was willst du dich betrüben\" (1630).</p>"
+performances:
+  - id: yHIL0UTuc7Y
+    title: J. S. Bach - Cantata BWV 107 "Was willst du dich betrüben" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Ehre
+    year: '2012'
+    duration: '20:34'
+    thumbnail: https://img.youtube.com/vi/yHIL0UTuc7Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yHIL0UTuc7Y
+  - id: zL7WwJ7U6Kg
+    title: J.S. Bach / Was willst du dich betrüben, BWV 107 (Herreweghe)
+    channel: scrymgeour34
+    performer: Herreweghe
+    place: Leipzig
+    year: '1993'
+    duration: '17:58'
+    thumbnail: https://img.youtube.com/vi/zL7WwJ7U6Kg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zL7WwJ7U6Kg
+  - id: Ta60aadPW3M
+    title: 'Bach: Cantata No. 107 - Koopman'
+    channel: pannonia77
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '16:59'
+    thumbnail: https://img.youtube.com/vi/Ta60aadPW3M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ta60aadPW3M
+  - id: Kd8snZiz4B8
+    title: J. S. Bach - Aria "Es richt's zu seinen Ehren" from Cantata BWV 107
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '2:41'
+    thumbnail: https://img.youtube.com/vi/Kd8snZiz4B8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Kd8snZiz4B8
+  - id: hT3RlTfuTdk
+    title: Bach - Cantata Herr, gehe nicht ins Gericht BWV 105 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: 10 February 2018
+    duration: '22:43'
+    thumbnail: https://img.youtube.com/vi/hT3RlTfuTdk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hT3RlTfuTdk
+key: B♭ major

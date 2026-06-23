@@ -1,0 +1,138 @@
+bwv: '39'
+title: Brich dem Hungrigen dein Brot
+cycle: C3
+occasion: Trinity I
+date: '1726-06-23'
+url: https://en.wikipedia.org/wiki/BWV_39
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Brich dem Hungrigen dein Brot
+      und die, so in Elend sind, führe ins Haus! So du einen nackend
+      siehest, so kleide ihn und entzeuch dich nicht von deinem Fleisch.
+      Alsdenn wird dein Licht herfürbrechen wie die Morgenröte,
+      und deine Besserung wird schnell wachsen, und deine Gerechtigkeit
+      wird für dir hergehen, und die Herrlichkeit des Herrn wird dich
+      zu sich nehmen.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Der reiche Gott wirft seinen Überfluss
+      Auf uns, die wir ohn ihn auch nicht den Odem haben.
+      Sein ist es, was wir sind; er gibt nur den Genuss,
+      Doch nicht, dass uns allein
+      Nur seine Schätze laben.
+      Sie sind der Probestein,
+      Wodurch er macht bekannt,
+      Dass er der Armut auch die Notdurft ausgespendet,
+      Als er mit milder Hand,
+      Was jener nötig ist, uns reichlich zugewendet.
+      Wir sollen ihm für sein gelehntes Gut
+      Die Zinsen nicht in seine Scheuren bringen;
+      Barmherzigkeit, die auf dem Nächsten ruht,
+      Kann mehr als alle Gab ihm an das Herze dringen.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino solo, Oboe I, Continuo
+    de: |-
+      Seinem Schöpfer noch auf Erden
+      Nur im Schatten ähnlich werden,
+      Ist im Vorschmack selig sein.
+      Sein Erbarmen nachzuahmen,
+      Streuet hier des Segens Samen,
+      Den wir dorten bringen ein.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wohlzutun und mitzuteilen vergesset nicht;
+      denn solche Opfer gefallen Gott wohl.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Flauto I/II, Continuo
+    de: |-
+      Höchster, was ich habe,
+      Ist nur deine Gabe.
+      Wenn vor deinem Angesicht
+      Ich schon mit dem meinen
+      Dankbar wollt erscheinen,
+      Willt du doch kein Opfer nicht.
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wie soll ich dir, o Herr, denn sattsamlich vergelten,
+      Was du an Leib und Seel mir hast zugutgetan?
+      Ja, was ich noch empfang, und solches gar nicht selten,
+      Weil ich mich jede Stund noch deiner rühmen kann?
+      Ich hab nichts als den Geist, dir eigen zu ergeben,
+      Dem Nächsten die Begierd, dass ich ihm dienstbar werd,
+      Der Armut, was du mir gegönnt in diesem Leben,
+      Und, wenn es dir gefällt, den schwachen Leib der Erd.
+      Ich bringe, was ich kann, Herr, lass es dir behagen,
+      Dass ich, was du versprichst, auch einst davon mög tragen.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Flauto I/II in octava e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Selig sind, die aus Erbarmen
+      Sich annehmen fremder Not,
+      Sind mitleidig mit den Armen,
+      Bitten treulich für sie Gott.
+      Die behülflich sind mit Rat,
+      Auch, womöglich, mit der Tat,
+      Werden wieder Hülf empfangen
+      Und Barmherzigkeit erlangen.
+scoring: 'Soli: S A B, Coro: S A T B, Flauto dolce I/II, Oboe I/II, Violino solo, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 2
+    A: 2
+    S: 1
+  instrumentation_families:
+    - oboe
+    - recorder
+    - violino_solo
+wiki:
+  summary: >-
+    Johann Sebastian Bach composed the church cantata Brich dem Hungrigen dein Brot, BWV 39, in Leipzig in 1726 for the
+    first Sunday after Trinity, which fell on 23 June that year. Three years earlier, on the Sunday after Trinity in
+    1723, Bach had taken office as Thomaskantor and started his first cycle of cantatas for Sundays and Feast Days in
+    the liturgical year. On the Sunday after Trinity in 1724, he began his second cycle, consisting of chorale cantatas.
+    Brich dem Hungrigen dein Brot is regarded as part of Bach's third cantata cycle which was written sporadically
+    between 1725 and 1727. He marked the occasion by an ambitious work with an exceptionally masterful opening chorus.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BWV39-autograph-score-sinfonia.jpg/330px-BWV39-autograph-score-sinfonia.jpg
+  url: https://en.wikipedia.org/wiki/Brich_dem_Hungrigen_dein_Brot%2C_BWV_39
+  summary_html: >-
+    <p>Johann Sebastian Bach composed the church cantata <b><span><i lang="de">Brich dem Hungrigen dein
+    Brot</i></span></b>, <span class="nowrap">BWV 39</span>, in Leipzig in 1726 for the first Sunday after Trinity,
+    which fell on 23 June that year. Three years earlier, on the Sunday after Trinity in 1723, Bach had taken office as
+    Thomaskantor and started his first cycle of cantatas for Sundays and Feast Days in the liturgical year. On the
+    Sunday after Trinity in 1724, he began his second cycle, consisting of chorale cantatas. <span><i lang="de">Brich
+    dem Hungrigen dein Brot</i></span> is regarded as part of Bach's third cantata cycle which was written sporadically
+    between 1725 and 1727. He marked the occasion by an ambitious work with an exceptionally masterful opening
+    chorus.</p>
+key: G minor

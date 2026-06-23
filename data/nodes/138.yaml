@@ -1,0 +1,146 @@
+bwv: '138'
+title: Warum betrübst du dich...
+cycle: C1
+occasion: Trinity XV
+date: '1723-09-05'
+url: https://en.wikipedia.org/wiki/BWV_138
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Warum betrübst du dich, mein Herz?
+      Bekümmerst dich und trägest Schmerz
+      Nur um das zeitliche Gut?
+      Ach, ich bin arm,
+      Mich drücken schwere Sorgen.
+      Vom Abend bis zum Morgen
+      Währt meine liebe Not.
+      Dass Gott erbarm!
+      Wer wird mich noch erlösen
+      Vom Leibe dieser bösen
+      Und argen Welt?
+      Wie elend ist's um mich bestellt!
+      Ach! wär ich doch nur tot!
+      Vertrau du deinem Herren Gott,
+      Der alle Ding erschaffen hat.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Ich bin veracht',
+      Der Herr hat mich zum Leiden
+      Am Tage seines Zorns gemacht;
+      Der Vorrat, hauszuhalten,
+      Ist ziemlich klein;
+      Man schenkt mir vor den Wein der Freuden
+      Den bittern Kelch der Tränen ein.
+      Wie kann ich nun mein Amt mit Ruh verwalten,
+      Wenn Seufzer meine Speise und Tränen das Getränke sein?
+  - num: 3
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Er kann und will dich lassen nicht,
+      Er weiß gar wohl, was dir gebricht,
+      Himmel und Erd ist sein!
+      Sopran
+      Ach, wie?
+      Gott sorget freilich für das Vieh,
+      Er gibt den Vögeln seine Speise,
+      Er sättiget die jungen Raben,
+      Nur ich, ich weiß nicht, auf was Weise
+      Ich armes Kind
+      Mein bisschen Brot soll haben;
+      Wo ist jemand, der sich zu meiner Rettung findt?
+      Dein Vater und dein Herre Gott,
+      Der dir beisteht in aller Not.
+      Alt
+      Ich bin verlassen,
+      Es scheint,
+      Als wollte mich auch Gott bei meiner Armut hassen,
+      Da er's doch immer gut mit mir gemeint.
+      Ach Sorgen,
+      Werdet ihr denn alle Morgen
+      Und alle Tage wieder neu?
+      So klag ich immerfort;
+      Ach! Armut, hartes Wort,
+      Wer steht mir denn in meinem Kummer bei?
+      Dein Vater und dein Herre Gott,
+      Der steht dir bei in aller Not.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ach süßer Trost! Wenn Gott mich nicht verlassen
+      Und nicht versäumen will,
+      So kann ich in der Still
+      Und in Geduld mich fassen.
+      Die Welt mag immerhin mich hassen,
+      So werf ich meine Sorgen
+      Mit Freuden auf den Herrn,
+      Und hilft er heute nicht, so hilft er mir doch morgen.
+      Nun leg ich herzlich gern
+      Die Sorgen unters Kissen
+      Und mag nichts mehr als dies zu meinem Troste wissen:
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Auf Gott steht meine Zuversicht,
+      Mein Glaube lässt ihn walten.
+      Nun kann mich keine Sorge nagen,
+      Nun kann mich auch kein Armut plagen.
+      Auch mitten in dem größten Leide
+      Bleibt er mein Vater, meine Freude,
+      Er will mich wunderlich erhalten.
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ei nun!
+      So will ich auch recht sanfte ruhn.
+      Euch, Sorgen, sei der Scheidebrief gegeben!
+      Nun kann ich wie im Himmel leben.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Weil du mein Gott und Vater bist,
+      Dein Kind wirst du verlassen nicht,
+      Du väterliches Herz!
+      Ich bin ein armer Erdenkloß,
+      Auf Erden weiß ich keinen Trost.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    B: 2
+    T: 1
+    A: 1
+  instrumentation_families:
+    - oboe_damore
+key: B♭ major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Warum betrübst du dich, mein Herz, BWV\_138, in Leipzig for the 15th Sunday after Trinity and first performed it on 5 September 1723. The text by an unknown author includes three stanzas from the hymn of the same name. Its text and melody were formerly attributed to Hans Sachs, but were written by an unknown hymn writer. The cantata has seven movements and is scored for SATB soloists and choir, two oboes d'amore, two violins, viola and basso continuo. The cantata has features of a chorale cantata although it was written a year before Bach's annual cycle of chorale cantatas. Bach used an aria as the base of the Gratias of his Missa in G major."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Warum_betr%C3%BCbst_du_dich%2C_mein_Herz%2C_BWV_138
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <i><b><span><i lang=\"de\">Warum betrübst du dich, mein Herz</i></span></b></i>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>138</b>, in Leipzig for the 15th Sunday after Trinity and first performed it on 5 September 1723. The text by an unknown author includes three stanzas from the hymn of the same name. Its text and melody were formerly attributed to Hans Sachs, but were written by an unknown hymn writer. The cantata has seven movements and is scored for SATB soloists and choir, two oboes d'amore, two violins, viola and basso continuo. The cantata has features of a chorale cantata although it was written a year before Bach's annual cycle of chorale cantatas. Bach used an aria as the base of the <i><span><i lang=\"de\">Gratias</i></span></i> of his Missa in G major.</p>"

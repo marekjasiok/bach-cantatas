@@ -1,0 +1,269 @@
+bwv: '162'
+title: Ach! ich sehe, itzt, da ich zur Hochzeit gehe
+cycle: EARLY
+occasion: Trinity XX
+date: '1715-10-25'
+url: https://en.wikipedia.org/wiki/BWV_162
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Corno da tirarsi, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Ach! ich sehe,
+      Itzt, da ich zur Hochzeit gehe,
+      Wohl und Wehe.
+      Seelengift und Lebensbrot,
+      Himmel, Hölle, Leben, Tod,
+      Himmelsglanz und Höllenflammen
+      Sind beisammen.
+      Jesu, hilf, dass ich bestehe!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      O großes Hochzeitfest,
+      Darzu der Himmelskönig
+      Die Menschen rufen lässt!
+      Ist denn die arme Braut,
+      Die menschliche Natur, nicht viel zu schlecht und wenig,
+      Dass sich mit ihr der Sohn des Höchsten traut?
+      O großes Hochzeitfest,
+      Wie ist das Fleisch zu solcher Ehre kommen,
+      Dass Gottes Sohn
+      Es hat auf ewig angenommen?
+      Der Himmel ist sein Thron,
+      Die Erde dient zum Schemel seinen Füßen,
+      Noch will er diese Welt
+      Als Braut und Liebste küssen!
+      Das Hochzeitmahl ist angestellt,
+      Das Mastvieh ist geschlachtet;
+      Wie herrlich ist doch alles zubereitet!
+      Wie selig ist, den hier der Glaube leitet,
+      Und wie verflucht ist doch, der dieses Mahl verachtet!
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Continuo
+    de: |-
+      Jesu, Brunnquell aller Gnaden,
+      Labe mich elenden Gast,
+      Weil du mich berufen hast!
+      Ich bin matt, schwach und beladen,
+      Ach! erquicke meine Seele,
+      Ach! wie hungert mich nach dir!
+      Lebensbrot, das ich erwähle,
+      Komm, vereine dich mit mir!
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Mein Jesu, lass mich nicht
+      Zur Hochzeit unbekleidet kommen,
+      Dass mich nicht treu dein Gericht;
+      Mit Schrecken hab ich ja vernommen,
+      Wie du den kühnen Hochzeitgast,
+      Der ohne Kleid erschienen,
+      Verworfen und verdammet hast!
+      Ich weiß auch mein Unwürdigkeit:
+      Ach! schenke mir des Glaubens Hochzeitkleid;
+      Lass dein Verdienst zu meinem Schmucke dienen!
+      Gib mir zum Hochzeitkleide
+      Den Rock des Heils, der Unschuld weiße Seide!
+      Ach! lass dein Blut, den hohen Purpur, decken
+      Den alten Adamsrock und seine Lasterflecken,
+      So werd ich schön und rein
+      Und dir willkommen sein,
+      So werd ich würdiglich das Mahl des Lammes schmecken.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      In meinem Gott bin ich erfreut!
+      Die Liebesmacht hat ihn bewogen,
+      Dass er mir in der Gnadenzeit
+      Aus lauter Huld hat angezogen
+      Die Kleider der Gerechtigkeit.
+      Ich weiß, er wird nach diesem Leben
+      Der Ehre weißes Kleid
+      Mir auch im Himmel geben.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno da tirarsi e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Ach, ich habe schon erblicket
+      Diese große Herrlichkeit.
+      Itzund werd ich schön geschmücket
+      Mit dem weißen Himmelskleid;
+      Mit der güldnen Ehrenkrone
+      Steh ich da für Gottes Throne,
+      Schaue solche Freude an,
+      Die kein Ende nehmen kann.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno da tirarsi, Violino I/II, Viola, Fagotto, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 1
+    T: 1
+    S: 1
+    A: 1
+    SATB: 1
+  instrumentation_families:
+    - corno_da_tirarsi
+    - fagotto
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ach! ich sehe, itzt, da ich zur Hochzeit gehe, BWV\_162, in Weimar for the 20th Sunday after Trinity and first performed it in 1715 or 1716."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Ach!_ich_sehe%2C_itzt%2C_da_ich_zur_Hochzeit_gehe%2C_BWV_162
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ach! ich sehe, itzt, da ich zur Hochzeit gehe</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>162</b>, in Weimar for the 20th Sunday after Trinity and first performed it in 1715 or 1716.</p>"
+performances:
+  - id: jZFeCer1hMg
+    title: Bach - Cantata Ach! ich sehe, itzt, da ich zur Hochzeit gehe BWV 162 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Oude Kerk Charlois
+    year: '2024'
+    duration: '16:26'
+    thumbnail: https://img.youtube.com/vi/jZFeCer1hMg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jZFeCer1hMg
+  - id: bNVdXs_kSGg
+    title: J.S. Bach - Cantata BWV 162 "Ach! Ich sehe, itzt, da ich zur Hochzeit gehe" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Jesu
+    year: '2017'
+    duration: '19:57'
+    thumbnail: https://img.youtube.com/vi/bNVdXs_kSGg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bNVdXs_kSGg
+  - id: p-QXqVwQHHU
+    title: J.S. Bach - BWV 162 (Ah! I see, now as I go to the wedding)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '16:39'
+    thumbnail: https://img.youtube.com/vi/p-QXqVwQHHU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=p-QXqVwQHHU
+  - id: dzDT3FJm050
+    title: Bach - BWV 162, Cantata "Ach! ich sehe, itzt, da ich zur Hochzeit gehe" w/ score
+    channel: vanille_chose
+    performer: Gardiner
+    place: Jesu
+    year: ''
+    duration: '16:21'
+    thumbnail: https://img.youtube.com/vi/dzDT3FJm050/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dzDT3FJm050
+  - id: K4SRtgMbw1s
+    title: 'Bach, Cantata BWV 162, duet (A-T): In meinem Gott bin ich erfreut'
+    channel: Panagiotis Adám
+    performer: Masaaki
+    place: Thomaskirche
+    year: ''
+    duration: '3:55'
+    thumbnail: https://img.youtube.com/vi/K4SRtgMbw1s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=K4SRtgMbw1s
+  - id: uGQiuV577s4
+    title: JS Bach Cantata　BWV162　Rilling
+    channel: Miruko Yume
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '16:42'
+    thumbnail: https://img.youtube.com/vi/uGQiuV577s4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uGQiuV577s4
+  - id: FhcJFDNg46w
+    title: Alle Menschen müssen sterben, BWV 162, Chorale Cantata (Chorus)
+    channel: Chamber Choir of Europe, Nicol Matt & Chamber Ensemble of Europe - Topic
+    performer: Chamber Choir of Europe, Nicol Matt & Chamber Ensemble of Europe - Topic
+    place: ''
+    year: '2014'
+    duration: '1:11'
+    thumbnail: https://img.youtube.com/vi/FhcJFDNg46w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=FhcJFDNg46w
+  - id: VYHiET4VSO0
+    title: Bach - Cantate BWV 162 - Ach, ich sehe, itzt, das ich zur Hochzeit gehe
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Jesu
+    year: '1986'
+    duration: '16:32'
+    thumbnail: https://img.youtube.com/vi/VYHiET4VSO0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=VYHiET4VSO0
+  - id: eU1zSg0MnOs
+    title: Bach ‐ 16 Cantata, BWV 162 “Ach, ich sehe, itzt, da ich zur Hochzeit gehe,” I Aria bass Ach, ich seh
+    channel: Classical Composers
+    performer: Classical Composers
+    place: ''
+    year: ''
+    duration: '3:50'
+    thumbnail: https://img.youtube.com/vi/eU1zSg0MnOs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=eU1zSg0MnOs
+  - id: TF3-TdA6-C8
+    title: Bach Kantate BWV 162  Ach, ich sehe, itzt, da ich zur Hochzeit gehe, 2015
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Jesu
+    year: '2015'
+    duration: '17:04'
+    thumbnail: https://img.youtube.com/vi/TF3-TdA6-C8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=TF3-TdA6-C8
+  - id: Q0vpTtgr_MM
+    title: 'Ach! Ich sehe, jetzt, da ich zur Hochzeit gehe, BWV 162: Aria. Jesu, Brunnquell aller Gnaden...'
+    channel: Magdalena Kožená - Topic
+    performer: Gardiner
+    place: ''
+    year: '2010'
+    duration: '3:36'
+    thumbnail: https://img.youtube.com/vi/Q0vpTtgr_MM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Q0vpTtgr_MM
+  - id: hLqTscfzHoE
+    title: Bach chorale BWV 162-6 harmonic analysis -Alle Menschen müssen sterben-
+    channel: Tomotomo
+    performer: Tomotomo
+    place: ''
+    year: ''
+    duration: '1:31'
+    thumbnail: https://img.youtube.com/vi/hLqTscfzHoE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hLqTscfzHoE
+  - id: yqjubTyTWTc
+    title: 'Aria: "Ach! ich sehe, itzt, da ich zur Hochzeit gehe" (BWV 162 No 1) for Violin, Cello & Strings'
+    channel: Mike Magatagan
+    performer: Gardiner
+    place: Leipzig in a revised version
+    year: ''
+    duration: '2:49'
+    thumbnail: https://img.youtube.com/vi/yqjubTyTWTc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yqjubTyTWTc
+  - id: KUlmDWbMkEg
+    title: "Johann Sebastian Bach - BWV 162\_ Cantata 'Ach, ich sehe, itzt, da ich zur Hochzeit gehe' in A minor"
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Jesu
+    year: ''
+    duration: '17:09'
+    thumbnail: https://img.youtube.com/vi/KUlmDWbMkEg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=KUlmDWbMkEg
+  - id: lgexOM0RrN4
+    title: J.S. Bach - Cantata BWV 129 "Gelobet sei der Herr, mein Gott" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '21:03'
+    thumbnail: https://img.youtube.com/vi/lgexOM0RrN4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lgexOM0RrN4
+key: A minor

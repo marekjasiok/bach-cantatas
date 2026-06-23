@@ -1,0 +1,143 @@
+bwv: '146'
+title: Wir müssen durch viel Trübsal
+cycle: C3
+occasion: Easter III
+date: '1726-05-12'
+url: https://en.wikipedia.org/wiki/BWV_146
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Organo, Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: ''
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: Violino I/II, Viola, Continuo
+    de: Wir müssen durch viel Trübsal in das Reich Gottes eingehen.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino, Continuo
+    de: |-
+      Ich will nach dem Himmel zu,
+      Schnödes Sodom, ich und du
+      Sind nunmehr geschieden.
+      Meines Bleibens ist nicht hier,
+      Denn ich lebe doch bei dir
+      Nimmermehr in Frieden.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ach! wer doch schon im Himmel wär!
+      Wie dränget mich nicht die böse Welt!
+      Mit Weinen steh ich auf,
+      Mit Weinen leg ich mich zu Bette,
+      Wie trüglich wird mir nachgestellt!
+      Herr! merke, schaue drauf,
+      Sie hassen mich, und ohne Schuld,
+      Als wenn die Welt die Macht,
+      Mich gar zu töten hätte;
+      Und leb ich denn mit Seufzen und Geduld
+      Verlassen und veracht',
+      So hat sie noch an meinem Leide
+      Die größte Freude.
+      Mein Gott, das fällt mir schwer.
+      Ach! wenn ich doch,
+      Mein Jesu, heute noch
+      Bei dir im Himmel wär!
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Flauto traverso, Oboe d'amore I/II, Continuo
+    de: |-
+      Ich säe meine Zähren
+      Mit bangem Herzen aus.
+      Jedoch mein Herzeleid
+      Wird mir die Herrlichkeit
+      Am Tage der seligen Ernte gebären.
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ich bin bereit,
+      Mein Kreuz geduldig zu ertragen;
+      Ich weiß, dass alle meine Plagen
+      Nicht wert der Herrlichkeit,
+      Die Gott an den erwählten Scharen
+      Und auch an mir wird offenbaren.
+      Itzt wein ich, da das Weltgetümmel
+      Bei meinem Jammer fröhlich scheint.
+      Bald kommt die Zeit,
+      Da sich mein Herz erfreut,
+      Und da die Welt einst ohne Tröster weint.
+      Wer mit dem Feinde ringt und schlägt,
+      Dem wird die Krone beigelegt;
+      Denn Gott trägt keinen nicht mit Händen in den Himmel.
+  - num: 7
+    type: Aria
+    voices: ''
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wie will ich mich freuen, wie will ich mich laben,
+      Wenn alle vergängliche Trübsal vorbei!
+      Da glänz ich wie Sterne und leuchte wie Sonne,
+      Da störet die himmlische selige Wonne
+      Kein Trauern, Heulen und Geschrei.
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Freu dich sehr, o meine Seele,
+      und vergiß all Not und Qual,
+      weil dich nun Christus, dein Herre,
+      ruft aus diesem Jammertal.
+      Aus Trübsal und großem Leid
+      sollst du fahren in die Freud,
+      die kein Ohre je hat gehöret,
+      und in Ewigkeit auch währt.
+      Denn wer selig dahin fähret,
+      Da kein Tod mehr klopfet an,
+      Dem ist alles wohl gewähret,
+      Was er ihm nur wünschen kann.
+      Er ist in der festen Stadt,
+      Da Gott seine Wohnung hat;
+      Er ist in das Schloß geführet,
+      Das kein Unglück nie berühret.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Flauto traverso, Oboe I/II, Taille, Oboe d'amore I/II, Organo, Violino I/II, Viola,
+  Continuo
+features:
+  structure:
+    - Sinfonia
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    S: 2
+    T: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - organ
+wiki:
+  summary: "Wir müssen durch viel Trübsal, BWV\_146, is a cantata by Johann Sebastian Bach, a church cantata for the third Sunday after Easter. Bach composed it in Leipzig in 1726 or 1727."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Wir_m%C3%BCssen_durch_viel_Tr%C3%BCbsal%2C_BWV_146
+  summary_html: "<p><b><span><i lang=\"de\">Wir müssen durch viel Trübsal</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>146</b>, is a cantata by Johann Sebastian Bach, a church cantata for the third Sunday after Easter. Bach composed it in Leipzig in 1726 or 1727.</p>"
+key: D minor

@@ -1,0 +1,113 @@
+bwv: 69a
+title: Lobe den Herrn, meine Seele
+cycle: C1
+occasion: Trinity XII
+date: '1723-08-15'
+url: https://en.wikipedia.org/wiki/BWV_69a
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Lobe den Herrn, meine Seele,
+      und vergiss nicht, was er dir Gutes getan hat!
+  - num: 2
+    type: Recitative
+    voices: S
+    instruments: Fagotto, Continuo
+    de: |-
+      Ach, dass ich tausend Zungen hätte!
+      Ach wäre doch mein Mund
+      Von eitlen Worten leer!
+      Ach, dass ich gar nichts redte,
+      Als was zu Gottes Lob gerichtet wär!
+      So machte ich des Höchsten Güte kund;
+      Denn er hat lebenslang so viel an mir getan,
+      Dass ich in Ewigkeit ihm nicht verdanken kann.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Flauto, Oboe da caccia, Fagotto, Continuo
+    de: |-
+      Meine Seele,
+      Auf, erzähle,
+      Was dir Gott erwiesen hat!
+      Rühmet seine Wundertat,
+      Lasst ein gottgefällig Singen
+      Durch die frohen Lippen dringen!
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Fagotto, Continuo
+    de: |-
+      Gedenk ich nur zurück,
+      Was du, mein Gott, von zarter Jugend an
+      Bis diesen Augenblick
+      An mir getan,
+      So kann ich deine Wunder, Herr,
+      So wenig als die Sterne zählen.
+      Vor deine Huld, die du an meiner Seelen
+      Noch alle Stunden tust,
+      Indem du nur von deiner Liebe ruhst,
+      Vermag ich nicht vollkommnen Dank zu weihn.
+      Mein Mund ist schwach, die Zunge stumm
+      Zu deinem Preis und Ruhm.
+      Ach! sei mir nah
+      Und sprich dein kräftig Hephata,
+      So wird mein Mund voll Dankens sein.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Mein Erlöser und Erhalter,
+      Nimm mich stets in Hut und Wacht!
+      Steh mir bei in Kreuz und Leiden,
+      Alsdenn singt mein Mund mit Freuden:
+      Gott hat alles wohlgemacht!
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: Tromba I e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Fagotto, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Darbei will ich verbleiben.
+      Es mag mich auf die rauhe Bahn
+      Not, Tod und Elend treiben:
+      So wird Gott mich
+      Ganz väterlich
+      In seinen Armen halten.
+      Drum lass ich ihn nur walten.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Flauto, Oboe I/II, Oboe da caccia, Violino I/II, Viola, Fagotto,
+  Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    S: 1
+    A: 1
+    B: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - recorder
+    - timpani
+    - tromba
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Lobe den Herrn, meine Seele, BWV\_69a, also BWV\_69.1, in Leipzig for the twelfth Sunday after Trinity and first performed it on 15 August 1723. It is part of his first cantata cycle."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomaskirche_Interior.jpg/330px-Thomaskirche_Interior.jpg
+  url: https://en.wikipedia.org/wiki/Lobe_den_Herrn%2C_meine_Seele%2C_BWV_69a
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Lobe den Herrn, meine Seele</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>69a</b>, also BWV<span class=\"nowrap\">\_</span>69.1, in Leipzig for the twelfth Sunday after Trinity and first performed it on 15 August 1723. It is part of his first cantata cycle.</p>"

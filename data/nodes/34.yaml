@@ -1,0 +1,224 @@
+bwv: '34'
+title: O ewiges Feuer, o Ursprung der Liebe
+cycle: C3
+occasion: Pentecost
+date: '1726-06-01'
+url: https://en.wikipedia.org/wiki/BWV_34
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      O ewiges Feuer, o Ursprung der Liebe,
+      Entzünde die Herzen und weihe sie ein.
+      Lass himmlische Flammen durchdringen und wallen,
+      Wir wünschen, o Höchster, dein Tempel zu sein,
+      Ach, lass dir die Seelen im Glauben gefallen.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Herr, unsre Herzen halten dir
+      Dein Wort der Wahrheit für:
+      Du willst bei Menschen gerne sein,
+      Drum sei das Herze dein;
+      Herr, ziehe gnädig ein.
+      Ein solch erwähltes Heiligtum
+      Hat selbst den größten Ruhm.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Flauto traverso I/II, Violino I/II con sordino, Viola con sordino, Continuo
+    de: |-
+      Wohl euch, ihr auserwählten Seelen,
+      Die Gott zur Wohnung ausersehn.
+      Wer kann ein größer Heil erwählen?
+      Wer kann des Segens Menge zählen?
+      Und dieses ist vom Herrn geschehn.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Erwählt sich Gott die heilgen Hütten,
+      Die er mit Heil bewohnt,
+      So muss er auch den Segen auf sie schütten,
+      So wird der Sitz des Heiligtums belohnt.
+      Der Herr ruft über sein geweihtes Haus
+      Das Wort des Segens aus:
+  - num: 5
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Friede über Israel.
+      Dankt den höchsten Wunderhänden,
+      Dankt, Gott hat an euch gedacht.
+      Ja, sein Segen wirkt mit Macht,
+      Friede über Israel,
+      Friede über euch zu senden.
+scoring: 'Soli: A T B, Coro: S A T B, Tromba I-III, Tamburi, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    T: 3
+    A: 1
+    B: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - timpani
+    - tromba
+wiki:
+  summary: "O ewiges Feuer, o Ursprung der Liebe, BWV\_34, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Pentecost Sunday, and it was the basis for a later wedding cantata, BWV 34a, beginning with the same line. Bach led the first performance on 1 June 1727."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Eichst%C3%A4tt-Spitalkirche_%282%29.JPG/330px-Eichst%C3%A4tt-Spitalkirche_%282%29.JPG
+  url: https://en.wikipedia.org/wiki/O_ewiges_Feuer%2C_o_Ursprung_der_Liebe%2C_BWV_34
+  summary_html: "<p><b><span><i lang=\"de\">O ewiges Feuer, o Ursprung der Liebe</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>34</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Pentecost Sunday, and it was the basis for a later wedding cantata, BWV 34a, beginning with the same line. Bach led the first performance on 1 June 1727.</p>"
+key: D major
+performances:
+  - id: rETHbd-Vb3k
+    title: J.S. Bach - Cantata BWV 34 "O ewiges Feuer, o Ursprung der Liebe" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '19:49'
+    thumbnail: https://img.youtube.com/vi/rETHbd-Vb3k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rETHbd-Vb3k
+  - id: '-QA-Tc8Vw80'
+    title: Bach - Cantata O ewiges Feuer... BWV 34 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: ''
+    year: ''
+    duration: '17:03'
+    thumbnail: https://img.youtube.com/vi/-QA-Tc8Vw80/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-QA-Tc8Vw80
+  - id: LhEv2KuIh0o
+    title: JS Bach Cantata O ewiges Feuer o Ursprung der Liebe BWV 34, Karl Richter
+    channel: HarpsichordA6
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '19:05'
+    thumbnail: https://img.youtube.com/vi/LhEv2KuIh0o/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=LhEv2KuIh0o
+  - id: efQNypIHfM4
+    title: J. S. Bach – Cantata "O ewiges Feuer, o Ursprung der Liebe", BWV 34
+    channel: SP's score videos
+    performer: SP's score videos
+    place: ''
+    year: ''
+    duration: '18:25'
+    thumbnail: https://img.youtube.com/vi/efQNypIHfM4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=efQNypIHfM4
+  - id: _2JfLwVvcl8
+    title: J.S. Bach - Aria "Wohl euch, ihr auserwählten Seelen" from Cantata BWV 34
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '6:03'
+    thumbnail: https://img.youtube.com/vi/_2JfLwVvcl8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_2JfLwVvcl8
+  - id: 7PPT-TeTyH8
+    title: 'J. S. Bach: O ewiges Feuer, o Ursprung der Liebe (BWV 34) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '15:31'
+    thumbnail: https://img.youtube.com/vi/7PPT-TeTyH8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7PPT-TeTyH8
+  - id: Rh1sqoi-6YU
+    title: Bach - Kantate BWV 34 »O ewiges Feuer, o Ursprung der Liebe« | Gaechinger Cantorey | Rademann
+    channel: bachakademie
+    performer: Rademann
+    place: ''
+    year: ''
+    duration: '16:38'
+    thumbnail: https://img.youtube.com/vi/Rh1sqoi-6YU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Rh1sqoi-6YU
+  - id: cV3K4IQVQpU
+    title: 'Bach: Cantata No. 34 - I. O ewiges Feuer, o Ursprung der Liebe - Koopman'
+    channel: pannonia77
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '7:02'
+    thumbnail: https://img.youtube.com/vi/cV3K4IQVQpU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=cV3K4IQVQpU
+  - id: YdWGRUrslGw
+    title: BACH Cantata BWV 34 - Lionel WUNSCH, alto solo - "Wohl euch, ihr auserwählten Seelen"
+    channel: parisBbg
+    performer: parisBbg
+    place: ''
+    year: ''
+    duration: '5:04'
+    thumbnail: https://img.youtube.com/vi/YdWGRUrslGw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YdWGRUrslGw
+  - id: ixirdK2Odjc
+    title: J.S.Bach Cantata BWV 34 "O ewiges Feuer, o Ursprung der Liebe" - Ensemble Pygmalion
+    channel: Bachology
+    performer: Bachology
+    place: ''
+    year: ''
+    duration: '15:19'
+    thumbnail: https://img.youtube.com/vi/ixirdK2Odjc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ixirdK2Odjc
+  - id: gEm3F9EN6t4
+    title: 'J.S. Bach - Cantata BWV 34: Aria "Wohl euch, ihr auserwählten Seelen"'
+    channel: wocomoMUSIC
+    performer: wocomoMUSIC
+    place: ''
+    year: ''
+    duration: '5:59'
+    thumbnail: https://img.youtube.com/vi/gEm3F9EN6t4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gEm3F9EN6t4
+  - id: jf8dVA2Bi24
+    title: 'J.S.Bach: Kantate „O ewiges Feuer, o Ursprung der Liebe“ BWV 34 | Concentus Musicus Wien | Melk 2017'
+    channel: "Concentus Musicus Wien |\_Concentus Musicus Vienna"
+    performer: "Concentus Musicus Wien |\_Concentus Musicus Vienna"
+    place: ''
+    year: '2017'
+    duration: '16:04'
+    thumbnail: https://img.youtube.com/vi/jf8dVA2Bi24/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jf8dVA2Bi24
+  - id: pTb1FaTNIeo
+    title: 'Bach: Cantata - BWV 34 "O ewiges Feuer, o Ursprung der Liebe"'
+    channel: Bachology
+    performer: Bachology
+    place: ''
+    year: ''
+    duration: '16:02'
+    thumbnail: https://img.youtube.com/vi/pTb1FaTNIeo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=pTb1FaTNIeo
+  - id: iz5hDIY-qWQ
+    title: 'Cantata BWV 34 "O ewiges Feuer, O Ursprung der Liebe" - Aria: Wohl euch, ihr auserwählten...'
+    channel: Aafje Heynis - Topic
+    performer: Aafje Heynis - Topic
+    place: ''
+    year: ''
+    duration: '5:13'
+    thumbnail: https://img.youtube.com/vi/iz5hDIY-qWQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=iz5hDIY-qWQ
+  - id: YVTHaeHXDH8
+    title: 'BACH: Cantata BWV 34 O ewiges Feur, O Ursprung der Liebe｜Karl Richter 1975｜Dual Subtitles(DE/EN/KR)'
+    channel: 2SubsMusic
+    performer: Richter
+    place: ''
+    year: '1975'
+    duration: '19:11'
+    thumbnail: https://img.youtube.com/vi/YVTHaeHXDH8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YVTHaeHXDH8

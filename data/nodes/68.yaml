@@ -1,0 +1,94 @@
+bwv: '68'
+title: Also hat Gott die Welt geliebt
+cycle: C2
+occasion: Pentecost 2
+date: '1725-05-21'
+url: https://en.wikipedia.org/wiki/BWV_68
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Taille, Corno col Soprano, Continuo
+    de: |-
+      Also hat Gott die Welt geliebt,
+      Dass er uns seinen Sohn gegeben.
+      Wer sich im Glauben ihm ergibt,
+      Der soll dort ewig bei ihm leben.
+      Wer glaubt, dass Jesus ihm geboren,
+      Der bleibet ewig unverloren,
+      Und ist kein Leid, das den betrübt,
+      Den Gott und auch sein Jesus liebt.
+  - num: 2
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino I, Violoncello piccolo, Continuo
+    de: |-
+      Mein gläubiges Herze,
+      Frohlocke, sing, scherze,
+      Dein Jesus ist da!
+      Weg Jammer, weg Klagen,
+      Ich will euch nur sagen:
+      Mein Jesus ist nah.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Ich bin mit Petro nicht vermessen,
+      Was mich getrost und freudig macht,
+      Dass mich mein Jesus nicht vergessen.
+      Er kam nicht nur, die Welt zu richten,
+      Nein, nein, er wollte Sünd und Schuld
+      Als Mittler zwischen Gott und Mensch vor diesmal schlichten.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Taille, Continuo
+    de: |-
+      Du bist geboren mir zugute,
+      Das glaub ich, mir ist wohl zumute,
+      Weil du vor mich genung getan.
+      Das Rund der Erden mag gleich brechen,
+      Will mir der Satan widersprechen,
+      So bet ich dich, mein Heiland, an.
+  - num: 5
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Oboe I/II, Violino I/II, Viola, Taille, Cornetto col Soprano, Trombone I coll' Alto, Trombone II col Tenore,
+      Trombone III col Basso, Continuo
+    de: |-
+      Wer an ihn gläubet, der wird nicht gerichtet;
+      wer aber nicht gläubet, der ist schon gerichtet; denn er
+      gläubet nicht an den Namen des eingebornen Sohnes Gottes.
+scoring: >-
+  Soli: S B, Coro: S A T B, Corno, Cornetto, Trombone I-III, Oboe I/II, Taille, Violino I/II, Viola, Violoncello
+  piccolo, Continuo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+    S: 1
+    B: 2
+  instrumentation_families:
+    - cornetto
+    - corno
+    - oboe
+    - oboe_da_caccia
+    - trombone
+    - violoncello_piccolo
+key: D major
+wiki:
+  summary: "Also hat Gott die Welt geliebt, BWV\_68, is a cantata by Johann Sebastian Bach, a church cantata for the second day of Pentecost. Bach composed the cantata in Leipzig and first performed it on 21 May 1725. It is one of nine cantatas on texts by Christiana Mariana von Ziegler, which Bach composed at the end of his second annual cycle of cantatas in Leipzig. In a unique structure among Bach's church cantatas, it begins with a chorale and ends with a complex choral movement on a quotation from the Gospel of John. Bach derived the two arias from his Hunting Cantata. He scored the cantata for two soloists, soprano and bass, a four-part choir, and a Baroque instrumental ensemble of a horn, cornett, three trombones, two oboes, taille, strings and basso continuo."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Christiana_Mariana_von_Ziegler.jpg/330px-Christiana_Mariana_von_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Also_hat_Gott_die_Welt_geliebt%2C_BWV_68
+  summary_html: "<p><b><span><i lang=\"de\">Also hat Gott die Welt geliebt</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>68</b>, is a cantata by Johann Sebastian Bach, a church cantata for the second day of Pentecost. Bach composed the cantata in Leipzig and first performed it on 21 May 1725. It is one of nine cantatas on texts by Christiana Mariana von Ziegler, which Bach composed at the end of his second annual cycle of cantatas in Leipzig. In a unique structure among Bach's church cantatas, it begins with a chorale and ends with a complex choral movement on a quotation from the Gospel of John. Bach derived the two arias from his <i>Hunting Cantata</i>. He scored the cantata for two soloists, soprano and bass, a four-part choir, and a Baroque instrumental ensemble of a horn, cornett, three trombones, two oboes, taille, strings and basso continuo.</p>"

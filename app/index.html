@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Das Kantatenwerk</title>
+    <link rel="icon" href="/assets/c-clef.svg" type="image/svg+xml">
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Roboto:wght@300;400;500;700&family=Roboto+Serif:opsz,wght@8..144,300;8..144,400;8..144,600&family=UnifrakturMaguntia&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+<div class="app-container">
+
+    <div class="top-bar">
+        <a href="/" class="top-bar-home">
+            <h1><span class="alto-clef-icon"></span>Das Kantatenwerk</h1>
+        </a>
+        <div class="top-bar-actions">
+            <button class="top-bar-search" id="open-search">
+                <span class="material-symbols-outlined">search</span>
+            </button>
+            <button class="top-bar-search" id="open-help">
+                <span class="material-symbols-outlined">question_mark</span>
+            </button>
+        </div>
+    </div>
+
+    <main class="app-content">
+
+    <div class="search-overlay" id="search-overlay">
+        <div class="search-overlay-bar">
+            <button id="close-search"><span class="material-symbols-outlined">arrow_back</span></button>
+            <input type="text" id="global-search" placeholder="BWV number, title, text, occasion..." autofocus>
+        </div>
+        <div id="search-results" class="search-results">
+            <div class="search-hint">Search by BWV number, German or English title,<br>libretto text, or liturgical occasion</div>
+        </div>
+    </div>
+
+    <div class="help-overlay" id="help-overlay">
+        <div class="help-content">
+            <button class="help-close" id="close-help"><span class="material-symbols-outlined">close</span></button>
+            <h2>About</h2>
+            <p class="about-intro">Welcome to <em>Das Kantatenwerk</em>! Our purpose is to take you through the Lutheran liturgical year to discover — or rediscover — the entirety of Bach's extant corpus of church cantatas.</p>
+            <p class="about-intro">By far, the best way to experience the <em>Kantatenwerk</em> is to listen to them on the very day they were composed for, following the rhythm of the church calendar as Bach himself intended.</p>
+            <h3>How it works</h3>
+            <div class="help-step">
+                <span class="material-symbols-outlined help-icon">hearing</span>
+                <p><strong>Listen</strong> — Follow the liturgical calendar. When you've listened to a cantata, tap the ear icon.</p>
+            </div>
+            <div class="help-step">
+                <span class="material-symbols-outlined help-icon">library_music</span>
+                <p><strong>Explore</strong> — Explore the full catalogue by cycle, occasion, key, or BWV number.</p>
+            </div>
+            <div class="help-step">
+                <span class="material-symbols-outlined help-icon">favorite</span>
+                <p><strong>Like</strong> — If you enjoyed a cantata, tap the heart. Your favourites are saved here.</p>
+            </div>
+            <div class="help-step">
+                <span class="material-symbols-outlined help-icon">hub</span>
+                <p><strong>Discover</strong> — Based on what you like, we recommend cantatas with similar features.</p>
+            </div>
+            <h3>Passions &amp; Oratorios</h3>
+            <p class="about-intro">As a bonus, and a listening challenge, we've also included the Passions and Oratorios, as they share many similarities in form and complete the liturgical calendar. These major works appear with a distinct card throughout the app.</p>
+        </div>
+    </div>
+
+    <div id="view-calendar" class="view active">
+        <div id="schedule-container">
+            <div class="view-title">Listen all along the Liturgical Year</div>
+            <div id="hero-next"></div>
+            <div id="schedule-list" class="schedule-list"></div>
+            <div class="ics-download"><a href="/api/calendar/2026/ics" class="app-link" id="ics-link">Download as .ics</a></div>
+        </div>
+        <div id="calendar-container" class="calendar-mode-hidden">
+            <div id="calendar-widget" class="calendar-widget"></div>
+        </div>
+    </div>
+
+    <div id="view-catalogue" class="view">
+        <div class="view-title">Explore <em>Das Kantatenwerk</em></div>
+        <div class="catalogue-sticky-header">
+            <div class="sort-toggle">
+                <button class="sort-btn active" data-sort="cycle">By Cycle</button>
+                <button class="sort-btn" data-sort="occasion">By Occasion</button>
+                <button class="sort-btn" data-sort="key">By Key</button>
+                <button class="sort-btn" data-sort="bwv">By BWV</button>
+            </div>
+            <div class="cycle-nav" id="cycle-nav">
+                <span class="chip cycle-EARLY" data-scroll-cycle="EARLY">Pre-Leipzig</span>
+                <span class="chip cycle-C1" data-scroll-cycle="C1">Leipzig Cycle 1</span>
+                <span class="chip cycle-C2" data-scroll-cycle="C2">Chorale Cantata</span>
+                <span class="chip cycle-C3" data-scroll-cycle="C3">Leipzig Cycle 3</span>
+                <span class="chip cycle-PICANDER" data-scroll-cycle="PICANDER">Picander</span>
+                <span class="chip cycle-LATE" data-scroll-cycle="LATE">Late Period</span>
+            </div>
+            <div class="key-nav" id="key-nav"></div>
+            <div class="occasion-nav" id="occasion-nav"></div>
+            <div class="bwv-nav" id="bwv-nav"></div>
+        </div>
+        <div id="catalogue-content" class="catalogue-list"></div>
+    </div>
+
+    <div id="view-votes" class="view">
+        <div class="view-title">Tell us what you like</div>
+        <div id="votes-header"></div>
+        <div id="votes-content" class="catalogue-list"></div>
+    </div>
+
+    <div id="view-insights" class="view">
+        <div class="view-title">Discover your tastes</div>
+        <div id="insights-header"></div>
+        <div id="insights-content" class="catalogue-list">
+            <div class="empty-state"><span class="material-symbols-outlined">insights</span><p>Coming soon</p></div>
+        </div>
+    </div>
+
+    <div id="occasion-backdrop" class="sheet-backdrop">
+        <div class="bottom-sheet">
+            <div id="occasion-body" class="sheet-content"></div>
+        </div>
+    </div>
+
+    <div id="sheet-backdrop" class="sheet-backdrop">
+        <div class="bottom-sheet">
+            <div class="sheet-handle"></div>
+            <div id="sheet-body" class="sheet-content"></div>
+        </div>
+    </div>
+
+    <div id="video-overlay" class="video-overlay">
+        <button id="close-video-btn" class="video-close"><span class="material-symbols-outlined">close</span></button>
+        <div id="video-embed" class="video-embed"></div>
+    </div>
+
+    </main>
+
+    <nav class="bottom-nav">
+        <div class="nav-item active" data-view="calendar">
+            <span class="material-symbols-outlined">calendar_month</span>
+            <span class="nav-label">Listen</span>
+        </div>
+        <div class="nav-item" data-view="catalogue">
+            <span class="material-symbols-outlined">library_music</span>
+            <span class="nav-label">Explore</span>
+        </div>
+        <div class="nav-item" data-view="votes">
+            <span class="material-symbols-outlined">favorite</span>
+            <span class="nav-label">Like</span>
+        </div>
+        <div class="nav-item" data-view="insights">
+            <span class="material-symbols-outlined">hub</span>
+            <span class="nav-label">Discover</span>
+        </div>
+    </nav>
+
+</div>
+
+    <script type="module" src="/js/app.js"></script>
+</body>
+</html>

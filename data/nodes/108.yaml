@@ -1,0 +1,93 @@
+bwv: '108'
+title: Es ist euch gut, dass ich hingehe
+cycle: C2
+occasion: Easter IV
+date: '1725-04-29'
+url: https://en.wikipedia.org/wiki/BWV_108
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore I, Violino I/II, Viola, Continuo
+    de: |-
+      Es ist euch gut, dass ich hingehe;
+      denn so ich nicht hingehe, kömmt der Tröster nicht zu
+      euch. So ich aber gehe, will ich ihn zu euch senden.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Violino solo, Continuo
+    de: |-
+      Mich kann kein Zweifel stören,
+      Auf dein Wort, Herr, zu hören.
+      Ich glaube, gehst du fort,
+      So kann ich mich getrösten,
+      Dass ich zu den Erlösten
+      Komm an gewünschten Port.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Dein Geist wird mich also regieren,
+      Dass ich auf rechter Bahne geh;
+      Durch deinen Hingang kommt er ja zu mir,
+      Ich frage sorgensvoll: Ach, ist er nicht schon hier?
+  - num: 4
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wenn aber jener, der Geist der Wahrheit,
+      kommen wird, der wird euch in alle Wahrheit leiten. Denn er wird
+      nicht von ihm selber reden, sondern was er hören wird, das wird
+      er reden; und was zukünftig ist, wird er verkündigen.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Was mein Herz von dir begehrt,
+      Ach, das wird mir wohl gewährt.
+      Überschütte mich mit Segen,
+      Führe mich auf deinen Wegen,
+      Dass ich in der Ewigkeit
+      Schaue deine Herrlichkeit!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Dein Geist, den Gott vom Himmel gibt,
+      Der leitet alles, was ihn liebt,
+      Auf wohl gebähntem Wege.
+      Er setzt und richtet unsren Fuß,
+      Dass er nicht anders treten muss,
+      Als wo man findt den Segen.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe d''amore I/II, Violino solo, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Aria
+    - Recitative
+    - Chorus
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 1
+    T: 2
+    SATB: 2
+    A: 1
+  instrumentation_families:
+    - oboe_damore
+    - violino_solo
+key: G major
+wiki:
+  summary: "Es ist euch gut, daß ich hingehe, BWV\_108, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Cantate Sunday, the fourth Sunday after Easter, and first performed it on 29 April 1725."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Christiana_Mariana_von_Ziegler.jpg/330px-Christiana_Mariana_von_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Es_ist_euch_gut%2C_da%C3%9F_ich_hingehe%2C_BWV_108
+  summary_html: "<p><b><span><i lang=\"de\">Es ist euch gut, daß ich hingehe</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>108</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Cantate Sunday, the fourth Sunday after Easter, and first performed it on 29 April 1725.</p>"

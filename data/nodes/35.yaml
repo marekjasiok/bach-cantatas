@@ -1,0 +1,256 @@
+bwv: '35'
+title: Geist und Seele wird verwirret
+cycle: C3
+occasion: Trinity XII
+date: '1726-09-08'
+url: https://en.wikipedia.org/wiki/BWV_35
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Organo obligato, Continuo
+    de: ''
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Organo obligato, Continuo
+    de: |-
+      Geist und Seele wird verwirret,
+      Wenn sie dich, mein Gott, betracht'.
+      Denn die Wunder, so sie kennet
+      Und das Volk mit Jauchzen nennet,
+      Hat sie taub und stumm gemacht.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ich wundre mich;
+      Denn alles, was man sieht,
+      Muss uns Verwundrung geben.
+      Betracht ich dich,
+      Du teurer Gottessohn,
+      So flieht
+      Vernunft und auch Verstand davon.
+      Du machst es eben,
+      Dass sonst ein Wunderwerk vor dir was Schlechtes ist.
+      Du bist
+      Dem Namen, Tun und Amte nach erst wunderreich,
+      Dir ist kein Wunderding auf dieser Erde gleich.
+      Den Tauben gibst du das Gehör,
+      Den Stummen ihre Sprache wieder,
+      Ja, was noch mehr,
+      Du öffnest auf ein Wort die blinden Augenlider.
+      Dies, dies sind Wunderwerke,
+      Und ihre Stärke
+      Ist auch der Engel Chor nicht mächtig auszusprechen.
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Organo obligato, Continuo
+    de: |-
+      Gott hat alles wohlgemacht.
+      Seine Liebe, seine Treu
+      Wird uns alle Tage neu.
+      Wenn uns Angst und Kummer drücket,
+      Hat er reichen Trost geschicket,
+      Weil er täglich für uns wacht.
+      Gott hat alles wohlgemacht.
+  - num: 5
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Organo obligato, Continuo
+    de: ''
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ach, starker Gott, lass mich
+      Doch dieses stets bedenken,
+      So kann ich dich
+      Vergnügt in meine Seele senken.
+      Lass mir dein süßes Hephata
+      Das ganz verstockte Herz erweichen;
+      Ach! lege nur den Gnadenfinger in die Ohren,
+      Sonst bin ich gleich verloren.
+      Rühr auch das Zungenband
+      Mit deiner starken Hand,
+      Damit ich diese Wunderzeichen
+      In heilger Andacht preise
+      Und mich als Erb und Kind erweise.
+  - num: 7
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Organo obligato, Continuo
+    de: |-
+      Ich wünsche nur bei Gott zu leben,
+      Ach! wäre doch die Zeit schon da,
+      Ein fröhliches Halleluja
+      Mit allen Engeln anzuheben.
+      Mein liebster Jesu, löse doch
+      Das jammerreiche Schmerzensjoch
+      Und lass mich bald in deinen Händen
+      Mein martervolles Leben enden.
+scoring: 'Solo: A, Oboe I/II, Taille, Violino I/II, Viola, Organo obligato, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Aria
+    - Recitative
+    - Aria
+    - Sinfonia
+    - Recitative
+    - Aria
+  opening: Sinfonia
+  closing: Aria
+  voice_profile:
+    A: 5
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - organ
+wiki:
+  summary: "Geist und Seele wird verwirret, BWV\_35, is a church cantata by Johann Sebastian Bach. He composed the solo cantata for alto voice in Leipzig for the twelfth Sunday after Trinity and first performed it on 8 September 1726."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Galante_Poetinnen_0001.png/330px-Galante_Poetinnen_0001.png
+  url: https://en.wikipedia.org/wiki/Geist_und_Seele_wird_verwirret%2C_BWV_35
+  summary_html: "<p><b><span><i lang=\"de\">Geist und Seele wird verwirret</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>35</b>, is a church cantata by Johann Sebastian Bach. He composed the solo cantata for alto voice in Leipzig for the twelfth Sunday after Trinity and first performed it on 8 September 1726.</p>"
+key: D minor
+performances:
+  - id: oMclNxEre2M
+    title: Bach - Cantata Geist und Seele wird verwirret BWV 35 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: ''
+    year: ''
+    duration: '26:19'
+    thumbnail: https://img.youtube.com/vi/oMclNxEre2M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=oMclNxEre2M
+  - id: 8TdPe4iEYPQ
+    title: J.S. Bach - Cantata BWV 35 "Geist und Seele wird verwirret" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '28:43'
+    thumbnail: https://img.youtube.com/vi/8TdPe4iEYPQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=8TdPe4iEYPQ
+  - id: GZb1zi8gpMs
+    title: 'Johann Sebastian Bach - Cantata: Geist und Seele wird verwirret, BWV 35. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '26:08'
+    thumbnail: https://img.youtube.com/vi/GZb1zi8gpMs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GZb1zi8gpMs
+  - id: 24sDrkeDil8
+    title: Bach - Sinfonia (presto) from Cantata BWV 35 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: ''
+    year: ''
+    duration: '3:52'
+    thumbnail: https://img.youtube.com/vi/24sDrkeDil8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=24sDrkeDil8
+  - id: o9WGftw9ipQ
+    title: J. S. Bach - Cantatas for Alto 3/3 BWV 35  - Scholl, Herreweghe
+    channel: Miguel Zampedri
+    performer: Herreweghe
+    place: ''
+    year: ''
+    duration: '25:05'
+    thumbnail: https://img.youtube.com/vi/o9WGftw9ipQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=o9WGftw9ipQ
+  - id: BaMXFa9h-Ls
+    title: Bach - Concerto from Cantata Geist und Seele wird verwirret BWV 35 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: ''
+    year: ''
+    duration: '6:10'
+    thumbnail: https://img.youtube.com/vi/BaMXFa9h-Ls/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BaMXFa9h-Ls
+  - id: guQwESn6gfA
+    title: Bwv 35 Geist und Seele wird verwirret (scrolling score)
+    channel: David Han
+    performer: David Han
+    place: ''
+    year: ''
+    duration: '26:18'
+    thumbnail: https://img.youtube.com/vi/guQwESn6gfA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=guQwESn6gfA
+  - id: mBDWy6VlEh8
+    title: Bach - Cantate BWV 35 - Geist und Seele wird verwirret
+    channel: MusicArt61
+    performer: MusicArt61
+    place: ''
+    year: ''
+    duration: '27:00'
+    thumbnail: https://img.youtube.com/vi/mBDWy6VlEh8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mBDWy6VlEh8
+  - id: K8SHVeU9dIU
+    title: J.S. Bach - Sinfonia "Geist und Seele wird verwirret" from Cantata BWV 35
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '3:31'
+    thumbnail: https://img.youtube.com/vi/K8SHVeU9dIU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=K8SHVeU9dIU
+  - id: oqPKwJOnv5c
+    title: 'J.S. Bach: Cantata for alto solo and orchestra BWV 35'
+    channel: Musica Aeterna
+    performer: Musica Aeterna
+    place: ''
+    year: ''
+    duration: '25:47'
+    thumbnail: https://img.youtube.com/vi/oqPKwJOnv5c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=oqPKwJOnv5c
+  - id: cCOhq-5-EvU
+    title: J.S. Bach, Kantate BWV 35 „Geist und Seele wird verwirret“ | Kay Johannsen
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: ''
+    year: ''
+    duration: '28:34'
+    thumbnail: https://img.youtube.com/vi/cCOhq-5-EvU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=cCOhq-5-EvU
+  - id: Nk7xOW5aaCk
+    title: 'Bach: Sinfonia Cantata 35 - Oude Kerk Amsterdam | MARCO DEN TOOM, organ'
+    channel: Marco den Toom - official
+    performer: Marco den Toom - official
+    place: Amsterdam
+    year: ''
+    duration: '5:40'
+    thumbnail: https://img.youtube.com/vi/Nk7xOW5aaCk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Nk7xOW5aaCk
+  - id: 111WT0vVq0M
+    title: BACH - Cantatas BWV 170 & 35 - Damien Guillon et le Banquet Céleste
+    channel: Outhere Music
+    performer: Outhere Music
+    place: ''
+    year: ''
+    duration: '7:01'
+    thumbnail: https://img.youtube.com/vi/111WT0vVq0M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=111WT0vVq0M
+  - id: b4VBH4KYB2Q
+    title: J.S. Bach - Motet BWV 159 & Concerto from Cantata BWV 35 (RIAS Kammerchor, Akademie für Alte Musik)
+    channel: EuroArtsChannel
+    performer: EuroArtsChannel
+    place: ''
+    year: ''
+    duration: '10:40'
+    thumbnail: https://img.youtube.com/vi/b4VBH4KYB2Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=b4VBH4KYB2Q
+  - id: 83JYrar1WmE
+    title: J.S.Bach - Cantata BWV 35 - Geist und Seele wird verwirret
+    channel: Klavier Ank
+    performer: Klavier Ank
+    place: ''
+    year: ''
+    duration: '27:01'
+    thumbnail: https://img.youtube.com/vi/83JYrar1WmE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=83JYrar1WmE

@@ -1,0 +1,96 @@
+bwv: '139'
+title: Wohl dem, der sich auf seinen Gott
+cycle: C2
+occasion: Trinity XXIII
+date: '1724-11-12'
+url: https://en.wikipedia.org/wiki/BWV_139
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wohl dem, der sich auf seinen Gott
+      Recht kindlich kann verlassen!
+      Den mag gleich Sünde, Welt und Tod
+      Und alle Teufel hassen,
+      So bleibt er dennoch wohlvergnügt,
+      Wenn er nur Gott zum Freunde kriegt.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Violino I concertante, Continuo
+    de: |-
+      Gott ist mein Freund; was hilft das Toben,
+      So wider mich ein Feind erhoben!
+      Ich bin getrost bei Neid und Hass.
+      Ja, redet nur die Wahrheit spärlich,
+      Seid immer falsch, was tut mir das?
+      Ihr Spötter seid mir ungefährlich.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Der Heiland sendet ja die Seinen
+      Recht mitten in der Wölfe Wut.
+      Um ihn hat sich der Bösen Rotte
+      Zum Schaden und zum Spotte
+      Mit List gestellt;
+      Doch da sein Mund so weisen Ausspruch tut,
+      So schützt er mich auch vor der Welt.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore II, Violino, Continuo
+    de: |-
+      Das Unglück schlägt auf allen Seiten
+      Um mich ein zentnerschweres Band.
+      Doch plötzlich erscheinet die helfende Hand.
+      Mir scheint des Trostes Licht von weiten;
+      Da lern ich erst, dass Gott allein
+      Der Menschen bester Freund muss sein.
+  - num: 5
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ja, trag ich gleich den größten Feind in mir,
+      Die schwere Last der Sünden,
+      Mein Heiland lässt mich Ruhe finden.
+      Ich gebe Gott, was Gottes ist,
+      Das Innerste der Seelen.
+      Will er sie nun erwählen,
+      So weicht der Sünden Schuld, so fällt des Satans List.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Dahero Trotz der Höllen Heer!
+      Trotz auch des Todes Rachen!
+      Trotz aller Welt! mich kann nicht mehr
+      Ihr Pochen traurig machen!
+      Gott ist mein Schutz, mein Hilf und Rat;
+      Wohl dem, der Gott zum Freunde hat!
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    A: 1
+    B: 1
+    S: 1
+  instrumentation_families:
+    - oboe_damore
+key: E minor

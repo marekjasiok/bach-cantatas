@@ -1,0 +1,147 @@
+bwv: '12'
+title: Weinen, Klagen, Sorgen, Zagen
+cycle: EARLY
+occasion: Jubilate
+date: '1714-04-22'
+url: https://en.wikipedia.org/wiki/BWV_12
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe, Violino I/II, Viola I/II, Continuo e Fagotto
+  - num: 2
+    type: Chorus
+    voices: S, A, T, B
+    instruments: Violino I/II, Viola I/II, Continuo e Fagotto
+    de: |-
+      Weinen, Klagen,
+      Sorgen, Zagen,
+      Angst und Not
+      Sind der Christen Tränenbrot,
+      Die das Zeichen Jesu tragen.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola I/II, Continuo e Fagotto
+    de: Wir müssen durch viel Trübsal in das Reich Gottes eingehen.
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Oboe, Continuo
+    de: |-
+      Kreuz und Krone sind verbunden,
+      Kampf und Kleinod sind vereint.
+      Christen haben alle Stunden
+      Ihre Qual und ihren Feind,
+      Doch ihr Trost sind Christi Wunden.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Continuo
+    de: |-
+      Ich folge Christo nach,
+      Von ihm will ich nicht lassen
+      Im Wohl und Ungemach,
+      Im Leben und Erblassen.
+      Ich küsse Christi Schmach,
+      Ich will sein Kreuz umfassen.
+      Ich folge Christo nach,
+      Von ihm will ich nicht lassen.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Tromba, Continuo
+    de: |-
+      Sei getreu, alle Pein
+      Wird doch nur ein Kleines sein.
+      Nach dem Regen
+      Blüht der Segen,
+      Alles Wetter geht vorbei.
+      Sei getreu, sei getreu!
+  - num: 7
+    type: Chorale
+    voices: S, A, T, B
+    de: |-
+      Instrumentierung nicht überliefert
+      Was Gott tut, das ist wohlgetan
+      Dabei will ich verbleiben,
+      Es mag mich auf die rauhe Bahn
+      Not, Tod und Elend treiben,
+      So wird Gott mich
+      Ganz väterlich
+      In seinen Armen halten:
+      Drum lass ich ihn nur walten.
+features:
+  structure:
+    - Sinfonia
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    S, A, T, B: 2
+    A: 2
+    B: 1
+    T: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - tromba
+edges: {}
+wiki:
+  summary: "Weinen, Klagen, Sorgen, Zagen, BWV\_12, is a church cantata by Johann Sebastian Bach. He composed it in Weimar for Jubilate, the third Sunday after Easter, and led the first performance on 22 April 1714 in the Schlosskirche, the court chapel of the Schloss in Weimar."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Weinen%2C_Klagen%2C_Sorgen%2C_Zagen%2C_BWV_12
+  summary_html: "<p><b><span><i lang=\"de\">Weinen, Klagen, Sorgen, Zagen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>12</b>, is a church cantata by Johann Sebastian Bach. He composed it in Weimar for Jubilate, the third Sunday after Easter, and led the first performance on 22 April 1714 in the Schlosskirche, the court chapel of the <i>Schloss</i> in Weimar.</p>"
+performances:
+  - id: GZNg3CWTt14
+    title: Bach - Cantata Weinen, Klagen, Sorgen, Zagen BWV 12 - Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '21:27'
+    thumbnail: https://img.youtube.com/vi/GZNg3CWTt14/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GZNg3CWTt14
+  - id: xG8DkFA3QyE
+    title: J.S. Bach - Cantata BWV 12 "Weinen, Klagen, Sorgen, Zagen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2013'
+    duration: '27:46'
+    thumbnail: https://img.youtube.com/vi/xG8DkFA3QyE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xG8DkFA3QyE
+  - id: 4wwMcy4_Iwg
+    title: Bach J.S. Cantata BWV 12
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '26:45'
+    thumbnail: https://img.youtube.com/vi/4wwMcy4_Iwg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4wwMcy4_Iwg
+  - id: AS_mdDaeS3o
+    title: J.S. Bach / Weinen, Klagen, Sorgen, Zagen, BWV 12 (Rifkin)
+    channel: scrymgeour34
+    performer: scrymgeour34
+    place: F major
+    year: '1995'
+    duration: '23:30'
+    thumbnail: https://img.youtube.com/vi/AS_mdDaeS3o/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AS_mdDaeS3o
+  - id: RJtC5iY2SO4
+    title: Jean-Sébastien BACH - CANTATE BWV 12
+    channel: Michel Le Naviose
+    performer: Michel Le Naviose
+    place: ''
+    year: '2015'
+    duration: '26:23'
+    thumbnail: https://img.youtube.com/vi/RJtC5iY2SO4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RJtC5iY2SO4
+key: F minor

@@ -1,0 +1,41 @@
+bwv: '118'
+title: O Jesu Christ, meins Lebens Licht
+cycle: LATE
+occasion: Funeral
+date: '1740'
+url: https://en.wikipedia.org/wiki/BWV_118
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: ''
+    de: |-
+      O Jesu Christ, mein's Lebens Licht
+      Mein Hort, mein Trost, mein' Zuversicht,
+      Auf Erden bin ich nur ein Gast
+      Und drückt mich sehr der Sünden Last.
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: ''
+    de: |-
+      Auf deinen Abschied Herr ich trau
+      Darauf mein letzte Heimfahrt bau.
+      Tu mir die Himmelstür weit auf
+      Wenn ich beschließ mein Lebenslauf.
+scoring: 'Soli: S A T B, Coro: S A T B, Lituus I/II, Cornetto, Trombone I-III'
+features:
+  structure:
+    - Chorus
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+  instrumentation_families: []
+wiki:
+  summary: "O Jesu Christ, meins Lebens Licht, BWV\_118, is a sacred motet composed by Johann Sebastian Bach. It is known to have been performed at a funeral, and was possibly a generic work intended for funerals. When the work was first published in the nineteenth century it was called a cantata, perhaps because it has an instrumental accompaniment. While it is not an a cappella work, modern scholarship accepts it is a motet."
+  image: null
+  url: https://en.wikipedia.org/wiki/O_Jesu_Christ%2C_meins_Lebens_Licht%2C_BWV_118
+  summary_html: "<p><i><b>O Jesu Christ, meins Lebens Licht</b></i>, <b>BWV\_118</b>, is a sacred motet composed by Johann Sebastian Bach. It is known to have been performed at a funeral, and was possibly a generic work intended for funerals. When the work was first published in the nineteenth century it was called a cantata, perhaps because it has an instrumental accompaniment. While it is not an a cappella work, modern scholarship accepts it is a motet.</p>"

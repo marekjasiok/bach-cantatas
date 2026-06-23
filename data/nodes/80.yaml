@@ -1,0 +1,149 @@
+bwv: '80'
+title: Ein feste Burg ist unser Gott
+cycle: C2
+occasion: Reformation
+date: '1724-10-31'
+url: https://en.wikipedia.org/wiki/BWV_80
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I-III all' unisono, Violino I/II, Viola, Violoncello, Continuo
+    de: |-
+      Ein feste Burg ist unser Gott,
+      Ein gute Wehr und Waffen;
+      Er hilft uns frei aus aller Not,
+      Die uns itzt hat betroffen.
+      Der alte böse Feind,
+      Mit Ernst er's jetzt meint,
+      Groß Macht und viel List
+      Sein grausam Rüstung ist,
+      Auf Erd ist nicht seinsgleichen.
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Oboe, Violino I/II, Viola (all' unisono), Continuo
+    de: |-
+      Alles, was von Gott geboren,
+      Ist zum Siegen auserkoren.
+      Mit unsrer Macht ist nichts getan,
+      Wir sind gar bald verloren.
+      Es streit' vor uns der rechte Mann,
+      Den Gott selbst hat erkoren.
+      Wer bei Christi Blutpanier
+      In der Taufe Treu geschworen,
+      Siegt im Geiste für und für.
+      Fragst du, wer er ist?
+      Er heißt Jesus Christ,
+      Der Herre Zebaoth,
+      Und ist kein andrer Gott,
+      Das Feld muss er behalten.
+      Alles, was von Gott geboren,
+      Ist zum Siegen auserkoren.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Erwäge doch, Kind Gottes, die so große Liebe,
+      Da Jesus sich
+      Mit seinem Blute dir verschriebe,
+      Wormit er dich
+      Zum Kriege wider Satans Heer und wider Welt, und Sünde
+      Geworben hat!
+      Gib nicht in deiner Seele
+      Dem Satan und den Lastern statt!
+      Lass nicht dein Herz,
+      Den Himmel Gottes auf der Erden,
+      Zur Wüste werden!
+      Bereue deine Schuld mit Schmerz,
+      Dass Christi Geist mit dir sich fest verbinde!
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Continuo
+    de: |-
+      Komm in mein Herzenshaus,
+      Herr Jesu, mein Verlangen!
+      Treib Welt und Satan aus
+      Und lass dein Bild in mir erneuert prangen!
+      Weg, schnöder Sündengraus!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Und wenn die Welt voll Teufel wär
+      Und wollten uns verschlingen,
+      So fürchten wir uns nicht so sehr,
+      Es soll uns doch gelingen.
+      Der Fürst dieser Welt,
+      Wie saur er sich stellt,
+      Tut er uns doch nicht,
+      Das macht, er ist gericht',
+      Ein Wörtlein kann ihn fällen.
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      So stehe dann bei Christi blutgefärbten Fahne,
+      O Seele, fest
+      Und glaube, dass dein Haupt dich nicht verlässt,
+      Ja, dass sein Sieg
+      Auch dir den Weg zu deiner Krone bahne!
+      Tritt freudig an den Krieg!
+      Wirst du nur Gottes Wort
+      So hören als bewahren,
+      So wird der Feind gezwungen auszufahren,
+      Dein Heiland bleibt dein Hort!
+  - num: 7
+    type: Aria
+    voices: ''
+    instruments: Oboe da caccia, Violino, Continuo
+    de: |-
+      Wie selig sind doch die, die Gott im Munde tragen,
+      Doch selger ist das Herz, das ihn im Glauben trägt!
+      Es bleibet unbesiegt und kann die Feinde schlagen
+      Und wird zuletzt gekrönt, wenn es den Tod erlegt.
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Das Wort sie sollen lassen stahn
+      Und kein' Dank dazu haben.
+      Er ist bei uns wohl auf dem Plan
+      Mit seinem Geist und Gaben.
+      Nehmen sie uns den Leib,
+      Gut, Ehr, Kind und Weib,
+      Lass fahren dahin,
+      Sie habens kein' Gewinn;
+      Das Reich muss uns doch bleiben.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Oboe I-III, Oboe d'amore I/II, Taille, Oboe da caccia, Violino I/II, Viola, Violoncello,
+  Continuo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    B: 2
+    S: 1
+    T: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - violoncello
+key: D major

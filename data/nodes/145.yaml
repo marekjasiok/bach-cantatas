@@ -1,0 +1,98 @@
+bwv: '145'
+title: Ich lebe, mein Herze, zu deinem Ergötzen
+cycle: PICANDER
+occasion: Easter Tuesday
+date: '1729-04-19'
+url: https://en.wikipedia.org/wiki/BWV_145
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: ''
+    instruments: Violino, Continuo
+    de: |-
+      Jesus (T), Seele (S)
+      {Tenor}
+      Ich lebe, mein Herze, zu deinem Ergötzen,
+      {Sopran}
+      Du lebest, mein Jesu, zu meinem Ergötzen,
+      {Tenor, Sopran}
+      {Mein, Dein} Leben erhebet {dein, mein} Leben empor.
+      beide
+      Die klagende Handschrift ist völlig zerrissen,
+      Der Friede verschalt ein ruhig Gewissen
+      Und öffnet den Sündern das himmlische Tor.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Nun fordre, Moses, wie du willt,
+      Das dräuende Gesetz zu üben,
+      Ich habe meine Quittung hier
+      Mit Jesu Blut und Wunden unterschrieben.
+      Dieselbe gilt,
+      Ich bin erlöst, ich bin befreit
+      Und lebe nun mit Gott in Fried und Einigkeit,
+      Der Kläger wird an mir zuschanden,
+      Denn Gott ist auferstanden.
+      Mein Herz, das merke dir!
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Tromba, Flauto traverso, Oboe d'amore I/II, Violino I/II, Continuo
+    de: |-
+      Merke, mein Herze, beständig nur dies,
+      Wenn du alles sonst vergisst,
+      Dass dein Heiland lebend ist;
+      Lasse dieses deinem Gläuben
+      Einen Grund und Feste bleiben,
+      Auf solche besteht er gewiss.
+      Merke, meine Herze, nur dies.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Mein Jesus lebt,
+      Das soll mir niemand nehmen,
+      Drum sterb ich sonder Grämen.
+      Ich bin gewiss
+      Und habe das Vertrauen,
+      Dass mich des Grabes Finsternis
+      Zur Himmelsherrlichkeit erhebt;
+      Mein Jesus lebt,
+      Ich habe nun genug,
+      Mein Herz und Sinn
+      Will heute noch zum Himmel hin,
+      Selbst den Erlöser anzuschauen.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Drum wir auch billig fröhlich sein,
+      Singen das Halleluja fein
+      Und loben dich, Herr Jesu Christ;
+      Zu Trost du uns erstanden bist.
+      Halleluja!
+scoring: 'Soli: S T B, Coro: S A T B, Tromba, Flauto traverso, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 1
+    B: 1
+    S: 1
+    SATB: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe_damore
+    - tromba
+key: D major

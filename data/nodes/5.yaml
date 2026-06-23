@@ -1,0 +1,128 @@
+bwv: '5'
+title: Wo soll ich fliehen hin
+cycle: C2
+occasion: Trinity XIX
+date: '1724-10-15'
+url: https://en.wikipedia.org/wiki/BWV_5
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Tromba da tirarsi col Soprano, Continuo
+    de: |-
+      Wo soll ich fliehen hin,
+      Weil ich beschweret bin
+      Mit viel und großen Sünden?
+      Wo soll ich Rettung finden?
+      Wenn alle Welt herkäme,
+      Mein Angst sie nicht wegnähme.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Der Sünden Wust hat mich nicht nur befleckt,
+      Er hat vielmehr den ganzen Geist bedeckt,
+      Gott müßte mich als unrein von sich treiben;
+      Doch weil ein Tropfen heilges Blut
+      So große Wunder tut,
+      Kann ich noch unverstoßen bleiben.
+      Die Wunden sind ein offnes Meer,
+      Dahin ich meine Sünden senke,
+      Und wenn ich mich zu diesem Strome lenke,
+      So macht er mich von meinen Flecken leer.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Viola solo, Continuo
+    de: |-
+      Ergieße dich reichlich, du göttliche Quelle,
+      Ach, walle mit blutigen Strömen auf mich!
+      Es fühlet mein Herze die tröstliche Stunde,
+      Nun sinken die drückenden Lasten zu Grunde,
+      Es wäschet die sündlichen Flecken von sich.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Oboe I, Continuo
+    de: |-
+      Mein treuer Heiland tröstet mich,
+      Es sei verscharrt in seinem Grabe,
+      Was ich gesündigt habe;
+      Ist mein Verbrechen noch so groß,
+      Er macht mich frei und los.
+      Wenn Gläubige die Zuflucht bei ihm finden,
+      Muss Angst und Pein
+      Nicht mehr gefährlich sein
+      Und alsobald verschwinden;
+      Ihr Seelenschatz, ihr höchstes Gut
+      Ist Jesu unschätzbares Blut;
+      Es ist ihr Schutz vor Teufel, Tod und Sünden,
+      In dem sie überwinden.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Tromba e Oboe I/II e Violino I all' unisono, Violino II, Viola, Continuo
+    de: |-
+      Verstumme, Höllenheer,
+      Du machst mich nicht verzagt!
+      Ich darf dies Blut dir zeigen,
+      So musst du plötzlich schweigen,
+      Es ist in Gott gewagt.
+  - num: 6
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Ich bin ja nur das kleinste Teil der Welt,
+      Und da des Blutes edler Saft
+      Unendlich große Kraft
+      Bewährt erhält,
+      Dass jeder Tropfen, so auch noch so klein,
+      Die ganze Welt kann rein
+      Von Sünden machen,
+      So lass dein Blut
+      Ja nicht an mir verderben,
+      Es komme mir zugut,
+      Dass ich den Himmel kann ererben.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Violino I e Oboe I/II e Tromba da tirarsi col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Führ auch mein Herz und Sinn
+      Durch deinen Geist dahin,
+      Dass ich mög alles meiden,
+      Was mich und dich kann scheiden,
+      Und ich an deinem Leibe
+      Ein Gliedmaß ewig bleibe.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba da tirarsi, Oboe I/II, Violino I/II, Viola, Violoncello, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 2
+    T: 1
+    A: 1
+    S: 1
+  instrumentation_families:
+    - oboe
+    - tromba
+    - tromba_da_tirarsi
+key: A major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata (Bach) Wo soll ich fliehen hin, BWV\_5, in Leipzig for the 19th Sunday after Trinity and first performed it on 15 October 1724. It is based on the penitential hymn \"Wo soll ich fliehen hin\" by Johann Heermann."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/J._S._Bach_-_%27Wo_soll_ich_fliehen_hin%27_%28BWV5%29_-_manuscript_-_02_%28right%29.jpg/330px-J._S._Bach_-_%27Wo_soll_ich_fliehen_hin%27_%28BWV5%29_-_manuscript_-_02_%28right%29.jpg
+  url: https://en.wikipedia.org/wiki/Wo_soll_ich_fliehen_hin%2C_BWV_5
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata (Bach) <b><span><i lang=\"de\">Wo soll ich fliehen hin</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>5</b>, in Leipzig for the 19th Sunday after Trinity and first performed it on 15 October 1724. It is based on the penitential hymn \"Wo soll ich fliehen hin\" by Johann Heermann.</p>"

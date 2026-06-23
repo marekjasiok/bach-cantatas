@@ -1,0 +1,88 @@
+bwv: '106'
+title: Gottes Zeit ist die allerbeste Zeit
+cycle: EARLY
+occasion: Funeral
+date: 1707 (_Actus Tragicus_) [^3]
+url: https://en.wikipedia.org/wiki/BWV_106
+edges: {}
+movements:
+  - num: 4
+    type: Chorus
+    voices: SATB
+    instruments: Flauto I/II, Viola da gamba I/II, Continuo
+    de: |-
+      Glorie, Lob, Ehr und Herrlichkeit
+      Sei dir, Gott Vater und Sohn bereit,
+      Dem heilgen Geist mit Namen!
+      Die göttlich Kraft
+      Mach uns sieghaft
+      Durch Jesum Christum, Amen.
+scoring: 'Soli: A T B, Coro: S A T B, Flauto I/II, Viola da gamba I/II, Continuo'
+features:
+  structure:
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 1
+  instrumentation_families:
+    - recorder
+    - viola_da_gamba
+wiki:
+  summary: >-
+    Gottes Zeit ist die allerbeste Zeit, BWV 106, also known as Actus tragicus, is an early sacred cantata composed by
+    Johann Sebastian Bach in Mühlhausen, intended for a funeral.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Blasiuskirche_MHL_Orgelempore_Westen.jpg/330px-Blasiuskirche_MHL_Orgelempore_Westen.jpg
+  url: https://en.wikipedia.org/wiki/Gottes_Zeit_ist_die_allerbeste_Zeit%2C_BWV_106
+  summary_html: >-
+    <p><b><span><i lang="de">Gottes Zeit ist die allerbeste Zeit</i></span></b>, <b><span class="nowrap">BWV
+    106</span></b>, also known as <i><b>Actus tragicus</b></i>, is an early sacred cantata composed by Johann Sebastian
+    Bach in Mühlhausen, intended for a funeral.</p>
+performances:
+  - id: xXMUpqSyJJo
+    title: Bach - Cantata Gottes Zeit..., 'Actus Tragicus' BWV 106 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Oostkerk
+    year: '2015'
+    duration: '20:54'
+    thumbnail: https://img.youtube.com/vi/xXMUpqSyJJo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xXMUpqSyJJo
+  - id: m1la8remdY0
+    title: J. S. Bach - Cantata BWV 106 "Gottes Zeit ist die allerbeste Zeit" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: '2023'
+    duration: '22:18'
+    thumbnail: https://img.youtube.com/vi/m1la8remdY0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=m1la8remdY0
+  - id: 2rUsZlXFhcc
+    title: 'Lucas & Arthur Jussen – Bach: Gottes Zeit ist die allerbeste Zeit, BWV 106: 2a (Transcr. Kurtág)'
+    channel: Deutsche Grammophon - DG
+    performer: Deutsche Grammophon - DG
+    place: ''
+    year: 25 June 2019
+    duration: '3:15'
+    thumbnail: https://img.youtube.com/vi/2rUsZlXFhcc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2rUsZlXFhcc
+  - id: ckFk8JpsxlA
+    title: 'Martha Argerich & Iddo Bar-Shai: Bach/Kurtag "Gottes Zeit ist die allerbeste Zeit" at Berlin Phil.'
+    channel: Iddo Bar-Shai
+    performer: Iddo Bar-Shai
+    place: Berlin
+    year: ''
+    duration: '3:28'
+    thumbnail: https://img.youtube.com/vi/ckFk8JpsxlA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ckFk8JpsxlA
+  - id: 2i5O923PzeQ
+    title: Actus Tragicus - BWV 106 - J S Bach
+    channel: codonauta
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '20:17'
+    thumbnail: https://img.youtube.com/vi/2i5O923PzeQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2i5O923PzeQ
+key: E♭ major

@@ -1,0 +1,134 @@
+bwv: '152'
+title: Tritt auf die Glaubensbahn
+cycle: EARLY
+occasion: Christmas I
+date: '1714-12-30'
+url: https://en.wikipedia.org/wiki/BWV_152
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Flauto, Oboe, Viola d'amore, Viola da gamba, Continuo
+    de: ''
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Oboe, Continuo
+    de: |-
+      Tritt auf die Glaubensbahn,
+      Gott hat den Stein geleget,
+      Der Zion hält und träget,
+      Mensch, stoße dich nicht dran!
+      Tritt auf die Glaubensbahn!
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Der Heiland ist gesetzt
+      In Israel zum Fall und Auferstehen.
+      Der edle Stein ist sonder Schuld,
+      Wenn sich die böse Welt
+      So hart an ihm verletzt,
+      Ja, über ihn zur Höllen fällt,
+      Weil sie boshaftig an ihn rennet
+      Und Gottes Huld
+      Und Gnade nicht erkennet!
+      Doch selig ist
+      Ein auserwählter Christ,
+      Der seinen Glaubensgrund auf diesen Eckstein leget,
+      Weil er dadurch Heil und Erlösung findet.
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Flauto, Viola d'amore, Continuo
+    de: |-
+      Stein, der über alle Schätze,
+      Hilf, dass ich zu aller Zeit
+      Durch den Glauben auf dich setze
+      Meinen Grund der Seligkeit
+      Und mich nicht an dir verletze,
+      Stein, der über alle Schätze!
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Es ärgre sich die kluge Welt,
+      Dass Gottes Sohn
+      Verlässt den hohen Ehrenthron,
+      Dass er in Fleisch und Blut sich kleidet
+      Und in der Menschheit leidet.
+      Die größte Weisheit dieser Erden
+      Muss vor des Höchsten Rat
+      Zur größten Torheit werden.
+      Was Gott beschlossen hat,
+      Kann die Vernunft doch nicht ergründen;
+      Die blinde Leiterin verführt die geistlich Blinden.
+  - num: 6
+    type: Aria
+    voices: ''
+    instruments: gli stromenti all'unisono, Continuo
+    de: |-
+      Seele (S), Jesus (B)
+      Sopran
+      Wie soll ich dich, Liebster der Seelen, umfassen?
+      Bass
+      Du musst dich verleugnen und alles verlassen!
+      Sopran
+      Wie soll ich erkennen das ewige Licht?
+      Bass
+      Erkenne mich gläubig und ärgre dich nicht!
+      Sopran
+      Komm, lehre mich, Heiland, die Erde verschmähen!
+      Bass
+      Komm, Seele, durch Leiden zur Freude zu gehen!
+      Sopran
+      Ach, ziehe mich, Liebster, so folg ich dir nach!
+      Bass
+      Dir schenk ich die Krone nach Trübsal und Schmach.
+scoring: 'Soli: S B, Flauto, Oboe, Viola d''amore, Viola da gamba, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+  opening: Sinfonia
+  closing: Aria
+  voice_profile:
+    B: 3
+    S: 1
+  instrumentation_families:
+    - oboe
+    - recorder
+    - viola_da_gamba
+    - viola_damore
+wiki:
+  summary: "Tritt auf die Glaubensbahn, BWV\_152, is a church cantata by Johann Sebastian Bach. He composed this dialogue cantata in Weimar for the Sunday after Christmas and first performed it on 30 December 1714."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BWV152-sinfonia.jpg/330px-BWV152-sinfonia.jpg
+  url: https://en.wikipedia.org/wiki/Tritt_auf_die_Glaubensbahn%2C_BWV_152
+  summary_html: "<p><b><span><i lang=\"de\">Tritt auf die Glaubensbahn</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>152</b>, is a church cantata by Johann Sebastian Bach. He composed this dialogue cantata in Weimar for the Sunday after Christmas and first performed it on 30 December 1714.</p>"
+performances:
+  - id: 6BzyiwI7Oe8
+    title: J.S. Bach Cantata BWV 152
+    channel: Charles Fischer
+    performer: Charles Fischer
+    place: ''
+    year: '2015'
+    duration: '18:32'
+    thumbnail: https://img.youtube.com/vi/6BzyiwI7Oe8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6BzyiwI7Oe8
+  - id: XMpmY9OQG1s
+    title: J.S. Bach - BWV 152 (Walk in the way of faith)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '18:50'
+    thumbnail: https://img.youtube.com/vi/XMpmY9OQG1s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XMpmY9OQG1s
+key: E minor

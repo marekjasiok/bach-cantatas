@@ -1,0 +1,367 @@
+bwv: '21'
+title: Ich hatte viel Bekümmernis
+cycle: EARLY
+occasion: Trinity III
+date: '1714-06-17'
+url: https://en.wikipedia.org/wiki/BWV_21
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe, Violino I/II, Viola, Fagotto, Organo e Continuo
+    de: ''
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: Oboe, Violino I/II, Viola, Fagotto, Organo e Continuo
+    de: |-
+      Ich hatte viel Bekümmernis
+      in meinem Herzen;
+      aber deine Tröstungen erquicken meine Seele.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Oboe, Organo e Continuo
+    de: |-
+      Seufzer, Tränen, Kummer, Not,
+      Ängstlichs Sehnen, Furcht und Tod
+      Nagen mein beklemmtes Herz,
+      Ich empfinde Jammer, Schmerz.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Fagotto, Organo e Continuo
+    de: |-
+      Wie hast du dich, mein Gott,
+      In meiner Not,
+      In meiner Furcht und Zagen
+      Denn ganz von mir gewandt?
+      Ach! kennst du nicht dein Kind?
+      Ach! hörst du nicht das Klagen
+      Von denen, die dir sind
+      Mit Bund und Treu verwandt?
+      Da warest meine Lust
+      Und bist mir grausam worden;
+      Ich suche dich an allen Orten,
+      Ich ruf und schrei dir nach,
+      Allein mein Weh und Ach!
+      Scheint itzt, als sei es dir ganz unbewusst.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Fagotto, Organo e Continuo
+    de: |-
+      Bäche von gesalznen Zähren,
+      Fluten rauschen stets einher.
+      Sturm und Wellen mich versehren,
+      Und dies trübsalsvolle Meer
+      Will mir Geist und Leben schwächen,
+      Mast und Anker wollen brechen,
+      Hier versink ich in den Grund,
+      Dort seh ich der Hölle Schlund.
+  - num: 6
+    type: Chorus
+    voices: SATB
+    instruments: Oboe, Violino I/II, Viola, Fagotto, Organo e Continuo
+    de: |-
+      Was betrübst du dich, meine Seele,
+      und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch
+      danken, dass er meines Angesichtes Hilfe und mein Gott ist.
+  - num: 7
+    type: Recitative
+    voices: ''
+    instruments: Violino I/II, Viola, Fagotto e Organo e Continuo
+    de: |-
+      Seele (S), Jesus (B)
+      Sopran
+      Ach Jesu, meine Ruh,
+      Mein Licht, wo bleibest du?
+      Bass
+      O Seele sieh! Ich bin bei dir.
+      Sopran
+      Bei mir?
+      Hier ist ja lauter Nacht.
+      Bass
+      Ich bin dein treuer Freund,
+      Der auch im Dunkeln wacht,
+      Wo lauter Schalken seind.
+      Sopran
+      Brich doch mit deinem Glanz und Licht des Trostes ein.
+      Bass
+      Die Stunde kömmet schon,
+      Da deines Kampfes Kron'
+      Dir wird ein süßes Labsal sein.
+  - num: 8
+    type: Aria
+    voices: ''
+    instruments: Organo e Continuo
+    de: |-
+      Seele (S), Jesus (B)
+      Sopran
+      Komm, mein Jesu, und erquicke,
+      Bass
+      Ja, ich komme und erquicke
+      Sopran
+      Und erfreu mit deinem Blicke.
+      Bass
+      Dich mit meinem Gnadenblicke,
+      Sopran
+      Diese Seele,
+      Bass
+      Deine Seele,
+      Sopran
+      Die soll sterben,
+      Bass
+      Die soll leben,
+      Sopran
+      Und nicht leben
+      Bass
+      Und nicht sterben
+      Sopran
+      Und in ihrer Unglückshöhle
+      Bass
+      Hier aus dieser wunden Höhle
+      Sopran
+      Ganz verderben?
+      Bass
+      Sollst du erben
+      Sopran
+      Ich muss stets in Kummer schweben,
+      Bass
+      Heil! durch diesen Saft der Reben,
+      Sopran
+      Ja, ach ja, ich bin verloren!
+      Bass
+      Nein, ach nein, du bist erkoren!
+      Sopran
+      Nein, ach nein, du hassest mich!
+      Bass
+      Ja, ach ja, ich liebe dich!
+      Sopran
+      Ach, Jesu, durchsüße mir Seele und Herze,
+      Bass
+      Entweichet, ihr Sorgen, verschwinde, du Schmerze!
+      Sopran
+      Komm, mein Jesus, und erquicke
+      Bass
+      Ja, ich komme und erquicke
+      Sopran
+      Mit deinem Gnadenblicke!
+      Bass
+      Dich mit meinem Gnadenblicke
+  - num: 9
+    type: Chorus
+    voices: SATB
+    instruments: Oboe, Violino I-III, Trombone I-IV, Fagotto, Organo e Continuo
+    de: |-
+      Sei nun wieder zufrieden, meine Seele,
+      denn der Herr tut dir Guts.
+      Tenor
+      Was helfen uns die schweren Sorgen,
+      Was hilft uns unser Weh und Ach?
+      Was hilft es, dass wir alle Morgen
+      Beseufzen unser Ungemach?
+      Wir machen unser Kreuz und Leid
+      Nur größer durch die Traurigkeit.
+      Sopran
+      Denk nicht in deiner Drangsalshitze,
+      Dass du von Gott verlassen seist,
+      Und dass Gott der im Schoße sitze,
+      Der sich mit stetem Glücke speist.
+      Die folgend Zeit verändert viel
+      Und setzet jeglichem sein Ziel.
+  - num: 10
+    type: Aria
+    voices: T
+    instruments: Organo e Continuo
+    de: |-
+      Erfreue dich, Seele, erfreue dich, Herze,
+      Entweiche nun, Kummer, verschwinde, du Schmerze!
+      Verwandle dich, Weinen, in lauteren Wein,
+      Es wird nun mein Ächzen ein Jauchzen mir sein!
+      Es brennet und sammet die reineste Kerze
+      Der Liebe, des Trostes in Seele und Brust,
+      Weil Jesus mich tröstet mit himmlischer Lust.
+  - num: 11
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe, Violino I/II, Viola, Fagotto, Organo, Continuo
+    de: |-
+      Das Lamm, das erwürget ist,
+      ist würdig zu nehmen Kraft und Reichtum und Weisheit
+      und Stärke und Ehre und Preis und Lob.
+      Lob und Ehre und Preis und Gewalt sei unserm
+      Gott von Ewigkeit zu Ewigkeit. Amen, Alleluja!
+scoring: >-
+  Soli: S T B, Coro: S A T B, Tromba I-III, Trombone I-IV, Tamburi, Oboe, Violino I/II, Viola e Fagotto e Organo,
+  Continuo
+features:
+  structure:
+    - Sinfonia
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Chorus
+    - Recitative
+    - Aria
+    - Chorus
+    - Aria
+    - Chorus
+  opening: Sinfonia
+  closing: Chorus
+  voice_profile:
+    SATB: 3
+    S: 1
+    T: 4
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - organ
+    - timpani
+    - tromba
+    - trombone
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ich hatte viel Bekümmernis, BWV\_21 in Weimar, possibly in 1713, partly even earlier. He used it in 1714 and later for the third Sunday after Trinity of the liturgical year. The work marks a transition between motet style on biblical and hymn text to operatic recitatives and arias on contemporary poetry. Bach catalogued the work as e per ogni tempo, indicating that due to its general theme, the cantata is suited for any occasion."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Ich_hatte_viel_Bek%C3%BCmmernis%2C_BWV_21
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ich hatte viel Bekümmernis</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>21</b> in Weimar, possibly in 1713, partly even earlier. He used it in 1714 and later for the third Sunday after Trinity of the liturgical year. The work marks a transition between motet style on biblical and hymn text to operatic recitatives and arias on contemporary poetry. Bach catalogued the work as <span><i lang=\"it\">e per ogni tempo</i></span>, indicating that due to its general theme, the cantata is suited for any occasion.</p>"
+performances:
+  - id: JGT0iPpU9is
+    title: Bach - Cantata Ich hatte viel Bekümmernis BWV 21 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Weimar
+    year: 22 April 2021
+    duration: '39:04'
+    thumbnail: https://img.youtube.com/vi/JGT0iPpU9is/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JGT0iPpU9is
+  - id: lrOEeaszcTs
+    title: "Bach\_: Cantate BWV 21, Sinfonia"
+    channel: France Musique concerts
+    performer: France Musique concerts
+    place: Paris
+    year: '2026'
+    duration: '3:30'
+    thumbnail: https://img.youtube.com/vi/lrOEeaszcTs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lrOEeaszcTs
+  - id: rNgQ8tK08EU
+    title: J. S. Bach - Cantata BWV 21 "Ich hatte viel Bekümmernis" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Gott
+    year: '2018'
+    duration: '42:16'
+    thumbnail: https://img.youtube.com/vi/rNgQ8tK08EU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rNgQ8tK08EU
+  - id: JnNIRsUwG7Q
+    title: 'J.S. Bach: Cantata, BWV 21: Ich hatte viel Bekümmernis (Arr. Ólafsson for Piano)'
+    channel: Víkingur Ólafsson
+    performer: Víkingur Ólafsson
+    place: Berlin
+    year: '2024'
+    duration: '3:20'
+    thumbnail: https://img.youtube.com/vi/JnNIRsUwG7Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JnNIRsUwG7Q
+  - id: UNP9yVn2iP0
+    title: Bach - Sinfonia from Cantata Ich hatte viel Bekümmernis BWV 21 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Stadsgehoorzaal
+    year: '2019'
+    duration: '3:05'
+    thumbnail: https://img.youtube.com/vi/UNP9yVn2iP0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=UNP9yVn2iP0
+  - id: z05PFs4Bba8
+    title: 'Bach: Cantata 21 - Sinfonia - Il Gardellino'
+    channel: pannonia77
+    performer: pannonia77
+    place: ''
+    year: ''
+    duration: '2:50'
+    thumbnail: https://img.youtube.com/vi/z05PFs4Bba8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=z05PFs4Bba8
+  - id: mzu_6ZaF1R8
+    title: 'Bach: Sacred cantatas - Volume VI | Raphaël Pichon & Ensemble Pygmalion'
+    channel: Frescos ayres del prado
+    performer: Frescos ayres del prado
+    place: ''
+    year: '2025'
+    duration: '1:15:40'
+    thumbnail: https://img.youtube.com/vi/mzu_6ZaF1R8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mzu_6ZaF1R8
+  - id: uAZwODQ1Nzk
+    title: 'J.S. Bach - Cantata BWV 21: Aria "Seufzer, Tränen, Kummer, Not"'
+    channel: wocomoMUSIC
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '4:19'
+    thumbnail: https://img.youtube.com/vi/uAZwODQ1Nzk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uAZwODQ1Nzk
+  - id: jYJ5ms2KRJw
+    title: J.S. Bach - BWV 21 (My heart was deeply troubled)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '43:57'
+    thumbnail: https://img.youtube.com/vi/jYJ5ms2KRJw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jYJ5ms2KRJw
+  - id: CDUU_uc6FZk
+    title: J.S Bach - Das Lamm, das erwürget ist (Fugue). {From BWV 21.} w/ score.
+    channel: TheOneAndOnlyZeno
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '3:40'
+    thumbnail: https://img.youtube.com/vi/CDUU_uc6FZk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CDUU_uc6FZk
+  - id: ZT9AQhxUPp0
+    title: J.S.Bach - Cantates BWV 21 & 42 - Ph. Herreweghe
+    channel: Miguel Zampedri
+    performer: Herreweghe
+    place: ''
+    year: ''
+    duration: '1:04:26'
+    thumbnail: https://img.youtube.com/vi/ZT9AQhxUPp0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ZT9AQhxUPp0
+  - id: XtAbIJeqRJ8
+    title: J.S. Bach - Cantata BWV 21 Ich hatte viel Bekümmernis - Was betrübst du dich
+    channel: Pygmalion - Raphaël Pichon
+    performer: Pygmalion - Raphaël Pichon
+    place: Johanssen
+    year: '2017'
+    duration: '3:39'
+    thumbnail: https://img.youtube.com/vi/XtAbIJeqRJ8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XtAbIJeqRJ8
+  - id: f_txMyENNBQ
+    title: 'BACH: Cantata BWV 21 Ich hatte viel Bekümmernis｜Karl Richter 1969｜Dual Subtitles(DE/EN/KR)'
+    channel: 2SubsMusic
+    performer: Richter
+    place: Jesu
+    year: '1969'
+    duration: '43:45'
+    thumbnail: https://img.youtube.com/vi/f_txMyENNBQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=f_txMyENNBQ
+  - id: WzLWT8VxaBo
+    title: Ich hatte viel Bekümmernis BWV 21 Nr. 2 Bekümmernis Einstudierung Alt
+    channel: Wolfgang Hochstrate
+    performer: Wolfgang Hochstrate
+    place: ''
+    year: ''
+    duration: '4:07'
+    thumbnail: https://img.youtube.com/vi/WzLWT8VxaBo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WzLWT8VxaBo
+  - id: 9sG8hTkE5xc
+    title: 'J.S. Bach, Kantate BWV 21: 9 Coro „Sei nun wieder zufrieden“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2015'
+    duration: '5:32'
+    thumbnail: https://img.youtube.com/vi/9sG8hTkE5xc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9sG8hTkE5xc
+key: C minor

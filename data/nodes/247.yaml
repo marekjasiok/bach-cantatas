@@ -1,0 +1,467 @@
+bwv: '247'
+title: Markuspassion
+occasion: Good Friday
+cycle: PICANDER
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: ''
+    de: |-
+      Geh, Jesu, geh zu Deiner Pein!
+      Ich will so lange Dich beweinen,
+      Bis mir Dein Trost wird wieder scheinen,
+      Da ich versöhnet werde sein.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Sie stellen uns wie Ketzern nach,
+      Nach unserm Blut sie trachten,
+      Noch rühmen sie sich Christen auch,
+      Die Gott allein groß achten.
+      Ach Gott! Der teure Name Dein,
+      Muss ihrer Schalkheit Deckel sein,
+      Du wirst einmal aufwachen.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Mir hat die Welt trüglich gericht,
+      Mit Lügen und mit falschen G'dicht,
+      Viel Netz und heimlich Stricke.
+      Herr nimm mein wahr,
+      In dieser G'fahr,
+      B'hüt mich vor falschen Tücken.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Ich, ich und meine Sünden,
+      Die sich wie Körnlein finden
+      Des Sandes an dem Meer.
+      Die haben Dir erreget
+      Das Elend, das Dich schläget,
+      Und das betrübte Marter-Heer.
+  - num: 9
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Mein Heiland, Dich vergess ich nicht,
+      Ich hab Dich in mich verschlossen,
+      Und Deinen Leib und Blut genossen,
+      Und meinen Trost auf Dich gericht'.
+  - num: 11
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Wach auf, oh Mensch, vom Sünden-Schlaf
+      Ermuntre Dich, verlorenes Schaf,
+      Und bessre bald Dein Leben!
+      Wach auf, es ist doch hohe Zeit,
+      Es kommt heran die Ewigkeit,
+      Dir Deinen Lohn zu geben.
+      Vielleicht ist heut der letzte,
+      Wer weiß noch, wie man sterben mag.
+  - num: 13
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Betrübtes Herz, sei wohlgemut,
+      Tu nicht sogar verzagen.
+      Es wird noch werden alles gut,
+      All dein Kreuz, Not und Klagen
+      Wirid sich in lauter Fröhlichkeit
+      Verwandeln in gar kurzer Zeit,
+      das wirst du wohl erfahren
+  - num: 15
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Mach's mit mir Gott nach Deiner Güt,
+      Hilf mir in meinem Leiden,
+      Was ich Dich bitt, versag mich nicht,
+      Wenn sich mein Seel soll scheiden.
+      So nimm sie, Herr, in Deine Händ,
+      Ist alles gut, wenn gut das End.
+  - num: 17
+    type: Aria
+    voices: S
+    instruments: ''
+    de: |-
+      Er kommt, er kommt, er ist vorhanden!
+      Mein Jesu, Ach! Er suchet Dich,
+      Entfliehe doch, und lasse mich
+      Mein Heil, statt Deiner in den Banden.
+  - num: 19
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Falsche Welt, dein schmeichelnd Küssen,
+      Ist der frommen Seelen Gift.
+      Deine Zungen sind voll Stechen,
+      Und die Worte, die sie prechen,
+      Sind zu Fallen angestift.
+  - num: 21
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Jesu, ohne Missetat,
+      Im Garten Vorhanden,
+      Da man dich gebunden hat
+      Fest mit harten Banden.
+      Wenn uns will der böse Feind
+      Mit der Sünde binden,
+      So lass uns, oh Menschenfreund!
+      Dadurch Lösung finden.
+  - num: 23
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Ich will hier bei Dir stehen,
+      Verlasse mich doch nicht,
+      Von Dir will ich nicht gehn,
+      Wenn Dir Dein Herze bricht,
+      Wenn Dein Haupt wird erblassen
+      Im letzten Todesstoß,
+      alsdann will Dich fassen
+      in meinen Arm und Schoß.
+  - num: 24
+    type: Aria
+    voices: T
+    instruments: ''
+    de: |-
+      Mein Tröster ist nicht mehr bei mir, mein Jesu, soll ich
+      Dich verlieren, und zum Verderben sehen führen?
+      Das kömmt der Seele schmerzlich für.
+      Der Unschuld, welche nichts verbrochen,
+      Dem Lamm, das ohne Missetat
+      Wird in dem ungerechten Rat
+      Ein Todesurteil zugesprochen.
+  - num: 26
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Was Menschen Kraft und Witz anfässt,
+      Soll und billig nicht schrecken,
+      Er sitzet an der höchsten Stätt,
+      Er wird ihr'n Rat aufdecken.
+      Wenn sie aufs klügste greifen an,
+      So geht doch Gott ein andre Bahn,
+      Es steht in seinen Händen.
+  - num: 28
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Befiehl Du Deine Wege,
+      Und was Dein Herze kränkt,
+      Der allertreusten Pflege,
+      Des, der den Himmel lenkt,
+      Der Wolken, Luft und Winden,
+      Gibt Wege, Lauf und Bahn,
+      Der wird auch Wege finden,
+      Da Dein Fuß gehen kann.
+  - num: 30
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Du edles Angesichtre,
+      Dafür sonst schrickt und scheut
+      Das große Weltgerichte,
+      Wie bist Du so bespeit,
+      Wie bist Du so erbleichet,
+      Wer hat Dein Augenlicht,
+      Dem sonst kein Licht nicht gleichet,
+      So schändlich zugericht?
+  - num: 32
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Herr, ich habe missgehandelt,
+      Ja mich, drückt der Sünden Last,
+      Ich bin nicht den Weg gewandelt,
+      Den Du mir gezeiget hast.
+      Und jetzt wollt ich gern aus Schrecken
+      Mich vor Deinem Zorn verstecken.
+  - num: 34
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Angenehmes Mordgeschrei!
+      Jesus soll am Kreuze sterben,
+      Nur damit ich vom Verderben
+      Der verdammten Seelen frei,
+      Damit mir Kreuz und Leiden,
+      Sanfte zu ertragen sei.
+  - num: 36
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Man hat Dich sehr hart verhöhnet
+      Dich mit großem Schimpf belegt
+      Und mit Dornen gar gekrönet:
+      Was hat Dich dazu bewegt?
+      Dass Du möchtest mich ergötzen,
+      Mir die Ehrenkron aufsetzen.
+      Tausendmal, tausendmal sei Dir,
+      Liebster Jesu, Dank dafür.
+  - num: 38
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Das Wort sie sollen lassen stahn,
+      Und keinen Dank dazu haben:
+      Er ist bei uns wohl auf dem Plan
+      Mit seinem Geist und Gaben.
+      Nehmen sie uns den Leib,
+      Gut, Ehr, Kind und Weib,
+      Lass fahren dahin,
+      Sie haben's kein Gewinn,
+      Das Reich Gotts muss uns bleiben.
+  - num: 40
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Keinen hat Gott verlassen,
+      Der ihm vertraut allzeit,
+      Und ob ihn gleich viel hassen,
+      Geschieht ihm doch kein Leid;
+      Gott will die Seinen schützen,
+      Zuletzt erheben doch,
+      Und geben was ihn'n nützet,
+      Hier zeitlich und auch dort.
+  - num: 42
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Welt und Himmel nehmt zu Ohren
+      Jesus schreiet überlaut.
+      Allen Sündern sagt er an,
+      Dass ihm nun genug getan,
+      Dass das Eden aufgebaut,
+      Welches wir zuvor verloren.
+  - num: 44
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      O! Jesu Du,
+      Mein Hilf und Ruh!
+      Ich bitte Dich mit Tränen,
+      Hilf, dass ich mich bis ins Grab
+      Nach Dir möge sehnen.
+  - num: 46
+    type: Chorus
+    voices: SATB
+    instruments: ''
+    de: |-
+      Bei Deinem Grab und Leichenstein,
+      Will ich mich stets, mein Jesu, weiden
+      Und über Dein verdienstlich Leiden,
+      Von Herzen froh und dankbar sein.
+      Schau, diese Grabschrift sollst Du haben;
+      Mein Leben kommt aus Deinem Tod,
+      Hier hab ich meine Sündennot
+      Und Jesum selbst in mich begraben.
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Chorale
+    - Chorale
+    - Aria
+    - Chorale
+    - Chorale
+    - Chorale
+    - Aria
+    - Aria
+    - Chorale
+    - Chorale
+    - Aria
+    - Chorale
+    - Chorale
+    - Chorale
+    - Chorale
+    - Aria
+    - Chorale
+    - Chorale
+    - Chorale
+    - Aria
+    - Chorale
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 18
+    S: 1
+    T: 1
+  instrumentation_families: []
+wiki:
+  summary: >-
+
+    The St Mark Passion, BWV 247, is a lost Passion setting by Johann Sebastian Bach, first performed in Leipzig on Good
+    Friday, 23 March 1731. Though Bach's music is lost, the libretto by Picander is still extant, and from this, the
+    work can to some degree be reconstructed.
+  image: null
+  url: https://en.wikipedia.org/wiki/St_Mark_Passion%2C_BWV_247
+  summary_html: >-
+    <p>
+
+    The <i><b>St Mark Passion</b></i>, BWV 247, is a lost Passion setting by Johann Sebastian Bach, first performed in
+    Leipzig on Good Friday, 23 March 1731. Though Bach's music is lost, the libretto by Picander is still extant, and
+    from this, the work can to some degree be reconstructed.</p>
+performances:
+  - id: rYueS2v7_Xc
+    title: 'J. S. Bach: Passion selon Saint Marc BWV 247 - Chœur initial'
+    channel: Carus-Verlag GmbH & Co. KG
+    performer: Carus-Verlag GmbH & Co. KG
+    place: Dresden
+    year: ''
+    duration: '5:40'
+    thumbnail: https://img.youtube.com/vi/rYueS2v7_Xc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rYueS2v7_Xc
+  - id: IYMfT60sNg0
+    title: 'Bach: Markus passion, sacred oratorio, BWV 247 | Ton Koopman & Amsterdam Baroque Orquestra'
+    channel: Oedipus Coloneus
+    performer: Koopman
+    place: Amsterdam
+    year: '2022'
+    duration: '2:05:25'
+    thumbnail: https://img.youtube.com/vi/IYMfT60sNg0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IYMfT60sNg0
+  - id: ceaYdEPOF7k
+    title: Bach Markus Passion BWV 247 reconstructed by Ton Koopman
+    channel: Felices Cantus Bach Oratorio
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '2:01:33'
+    thumbnail: https://img.youtube.com/vi/ceaYdEPOF7k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ceaYdEPOF7k
+  - id: XNmnRgvAebc
+    title: J.S. Bach - BWV 247 (St Mark Passion)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '1:58:10'
+    thumbnail: https://img.youtube.com/vi/XNmnRgvAebc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XNmnRgvAebc
+  - id: ECxJ47u7k3o
+    title: Bach   Passion selon Saint Marc BWV 247 livret de 1744
+    channel: Ma Àngels Lorés Otzet
+    performer: Ma Àngels Lorés Otzet
+    place: ''
+    year: ''
+    duration: '1:48:17'
+    thumbnail: https://img.youtube.com/vi/ECxJ47u7k3o/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ECxJ47u7k3o
+  - id: uQNBDsDdLeE
+    title: Bach - Cantata Christ lag in Todesbanden BWV 4 - Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: Todes Banden
+    year: '2023'
+    duration: '18:37'
+    thumbnail: https://img.youtube.com/vi/uQNBDsDdLeE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uQNBDsDdLeE
+  - id: V8zPoLLoRZg
+    title: Bach - Cantata In allen meinen Taten BWV 97 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Philharmonie Haarlem
+    year: 20 June 2022
+    duration: '26:33'
+    thumbnail: https://img.youtube.com/vi/V8zPoLLoRZg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=V8zPoLLoRZg
+  - id: oeD01lW7RcA
+    title: J. S. Bach - Markus-Passion BWV 247 (1744 version) - reconstructed by A. F. Grychtolik
+    channel: Miguel Zampedri
+    performer: Miguel Zampedri
+    place: Heiland
+    year: ''
+    duration: '1:53:50'
+    thumbnail: https://img.youtube.com/vi/oeD01lW7RcA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=oeD01lW7RcA
+  - id: IQfCXsCPOr4
+    title: BWV 247 - Markus Passion
+    channel: Bachcantates Tilburg
+    performer: Bachcantates Tilburg
+    place: Tilburg
+    year: 3 april 2022
+    duration: '2:02:49'
+    thumbnail: https://img.youtube.com/vi/IQfCXsCPOr4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IQfCXsCPOr4
+  - id: RLomk9sjCNo
+    title: Johann Sebastian Bach - BWV 247 Markuspassion
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Heiland
+    year: ''
+    duration: '1:48:16'
+    thumbnail: https://img.youtube.com/vi/RLomk9sjCNo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RLomk9sjCNo
+  - id: dowwwLOzo1Q
+    title: 'Johann Sebastian Bach (1685-1750): MARKUS-PASSION BWV 247'
+    channel: Musique des Lumières
+    performer: Musique des Lumières
+    place: ''
+    year: 20 April 2022
+    duration: '2:58'
+    thumbnail: https://img.youtube.com/vi/dowwwLOzo1Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dowwwLOzo1Q
+  - id: 1GljcalZYbk
+    title: 'Johann Sebastian Bach (1685-1750): MARKUS-PASSION BWV 247'
+    channel: Musique des Lumières
+    performer: Musique des Lumières
+    place: ''
+    year: 20 April 2022
+    duration: '5:51'
+    thumbnail: https://img.youtube.com/vi/1GljcalZYbk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1GljcalZYbk
+  - id: h97JE4--p84
+    title: Bach - Cantata Herz und Mund und Tat und Leben BWV 147 - Creed | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Leipzig
+    year: '2018'
+    duration: '30:18'
+    thumbnail: https://img.youtube.com/vi/h97JE4--p84/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=h97JE4--p84
+  - id: 38TS7EOGo9A
+    title: 'Johann Sebastian Bach: Kantata BWV 147 - Nikolaus Harnoncourt (HD 1080p)'
+    channel: Faces of Classical Music – 2
+    performer: Harnoncourt
+    place: Austria
+    year: '2000'
+    duration: '32:30'
+    thumbnail: https://img.youtube.com/vi/38TS7EOGo9A/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=38TS7EOGo9A
+  - id: _kAldh3LTZo
+    title: 'J.S.Bach Markus Passion BWV 247, 46: Chorus "Bei deinem Grab und Leichenstein"'
+    channel: MusicAtLiebfrauen
+    performer: MusicAtLiebfrauen
+    place: ''
+    year: ''
+    duration: '6:26'
+    thumbnail: https://img.youtube.com/vi/_kAldh3LTZo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_kAldh3LTZo

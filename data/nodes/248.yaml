@@ -1,0 +1,145 @@
+bwv: '248'
+title: Weihnachtsoratorium
+occasion: Christmas Day
+cycle: C3
+wiki:
+  summary: "The Christmas Oratorio, BWV 248, is an oratorio by Johann Sebastian Bach intended for performance in church during the Christmas season. It is in six parts, each part a cantata intended for performance in a church service on a feast day of the Christmas period. It was written for the Christmas season of 1734 and incorporates music from earlier compositions, including three secular cantatas written during 1733 and 1734 and a largely lost church cantata, BWV\_248a. The date is confirmed in Bach's autograph manuscript. The next complete public performance was not until 17 December 1857 by the Sing-Akademie zu Berlin under Eduard Grell. The Christmas Oratorio is a particularly sophisticated example of parody music. The author of the text is unknown, although a likely collaborator was Christian Friedrich Henrici (Picander)."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/BWV_248_Autograph.jpg/330px-BWV_248_Autograph.jpg
+  url: https://en.wikipedia.org/wiki/Christmas_Oratorio
+  summary_html: "<p>The <i><b>Christmas Oratorio</b></i>, <b><span class=\"nowrap\">BWV 248</span></b>, is an oratorio by Johann Sebastian Bach intended for performance in church during the Christmas season. It is in six parts, each part a cantata intended for performance in a church service on a feast day of the Christmas period. It was written for the Christmas season of 1734 and incorporates music from earlier compositions, including three secular cantatas written during 1733 and 1734 and a largely lost church cantata, BWV\_248a. The date is confirmed in Bach's autograph manuscript. The next complete public performance was not until 17 December 1857 by the Sing-Akademie zu Berlin under Eduard Grell. The <i>Christmas Oratorio</i> is a particularly sophisticated example of parody music. The author of the text is unknown, although a likely collaborator was Christian Friedrich Henrici (Picander).</p>"
+performances:
+  - id: '-4Anu6qvhrM'
+    title: J. S. Bach - Cantata BWV 248 "Weihnachtsoratorium" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2017'
+    duration: '2:34:56'
+    thumbnail: https://img.youtube.com/vi/-4Anu6qvhrM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-4Anu6qvhrM
+  - id: PhhRDst_l10
+    title: Bach - Jauchzet, frohlocket! from Christmas Oratorio BWV 248 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Muziekcentrum voor de Omroep
+    year: '2023'
+    duration: '25:40'
+    thumbnail: https://img.youtube.com/vi/PhhRDst_l10/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PhhRDst_l10
+  - id: 30Y5BqK5f34
+    title: 'Bach: Christmas Oratorio, BWV 248 | St. Thomas Choir & Leipzig Gewandhaus Orchestra'
+    channel: DW Classical Music
+    performer: DW Classical Music
+    place: St
+    year: '2018'
+    duration: '2:28:15'
+    thumbnail: https://img.youtube.com/vi/30Y5BqK5f34/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=30Y5BqK5f34
+  - id: zy0NOeAKvng
+    title: 'Bach: Christmas Oratorio BWV 248, Cantatas 1, 4, 5 and 6 - Netherlands Bach Society - Live HD'
+    channel: AVROTROS Klassiek
+    performer: AVROTROS Klassiek
+    place: TivoliVredenburg te Utrecht
+    year: 13 december 2024
+    duration: '1:42:54'
+    thumbnail: https://img.youtube.com/vi/zy0NOeAKvng/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zy0NOeAKvng
+  - id: 98UjjwzJBFE
+    title: Bach - Christmas Oratorio [1-3] Harnoncourt
+    channel: Thanasis Baltas
+    performer: Harnoncourt
+    place: ''
+    year: ''
+    duration: '1:19:36'
+    thumbnail: https://img.youtube.com/vi/98UjjwzJBFE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=98UjjwzJBFE
+  - id: 01th5JuIAk4
+    title: Bach - Weihnachtsoratorium - Kantate I-VI | Akademie für Alte Musik Berlin | NDR Vokalensemble
+    channel: ARD Klassik
+    performer: ARD Klassik
+    place: Holger Speck
+    year: '2023'
+    duration: '2:32:44'
+    thumbnail: https://img.youtube.com/vi/01th5JuIAk4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=01th5JuIAk4
+  - id: IkdV-i1xqx4
+    title: J. S. Bach - Cantata BWV 248 V "Ehre sei dir, Gott, gesungen" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2019'
+    duration: '26:05'
+    thumbnail: https://img.youtube.com/vi/IkdV-i1xqx4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IkdV-i1xqx4
+  - id: zbWLbmtZfwE
+    title: J. S. Bach - Cantata BWV 248 VI "Herr, wenn die stolzen Feinde schnauben" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2020'
+    duration: '27:20'
+    thumbnail: https://img.youtube.com/vi/zbWLbmtZfwE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zbWLbmtZfwE
+  - id: WIb6iwt3XeM
+    title: J. S. Bach - Cantata BWV 248 IV "Fallt mit Danken, fallt mit Loben" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2018'
+    duration: '26:12'
+    thumbnail: https://img.youtube.com/vi/WIb6iwt3XeM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WIb6iwt3XeM
+  - id: zpaNo4mWRBE
+    title: 'Bach: Christmas Oratorio BWV 248, part 1/2'
+    channel: EuroArtsChannel
+    performer: Gardiner
+    place: Weimar
+    year: ''
+    duration: '1:15:30'
+    thumbnail: https://img.youtube.com/vi/zpaNo4mWRBE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zpaNo4mWRBE
+  - id: yHTqP5s12eg
+    title: 'Johann Sebastian Bach: Christmas Oratorio  BWV 248 Part 1'
+    channel: Norwegian Chamber Orchestra
+    performer: Norwegian Chamber Orchestra
+    place: ''
+    year: ''
+    duration: '24:52'
+    thumbnail: https://img.youtube.com/vi/yHTqP5s12eg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yHTqP5s12eg
+  - id: SoBzgNOCAVg
+    title: Bach - Oratorio de Noël | Chœur de la radio WDR | Orchestre symphonique de la WDR
+    channel: ARD Klassik
+    performer: ARD Klassik
+    place: Liebster
+    year: '2024'
+    duration: '1:16:13'
+    thumbnail: https://img.youtube.com/vi/SoBzgNOCAVg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SoBzgNOCAVg
+  - id: MzFtclj2XOA
+    title: 'Johann Sebastian Bach: Christmas Oratorio BWV 248 – Thomanerchor Leipzig & Gewandhausorchester'
+    channel: accentusmusic
+    performer: accentusmusic
+    place: Leipzig
+    year: '2018'
+    duration: '2:30:37'
+    thumbnail: https://img.youtube.com/vi/MzFtclj2XOA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MzFtclj2XOA
+  - id: haqCBVhQTcw
+    title: Bach Weihnachtsoratorium BWV 248 Christmas Oratorio Nikolaus Harnoncourt HD
+    channel: Felices Cantus Bach Clavier
+    performer: Harnoncourt
+    place: Liebster
+    year: ''
+    duration: '2:30:42'
+    thumbnail: https://img.youtube.com/vi/haqCBVhQTcw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=haqCBVhQTcw
+  - id: ToDgtJdtWak
+    title: 'J. S. BACH: Weihnachts Oratorium BWV 248 No. 36'
+    channel: Purcell Choir & Orfeo Orchestra
+    performer: Purcell Choir & Orfeo Orchestra
+    place: ''
+    year: 20 December 2014
+    duration: '5:59'
+    thumbnail: https://img.youtube.com/vi/ToDgtJdtWak/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ToDgtJdtWak

@@ -1,0 +1,196 @@
+bwv: '186'
+title: Ärgre dich, o Seele, nicht
+cycle: C1
+occasion: Trinity VII
+date: '1723-07-11'
+url: https://en.wikipedia.org/wiki/BWV_186
+movements:
+  - num: 1
+    type: Chorus
+    voices: S, A, T, B
+    instruments: Oboe I e Violino I all' unisono, Oboe II e Violino II all' unisono, Fagotto, Continuo
+    de: |-
+      Ärgre dich, o Seele, nicht,
+      Dass das allerhöchste Licht,
+      Gottes Glanz und Ebenbild,
+      Sich in Knechtsgestalt verhüllt,
+      Ärgre dich, o Seele, nicht!
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Die Knechtsgestalt, die Not, der Mangel
+      Trifft Christi Glieder nicht allein,
+      Es will ihr Haupt selbst arm und elend sein.
+      Und ist nicht Reichtum, ist nicht Überfluss
+      Des Satans Angel,
+      So man mit Sorgfalt meiden muss?
+      Wird dir im Gegenteil
+      Die Last zu viel zu tragen,
+      Wenn Armut dich beschwert,
+      Wenn Hunger dich verzehrt,
+      Und willst sogleich verzagen,
+      So denkst du nicht an Jesum, an dein Heil.
+      Hast du wie jenes Volk nicht bald zu essen,
+      So seufzest du: Ach Herr, wie lange willst du mein vergessen?
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Bist du, der mir helfen soll,
+      Eilst du nicht, mir beizustehen?
+      Mein Gemüt ist zweifelsvoll,
+      Du verwirfst vielleicht mein Flehen;
+      Doch, o Seele, zweifle nicht,
+      Laß Vernunft dich nicht bestricken.
+      Deinen Helfer, Jakobs Licht,
+      Kannst du in der Schrift erblicken.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ach, dass ein Christ so sehr
+      Vor seinen Körper sorgt!
+      Was ist er mehr?
+      Ein Bau von Erden,
+      Der wieder muss zur Erde werden,
+      Ein Kleid, so nur geborgt.
+      Er könnte ja das beste Teil erwählen,
+      So seine Hoffnung nie betrügt:
+      Das Heil der Seelen,
+      So in Jesu liegt.
+      O selig! wer ihn in der Schrift erblickt,
+      Wie er durch seine Lehren
+      Auf alle, die ihn hören,
+      Ein geistlich Manna schickt!
+      Drum, wenn der Kummer gleich das Herze nagt und frisst,
+      So schmeckt und sehet doch, wie freundlich Jesus ist.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Oboe, Continuo
+    de: |-
+      Mein Heiland lässt sich merken
+      In seinen Gnadenwerken.
+      Da er sich kräftig weist,
+      Den schwachen Geist zu lehren,
+      Den matten Leib zu nähren,
+      Dies sättigt Leib und Geist.
+  - num: 6
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Ob sichs anließ, als wollt er nicht,
+      Laß dich es nicht erschrecken;
+      Denn wo er ist am besten mit,
+      Da will ers nicht entdecken.
+      Sein Wort lass dir gewisser sein,
+      Und ob dein Herz spräch lauter Nein,
+      So lass dir doch nicht grauen.
+      Zweiter Teil
+  - num: 7
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Es ist die Welt die große Wüstenei;
+      Der Himmel wird zu Erz, die Erde wird zu Eisen,
+      Wenn Christen durch den Glauben weisen,
+      Dass Christi Wort ihr größter Reichtum sei;
+      Der Nahrungssegen scheint
+      Von ihnen fast zu fliehen,
+      Ein steter Mangel wird beweint,
+      Damit sie nur der Welt sich desto mehr entziehen;
+      Da findet erst des Heilands Wort,
+      Der höchste Schatz,
+      In ihren Herzen Platz:
+      Ja, jammert ihn des Volkes dort,
+      So muss auch hier sein Herze brechen
+      Und über sie den Segen sprechen.
+  - num: 8
+    type: Aria
+    voices: S
+    instruments: Violino I/II all' unisono, Continuo
+    de: |-
+      Die Armen will der Herr umarmen
+      Mit Gnaden hier und dort;
+      Er schenket ihnen aus Erbarmen
+      Den höchsten Schatz, das Lebenswort.
+  - num: 9
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Nun mag die Welt mit ihrer Lust vergehen;
+      Bricht gleich der Mangel ein,
+      Doch kann die Seele freudig sein.
+      Wird durch dies Jammertal der Gang
+      Zu schwer, zu lang,
+      In Jesu Wort liegt Heil und Segen.
+      Es ist ihres Fußes Leuchte und ein Licht auf ihren Wegen.
+      Wer gläubig durch die Wüste reist,
+      Wird durch dies Wort getränkt, gespeist;
+      Der Heiland öffnet selbst, nach diesem Worte,
+      Ihm einst des Paradieses Pforte,
+      Und nach vollbrachtem Lauf
+      Setzt er den Gläubigen die Krone auf.
+  - num: 10
+    type: Aria
+    voices: S, A
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Laß, Seele, kein Leiden
+      Von Jesu dich scheiden,
+      Sei, Seele, getreu!
+      Dir bleibet die Krone
+      Aus Gnaden zu Lohne,
+      Wenn du von Banden des Leibes nun frei.
+  - num: 11
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Die Hoffnung wart' der rechten Zeit,
+      Was Gottes Wort zusaget.
+      Wenn das geschehen soll zur Freud,
+      Setzt Gott kein g'wisse Tage.
+      Er weiß wohl, wenn's am besten ist,
+      Und braucht an uns kein arge List,
+      Des solln wir ihm vertrauen.
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    S, A, T, B: 3
+    B: 3
+    T: 2
+    S: 1
+    A: 1
+    S, A: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+edges: {}
+key: G minor
+wiki:
+  summary: "Ärgre dich, o Seele, nicht, BWV\_186 is a church cantata by Johann Sebastian Bach. He composed it originally in Weimar in 1716 for Advent, BWV 186a, and expanded it in Leipzig in 1723 for the seventh Sunday after Trinity, where he first performed it on 11 July 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/%C3%84rgre_dich%2C_o_Seele%2C_nicht%2C_BWV_186
+  summary_html: "<p><b><span><i lang=\"de\">Ärgre dich, o Seele, nicht</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>186</b> is a church cantata by Johann Sebastian Bach. He composed it originally in Weimar in 1716 for Advent, <b><span class=\"nowrap\">BWV 186a</span></b>, and expanded it in Leipzig in 1723 for the seventh Sunday after Trinity, where he first performed it on 11 July 1723.</p>"

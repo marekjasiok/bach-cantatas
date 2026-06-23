@@ -1,0 +1,246 @@
+bwv: '179'
+title: Siehe zu, daß deine Gottesfurcht...
+cycle: C1
+occasion: Trinity XI
+date: '1723-08-08'
+url: https://en.wikipedia.org/wiki/BWV_179
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Siehe zu, dass deine Gottesfurcht nicht Heuchelei sei,
+      und diene Gott nicht mit falschem Herzen!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Das heutge Christentum
+      Ist leider schlecht bestellt:
+      Die meisten Christen in der Welt
+      Sind laulichte Laodicäer
+      Und aufgeblasne Pharisäer,
+      Die sich von außen fromm bezeigen
+      Und wie ein Schilf den Kopf zur Erde beugen,
+      Im Herzen aber steckt ein stolzer Eigenruhm;
+      Sie gehen zwar in Gottes Haus
+      Und tun daselbst die äußerlichen Pflichten,
+      Macht aber dies wohl einen Christen aus?
+      Nein, Heuchler könnens auch verrichten.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Falscher Heuchler Ebenbild
+      Können Sodomsäpfel heißen,
+      Die mit Unflat angefüllt
+      Und von außen herrlich gleißen.
+      Heuchler, die von außen schön,
+      Können nicht vor Gott bestehn.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wer so von innen wie von außen ist,
+      Der heißt ein wahrer Christ.
+      So war der Zöllner in dem Tempel,
+      Der schlug in Demut an die Brust,
+      Er legte sich nicht selbst ein heilig Wesen bei;
+      Und diesen stelle dir,
+      O Mensch, zum rühmlichen Exempel
+      In deiner Buße für;
+      Bist du kein Räuber, Ehebrecher,
+      Kein ungerechter Ehrenschwächer,
+      Ach bilde dir doch ja nicht ein,
+      Du seist deswegen engelrein!
+      Bekenne Gott in Demut deine Sünden,
+      So kannst du Gnad und Hilfe finden!
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe da caccia I/II, Continuo
+    de: |-
+      Liebster Gott, erbarme dich,
+      Lass mir Trost und Gnad erscheinen!
+      Meine Sünden kränken mich
+      Als ein Eiter in Gebeinen,
+      Hilf mir, Jesu, Gottes Lamm,
+      Ich versink im tiefen Schlamm!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Ich armer Mensch, ich armer Sünder
+      Steh hier vor Gottes Angesicht.
+      Ach Gott, ach Gott, verfahr gelinder
+      Und geh nicht mit mir ins Gericht!
+      Erbarme dich, erbarme dich,
+      Gott, mein Erbarmer, über mich!
+scoring: 'Soli: S T B, Coro: S A T B, Oboe I/II, Oboe da caccia I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    B: 1
+    S: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+key: C major
+performances:
+  - id: hP5zWviUyjM
+    title: 'Johann Sebastian Bach: Cantata BWV 179 - Magdalena Kožená, John Eliot Gardiner (Full HD 1080p)'
+    channel: Ifikratis Vlahos
+    performer: Gardiner
+    place: Wales
+    year: '2000'
+    duration: '16:33'
+    thumbnail: https://img.youtube.com/vi/hP5zWviUyjM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hP5zWviUyjM
+  - id: VL0ZiHGgXfw
+    title: Bach - Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei, BWV 179 (score)
+    channel: Lordlouckster
+    performer: Harnoncourt
+    place: Leipzig
+    year: ''
+    duration: '12:51'
+    thumbnail: https://img.youtube.com/vi/VL0ZiHGgXfw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=VL0ZiHGgXfw
+  - id: c8BBsf51bYU
+    title: J.S. Bach - Cantata 179 - V. Aria Liebster Gott, erbarme dich
+    channel: 0800 Na Faixa
+    performer: 0800 Na Faixa
+    place: ''
+    year: ''
+    duration: '5:31'
+    thumbnail: https://img.youtube.com/vi/c8BBsf51bYU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=c8BBsf51bYU
+  - id: _yaeQXLSTeE
+    title: 'J.S. Bach, Kantate BWV 179: Nr. 5 Arie "Liebster Gott, erbarme dich" | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2021'
+    duration: '5:28'
+    thumbnail: https://img.youtube.com/vi/_yaeQXLSTeE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_yaeQXLSTeE
+  - id: 447UaEheNTY
+    title: BACH Cantate 179 - 'Liebster Gott'
+    channel: Saskia Salembier
+    performer: Saskia Salembier
+    place: Eiter in Gebeinen
+    year: ''
+    duration: '6:33'
+    thumbnail: https://img.youtube.com/vi/447UaEheNTY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=447UaEheNTY
+  - id: GoLkKvaKafI
+    title: 'J. S. Bach:  Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei (BWV 179) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '13:57'
+    thumbnail: https://img.youtube.com/vi/GoLkKvaKafI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GoLkKvaKafI
+  - id: l4kadpznOhc
+    title: J.S. Bach - Cantata BWV 79 "Gott der Herr ist Sonn und Schild" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2017'
+    duration: '17:17'
+    thumbnail: https://img.youtube.com/vi/l4kadpznOhc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=l4kadpznOhc
+  - id: _JvWhkRgdPc
+    title: 'Bach, Cantata 179, 1. Chorus: Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei'
+    channel: smalin
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '2:22'
+    thumbnail: https://img.youtube.com/vi/_JvWhkRgdPc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_JvWhkRgdPc
+  - id: gyNHjZdRqZc
+    title: Johann Sebastian Bach - BWV 179 Cantata 'Siehe zu,deine Gottesfurcht nicht Heuchelei sei' in A minor
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Leipzig
+    year: ''
+    duration: '14:15'
+    thumbnail: https://img.youtube.com/vi/gyNHjZdRqZc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gyNHjZdRqZc
+  - id: eXBEs64oZkI
+    title: Johann Sebastian Bach, Cantata BWV 179, "Siehe zu, dass deine Gottesfurcht" (1723) - V. Aria
+    channel: huakinthoi
+    performer: huakinthoi
+    place: Eiter in Gebeinen
+    year: ''
+    duration: '5:37'
+    thumbnail: https://img.youtube.com/vi/eXBEs64oZkI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=eXBEs64oZkI
+  - id: BzKAgT4-3_Y
+    title: J. S.  Bach – Cantatas BWV 105, 46, 179, 199.3, 69.1, 77, 25, 199 – H.- Ch. Rademann (2024)
+    channel: Miguel Zampedri
+    performer: Rademann
+    place: Gott
+    year: '2024'
+    duration: '2:31:52'
+    thumbnail: https://img.youtube.com/vi/BzKAgT4-3_Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BzKAgT4-3_Y
+  - id: lCY4-DISWXE
+    title: J.S. Bach Cantata Siehe zu dass deine Gottesfurcht nicht Heuchelei sei BWV 179
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: ''
+    year: ''
+    duration: '14:39'
+    thumbnail: https://img.youtube.com/vi/lCY4-DISWXE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lCY4-DISWXE
+  - id: 7Zm4-cigcZ4
+    title: J.S. Bach - BWV 179 (See to it that thy fear of God be not hypocrisy)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '14:42'
+    thumbnail: https://img.youtube.com/vi/7Zm4-cigcZ4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7Zm4-cigcZ4
+  - id: CcQgjjp7Rbs
+    title: BWV 179/1
+    channel: BACH cantatas DeJongDeJong
+    performer: BACH cantatas DeJongDeJong
+    place: ''
+    year: ''
+    duration: '4:20'
+    thumbnail: https://img.youtube.com/vi/CcQgjjp7Rbs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CcQgjjp7Rbs
+  - id: YX5iK0sBDgo
+    title: 'J.S. Bach, Kantate BWV 179: Nr. 6 Choral "Ich armer Mensch, ich Sündenknecht" | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2021'
+    duration: '1:15'
+    thumbnail: https://img.youtube.com/vi/YX5iK0sBDgo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YX5iK0sBDgo
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei, BWV\_179 in Leipzig for the eleventh Sunday after Trinity and first performed it on 8 August 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BasilikaOttobeurenFresko07.JPG/330px-BasilikaOttobeurenFresko07.JPG
+  url: https://en.wikipedia.org/wiki/Siehe_zu%2C_da%C3%9F_deine_Gottesfurcht_nicht_Heuchelei_sei%2C_BWV_179
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>179</b> in Leipzig for the eleventh Sunday after Trinity and first performed it on 8 August 1723.</p>"

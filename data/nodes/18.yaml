@@ -1,0 +1,167 @@
+bwv: '18'
+title: Gleichwie der Regen und Schnee...
+cycle: EARLY
+occasion: Sexagesima
+date: '1713'
+url: https://en.wikipedia.org/wiki/BWV_18
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Flauto I/II, Viola I-IV, Fagotto, Violoncello, Continuo
+    de: ''
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Fagotto, Continuo
+    de: |-
+      Gleichwie der Regen und Schnee vom Himmel fällt
+      und nicht wieder dahin kommet, sondern feuchtet die Erde und macht
+      sie fruchtbar und wachsend, dass sie gibt Samen zu säen
+      und Brot zu essen: Also soll das Wort, so aus meinem Munde gehet,
+      auch sein; es soll nicht wieder zu mir leer kommen, sondern tun,
+      das mir gefället, und soll ihm gelingen, dazu ich's sende.
+  - num: 3
+    type: Recitative
+    voices: ''
+    instruments: Flauto I/II, Viola I-IV, Fagotto, Continuo
+    de: |-
+      Tenor
+      Mein Gott, hier wird mein Herze sein:
+      Ich öffne dir's in meines Jesu Namen;
+      So streue deinen Samen
+      Als in ein gutes Land hinein.
+      Mein Gott, hier wird mein Herze sein:
+      Lass solches Frucht, und hundertfältig, bringen.
+      O Herr, Herr, hilf! o Herr, lass wohlgelingen!
+      Du wollest deinen Geist und Kraft zum Wortegeben
+      Erhör uns, lieber Herre Gott!
+      Bass
+      Nur wehre, treuer Vater, wehre,
+      Dass mich und keinen Christen nicht
+      Des Teufels Trug verkehre.
+      Sein Sinn ist ganz dahin gericht',
+      Uns deines Wortes zu berauben
+      Mit aller Seligkeit.
+      Den Satan unter unsre Füße treten.
+      Erhör uns, lieber Herre Gott!
+      Tenor
+      Ach! viel verleugnen Wort und Glauben
+      Und fallen ab wie faules Obst,
+      Wenn sie Verfolgung sollen leiden.
+      So stürzen sie in ewig Herzeleid,
+      Da sie ein zeitlich Weh vermeiden.
+      Und uns für des Türken und des Papsts
+      grausamen Mord und Lästerungen,
+      Wüten und Toben väterlich behüten.
+      Erhör uns, lieber Herre Gott!
+      Bass
+      Ein andrer sorgt nur für den Bauch;
+      Inzwischen wird der Seele ganz vergessen;
+      Der Mammon auch
+      Hat vieler Herz besessen.
+      So kann das Wort zu keiner Kraft gelangen.
+      Und wieviel Seelen hält
+      Die Wollust nicht gefangen?
+      So sehr verführet sie die Welt,
+      Die Welt, die ihnen muss anstatt des Himmels stehen,
+      Darüber sie vom Himmel irregehen.
+      Alle Irrige und Verführte wiederbringen.
+      Erhör uns, lieber Herre Gott!
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Flauto I/II, Viola I-IV all' unisono, Continuo
+    de: |-
+      Mein Seelenschatz ist Gottes Wort;
+      Außer dem sind alle Schätze
+      Solche Netze,
+      Welche Welt und Satan stricken,
+      Schnöde Seelen zu berücken.
+      Fort mit allen, fort, nur fort!
+      Mein Seelenschatz ist Gottes Wort.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Flauto I/II e Viola I/II col Soprano, Viola III coll' Alto, Viola IV col Tenore, Fagotto col Basso, Continuo
+    de: |-
+      Ich bitt, o Herr, aus Herzens Grund,
+      Du wollst nicht von mir nehmen
+      Dein heilges Wort aus meinem Mund;
+      So wird mich nicht beschämen
+      Mein Sünd und Schuld, denn in dein Huld
+      Setz ich all mein Vertrauen:
+      Wer sich nur fest darauf verlässt,
+      Der wird den Tod nicht schauen.
+scoring: 'Soli: S T B, Coro: S A T B, Flauto I/II, Viola I-IV, Fagotto, Violoncello, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Recitative
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    B: 1
+    S: 1
+    SATB: 1
+  instrumentation_families:
+    - fagotto
+    - recorder
+    - violoncello
+wiki:
+  summary: "Gleichwie der Regen und Schnee vom Himmel fällt, BWV\_18, is an early church cantata by Johann Sebastian Bach. He composed it in Weimar for the Sunday Sexagesimae, the second Sunday before Lent, likely by 1713."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Gleichwie_der_Regen_und_Schnee_vom_Himmel_f%C3%A4llt%2C_BWV_18
+  summary_html: "<p><b><span><i lang=\"de\">Gleichwie der Regen und Schnee vom Himmel fällt</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>18</b>, is an early church cantata by Johann Sebastian Bach. He composed it in Weimar for the Sunday Sexagesimae, the second Sunday before Lent, likely by 1713.</p>"
+performances:
+  - id: MFftxZNUiew
+    title: Bach - Cantata Gleichwie der Regen und Schnee... BWV 18 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Leipzig
+    year: '2019'
+    duration: '14:20'
+    thumbnail: https://img.youtube.com/vi/MFftxZNUiew/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MFftxZNUiew
+  - id: zCyG0N_OLGk
+    title: J.S. Bach - Cantata BWV 18 "Gleich wie der Regen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '17:13'
+    thumbnail: https://img.youtube.com/vi/zCyG0N_OLGk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zCyG0N_OLGk
+  - id: HczuPzss1yE
+    title: 'J. S. Bach: Cantata nº 18 BWV 18 Gleichwie der Regen und Schnee vom Himmel'
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '14:19'
+    thumbnail: https://img.youtube.com/vi/HczuPzss1yE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HczuPzss1yE
+  - id: PKlw1pbnaW0
+    title: J. S. Bach. Coral de la Cantata BWV 18
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '1:16'
+    thumbnail: https://img.youtube.com/vi/PKlw1pbnaW0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PKlw1pbnaW0
+  - id: hqAp8PVWiqY
+    title: 'Gleich wie der Regen und Schnee vom Himmel fällt, BWV 18 (Leipzig Version) : No. 1, Sinfonia'
+    channel: Bach-Collegium Stuttgart - Topic
+    performer: Rilling
+    place: Leipzig
+    year: '1992'
+    duration: '4:09'
+    thumbnail: https://img.youtube.com/vi/hqAp8PVWiqY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hqAp8PVWiqY
+key: G minor

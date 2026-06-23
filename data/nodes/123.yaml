@@ -1,0 +1,150 @@
+bwv: '123'
+title: Liebster Immanuel...
+cycle: C2
+occasion: Epiphany
+date: '1725-01-06'
+url: https://en.wikipedia.org/wiki/BWV_123
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Liebster Immanuel, Herzog der Frommen,
+      Du, meiner Seelen Heil, komm, komm nur bald!
+      Du hast mir, höchster Schatz, mein Herz genommen,
+      So ganz vor Liebe brennt und nach dir wallt.
+      Nichts kann auf Erden
+      Mir liebers werden,
+      Als wenn ich meinen Jesum stets behalt.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Die Himmelssüßigkeit, der Auserwählten Lust
+      Erfüllt auf Erden schon mein Herz und Brust,
+      Wenn ich den Jesusnamen nenne
+      Und sein verborgnes Manna kenne:
+      Gleichwie der Tau ein dürres Land erquickt,
+      So ist mein Herz
+      Auch bei Gefahr und Schmerz
+      In Freudigkeit durch Jesu Kraft entzückt.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Auch die harte Kreuzesreise
+      Und der Tränen bittre Speise
+      Schreckt mich nicht.
+      Wenn die Ungewitter toben,
+      Sendet Jesus mir von oben
+      Heil und Licht.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Kein Höllenfeind kann mich verschlingen,
+      Das schreiende Gewissen schweigt.
+      Was sollte mich der Feinde Zahl umringen?
+      Der Tod hat selbsten keine Macht,
+      Mir aber ist der Sieg schon zugedacht,
+      Weil sich mein Helfer mir, mein Jesus, zeigt.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Flauto traverso, Continuo
+    de: |-
+      Lass, o Welt, mich aus Verachtung
+      In betrübter Einsamkeit!
+      Jesus, der ins Fleisch gekommen
+      Und mein Opfer angenommen,
+      Bleibet bei mir allezeit.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I e Flauto traverso II in octava e Oboe d'amore I/II e Violino I col Soprano, Violino II coll'
+      Alto, Viola col Tenore, Continuo
+    de: |-
+      Drum fahrt nur immer hin, ihr Eitelkeiten,
+      Du, Jesu, du bist mein, und ich bin dein;
+      Ich will mich von der Welt zu dir bereiten;
+      Du sollt in meinem Herz und Munde sein.
+      Mein ganzes Leben
+      Sei dir ergeben,
+      Bis man mich einsten legt ins Grab hinein.
+scoring: 'Soli: A T B, Coro: S A T B, Flauto traverso I/II, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    T: 1
+    B: 2
+  instrumentation_families:
+    - flauto_traverso
+    - oboe_damore
+wiki:
+  summary: "Liebster Immanuel, Herzog der Frommen, BWV\_123, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Epiphany and first performed it on 6 January 1725. It is based on the 1679 hymn of the same name by Ahasverus Fritsch which is focused on the contrast of the vanities of the world and the trust in support by Jesus."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ahasverus_Fritsch.jpg/330px-Ahasverus_Fritsch.jpg
+  url: https://en.wikipedia.org/wiki/Liebster_Immanuel%2C_Herzog_der_Frommen%2C_BWV_123
+  summary_html: "<p><b><span><i lang=\"de\">Liebster Immanuel, Herzog der Frommen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>123</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Epiphany and first performed it on 6 January 1725. It is based on the 1679 hymn of the same name by Ahasverus Fritsch which is focused on the contrast of the vanities of the world and the trust in support by Jesus.</p>"
+performances:
+  - id: fmFu5B_L_Mc
+    title: J. S. Bach - Cantata BWV 123 "Liebster Immanuel, Herzog der Frommen" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Susanna Hefti
+    year: ''
+    duration: '23:57'
+    thumbnail: https://img.youtube.com/vi/fmFu5B_L_Mc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fmFu5B_L_Mc
+  - id: hVvmucE4Rio
+    title: Johann Sebastian Bach “Liebster Immanuel, Herzog der Frommen, BWV 123” (John Eliot Gardiner, 2000)
+    channel: Emily Brontë
+    performer: Gardiner
+    place: Herderkirche
+    year: '2000'
+    duration: '23:17'
+    thumbnail: https://img.youtube.com/vi/hVvmucE4Rio/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hVvmucE4Rio
+  - id: Mguz7f_suDY
+    title: 'J. S. Bach:  Liebster Immanuel, Herzog der Frommen (BWV 123)'
+    channel: Edward Murray
+    performer: Edward Murray
+    place: Montréal
+    year: ''
+    duration: '20:21'
+    thumbnail: https://img.youtube.com/vi/Mguz7f_suDY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Mguz7f_suDY
+  - id: haFWq9F1HgQ
+    title: Bach - Cantate BWV 123 - Liebster Immanuel, Herzog der Frommen
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leipzig
+    year: '1981'
+    duration: '21:23'
+    thumbnail: https://img.youtube.com/vi/haFWq9F1HgQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=haFWq9F1HgQ
+  - id: 6Q5cxkl0W9E
+    title: a nocte temporis - Liebster Immanuel, Herzog der Frommen (BWV 123 - Johann Sebastian Bach)
+    channel: a nocte temporis
+    performer: a nocte temporis
+    place: Liepaja
+    year: ''
+    duration: '6:52'
+    thumbnail: https://img.youtube.com/vi/6Q5cxkl0W9E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6Q5cxkl0W9E
+key: G minor

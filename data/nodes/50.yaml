@@ -1,0 +1,34 @@
+bwv: '50'
+title: Nun ist das Heil und die Kraft
+cycle: C1
+occasion: St. Michael's
+date: c. 1723 (**Fragment**)
+url: https://en.wikipedia.org/wiki/BWV_50
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Nun ist das Heil und die Kraft
+      und das Reich und die Macht unsers Gottes seines Christus worden,
+      weil der verworfen ist, der sie verklagete Tag und Nacht vor Gott.
+scoring: 'Coro I/II: S A T B, Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - timpani
+    - tromba
+wiki:
+  summary: "Nun ist das Heil und die Kraft, BWV\_50, is a choral movement long attributed to Johann Sebastian Bach and assumed to be part of a lost cantata."
+  image: null
+  url: https://en.wikipedia.org/wiki/Nun_ist_das_Heil_und_die_Kraft%2C_BWV_50
+  summary_html: "<p><i><b><span><i lang=\"de\">Nun ist das Heil und die Kraft</i></span></b></i>, <b><span><abbr>BWV</abbr></span><span class=\"nowrap\">\_</span>50</b>, is a choral movement long attributed to Johann Sebastian Bach and assumed to be part of a lost cantata.</p>"
+key: D major

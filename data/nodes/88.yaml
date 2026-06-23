@@ -1,0 +1,254 @@
+bwv: '88'
+title: Siehe, ich will viel Fischer aussenden
+cycle: C3
+occasion: Trinity V
+date: '1726-07-21'
+url: https://en.wikipedia.org/wiki/BWV_88
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Corno I/II, Oboe d'amore I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Siehe, ich will viel Fischer aussenden,
+      spricht der Herr, die sollen sie fischen. Und darnach will ich viel
+      Jäger aussenden, die sollen sie fahen auf allen Bergen und allen
+      Hügeln und in allen Steinritzen.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wie leichtlich könnte doch der Höchste uns entbehren
+      Und seine Gnade von uns kehren,
+      Wenn der verkehrte Sinn sich böslich von ihm trennt
+      Und mit verstocktem Mut
+      In sein Verderben rennt.
+      Was aber tut
+      Sein vatertreu Gemüte?
+      Tritt er mit seiner Güte
+      Von uns, gleich so wie wir von ihm, zurück,
+      Und überlässt er uns der Feinde List und Tück?
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Nein, Gott ist allezeit geflissen,
+      Uns auf gutem Weg zu wissen
+      Unter seiner Gnade Schein.
+      Ja, wenn wir verirret sein
+      Und die rechte Bahn verlassen,
+      Will er uns gar suchen lassen.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Tenor
+      Jesus sprach zu Simon:
+      Bass
+      Fürchte dich nicht; denn von nun an wirst du Menschen fahen.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Oboe d'amore I/II, Violino I/II, Continuo
+    de: |-
+      Beruft Gott selbst, so muss der Segen
+      Auf allem unsern Tun
+      Im Übermaße ruhn,
+      Stünd uns gleich Furcht und Sorg entgegen.
+      Das Pfund, so er uns ausgetan,
+      Will er mit Wucher wiederhaben;
+      Wenn wir es nur nicht selbst vergraben,
+      So hilft er gern, damit es fruchten kann.
+  - num: 6
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Was kann dich denn in deinem Wandel schrecken,
+      Wenn dir, mein Herz, Gott selbst die Hände reicht?
+      Vor dessen bloßem Wink schon alles Unglück weicht,
+      Und der dich mächtiglich kann schützen und bedecken.
+      Kommt Mühe, Überlast, Neid, Plag und Falschheit her
+      Und trachtet, was du tust, zu stören und zu hindern,
+      Lass kurzes Ungemach den Vorsatz nicht vermindern;
+      Das Werk, so er bestimmt, wird keinem je zu schwer.
+      Geh allzeit freudig fort, du wirst am Ende sehen,
+      Dass, was dich eh gequält, dir sei zu Nutz geschehen!
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Taille e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Sing, bet und get auf Gottes Wegen,
+      Verricht das Deine nur getreu
+      Und trau des Himmels reichem Segen,
+      So wird er bei dir werden neu;
+      Denn welcher seine Zuversicht
+      Auf Gott setzt, den verlässt er nicht.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno I/II, Oboe d''amore I/II, Taille, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 1
+    T: 3
+    S: 1
+    SATB: 1
+  instrumentation_families:
+    - corno
+    - oboe_da_caccia
+    - oboe_damore
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Siehe, ich will viel Fischer aussenden, BWV\_88 in Leipzig for the fifth Sunday after Trinity within the liturgical year and first performed it on 21 July 1726."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sea-of-Galilee-1900.jpg/330px-Sea-of-Galilee-1900.jpg
+  url: https://en.wikipedia.org/wiki/Siehe%2C_ich_will_viel_Fischer_aussenden%2C_BWV_88
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Siehe, ich will viel Fischer aussenden</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>88</b> in Leipzig for the fifth Sunday after Trinity within the liturgical year and first performed it on 21 July 1726.</p>"
+key: D major
+performances:
+  - id: og3I6Fu9wDg
+    title: J. S. Bach - Cantata BWV 88 "Siehe, ich will viel Fischer aussenden" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2008'
+    duration: '20:53'
+    thumbnail: https://img.youtube.com/vi/og3I6Fu9wDg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=og3I6Fu9wDg
+  - id: RnfzT_5ohCU
+    title: J.S. Bach - BWV 88 (Behold, I will many fishers send out)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '19:14'
+    thumbnail: https://img.youtube.com/vi/RnfzT_5ohCU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RnfzT_5ohCU
+  - id: S2ayoZjFc_c
+    title: 'J. S. Bach: Siehe, ich will viel Fischer aussenden (BWV 88) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '17:17'
+    thumbnail: https://img.youtube.com/vi/S2ayoZjFc_c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=S2ayoZjFc_c
+  - id: ShQbEkwm-Ak
+    title: 'J.S Bach - Cantata: Siehe, ich will viel Fischer aussenden, BWV 88'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '17:32'
+    thumbnail: https://img.youtube.com/vi/ShQbEkwm-Ak/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ShQbEkwm-Ak
+  - id: wlDE_mbJIn8
+    title: J. S. Bach - Aria "Nein! Gott ist allezeit geflissen" from Cantata BWV 88
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '3:47'
+    thumbnail: https://img.youtube.com/vi/wlDE_mbJIn8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=wlDE_mbJIn8
+  - id: c9XflS1atHA
+    title: 'Bach: Siehe, ich will viel Fischer aussenden, BWV 88 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Emmanuel Epsicopal Church in Boston
+    year: '2022'
+    duration: '19:16'
+    thumbnail: https://img.youtube.com/vi/c9XflS1atHA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=c9XflS1atHA
+  - id: gYy-FuR52xA
+    title: J.S. Bach  - BWV 88 -  Furchte dich nicht
+    channel: Cédric Forré
+    performer: Cédric Forré
+    place: ''
+    year: ''
+    duration: '1:34'
+    thumbnail: https://img.youtube.com/vi/gYy-FuR52xA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gYy-FuR52xA
+  - id: brlQFHdsKAs
+    title: Bach “Siehe, ich will viel Fischer aussenden, BWV 88” (Gardiner • English Baroque Soloists)
+    channel: Emily Brontë
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '19:14'
+    thumbnail: https://img.youtube.com/vi/brlQFHdsKAs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=brlQFHdsKAs
+  - id: FMLBmlHILTg
+    title: Siehe, ich will viel Fischer aussenden, BWV 88 - Bach, Johann Sebastian - Classical Music
+    channel: The Audio Library
+    performer: The Audio Library
+    place: B minor
+    year: ''
+    duration: '6:27'
+    thumbnail: https://img.youtube.com/vi/FMLBmlHILTg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=FMLBmlHILTg
+  - id: '-6j27dq7nw4'
+    title: J. S. Bach - Aria "Nein! Gott ist allezeit geflissen" from Cantata BWV 88 (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '3:47'
+    thumbnail: https://img.youtube.com/vi/-6j27dq7nw4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-6j27dq7nw4
+  - id: 0uW17dEAzSo
+    title: J.S. Bach / Siehe, ich will viel Fischer aussenden, BWV 88 (Leonhardt)
+    channel: scrymgeour34
+    performer: Leonhardt
+    place: Meiningen
+    year: '1978'
+    duration: '19:24'
+    thumbnail: https://img.youtube.com/vi/0uW17dEAzSo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0uW17dEAzSo
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: r6TELFuXwVE
+    title: Bach - Cantata Liebster Gott, wenn werd ich sterben BWV 8 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '18:59'
+    thumbnail: https://img.youtube.com/vi/r6TELFuXwVE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=r6TELFuXwVE
+  - id: Bf8bFiHE3wk
+    title: 'J. S. Bach: Cantata nº 88 BWV 88 VII - Coral'
+    channel: MotoPerpetuoVal
+    performer: MotoPerpetuoVal
+    place: ''
+    year: ''
+    duration: '0:47'
+    thumbnail: https://img.youtube.com/vi/Bf8bFiHE3wk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Bf8bFiHE3wk
+  - id: QgC0Zbc5-VQ
+    title: Bach - Cantate BWV 88 - Siehe, ich will viel Fischer aussenden
+    channel: MusicArt61
+    performer: Herreweghe
+    place: Leipzig
+    year: '1978'
+    duration: '18:52'
+    thumbnail: https://img.youtube.com/vi/QgC0Zbc5-VQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=QgC0Zbc5-VQ

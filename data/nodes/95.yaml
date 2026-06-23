@@ -1,0 +1,138 @@
+bwv: '95'
+title: Christus, der ist mein Leben
+cycle: C1
+occasion: Trinity XVI
+date: '1723-09-12'
+url: https://en.wikipedia.org/wiki/BWV_95
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Christus, der ist mein Leben,
+      Sterben ist mein Gewinn;
+      Dem tu ich mich ergeben,
+      Mit Freud fahr ich dahin.
+      Mit Freuden,
+      Ja mit Herzenslust
+      Will ich von hinnen scheiden.
+      Und hieß es heute noch: Du musst!
+      So bin ich willig und bereit.
+      Den armen Leib, die abgezehrten Glieder,
+      Das Kleid der Sterblichkeit
+      Der Erde wieder
+      In ihren Schoß zu bringen.
+      Mein Sterbelied ist schon gemacht;
+      Ach, dürft ichs heute singen!
+      Mit Fried und Freud ich fahr dahin,
+      Nach Gottes Willen,
+      Getrost ist mir mein Herz und Sinn,
+      Sanft und stille.
+      Wie Gott mir verheißen hat:
+      Der Tod ist mein Schlaf geworden.
+  - num: 2
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Nun, falsche Welt!
+      Nun habe ich weiter nichts mit dir zu tun;
+      Mein Haus ist schon bestellt,
+      Ich kann weit sanfter ruhn,
+      Als da ich sonst bei dir,
+      An deines Babels Flüssen,
+      Das Wollustsalz verschlucken müssen,
+      Wenn ich an deinem Lustrevier
+      Nur Sodomsäpfel konnte brechen.
+      Nein, nein! nun kann ich mit gelassnerm Mute sprechen:
+  - num: 3
+    type: Chorale
+    voices: S
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Valet will ich dir geben,
+      Du arge, falsche Welt,
+      Dein sündlich böses Leben
+      Durchaus mir nicht gefällt.
+      Im Himmel ist gut wohnen,
+      Hinauf steht mein Begier.
+      Da wird Gott ewig lohnen
+      Dem, der ihm dient allhier.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ach könnte mir doch bald so wohl geschehn,
+      Dass ich den Tod,
+      Das Ende aller Not,
+      In meinen Gliedern könnte sehn;
+      Ich wollte ihn zu meinem Leibgedinge wählen
+      Und alle Stunden nach ihm zählen.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Ach, schlage doch bald, selge Stunde,
+      Den allerletzten Glockenschlag!
+      Komm, komm, ich reiche dir die Hände,
+      Komm, mache meiner Not ein Ende,
+      Du längst erseufzter Sterbenstag!
+  - num: 6
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Denn ich weiß dies
+      Und glaub es ganz gewiss,
+      Dass ich aus meinem Grabe
+      Ganz einen sichern Zugang zu dem Vater habe.
+      Mein Tod ist nur ein Schlaf.
+      Dadurch der Leib, der hier von Sorgen abgenommen,
+      Zur Ruhe kommen.
+      Sucht nun ein Hirte sein verlornes Schaf,
+      Wie sollte Jesus mich nicht wieder finden,
+      Da er mein Haupt und ich sein Gliedmaß bin!
+      So kann ich nun mit frohen Sinnen
+      Mein selig Auferstehn auf meinen Heiland gründen.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Corno e Oboe d'amore I/II col Soprano, Violino I/II, Viola, Continuo
+    de: |-
+      Weil du vom Tod erstanden bist,
+      Werd ich im Grab nicht bleiben;
+      Dein letztes Wort mein Auffahrt ist,
+      Todsfurcht kannst du vertreiben.
+      Denn wo du bist, da komm ich hin,
+      Dass ich stets bei dir leb und bin;
+      Drum fahr ich hin mit Freuden.
+scoring: 'Soli: S T B, Coro: S A T B, Corno, Oboe I/II, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    S: 2
+    T: 2
+    B: 1
+  instrumentation_families:
+    - corno
+    - oboe_damore
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Christus, der ist mein Leben, BWV\_95 in Leipzig for the 16th Sunday after Trinity and first performed it on 12 September 1723."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Christus%2C_der_ist_mein_Leben%2C_BWV_95
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Christus, der ist mein Leben</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>95</b> in Leipzig for the 16th Sunday after Trinity and first performed it on 12 September 1723.</p>"
+key: E minor

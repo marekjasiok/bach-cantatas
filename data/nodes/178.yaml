@@ -1,0 +1,284 @@
+bwv: '178'
+title: Wo Gott der Herr nicht bei uns hält
+cycle: C2
+occasion: Trinity VIII
+date: '1724-07-30'
+url: https://en.wikipedia.org/wiki/BWV_178
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wo Gott der Herr nicht bei uns hält,
+      Wenn unsre Feinde toben,
+      Und er unser Sach nicht zufällt
+      Im Himmel hoch dort oben,
+      Wo er Israel Schutz nicht ist
+      Und selber bricht der Feinde List,
+      So ist's mit uns verloren.
+  - num: 2
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Was Menschenkraft und -witz anfäht,
+      Soll uns billig nicht schrecken;
+      Denn Gott der Höchste steht uns bei
+      Und machet uns von ihren Stricken frei.
+      Er sitzet an der höchsten Stätt,
+      Er wird ihrn Rat aufdecken.
+      Die Gott im Glauben fest umfassen,
+      Will er niemals versäumen noch verlassen;
+      Er stürzet der Verkehrten Rat
+      Und hindert ihre böse Tat.
+      Wenn sie's aufs klügste greifen an,
+      Auf Schlangenlist und falsche Ränke sinnen,
+      Der Bosheit Endzweck zu gewinnen;
+      So geht doch Gott ein ander Bahn:
+      Er führt die Seinigen mit starker Hand,
+      Durchs Kreuzesmeer, in das gelobte Land,
+      Da wird er alles Unglück wenden.
+      Es steht in seinen Händen.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Continuo
+    de: |-
+      Gleichwie die wilden Meereswellen
+      Mit Ungestüm ein Schiff zerschellen,
+      So raset auch der Feinde Wut
+      Und raubt das beste Seelengut.
+      Sie wollen Satans Reich erweitern,
+      Und Christi Schifflein soll zerscheitern.
+  - num: 4
+    type: Chorale
+    voices: T
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Sie stellen uns wie Ketzern nach,
+      Nach unserm Blut sie trachten;
+      Noch rühmen sie sich Christen auch,
+      Die Gott allein groß achten.
+      Ach Gott, der teure Name dein
+      Muss ihrer Schalkheit Deckel sein,
+      Du wirst einmal aufwachen.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Auf sperren sie den Rachen weit,
+      Bass
+      Nach Löwenart mit brüllendem Getöne;
+      Sie fletschen ihre Mörderzähne
+      Und wollen uns verschlingen.
+      Tenor
+      Jedoch,
+      Lob und Dank sei Gott allezeit;
+      Tenor
+      Der Held aus Juda schützt uns noch,
+      Es wird ihn' nicht gelingen.
+      Alt
+      Sie werden wie die Spreu vergehn,
+      Wenn seine Gläubigen wie grüne Bäume stehn.
+      Er wird ihrn Strick zerreißen gar
+      Und stürzen ihre falsche Lahr.
+      Bass
+      Gott wird die törichten Propheten
+      Mit Feuer seines Zornes töten
+      Und ihre Ketzerei verstören.
+      Sie werden's Gott nicht wehren.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Schweig, schweig nur, taumelnde Vernunft!
+      Sprich nicht: Die Frommen sind verlorn,
+      Das Kreuz hat sie nur neu geborn.
+      Denn denen, die auf Jesum hoffen,
+      Steht stets die Tür der Gnaden offen;
+      Und wenn sie Kreuz und Trübsal drückt,
+      So werden sie mit Trost erquickt.
+  - num: 7
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Die Feind sind all in deiner Hand,
+      Darzu all ihr Gedanken;
+      Ihr Anschläg sind dir, Herr, bekannt,
+      Hilf nur, dass wir nicht wanken.
+      Vernunft wider den Glauben ficht,
+      Aufs Künftge will sie trauen nicht,
+      Da du wirst selber trösten.
+      Den Himmel und auch die Erden
+      Hast du, Herr Gott, gegründet;
+      Dein Licht lass uns helle werden,
+      Das Herz uns werd entzündet
+      In rechter Lieb des Glaubens dein,
+      Bis an das End beständig sein.
+      Die Welt lass immer murren.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe I/II, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Aria
+    - Chorale
+    - Chorale
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 4
+    B: 1
+    T: 2
+  instrumentation_families:
+    - oboe
+    - oboe_damore
+key: E minor
+wiki:
+  summary: "Wo Gott der Herr nicht bei uns hält, BWV\_178, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the eighth Sunday after Trinity and first performed it on 30 July 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Justus-Jonas-14.jpg/330px-Justus-Jonas-14.jpg
+  url: https://en.wikipedia.org/wiki/Wo_Gott_der_Herr_nicht_bei_uns_h%C3%A4lt%2C_BWV_178
+  summary_html: "<p><b><span><i lang=\"de\">Wo Gott der Herr nicht bei uns hält</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>178</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the eighth Sunday after Trinity and first performed it on 30 July 1724.</p>"
+performances:
+  - id: WENhtN0--Ac
+    title: J. S. Bach - Cantata BWV 178 "Wo Gott der Herr nicht bei uns hält" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: lutz
+    place: Susanna Hefti
+    year: '2023'
+    duration: '24:13'
+    thumbnail: https://img.youtube.com/vi/WENhtN0--Ac/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WENhtN0--Ac
+  - id: NhSqPZJh9ek
+    title: J.S. Bach - BWV 178 (If God the Lord is not on our side)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '20:25'
+    thumbnail: https://img.youtube.com/vi/NhSqPZJh9ek/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NhSqPZJh9ek
+  - id: 0gS8gVkH9cU
+    title: Johann Sebastian Bach - Cantata "Wo Gott der Herr nicht bei uns hält", BWV 178
+    channel: tailleferre stan
+    performer: tailleferre stan
+    place: Leipzig
+    year: ''
+    duration: '19:36'
+    thumbnail: https://img.youtube.com/vi/0gS8gVkH9cU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0gS8gVkH9cU
+  - id: B6uy0vN4qhk
+    title: BCA112 BWV178 Cantata for 8th Sunday after Trinity Richter 1975-77
+    channel: Johann Sebastian
+    performer: Richter
+    place: ''
+    year: '1975'
+    duration: '20:23'
+    thumbnail: https://img.youtube.com/vi/B6uy0vN4qhk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=B6uy0vN4qhk
+  - id: hceFeoMUEnM
+    title: J.S. Bach Cantata Wo Gott der Herr nicht bei uns halt BWV 178
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: ''
+    year: ''
+    duration: '20:21'
+    thumbnail: https://img.youtube.com/vi/hceFeoMUEnM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hceFeoMUEnM
+  - id: uCRWTQIlXkY
+    title: J. S. Bach - Was mein Gott will - Cantatas BWV 5, 33, 94, 111, 113, 135, 178 – Ch. Spering
+    channel: Miguel Zampedri
+    performer: lutz
+    place: Gott will
+    year: '2023'
+    duration: '2:21:55'
+    thumbnail: https://img.youtube.com/vi/uCRWTQIlXkY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uCRWTQIlXkY
+  - id: r6TELFuXwVE
+    title: Bach - Cantata Liebster Gott, wenn werd ich sterben BWV 8 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '18:59'
+    thumbnail: https://img.youtube.com/vi/r6TELFuXwVE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=r6TELFuXwVE
+  - id: Jl8szypQnPM
+    title: 'J. S. Bach:  Wo Gott der Herr nicht bei uns hält (BWV 178) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '19:36'
+    thumbnail: https://img.youtube.com/vi/Jl8szypQnPM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Jl8szypQnPM
+  - id: Wn3r4M7JYtE
+    title: J. S. Bach - Wo Gott der Herr nicht bei uns hält, Cantata BWV 178 - K. Richter
+    channel: Miguel Zampedri
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '20:22'
+    thumbnail: https://img.youtube.com/vi/Wn3r4M7JYtE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Wn3r4M7JYtE
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: eETPc_N_w6M
+    title: 'J.S. Bach: "Auf sperren sie den Rachen weit" BWV 178 (5) | Tölzer Knabenchor & Concerto München'
+    channel: CHOR GESANG - Knabenchöre
+    performer: CHOR GESANG - Knabenchöre
+    place: Medium wird
+    year: ''
+    duration: '3:00'
+    thumbnail: https://img.youtube.com/vi/eETPc_N_w6M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=eETPc_N_w6M
+  - id: 9yc5tAS7rrA
+    title: J.S. Bach - Andreas Scholl sings cantata BWV 170 "Vergnügte Ruh" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '26:41'
+    thumbnail: https://img.youtube.com/vi/9yc5tAS7rrA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9yc5tAS7rrA
+  - id: Qsw3LMw9h1A
+    title: Bach - Cantate BWV 178 - Wo Gott der Herr nicht bei uns hält
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leipzig
+    year: '1988'
+    duration: '20:12'
+    thumbnail: https://img.youtube.com/vi/Qsw3LMw9h1A/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Qsw3LMw9h1A
+  - id: g6HUG3dOnKo
+    title: J.S. Bach - Cantatas BWV 10, 93, 178, 107 - M. Suzuki (CD 23/55)
+    channel: Miguel Zampedri
+    performer: Suzuki
+    place: CD
+    year: '2003'
+    duration: '1:15:19'
+    thumbnail: https://img.youtube.com/vi/g6HUG3dOnKo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=g6HUG3dOnKo
+  - id: uoz8u7R-aQs
+    title: Glenn Gould - Bach, Fugue en mi bémol majeur & Cantate « Widerstehe doch der Sünde » (OFFICIEL)
+    channel: Glenn Gould
+    performer: Glenn Gould
+    place: berlin
+    year: ''
+    duration: '23:25'
+    thumbnail: https://img.youtube.com/vi/uoz8u7R-aQs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uoz8u7R-aQs

@@ -1,0 +1,99 @@
+bwv: '116'
+title: Du Friedefürst, Herr Jesu Christ
+cycle: C2
+occasion: Trinity XXV
+date: '1724-11-26'
+url: https://en.wikipedia.org/wiki/BWV_116
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Corno col Soprano, Continuo
+    de: |-
+      Du Friedefürst, Herr Jesu Christ,
+      Wahr' Mensch und wahrer Gott,
+      Ein starker Nothelfer du bist
+      Im Leben und im Tod.
+      Drum wir allein
+      Im Namen dein
+      Zu deinem Vater schreien.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore solo, Continuo
+    de: |-
+      Ach, unaussprechlich ist die Not
+      Und des erzürnten Richters Dräuen!
+      Kaum, dass wir noch in dieser Angst,
+      Wie du, o Jesu, selbst verlangst,
+      Zu Gott in deinem Namen schreien.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Gedenke doch,
+      O Jesu, dass du noch
+      Ein Fürst des Friedens heißest!
+      Aus Liebe wolltest du dein Wort uns senden.
+      Will sich dein Herz auf einmal von uns wenden,
+      Der du so große Hülfe sonst beweisest?
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Ach, wir bekennen unsre Schuld
+      Und bitten nichts als um Geduld
+      Und um dein unermesslich Lieben.
+      Es brach ja dein erbarmend Herz,
+      Als der Gefallnen Schmerz
+      Dich zu uns in die Welt getrieben.
+  - num: 5
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ach, lass uns durch die scharfen Ruten
+      Nicht allzu heftig bluten!
+      O Gott, der du ein Gott der Ordnung bist,
+      Du weißt, was bei der Feinde Grimm
+      Vor Grausamkeit und Unrecht ist.
+      Wohlan, so strecke deine Hand
+      Auf ein erschreckt geplagtes Land,
+      Die kann der Feinde Macht bezwingen
+      Und uns beständig Friede bringen!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Corno e Oboe d'amore I e Violino I col Soprano, Oboe d'amore II e Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Erleucht auch unser Sinn und Herz
+      Durch den Geist deiner Gnad,
+      Dass wir nicht treiben draus ein Scherz,
+      Der unsrer Seelen schad.
+      O Jesu Christ,
+      Allein du bist,
+      Der solchs wohl kann ausrichten.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 2
+    T: 1
+  instrumentation_families:
+    - corno
+    - oboe_damore
+key: C major

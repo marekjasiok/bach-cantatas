@@ -1,0 +1,109 @@
+bwv: '130'
+title: Herr Gott, dich loben alle wir
+cycle: C2
+occasion: St. Michael's
+date: '1724-09-29'
+url: https://en.wikipedia.org/wiki/BWV_130
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Herr Gott, dich loben alle wir
+      Und sollen billig danken dir
+      Für dein Geschöpf der Engel schon,
+      Die um dich schwebn um deinen Thron.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ihr heller Glanz und hohe Weisheit zeigt,
+      Wie Gott sich zu uns Menschen neigt,
+      Der solche Helden, solche Waffen
+      Vor uns geschaffen.
+      Sie ruhen ihm zu Ehren nicht;
+      Ihr ganzer Fleiß ist nur dahin gericht',
+      Dass sie, Herr Christe, um dich sein
+      Und um dein armes Häufelein:
+      Wie nötig ist doch diese Wacht
+      Bei Satans Grimm und Macht?
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Tromba I-III, Tamburi, Continuo
+    de: |-
+      Der alte Drache brennt vor Neid
+      Und dichtet stets auf neues Leid,
+      Dass er das kleine Häuflein trennet.
+      Er tilgte gern, was Gottes ist,
+      Bald braucht er List,
+      Weil er nicht Rast noch Ruhe kennet.
+  - num: 4
+    type: Recitative
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wohl aber uns, dass Tag und Nacht
+      Die Schar der Engel wacht,
+      Des Satans Anschlag zu zerstören!
+      Ein Daniel, so unter Löwen sitzt,
+      Erfährt, wie ihn die Hand des Engels schützt.
+      Wenn dort die Glut
+      In Babels Ofen keinen Schaden tut,
+      So lassen Gläubige ein Danklied hören,
+      So stellt sich in Gefahr
+      Noch itzt der Engel Hülfe dar.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Flauto traverso, Continuo
+    de: |-
+      Lass, o Fürst der Cherubinen,
+      Dieser Helden hohe Schar Immerdar
+      Deine Gläubigen bedienen;
+      Dass sie auf Elias Wagen
+      Sie zu dir gen Himmel tragen.
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: >-
+      Tromba I-III, Tamburi, Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Oboe III e Viola col
+      Tenore, Continuo
+    de: |-
+      Darum wir billig loben dich
+      Und danken dir, Gott, ewiglich,
+      Wie auch der lieben Engel Schar
+      Dich preisen heut und immerdar.
+      Und bitten dich, wollst allezeit
+      Dieselben heißen sein bereit,
+      Zu schützen deine kleine Herd,
+      So hält dein göttlichs Wort in Wert.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Flauto traverso, Oboe I-III, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    A: 1
+    B: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - timpani
+    - tromba
+key: C major
+wiki:
+  summary: "Herr Gott, dich loben alle wir, BWV\_130, is a chorale cantata by Johann Sebastian Bach for the Feast of archangel Michael. It is based on Paul Eber's 1554 Lutheran hymn about the angels in twelve stanzas \"Herr Gott, dich loben alle wir\", to a melody known in English as Old 100th. The cantata was performed on that feast day in 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Paul_Eber.jpg/330px-Paul_Eber.jpg
+  url: https://en.wikipedia.org/wiki/Herr_Gott%2C_dich_loben_alle_wir%2C_BWV_130
+  summary_html: "<p><i><b><span><i lang=\"de\">Herr Gott, dich loben alle wir</i></span></b></i>, BWV<span class=\"nowrap\">\_</span>130, is a chorale cantata by Johann Sebastian Bach for the Feast of archangel Michael. It is based on Paul Eber's 1554 Lutheran hymn about the angels in twelve stanzas \"Herr Gott, dich loben alle wir\", to a melody known in English as Old 100th. The cantata was performed on that feast day in 1724.</p>"

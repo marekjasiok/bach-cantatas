@@ -1,0 +1,91 @@
+bwv: '83'
+title: Erfreute Zeit im neuen Bunde
+cycle: C1
+occasion: Purification
+date: '1724-02-02'
+url: https://en.wikipedia.org/wiki/BWV_83
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: A
+    instruments: Corno I/II, Oboe I/II, Violino solo, Violino I/II, Viola, Continuo
+    de: |-
+      Erfreute Zeit im neuen Bunde,
+      Da unser Glaube Jesum hält.
+      Wie freudig wird zur letzten Stunde
+      Die Ruhestatt, das Grab bestellt!
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Herr, nun lässest du deinen Diener in Friede fahren,
+      wie du gesaget hast.
+      Was uns als Menschen schrecklich scheint,
+      Ist uns ein Eingang zu dem Leben.
+      Es ist der Tod
+      Ein Ende dieser Zeit und Not,
+      Ein Pfand, so uns der Herr gegeben
+      Zum Zeichen, dass er's herzlich meint
+      Und uns will nach vollbrachtem Ringen
+      Zum Frieden bringen.
+      Und weil der Heiland nun
+      Der Augen Trost, des Herzens Labsal ist,
+      Was Wunder, dass ein Herz des Todes Furcht vergisst!
+      Es kann den erfreuten Ausspruch tun:
+      Denn meine Augen haben deinen Heiland gesehen,
+      welchen du bereitet hast für allen Völkern.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino solo, Violino I/II, Viola, Continuo
+    de: |-
+      Eile, Herz, voll Freudigkeit
+      Vor den Gnadenstuhl zu treten
+      Du sollst deinen Trost empfangen
+      Und Barmherzigkeit erlangen,
+      Ja, bei kummervoller Zeit,
+      Stark am Geiste, kräftig beten.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ja, merkt dein Glaube noch viel Finsternis,
+      Dein Heiland kann der Zweifel Schatten trennen;
+      Ja, wenn des Grabes Nacht
+      Die letzte Stunde schrecklich macht,
+      So wirst du doch gewiss
+      Sein helles Licht im Tode selbst erkennen.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Corno I e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Es ist das Heil und selig Licht
+      Für die Heiden,
+      Zu erleuchten, die dich kennen nicht,
+      Und zu weiden.
+      Er ist deins Volks Israel
+      Der Preis, Ehre, Freud und Wonne.
+scoring: 'Soli: A T B, Coro: S A T B, Corno I/II, Oboe I/II, Violino solo, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Aria
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    A: 2
+    B: 1
+    T: 1
+    SATB: 1
+  instrumentation_families:
+    - corno
+    - oboe
+    - violino_solo
+key: F minor

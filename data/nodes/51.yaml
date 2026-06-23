@@ -1,0 +1,133 @@
+bwv: '51'
+title: Jauchzet Gott in allen Landen
+cycle: LATE
+occasion: Trinity XV
+date: '1730'
+url: https://en.wikipedia.org/wiki/BWV_51
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: S
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Jauchzet Gott in allen Landen!
+      Was der Himmel und die Welt
+      An Geschöpfen in sich hält,
+      Müssen dessen Ruhm erhöhen,
+      Und wir wollen unserm Gott
+      Gleichfalls itzt ein Opfer bringen,
+      Dass er uns in Kreuz und Not
+      Allezeit hat beigestanden.
+  - num: 2
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wir beten zu dem Tempel an,
+      Da Gottes Ehre wohnet,
+      Da dessen Treu,
+      So täglich neu,
+      Mit lauter Segen lohnet.
+      Wir preisen, was er an uns hat getan.
+      Muss gleich der schwache Mund von seinen Wundern lallen,
+      So kann ein schlechtes Lob ihm dennoch wohlgefallen.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Continuo
+    de: |-
+      Höchster, mache deine Güte
+      Ferner alle Morgen neu.
+      So soll vor die Vatertreu
+      Auch ein dankbares Gemüte
+      Durch ein frommes Leben weisen,
+      Dass wir deine Kinder heißen.
+  - num: 4
+    type: Chorale
+    voices: S
+    instruments: Violino I/II, Continuo
+    de: |-
+      Sei Lob und Preis mit Ehren
+      Gott Vater, Sohn, Heiligem Geist!
+      Der woll in uns vermehren,
+      Was er uns aus Gnaden verheißt,
+      Dass wir ihm fest vertrauen,
+      Gänzlich uns lass'n auf ihn,
+      Von Herzen auf ihn bauen,
+      Dass uns'r Herz, Mut und Sinn
+      Ihm festiglich anhangen;
+      Drauf singen wir zur Stund:
+      Amen, wir werdn's erlangen,
+      Glaub'n wir aus Herzensgrund.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: Alleluja!
+scoring: 'Solo: S, Tromba, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Aria
+  opening: Aria
+  closing: Aria
+  voice_profile:
+    S: 5
+  instrumentation_families:
+    - tromba
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Jauchzet Gott in allen Landen BWV\_51, in Leipzig. The work is Bach's only church cantata scored for a solo soprano and trumpet. He composed it for general use, in other words not for a particular date in the church calendar, although he used it for the 15th Sunday after Trinity: the first known performance was on 17 September 1730 in Leipzig. The work may have been composed earlier, possibly for an occasion at the court of Christian, Duke of Saxe-Weissenfels, for whom Bach had composed the Hunting Cantata and the Shepherd Cantata."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gottfried_reiche.jpg/330px-Gottfried_reiche.jpg
+  url: https://en.wikipedia.org/wiki/Jauchzet_Gott_in_allen_Landen%2C_BWV_51
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Jauchzet Gott in allen Landen</i></span></b> <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>51</b>, in Leipzig. The work is Bach's only church cantata scored for a solo soprano and trumpet. He composed it for general use, in other words not for a particular date in the church calendar, although he used it for the 15th Sunday after Trinity: the first known performance was on 17 September 1730 in Leipzig. The work may have been composed earlier, possibly for an occasion at the court of Christian, Duke of Saxe-Weissenfels, for whom Bach had composed the <i>Hunting Cantata</i> and the <i>Shepherd Cantata</i>.</p>"
+performances:
+  - id: YfoVCKkSiew
+    title: Bach - Cantata Jauchzet Gott in allen Landen BWV 51 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Grote Kerk
+    year: '2015'
+    duration: '17:29'
+    thumbnail: https://img.youtube.com/vi/YfoVCKkSiew/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YfoVCKkSiew
+  - id: JpqIEi7K6pw
+    title: 'Natalie Dessay: Bach Cantata, BWV 51 (III: "Höchster")'
+    channel: SsteinwayS
+    performer: SsteinwayS
+    place: ''
+    year: ''
+    duration: '5:08'
+    thumbnail: https://img.youtube.com/vi/JpqIEi7K6pw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JpqIEi7K6pw
+  - id: ZlRMXCGRYjI
+    title: 'J.S Bach - Cantata: Jauchzet Gott in allen Landen, BWV 51'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '18:15'
+    thumbnail: https://img.youtube.com/vi/ZlRMXCGRYjI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ZlRMXCGRYjI
+  - id: w_UQHrLUG4o
+    title: J.S. Bach - Cantata BWV 51 "Jauchzet Gott in allen Landen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2016'
+    duration: '19:35'
+    thumbnail: https://img.youtube.com/vi/w_UQHrLUG4o/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=w_UQHrLUG4o
+  - id: by9Qm2dl2A4
+    title: J.S.Bach Cantata BWV 51 "Jauchzet Gott in allen Landen!" - Ensemble Pygmalion
+    channel: Bachology
+    performer: Bachology
+    place: Opfer bringen
+    year: ''
+    duration: '17:17'
+    thumbnail: https://img.youtube.com/vi/by9Qm2dl2A4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=by9Qm2dl2A4
+key: C major

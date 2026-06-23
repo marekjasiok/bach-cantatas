@@ -1,0 +1,109 @@
+bwv: '129'
+title: Gelobet sei der Herr, mein Gott
+cycle: C3
+occasion: Trinity
+date: '1726-06-16'
+url: https://en.wikipedia.org/wiki/BWV_129
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Flauto traverso, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Gelobet sei der Herr,
+      Mein Gott, mein Licht, mein Leben,
+      Mein Schöpfer, der mir hat
+      Mein Leib und Seel gegeben,
+      Mein Vater, der mich schützt
+      Von Mutterleibe an,
+      Der alle Augenblick
+      Viel Guts an mir getan.
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gelobet sei der Herr,
+      Mein Gott, mein Heil, mein Leben,
+      Des Vaters liebster Sohn,
+      Der sich für mich gegeben,
+      Der mich erlöset hat
+      Mit seinem teuren Blut,
+      Der mir im Glauben schenkt
+      Sich selbst, das höchste Gut.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Flauto traverso, Violino solo, Continuo
+    de: |-
+      Gelobet sei der Herr,
+      Mein Gott, mein Trost, mein Leben,
+      Des Vaters werter Geist,
+      Den mir der Sohn gegeben,
+      Der mir mein Herz erquickt,
+      Der mir gibt neue Kraft,
+      Der mir in aller Not
+      Rat, Trost und Hülfe schafft.
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      Gelobet sei der Herr,
+      Mein Gott, der ewig lebet,
+      Den alles lobet, was
+      In allen Lüften schwebet;
+      Gelobet sei der Herr,
+      Des Name heilig heißt,
+      Gott Vater, Gott der Sohn
+      Und Gott der Heilge Geist.
+  - num: 5
+    type: Chorale
+    voices: T
+    instruments: Tromba I-III, Tamburi, Flauto traverso, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Dem wir das Heilig itzt
+      Mit Freuden lassen klingen
+      Und mit der Engel Schar
+      Das Heilig, Heilig singen,
+      Den herzlich lobt und preist
+      Die ganze Christenheit:
+      Gelobet sei mein Gott
+      In alle Ewigkeit!
+scoring: >-
+  Soli: S A B, Coro: S A T B, Tromba I-III, Tamburi, Flauto traverso, Oboe I/II, Oboe d'amore, Violino I/II, Viola,
+  Continuo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 2
+    B: 1
+    S: 1
+    A: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+    - timpani
+    - tromba
+    - violino_solo
+wiki:
+  summary: |-
+    Gelobet sei der Herr, mein Gott, BWV 129, is a church cantata by Johann Sebastian Bach. It is a chorale cantata.
+    The cantata is festively scored and ends in a chorale fantasia, like the Christmas Oratorio.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomaskirche_Interior.jpg/330px-Thomaskirche_Interior.jpg
+  url: https://en.wikipedia.org/wiki/Gelobet_sei_der_Herr%2C_mein_Gott%2C_BWV_129
+  summary_html: >-
+    <p><b><span><i lang="de">Gelobet sei der Herr, mein Gott</i></span></b>, <span class="nowrap">BWV 129,</span> is a
+    church cantata by Johann Sebastian Bach. It is a chorale cantata.
+
+    The cantata is festively scored and ends in a chorale fantasia, like the <i>Christmas Oratorio</i>.</p>
+key: E major

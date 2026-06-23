@@ -1,0 +1,105 @@
+bwv: '89'
+title: Was soll ich aus dir machen, Ephraim
+cycle: C1
+occasion: Trinity XXII
+date: '1723-10-24'
+url: https://en.wikipedia.org/wiki/BWV_89
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Corno, Violino I/II, Viola, Continuo
+    de: |-
+      Was soll ich aus dir machen, Ephraim?
+      Soll ich dich schützen, Israel?
+      Soll ich nicht billig ein Adama aus dir machen
+      und dich wie Zeboim zurichten?
+      Aber mein Herz ist anders Sinnes,
+      meine Barmherzigkeit ist zu brünstig.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ja, freilich sollte Gott
+      Ein Wort zum Urteil sprechen
+      Und seines Namens Spott
+      An seinen Feinden rächen.
+      Unzählbar ist die Rechnung deiner Sünden,
+      Und hätte Gott auch gleich Geduld,
+      Verwirft doch dein feindseliges Gemüte
+      Die angebotne Güte
+      Und drückt den Nächsten um die Schuld;
+      So muss die Rache sich entzünden.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ein unbarmherziges Gerichte
+      Wird über dich gewiss ergehn.
+      Die Rache fängt bei denen an,
+      Die nicht Barmherzigkeit getan,
+      Und machet sie wie Sodom ganz zunichte.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Wohlan! mein Herze legt Zorn, Zank und Zwietracht hin;
+      Es ist bereit, dem Nächsten zu vergeben.
+      Allein, wie schrecket mich mein sündenvolles Leben,
+      Dass ich vor Gott in Schulden bin!
+      Doch Jesu Blut
+      Macht diese Rechnung gut,
+      Wenn ich zu ihm, als des Gesetzes Ende,
+      Mich gläubig wende.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe, Continuo
+    de: |-
+      Gerechter Gott, ach, rechnest du?
+      So werde ich zum Heil der Seelen
+      Die Tropfen Blut von Jesu zählen.
+      Ach! rechne mir die Summe zu!
+      Ja, weil sie niemand kann ergründen,
+      Bedeckt sie meine Schuld und Sünden.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Mir mangelt zwar sehr viel,
+      Doch, was ich haben will,
+      Ist alles mir zugute
+      Erlangt mit deinem Blute,
+      Damit ich überwinde
+      Tod, Teufel, Höll und Sünde.
+scoring: 'Soli: S A B, Coro: S A T B, Corno, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 1
+    A: 2
+    S: 2
+    SATB: 1
+  instrumentation_families:
+    - corno
+    - oboe
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Was soll ich aus dir machen, Ephraim, BWV\_89, in Leipzig for the 22nd Sunday after Trinity and first performed it on 24 October 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Teachings_of_Jesus_12_of_40._parable_of_the_ungrateful_servant._Jan_Luyken_etching._Bowyer_Bible.gif/330px-Teachings_of_Jesus_12_of_40._parable_of_the_ungrateful_servant._Jan_Luyken_etching._Bowyer_Bible.gif
+  url: https://en.wikipedia.org/wiki/Was_soll_ich_aus_dir_machen%2C_Ephraim%2C_BWV_89
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Was soll ich aus dir machen, Ephraim</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>89</b>, in Leipzig for the 22nd Sunday after Trinity and first performed it on 24 October 1723.</p>"
+key: A minor

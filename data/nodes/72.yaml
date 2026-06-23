@@ -1,0 +1,113 @@
+bwv: '72'
+title: Alles nur nach Gottes Willen
+cycle: C3
+occasion: Epiphany III
+date: '1726-01-27'
+url: https://en.wikipedia.org/wiki/BWV_72
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Alles nur nach Gottes Willen,
+      So bei Lust als Traurigkeit,
+      So bei gut als böser Zeit.
+      Gottes Wille soll mich stillen
+      Bei Gewölk und Sonnenschein.
+      Alles nur nach Gottes Willen!
+      Dies soll meine Losung sein.
+  - num: 2
+    type: Recitative
+    voices: ''
+    instruments: Violino I/II, Continuo
+    de: |-
+      O selger Christ, der allzeit seinen Willen
+      In Gottes Willen senkt, es gehe wie es gehe,
+      Bei Wohl und Wehe.
+      Herr, so du willt, so muss sich alles fügen!
+      Herr, so du willt, so kannst du mich vergnügen!
+      Herr, so du willt, verschwindet meine Pein!
+      Herr, so du willt, werd ich gesund und rein!
+      Herr, so du willt, wird Traurigkeit zur Freude!
+      Herr, so du willt, und ich auf Dornen Weide!
+      Herr, so du willt, werd ich einst selig sein!
+      Herr, so du willt, - lass mich dies Wort im Glauben fassen
+      Und meine Seele stillen! -
+      Herr, so du willt, so sterb ich nicht,
+      Ob Leib und Leben mich verlassen,
+      Wenn mir dein Geist dies Wort ins Herze spricht!
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Continuo
+    de: |-
+      Mit allem, was ich hab und bin,
+      Will ich mich Jesu lassen,
+      Kann gleich mein schwacher Geist und Sinn
+      Des Höchsten Rat nicht fassen;
+      Er führe mich nur immer hin
+      Auf Dorn- und Rosenstraßen!
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      So glaube nun!
+      Dein Heiland saget: Ich wills tun!
+      Er pflegt die Gnadenhand
+      Noch willigst auszustrecken,
+      Wenn Kreuz und Leiden dich erschrecken,
+      Er kennet deine Not und löst dein Kreuzesband.
+      Er stärkt, was schwach,
+      Und will das niedre Dach
+      Der armen Herzen nicht verschmähen,
+      Darunter gnädig einzugehen.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Mein Jesus will es tun, er will dein Kreuz versüßen.
+      Obgleich dein Herze liegt in viel Bekümmernissen,
+      Soll es doch sanft und still in seinen Armen ruhn,
+      Wenn ihn der Glaube fasst; mein Jesus will es tun!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Was mein Gott will, das g'scheh allzeit,
+      Sein Will, der ist der beste,
+      Zu helfen den'n er ist bereit,
+      Die an ihn glauben feste.
+      Er hilft aus Not, der fromme Gott,
+      Und züchtiget mit Maßen.
+      Wer Gott vertraut, fest auf ihn baut,
+      Den will er nicht verlassen.
+scoring: 'Soli: S A B, Coro: S A T B, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    B: 1
+    S: 1
+  instrumentation_families:
+    - oboe
+wiki:
+  summary: "Alles nur nach Gottes Willen, BWV\_72, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig in 1726 for the third Sunday after Epiphany and first performed it on 27 January 1726. It is part of his third cantata cycle and concluded the Christmas season. Bach later used the opening chorus for the Gloria of his Missa in G minor, BWV 235."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Alles_nur_nach_Gottes_Willen%2C_BWV_72_by_J.S._Bach_%281%29.png/330px-Alles_nur_nach_Gottes_Willen%2C_BWV_72_by_J.S._Bach_%281%29.png
+  url: https://en.wikipedia.org/wiki/Alles_nur_nach_Gottes_Willen%2C_BWV_72
+  summary_html: "<p><b><span><i lang=\"de\">Alles nur nach Gottes Willen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>72</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig in 1726 for the third Sunday after Epiphany and first performed it on 27 January 1726. It is part of his third cantata cycle and concluded the Christmas season. Bach later used the opening chorus for the Gloria of his Missa in G minor, BWV 235.</p>"
+key: G minor

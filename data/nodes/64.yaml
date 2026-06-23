@@ -1,0 +1,139 @@
+bwv: '64'
+title: Sehet, welch eine Liebe
+cycle: C1
+occasion: Christmas 3
+date: '1723-12-27'
+url: https://en.wikipedia.org/wiki/BWV_64
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Cornetto e Violino I col Soprano, Trombone I e Violino II coll' Alto, Trombone II e Viola col Tenore, Trombone III
+      col Basso, Continuo
+    de: |-
+      Sehet, welch eine Liebe hat uns der Vater erzeiget,
+      dass wir Gottes Kinder heißen.
+  - num: 2
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Cornetto e Violino I col Soprano, Trombone I e Violino II coll' Alto, Trombone II e Viola col Tenore, Trombone III
+      col Basso, Continuo
+    de: |-
+      Das hat er alles uns getan,
+      Sein groß Lieb zu zeigen an.
+      Des freu sich alle Christenheit
+      Und dank ihm des in Ewigkeit.
+      Kyrieleis!
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Geh, Welt! behalte nur das Deine,
+      Ich will und mag nichts von dir haben,
+      Der Himmel ist nun meine,
+      An diesem soll sich meine Seele laben.
+      Dein Gold ist ein vergänglich Gut,
+      Dein Reichtum ist geborget,
+      Wer dies besitzt, der ist gar schlecht versorget.
+      Drum sag ich mit getrostem Mut:
+  - num: 4
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Cornetto e Violino I col Soprano, Trombone I e Violino II coll' Alto, Trombone II e Viola col Tenore, Trombone III
+      col Basso, Continuo
+    de: |-
+      Was frag ich nach der Welt
+      Und allen ihren Schätzen
+      Wenn ich mich nur an dir,
+      Mein Jesu, kann ergötzen!
+      Dich hab ich einzig mir
+      Zur Wollust vorgestellt:
+      Du, du bist meine Lust;
+      Was frag ich nach der Welt!
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Was die Welt
+      In sich hält,
+      Muss als wie ein Rauch vergehen.
+      Aber was mir Jesus gibt
+      Und was meine Seele liebt,
+      Bleibet fest und ewig stehen.
+  - num: 6
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Der Himmel bleibet mir gewiss,
+      Und den besitz ich schon im Glauben.
+      Der Tod, die Welt und Sünde,
+      Ja selbst das ganze Höllenheer
+      Kann mir, als einem Gotteskinde,
+      Denselben nun und nimmermehr
+      Aus meiner Seele rauben.
+      Nur dies, nur einzig dies macht mir noch Kümmernis,
+      Dass ich noch länger soll auf dieser Welt verweilen;
+      Denn Jesus will den Himmel mit mir teilen,
+      Und darzu hat er mich erkoren,
+      Deswegen ist er Mensch geboren.
+  - num: 7
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      Von der Welt verlang ich nichts,
+      Wenn ich nur den Himmel erbe.
+      Alles, alles geb ich hin,
+      Weil ich genung versichert bin,
+      Dass ich ewig nicht verderbe.
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Cornetto e Violino I col Soprano, Trombone I e Violino II coll' Alto, Trombone II e Viola col Tenore, Trombone III
+      col Basso, Continuo
+    de: |-
+      Gute Nacht, o Wesen,
+      Das die Welt erlesen!
+      Mir gefällst du nicht.
+      Gute Nacht, ihr Sünden,
+      Bleibet weit dahinten,
+      Kommt nicht mehr ans Licht!
+      Gute Nacht, du Stolz und Pracht!
+      Dir sei ganz, du Lasterleben,
+      Gute Nacht gegeben!
+scoring: 'Soli: S A B, Coro: S A T B, Cornetto, Trombone I-III, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Recitative
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 4
+    A: 2
+    S: 1
+    B: 1
+  instrumentation_families:
+    - cornetto
+    - oboe_damore
+    - trombone
+key: E♭ major
+wiki:
+  summary: "Sehet, welch eine Liebe hat uns der Vater erzeiget, BWV\_64, is a church cantata by Johann Sebastian Bach. He composed the Christmas cantata in Leipzig in 1723 for the third day of Christmas, which is also the Feast of John the Evangelist, and first performed it on 27 December 1723."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/El_Greco_034.jpg/330px-El_Greco_034.jpg
+  url: https://en.wikipedia.org/wiki/Sehet%2C_welch_eine_Liebe_hat_uns_der_Vater_erzeiget%2C_BWV_64
+  summary_html: "<p><b><span><i lang=\"de\">Sehet, welch eine Liebe hat uns der Vater erzeiget</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>64</b>, is a church cantata by Johann Sebastian Bach. He composed the Christmas cantata in Leipzig in 1723 for the third day of Christmas, which is also the Feast of John the Evangelist, and first performed it on 27 December 1723.</p>"

@@ -1,0 +1,176 @@
+bwv: '4'
+title: Christ lag in Todes Banden
+occasion: Easter Sunday
+cycle: EARLY
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Violino I/II, Viola I/II, Continuo
+    de: ''
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Violino I/II, Viola I/II, Cornetto col Soprano, Trombone I coll' Alto, Trombone II col Tenore, Trombone III col
+      Basso, Continuo
+    de: |-
+      Christ lag in Todesbanden
+      Für unsre Sünd gegeben,
+      Er ist wieder erstanden
+      Und hat uns bracht das Leben;
+      Des wir sollen fröhlich sein,
+      Gott loben und ihm dankbar sein
+      Und singen halleluja,
+      Halleluja!
+  - num: 3
+    type: Versus
+    voices: ''
+    instruments: Cornetto col Soprano, Trombone I coll' Alto, Continuo
+    de: |-
+      Den Tod niemand zwingen kunnt
+      Bei allen Menschenkindern,
+      Das macht' alles unsre Sünd,
+      Kein Unschuld war zu finden.
+      Davon kam der Tod so bald
+      Und nahm über uns Gewalt,
+      Hielt uns in seinem Reich gefangen.
+      Halleluja!
+  - num: 4
+    type: Versus
+    voices: ''
+    instruments: Violino I/II, Continuo
+    de: |-
+      Jesus Christus, Gottes Sohn,
+      An unser Statt ist kommen
+      Und hat die Sünde weggetan,
+      Damit dem Tod genommen
+      All sein Recht und sein Gewalt,
+      Da bleibet nichts denn Tods Gestalt,
+      Den Stach'l hat er verloren.
+      Halleluja!
+  - num: 5
+    type: Chorus
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Es war ein wunderlicher Krieg,
+      Da Tod und Leben rungen,
+      Das Leben behielt den Sieg,
+      Es hat den Tod verschlungen.
+      Die Schrift hat verkündigt das,
+      Wie ein Tod den andern fraß,
+      Ein Spott aus dem Tod ist worden.
+      Halleluja!
+  - num: 6
+    type: Versus
+    voices: ''
+    instruments: Violino I/II, Viola I/II, Continuo
+    de: |-
+      Hier ist das rechte Osterlamm,
+      Davon Gott hat geboten,
+      Das ist hoch an des Kreuzes Stamm
+      In heißer Lieb gebraten,
+      Das Blut zeichnet unsre Tür,
+      Das hält der Glaub dem Tode für,
+      Der Würger kann uns nicht mehr schaden.
+      Halleluja!
+  - num: 7
+    type: Versus
+    voices: ''
+    instruments: Continuo
+    de: |-
+      So feiern wir das hohe Fest
+      Mit Herzensfreud und Wonne,
+      Das uns der Herre scheinen lässt,
+      Er ist selber die Sonne,
+      Der durch seiner Gnade Glanz
+      Erleuchtet unsre Herzen ganz,
+      Der Sünden Nacht ist verschwunden.
+      Halleluja!
+  - num: 8
+    type: Versus
+    voices: ''
+    instruments: >-
+      Violino I/II e Cornetto col Soprano, Viola I e Trombone I coll' Alto, Viola II e Trombone II col Tenore, Trombone
+      III col Basso, Continuo
+    de: |-
+      Wir essen und leben wohl
+      In rechten Osterfladen,
+      Der alte Sauerteig nicht soll
+      Sein bei dem Wort der Gnaden,
+      Christus will die Koste sein
+      Und speisen die Seel allein,
+      Der Glaub will keins andern leben.
+      Halleluja!
+scoring: 'Soli: S A T B, Coro: S A T B, Cornetto, Trombone I-III, Violino I/II, Viola I/II, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Chorus
+    - Versus
+    - Versus
+    - Chorus
+    - Versus
+    - Versus
+    - Versus
+  opening: Sinfonia
+  closing: Versus
+  voice_profile:
+    SATB: 2
+  instrumentation_families:
+    - cornetto
+    - trombone
+wiki:
+  summary: "Christ lag in Todes Banden, BWV\_4, is a cantata for Easter by German composer Johann Sebastian Bach, one of his earliest church cantatas. It is agreed to be an early work partly for stylistic reasons and partly because there is evidence that it was probably written for a performance in 1707. Bach went on to complete many other works in the same genre, contributing complete cantata cycles for all occasions of the liturgical year. John Eliot Gardiner described it as Bach's \"first-known attempt at painting narrative in music\"."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Christ_lag_in_Todesbanden_soprano-autograph_1724.png/330px-Christ_lag_in_Todesbanden_soprano-autograph_1724.png
+  url: https://en.wikipedia.org/wiki/Christ_lag_in_Todes_Banden%2C_BWV_4
+  summary_html: "<p><b><span><i lang=\"de\">Christ lag in Todes Banden</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>4</b>, is a cantata for Easter by German composer Johann Sebastian Bach, one of his earliest church cantatas. It is agreed to be an early work partly for stylistic reasons and partly because there is evidence that it was probably written for a performance in 1707. Bach went on to complete many other works in the same genre, contributing complete cantata cycles for all occasions of the liturgical year. John Eliot Gardiner described it as Bach's \"first-known attempt at painting narrative in music\".</p>"
+performances:
+  - id: uQNBDsDdLeE
+    title: Bach - Cantata Christ lag in Todesbanden BWV 4 - Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: Todes Banden
+    year: '2023'
+    duration: '18:37'
+    thumbnail: https://img.youtube.com/vi/uQNBDsDdLeE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uQNBDsDdLeE
+  - id: OHas-rtFfhs
+    title: Bach Cantata BWV 4 Christ lag in Todesbanden - Gardiner/Monteverdi Choir/ English Baroque Soloists
+    channel: vse vsad
+    performer: Gardiner
+    place: ''
+    year: '2021'
+    duration: '22:43'
+    thumbnail: https://img.youtube.com/vi/OHas-rtFfhs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OHas-rtFfhs
+  - id: 3ffg4mU7FNE
+    title: J.S. Bach - Cantate BWV 4 "Christ lag in Todesbanden"
+    channel: Ensemble Orlando Fribourg
+    performer: Ensemble Orlando Fribourg
+    place: ''
+    year: '2016'
+    duration: '22:27'
+    thumbnail: https://img.youtube.com/vi/3ffg4mU7FNE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3ffg4mU7FNE
+  - id: nrq626ro5VU
+    title: 'Bach: BWV 4. Christ lag in Todesbanden - Guillon (live)'
+    channel: BachsWorks
+    performer: BachsWorks
+    place: Todesbanden
+    year: 18 July 2014
+    duration: '20:12'
+    thumbnail: https://img.youtube.com/vi/nrq626ro5VU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=nrq626ro5VU
+  - id: DFLsLiN4Q5M
+    title: Bach Cantata BWV 4 Easter «Christ lag in Todes Banden» John Eliot Gardiner
+    channel: Felices Cantus Bach Kirchenmusik
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '23:46'
+    thumbnail: https://img.youtube.com/vi/DFLsLiN4Q5M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DFLsLiN4Q5M
+key: E minor

@@ -1,0 +1,127 @@
+bwv: '67'
+title: Halt im Gedächtnis Jesum Christ
+cycle: C1
+occasion: Easter I
+date: '1724-04-16'
+url: https://en.wikipedia.org/wiki/BWV_67
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Halt im Gedächtnis Jesum Christ,
+      der auferstanden ist von den Toten.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore I, Violino I/II, Viola, Continuo
+    de: |-
+      Mein Jesus ist erstanden,
+      Allein, was schreckt mich noch?
+      Mein Glaube kennt des Heilands Sieg,
+      Doch fühlt mein Herze Streit und Krieg,
+      Mein Heil, erscheine doch!
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Mein Jesu, heißest du des Todes Gift
+      Und eine Pestilenz der Hölle:
+      Ach, dass mich noch Gefahr und Schrecken trifft!
+      Du legtest selbst auf unsre Zungen
+      Ein Loblied, welches wir gesungen:
+  - num: 4
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Corno da tirarsi e Flauto traverso e Oboe d'amore e Violino I col Soprano, Oboe d'amore II e Violino II coll'
+      Alto, Viola col Tenore, Continuo
+    de: |-
+      Erschienen ist der herrlich Tag,
+      Dran sich niemand gnug freuen mag:
+      Christ, unser Herr, heut triumphiert,
+      All sein Feind er gefangen führt.
+      Alleluja!
+  - num: 5
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Doch scheinet fast,
+      Dass mich der Feinde Rest,
+      Den ich zu groß und allzu schrecklich finde,
+      Nicht ruhig bleiben lässt.
+      Doch, wenn du mir den Sieg erworben hast,
+      So streite selbst mit mir, mit deinem Kinde.
+      Ja, ja, wir spüren schon im Glauben,
+      Dass du, o Friedefürst,
+      Dein Wort und Werk an uns erfüllen wirst.
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Flauto traverso, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Bass
+      Friede sei mit euch!
+      Sopran, Alt, Tenor
+      Wohl uns! Jesus hilft uns kämpfen
+      Und die Wut der Feinde dämpfen,
+      Hölle, Satan, weich!
+      Bass
+      Friede sei mit euch!
+      Sopran, Alt, Tenor
+      Jesus holet uns zum Frieden
+      Und erquicket in uns Müden
+      Geist und Leib zugleich.
+      Bass
+      Friede sei mit euch!
+      Sopran, Alt, Tenor
+      O Herr, hilf und lass gelingen,
+      Durch den Tod hindurchzudringen
+      In dein Ehrenreich!
+      Bass
+      Friede sei mit euch!
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Corno da tirarsi e Flauto traverso e Oboe d'amore e Violino I col Soprano, Oboe d'amore II e Violino II coll'
+      Alto, Viola col Tenore, Continuo
+    de: |-
+      Du Friedefürst, Herr Jesu Christ,
+      Wahr' Mensch und wahrer Gott,
+      Ein starker Nothelfer du bist
+      Im Leben und im Tod:
+      Drum wir allein
+      Im Namen dein
+      Zu deinem Vater schreien.
+scoring: 'Soli: A T B, Coro: S A T B, Corno da tirarsi, Flauto traverso, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    T: 1
+    A: 2
+    B: 1
+  instrumentation_families:
+    - corno_da_tirarsi
+    - flauto_traverso
+    - oboe_damore
+key: A minor
+wiki:
+  summary: "Halt im Gedächtnis Jesum Christ, BWV\_67, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Quasimodogeniti, the first Sunday after Easter, and first performed it on 16 April 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Halt_im_Ged%C3%A4chtnis_Jesum_Christ%2C_BWV_67
+  summary_html: "<p><b><span><i lang=\"de\">Halt im Gedächtnis Jesum Christ</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>67</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Quasimodogeniti, the first Sunday after Easter, and first performed it on 16 April 1724.</p>"

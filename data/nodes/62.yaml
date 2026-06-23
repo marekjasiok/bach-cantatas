@@ -1,0 +1,139 @@
+bwv: '62'
+title: Nun komm, der Heiden Heiland
+cycle: C2
+occasion: Advent I
+date: '1724-12-03'
+url: https://en.wikipedia.org/wiki/BWV_62
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Corno col Soprano, Continuo
+    de: |-
+      Nun komm, der Heiden Heiland,
+      Der Jungfrauen Kind erkannt,
+      Des sich wundert alle Welt,
+      Gott solch Geburt ihm bestellt.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Bewundert, o Menschen, dies große Geheimnis:
+      Der höchste Beherrscher erscheinet der Welt.
+      Hier werden die Schätze des Himmels entdecket,
+      Hier wird uns ein göttliches Manna bestellt,
+      O Wunder! die Keuschheit wird gar nicht beflecket.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      So geht aus Gottes Herrlichkeit und Thron
+      Sein eingeborner Sohn.
+      Der Held aus Juda bricht herein,
+      Den Weg mit Freudigkeit zu laufen
+      Und uns Gefallne zu erkaufen.
+      O heller Glanz, o wunderbarer Segensschein!
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Streite, siege, starker Held!
+      Sei vor uns im Fleische kräftig!
+      Sei geschäftig,
+      Das Vermögen in uns Schwachen
+      Stark zu machen!
+  - num: 5
+    type: Recitative
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wir ehren diese Herrlichkeit
+      Und nahen nun zu deiner Krippen
+      Und preisen mit erfreuten Lippen,
+      Was du uns zubereit';
+      Die Dunkelheit verstört' uns nicht
+      Und sahen dein unendlich Licht.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Lob sei Gott, dem Vater, g'ton,
+      Lob sei Gott, sein'm eingen Sohn,
+      Lob sei Gott, dem Heilgen Geist,
+      Immer und in Ewigkeit!
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Oboe I/II, Violino I/II, Viola, Violone, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    B: 2
+  instrumentation_families:
+    - corno
+    - oboe
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Nun komm, der Heiden Heiland, BWV\_62, in Leipzig for the first Sunday in Advent and first performed it on 3 December 1724. It is based on Martin Luther's Advent hymn \"Nun komm, der Heiden Heiland\", a paraphrase of the Latin hymn \"Veni redemptor gentium\". The cantata is part of Bach's chorale cantata cycle, the second cycle during his tenure as Thomaskantor that began in 1723. In the format of this cycle, the text of the first and last stanzas of the hymn is retained unchanged while the text of the inner stanzas was paraphrased by an unknown librettist into a sequence of alternating arias and recitatives. The cantata is opened by a chorale fantasia and closed by a four-part chorale setting."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Martin_Luther_by_Cranach-restoration.jpg/330px-Martin_Luther_by_Cranach-restoration.jpg
+  url: https://en.wikipedia.org/wiki/Nun_komm%2C_der_Heiden_Heiland%2C_BWV_62
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Nun komm, der Heiden Heiland</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>62</b>, in Leipzig for the first Sunday in Advent and first performed it on 3 December 1724. It is based on Martin Luther's Advent hymn \"Nun komm, der Heiden Heiland\", a paraphrase of the Latin hymn \"Veni redemptor gentium\". The cantata is part of Bach's chorale cantata cycle, the second cycle during his tenure as Thomaskantor that began in 1723. In the format of this cycle, the text of the first and last stanzas of the hymn is retained unchanged while the text of the inner stanzas was paraphrased by an unknown librettist into a sequence of alternating arias and recitatives. The cantata is opened by a chorale fantasia and closed by a four-part chorale setting.</p>"
+performances:
+  - id: 7oj63klgeEg
+    title: Bach - Cantata Nun komm, der Heiden Heiland BWV 62 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2013'
+    duration: '19:04'
+    thumbnail: https://img.youtube.com/vi/7oj63klgeEg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7oj63klgeEg
+  - id: 3_RKlsydSwE
+    title: J. S. Bach - Cantata BWV 62 "Nun komm, der Heiden Heiland" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Richter
+    place: Martina Bischof
+    year: '2023'
+    duration: '23:49'
+    thumbnail: https://img.youtube.com/vi/3_RKlsydSwE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3_RKlsydSwE
+  - id: i9dnmnqEFNs
+    title: J.S. Bach - Christmas Cantatas (Philippe Herreweghe & Collegium Vocale Gent)
+    channel: EuroArtsChannel
+    performer: Herreweghe
+    place: Paris
+    year: '2016'
+    duration: '1:23:31'
+    thumbnail: https://img.youtube.com/vi/i9dnmnqEFNs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=i9dnmnqEFNs
+  - id: H2mpNGOsu6g
+    title: Bach, Cantata “Nun komm, der Heiden Heiland” BWV 62, com Fernando Cordella | BACH SOCIETY BRASIL
+    channel: EROICA música
+    performer: EROICA música
+    place: ''
+    year: ''
+    duration: '21:52'
+    thumbnail: https://img.youtube.com/vi/H2mpNGOsu6g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=H2mpNGOsu6g
+  - id: T14oioLHuBg
+    title: BCA002 BWV62 Cantata for 1st Sunday in Advent Herreweghe 1996
+    channel: Johann Sebastian
+    performer: Herreweghe
+    place: Advent
+    year: '1996'
+    duration: '18:45'
+    thumbnail: https://img.youtube.com/vi/T14oioLHuBg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=T14oioLHuBg
+key: B♭ major

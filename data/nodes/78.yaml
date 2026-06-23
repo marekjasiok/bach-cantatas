@@ -1,0 +1,188 @@
+bwv: '78'
+title: Jesu, der du meine Seele
+cycle: C2
+occasion: Trinity XIV
+date: '1724-09-10'
+url: https://en.wikipedia.org/wiki/BWV_78
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso, Oboe I/II, Violino I/II, Viola, Corno col Soprano, Continuo
+    de: |-
+      Jesu, der du meine Seele
+      Hast durch deinen bittern Tod
+      Aus des Teufels finstern Höhle
+      Und der schweren Seelennot
+      Kräftiglich herausgerissen
+      Und mich solches lassen wissen
+      Durch dein angenehmes Wort,
+      Sei doch itzt, o Gott, mein Hort!
+  - num: 2
+    type: Aria
+    voices: ''
+    instruments: Violoncello, Organo, Violone
+    de: |-
+      Wir eilen mit schwachen, doch emsigen Schritten,
+      O Jesu, o Meister, zu helfen zu dir.
+      Du suchest die Kranken und Irrenden treulich.
+      Ach höre, wie wir
+      Die Stimmen erheben, um Hülfe zu bitten!
+      Es sei uns dein gnädiges Antlitz erfreulich!
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ach! ich bin ein Kind der Sünden,
+      Ach! ich irre weit und breit.
+      Der Sünden Aussatz, so an mir zu finden,
+      Verlässt mich nicht in dieser Sterblichkeit.
+      Mein Wille trachtet nur nach Bösen.
+      Der Geist zwar spricht: ach! wer wird mich erlösen?
+      Aber Fleisch und Blut zu zwingen
+      Und das Gute zu vollbringen,
+      Ist über alle meine Kraft.
+      Will ich den Schaden nicht verhehlen,
+      So kann ich nicht, wie oft ich fehle, zählen.
+      Drum nehm ich nun der Sünden Schmerz und Pein
+      Und meiner Sorgen Bürde,
+      So mir sonst unerträglich würde,
+      Ich liefre sie dir, Jesu, seufzend ein.
+      Rechne nicht die Missetat,
+      Die dich, Herr, erzürnet hat!
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Flauto traverso, Continuo
+    de: |-
+      Das Blut, so meine Schuld durchstreicht,
+      Macht mir das Herze wieder leicht
+      Und spricht mich frei.
+      Ruft mich der Höllen Heer zum Streite,
+      So stehet Jesus mir zur Seite,
+      Dass ich beherzt und sieghaft sei.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Die Wunden, Nägel, Kron und Grab,
+      Die Schläge, so man dort dem Heiland gab,
+      Sind ihm nunmehro Siegeszeichen
+      Und können mir verneute Kräfte reichen.
+      Wenn ein erschreckliches Gericht
+      Den Fluch vor die Verdammten spricht,
+      So kehrst du ihn in Segen.
+      Mich kann kein Schmerz und keine Pein bewegen,
+      Weil sie mein Heiland kennt;
+      Und da dein Herz vor mich in Liebe brennt,
+      So lege ich hinwieder
+      Das meine vor dich nieder.
+      Dies mein Herz, mit Leid vermenget,
+      So dein teures Blut besprenget,
+      So am Kreuz vergossen ist,
+      Geb ich dir, Herr Jesu Christ.
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Oboe I, Violino I/II, Viola, Continuo
+    de: |-
+      Nun du wirst mein Gewissen stillen,
+      So wider mich um Rache schreit,
+      Ja, deine Treue wird's erfüllen,
+      Weil mir dein Wort die Hoffnung beut.
+      Wenn Christen an dich glauben,
+      Wird sie kein Feind in Ewigkeit
+      Aus deinen Händen rauben.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso in octava e Corno e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col
+      Tenore, Continuo
+    de: |-
+      Herr, ich glaube, hilf mir Schwachen,
+      Lass mich ja verzagen nicht;
+      Du, du kannst mich stärker machen,
+      Wenn mich Sünd und Tod anficht.
+      Deiner Güte will ich trauen,
+      Bis ich fröhlich werde schauen
+      Dich, Herr Jesu, nach dem Streit
+      In der süßen Ewigkeit.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Flauto traverso, Oboe I/II, Violino I/II, Viola, Violone, Organo, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    B: 2
+  instrumentation_families:
+    - corno
+    - flauto_traverso
+    - oboe
+    - organ
+    - violoncello
+    - violone
+wiki:
+  summary: "Jesu, der du meine Seele, BWV\_78, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the 14th Sunday after Trinity and first performed it on 10 September 1724. It is based on the 1641 hymn by Johann Rist, \"Jesu, der du meine Seele\", for which it is named. The topic of the chorale, the Passion of Jesus cleansing the believer, is only distantly related to the Sunday's readings."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rist_Johann.jpg/330px-Rist_Johann.jpg
+  url: https://en.wikipedia.org/wiki/Jesu%2C_der_du_meine_Seele%2C_BWV_78
+  summary_html: "<p><b><span><i lang=\"de\">Jesu, der du meine Seele</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>78</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the 14th Sunday after Trinity and first performed it on 10 September 1724. It is based on the 1641 hymn by Johann Rist, \"Jesu, der du meine Seele\", for which it is named. The topic of the chorale, the Passion of Jesus cleansing the believer, is only distantly related to the Sunday's readings.</p>"
+performances:
+  - id: JAlt2NAfaYA
+    title: Bach - Cantata Jesu, der du meine Seele BWV 78 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '24:33'
+    thumbnail: https://img.youtube.com/vi/JAlt2NAfaYA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JAlt2NAfaYA
+  - id: n7xzz9ZIp3g
+    title: J. S. Bach - Cantata BWV 78 "Jesu, der du meine Seele" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Gewissen stillen
+    year: '2008'
+    duration: '25:54'
+    thumbnail: https://img.youtube.com/vi/n7xzz9ZIp3g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=n7xzz9ZIp3g
+  - id: g0UZXRg1JJQ
+    title: 'Bach Cantata #78'
+    channel: Twang
+    performer: Twang
+    place: ''
+    year: ''
+    duration: '1:02'
+    thumbnail: https://img.youtube.com/vi/g0UZXRg1JJQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=g0UZXRg1JJQ
+  - id: YuvWLErMFCk
+    title: '02 Teresa Stich-Randall | Dagmar Hermann - Cantata BWV 78: II. Wir eilin'
+    channel: Codexcd / Codexcd Cubasound
+    performer: Codexcd / Codexcd Cubasound
+    place: ''
+    year: ''
+    duration: '5:11'
+    thumbnail: https://img.youtube.com/vi/YuvWLErMFCk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YuvWLErMFCk
+  - id: yh4xQWAkpRc
+    title: Bach Kantate BWV 78 Jesu der du meine Seele, Erhard Mauersberger 1970
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Blut
+    year: '1970'
+    duration: '24:10'
+    thumbnail: https://img.youtube.com/vi/yh4xQWAkpRc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yh4xQWAkpRc
+key: G minor

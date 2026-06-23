@@ -1,0 +1,1049 @@
+bwv: '244'
+title: Matthäuspassion
+occasion: Good Friday
+cycle: C3
+movements:
+  - num: 2
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B)
+      Evangelist
+      Da Jesus diese Rede vollendet hatte,
+      sprach er zu seinen Jüngern:
+      Jesus
+      Ihr wisset, dass nach zweien Tagen Ostern wird,
+      und des Menschen Sohn wird überantwortet werden,
+      dass er gekreuziget werde.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Herzliebster Jesu, was hast du verbrochen,
+      Dass man ein solch scharf Urteil hat gesprochen?
+      Was ist die Schuld, in was für Missetaten
+      Bist du geraten?
+  - num: 5
+    type: Recitative
+    voices: A
+    instruments: Flauto traverso I/II, Organo, Continuo
+    de: |-
+      Du lieber Heiland du,
+      Wenn deine Jünger töricht streiten,
+      Dass dieses fromme Weib
+      Mit Salben deinen Leib
+      Zum Grabe will bereiten,
+      So lasse mir inzwischen zu,
+      Von meiner Augen Tränenflüssen
+      Ein Wasser auf dein Haupt zu gießen!
+  - num: 6
+    type: Aria
+    voices: A
+    instruments: Flauto traverso I/II, Organo, Continuo
+    de: |-
+      Buß und Reu
+      Knirscht das Sündenherz entzwei,
+      Dass die Tropfen meiner Zähren
+      Angenehme Spezerei,
+      Treuer Jesu, dir gebären.
+  - num: 7
+    type: Recitative
+    voices: T, B
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist (T), Judas (B)
+      Evangelist
+      Da ging hin der Zwölfen einer,
+      mit Namen Judas Ischarioth,
+      zu den Hohenpriestern und sprach:
+      Judas
+      Was wollt ihr mir geben? Ich will ihn euch verraten.
+      Evangelist
+      Und sie boten ihm dreißig Silberlinge.
+      Und von dem an suchte er Gelegenheit, dass er ihn verriete.
+  - num: 8
+    type: Aria
+    voices: S
+    instruments: Flauto traverso I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Blute nur, du liebes Herz!
+      Ach! ein Kind, das du erzogen,
+      Das an deiner Brust gesogen,
+      Droht den Pfleger zu ermorden,
+      Denn es ist zur Schlange worden.
+  - num: 10
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo, Continuo
+    de: |-
+      Ich bin's, ich sollte büßen,
+      An Händen und an Füßen
+      Gebunden in der Höll.
+      Die Geißeln und die Banden
+      Und was du ausgestanden,
+      Das hat verdienet meine Seel.
+  - num: 11
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B.I), Judas (B.II)
+      Evangelist
+      Er antwortete und sprach:
+      Jesus
+      Der mit der Hand mit mir in die Schüssel tauchet,
+      der wird mich verraten.
+      Des Menschen Sohn gehet zwar dahin,
+      wie von ihm geschrieben stehet;
+      doch wehe dem Menschen,
+      durch welchen des Menschen Sohn verraten wird!
+      Es wäre ihm besser,
+      dass derselbige Mensch noch nie geboren wäre.
+      Evangelist
+      Da antwortete Judas, der ihn verriet, und sprach:
+      Judas
+      Bin ich's, Rabbi?
+      Evangelist
+      Er sprach zu ihm:
+      Jesus
+      Du sagest's.
+      Evangelist
+      Da sie aber aßen, nahm Jesus das Brot,
+      dankete und brach's und gab's den Jüngern und sprach:
+      Jesus
+      Nehmet, esset, das ist mein Leib.
+      Evangelist
+      Und er nahm den Kelch und dankte, gab ihnen den und sprach:
+      Jesus
+      Trinket alle daraus; das ist mein Blut
+      des neuen Testaments, welches vergossen wird
+      für viele zur Vergebung der Sünden.
+      Ich sage euch: Ich werde von nun an nicht mehr
+      von diesem Gewächs des Weinstocks trinken
+      bis an den Tag, da ich's neu trinken werde
+      mit euch in meines Vaters Reich.
+  - num: 12
+    type: Recitative
+    voices: S
+    instruments: Oboe d'amore I/II, Organo, Continuo
+    de: |-
+      Wiewohl mein Herz in Tränen schwimmt,
+      Dass Jesus von mir Abschied nimmt,
+      So macht mich doch sein Testament erfreut:
+      Sein Fleisch und Blut, o Kostbarkeit,
+      Vermacht er mir in meine Hände.
+      Wie er es auf der Welt mit denen Seinen
+      Nicht böse können meinen,
+      So liebt er sie bis an das Ende.
+  - num: 13
+    type: Aria
+    voices: S
+    instruments: Oboe d'amore I/II, Organo, Continuo
+    de: |-
+      Ich will dir mein Herze schenken,
+      Senke dich, mein Heil, hinein!
+      Ich will mich in dir versenken;
+      Ist dir gleich die Welt zu klein,
+      Ei, so sollst du mir allein
+      Mehr als Welt und Himmel sein.
+  - num: 14
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B)
+      Evangelist
+      Und da sie den Lobgesang gesprochen hatten,
+      gingen sie hinaus an den Ölberg.
+      Da sprach Jesus zu ihnen:
+      Jesus
+      In dieser Nacht werdet ihr euch alle ärgern an mir.
+      Denn es stehet geschrieben:
+      Ich werde den Hirten schlagen,
+      und die Schafe der Herde werden sich zerstreuen.
+      Wenn ich aber auferstehe,
+      will ich vor euch hingehen in Galiläam.
+  - num: 15
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Erkenne mich, mein Hüter,
+      Mein Hirte, nimm mich an!
+      Von dir, Quell aller Güter,
+      Ist mir viel Guts getan.
+      Dein Mund hat mich gelabet
+      Mit Milch und süßer Kost,
+      Dein Geist hat mich begabet
+      Mit mancher Himmelslust.
+  - num: 16
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Petrus (B.I), Jesus (B.II)
+      Evangelist
+      Petrus aber antwortete und sprach zu ihm:
+      Petrus
+      Wenn sie auch alle sich an dir ärgerten,
+      so will ich doch mich nimmermehr ärgern.
+      Evangelist
+      Jesus sprach zu ihm:
+      Jesus
+      Wahrlich, ich sage dir: In dieser Nacht,
+      ehe der Hahn krähet, wirst du mich dreimal verleugnen.
+      Evangelist
+      Petrus sprach zu ihm:
+      Petrus
+      Und wenn ich mit dir sterben müßte,
+      so will ich dich nicht verleugnen.
+      Evangelist
+      Desgleichen sagten auch alle Jünger.
+  - num: 17
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo, Continuo
+    de: |-
+      Ich will hier bei dir stehen;
+      Verachte mich doch nicht!
+      Von dir will ich nicht gehen,
+      Wenn dir dein Herze bricht.
+      Wenn dein Herz wird erblassen
+      Im letzten Todesstoß,
+      Alsdenn will ich dich fassen
+      In meinen Arm und Schoß.
+  - num: 18
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B)
+      Da kam Jesus mit ihnen zu einem Hofe,
+      der hieß Gethsemane,
+      und sprach zu seinen Jüngern:
+      Jesus
+      Setzet euch hie, bis dass ich dort hingehe und bete.
+      Evangelist
+      Und nahm zu sich Petrum
+      und die zween Söhne Zebedäi
+      und fing an zu trauern und zu zagen.
+      Da sprach Jesus zu ihnen:
+      Jesus
+      Meine Seele ist betrübt bis an den Tod,
+      bleibet hie und wachet mit mir.
+  - num: 19
+    type: Recitative
+    voices: T
+    instruments: >-
+      Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Flauto dolce I/II, Oboe da caccia I/II, Organo,
+      Continuo
+    de: |-
+      O Schmerz!
+      Hier zittert das gequälte Herz;
+      Wie sinkt es hin, wie bleicht sein Angesicht!
+      Was ist die Ursach aller solcher Plagen?
+      Der Richter führt ihn vor Gericht.
+      Da ist kein Trost, kein Helfer nicht.
+      Ach! meine Sünden haben dich geschlagen;
+      Er leidet alle Höllenqualen,
+      Er soll vor fremden Raub bezahlen.
+      Ich, ach Herr Jesu, habe dies verschuldet
+      Was du erduldet.
+      Ach, könnte meine Liebe dir,
+      Mein Heil, dein Zittern und dein Zagen
+      Vermindern oder helfen tragen,
+      Wie gerne blieb ich hier!
+  - num: 20
+    type: Aria
+    voices: T
+    instruments: Oboe, Flauto traverso I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Ich will bei meinem Jesu wachen,
+      So schlafen unsre Sünden ein.
+      Meinen Tod
+      Büßet seine Seelennot;
+      Sein Trauren machet mich voll Freuden.
+      Drum muss uns sein verdienstlich Leiden
+      Recht bitter und doch süße sein.
+  - num: 21
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B)
+      Evangelist
+      Und ging hin ein wenig, fiel nieder auf sein Angesicht
+      und betete und sprach:
+      Jesus
+      Mein Vater, ist's möglich, so gehe dieser Kelch von mir;
+      doch nicht wie ich will, sondern wie du willt.
+  - num: 22
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Der Heiland fällt vor seinem Vater nieder;
+      Dadurch erhebt er mich und alle
+      Von unserm Falle
+      Hinauf zu Gottes Gnade wieder.
+      Er ist bereit,
+      Den Kelch, des Todes Bitterkeit
+      Zu trinken,
+      In welchen Sünden dieser Welt
+      Gegossen sind und hässlich stinken,
+      Weil es dem lieben Gott gefällt.
+  - num: 23
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Organo, Continuo
+    de: |-
+      Gerne will ich mich bequemen,
+      Kreuz und Becher anzunehmen,
+      Trink ich doch dem Heiland nach.
+      Denn sein Mund,
+      Der mit Milch und Honig fließet,
+      Hat den Grund
+      Und des Leidens herbe Schmach
+      Durch den ersten Trunk versüßet.
+  - num: 24
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B)
+      Evangelist
+      Und er kam zu seinen Jüngern
+      und fand sie schlafend und sprach zu ihnen:
+      Jesus
+      Könnet ihr denn nicht eine Stunde mit mir wachen?
+      Wachet und betet, dass ihr nicht in Anfechtung fallet!
+      Der Geist ist willig, aber das Fleisch ist schwach.
+      Evangelist
+      Zum andernmal ging er hin, betete und sprach:
+      Jesus
+      Mein Vater, ist's nicht möglich, dass dieser Kelch von mir gehe,
+      ich trinke ihn denn, so geschehe dein Wille.
+  - num: 25
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Was mein Gott will, das g'scheh allzeit,
+      Sein Will, der ist der beste,
+      Zu helfen den'n er ist bereit,
+      Die an ihn gläuben feste.
+      Er hilft aus Not, der fromme Gott,
+      Und züchtiget mit Maßen.
+      Wer Gott vertraut, fest auf ihn baut,
+      Den will er nicht verlassen.
+  - num: 26
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B.I), Judas (B.II)
+      Evangelist
+      Und er kam und fand sie aber schlafend,
+      und ihre Augen waren voll Schlafs.
+      Und er ließ sie und ging abermal hin
+      und betete zum drittenmal und redete dieselbigen Worte.
+      Da kam er zu seinen Jüngern und sprach zu ihnen:
+      Jesus
+      Ach! wollt ihr nun schlafen und ruhen?
+      Siehe, die Stunde ist hie, dass des Menschen Sohn
+      in der Sünder Hände überantwortet wird.
+      Stehet auf, lasset uns gehen;
+      siehe, er ist da, der mich verrät.
+      Evangelist
+      Und als er noch redete,
+      siehe, da kam Judas, der Zwölfen einer,
+      und mit ihm eine große Schar
+      mit Schwerten und mit Stangen
+      von den Hohenpriestern und Altesten des Volks.
+      Und der Verräter hatte ihnen ein Zeichen gegeben und gesagt:
+      "Welchen ich küssen werde, der ist's, den greifet!"
+      Und alsbald trat er zu Jesu und sprach:
+      Judas
+      Gegrüßet seist du, Rabbi!
+      Evangelist
+      Und küssete ihn. Jesus aber sprach zu ihm:
+      Jesus
+      Mein Freund, warum bist du kommen?
+      Evangelist
+      Da traten sie hinzu und legten die Hände an Jesum
+      und griffen ihn.
+  - num: 28
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B)
+      Evangelist
+      Und siehe, einer aus denen, die mit Jesu waren,
+      reckete die Hand aus und schlug des Hohenpriesters Knecht
+      und hieb ihm ein Ohr ab.
+      Da sprach Jesus zu ihm:
+      Jesus
+      Stecke dein Schwert an seinen Ort;
+      denn wer das Schwert nimmt, der soll durchs Schwert umkommen.
+      Oder meinest du, dass ich nicht könnte meinen Vater bitten,
+      dass er mir zuschickte mehr denn zwölf Legion Engel?  Wie
+      würde aber die Schrift erfüllet?  Es muss also gehen.
+      Evangelist
+      Zu der Stund sprach Jesus zu den Scharen:
+      Jesus
+      Ihr seid ausgegangen als zu einem Mörder,
+      mit Schwerten und mit Stangen, mich zu fahen; bin ich doch täglich
+      bei euch gesessen und habe gelehret im Tempel, und ihr habt mich
+      nicht gegriffen. Aber das ist alles geschehen, dass erfüllet
+      würden die Schriften der Propheten.
+      Evangelist
+      Da verließen ihn alle Jünger und flohen.
+  - num: 29
+    type: Chorale
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe d'amore I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      O Mensch, bewein dein Sünde groß,
+      Darum Christus seins Vaters Schoß
+      Äußert und kam auf Erden;
+      Von einer Jungfrau rein und zart
+      Für uns er hie geboren ward,
+      Er wollt der Mittler werden.
+      Den Toten er das Leben gab
+      Und legt darbei all Krankheit ab,
+      Bis sich die Zeit herdrange,
+      Dass er für uns geopfert würd,
+      Trüg unsrer Sünden schwere Bürd
+      Wohl an dem Kreuze lange.
+  - num: 30
+    type: Aria
+    voices: A
+    instruments: Flauto traverso I, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Ach! nun ist mein Jesus hin!
+      Wo ist denn dein Freund hingegangen,
+      O du Schönste unter den Weibern?
+      Ist es möglich, kann ich schauen?
+      Wo hat sich dein Freund hingewandt?
+      Ach! mein Lamm in Tigerklauen,
+      Ach! wo ist mein Jesus hin?
+      So wollen wir mit dir ihn suchen.
+      Ach! was soll ich der Seele sagen,
+      Wenn sie mich wird ängstlich fragen?
+      Ach! wo ist mein Jesus hin?
+  - num: 31
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist
+      Die aber Jesum gegriffen hatten,
+      führeten ihn zu dem Hohenpriester Kaiphas, dahin die
+      Schriftgelehrten und Ältesten sich versammlet hatten. Petrus
+      aber folgete ihm nach von ferne bis in den Palast des Hohenpriesters
+      und ging hinein und satzte sich bei die Knechte, auf dass
+      er sähe, wo es hinaus wollte. Die Hohenpriester aber und
+      Ältesten und der ganze Rat suchten falsche Zeugnis wider Jesum,
+      auf dass sie ihn töteten, und funden keines.
+  - num: 32
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Mir hat die Welt trüglich gericht'
+      Mit Lügen und mit falschem G'dicht,
+      Viel Netz und heimlich Stricke.
+      Herr, nimm mein wahr in dieser G'fahr,
+      B'hüt mich für falschen Tücken!
+  - num: 33
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist (T.I), Zeugen (A T.II), Hoherpriester (B)
+      Und wiewohl viel falsche Zeugen herzutraten,
+      funden sie doch keins. Zuletzt traten herzu
+      zween falsche Zeugen und sprachen:
+      Zeugen
+      Er hat gesagt: Ich kann den Tempel Gottes abbrechen
+      und in dreien Tagen denselben bauen.
+      Evangelist
+      Und der Hohepriester stund auf und sprach zu ihm:
+      Hoherpriester
+      Antwortest du nichts zu dem, das diese wider dich zeugen?
+      Evangelist
+      Aber Jesus schwieg stille.
+  - num: 34
+    type: Recitative
+    voices: T
+    instruments: Oboe I/II, Viola da gamba, Organo, Continuo
+    de: |-
+      Mein Jesus schweigt
+      Zu falschen Lügen stille,
+      Um uns damit zu zeigen,
+      Dass sein Erbarmens voller Wille
+      Vor uns zum Leiden sei geneigt,
+      Und dass wir in dergleichen Pein
+      Ihm sollen ähnlich sein
+      Und in Verfolgung stille schweigen.
+  - num: 35
+    type: Aria
+    voices: T
+    instruments: Viola da gamba, Organo, Continuo
+    de: |-
+      Geduld!
+      Wenn mich falsche Zungen stechen.
+      Leid ich wider meine Schuld
+      Schimpf und Spott,
+      Ei, so mag der liebe Gott
+      Meines Herzens Unschuld rächen.
+  - num: 37
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Wer hat dich so geschlagen,
+      Mein Heil, und dich mit Plagen
+      So übel zugericht'?
+      Du bist ja nicht ein Sünder
+      Wie wir und unsre Kinder;
+      Von Missetaten weißt du nicht.
+  - num: 39
+    type: Aria
+    voices: A
+    instruments: Violino concertante, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Erbarme dich,
+      Mein Gott, um meiner Zähren willen!
+      Schaue hier,
+      Herz und Auge weint vor dir
+      Bitterlich.
+  - num: 40
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Bin ich gleich von dir gewichen,
+      Stell ich mich doch wieder ein;
+      Hat uns doch dein Sohn verglichen
+      Durch sein' Angst und Todespein.
+      Ich verleugne nicht die Schuld;
+      Aber deine Gnad und Huld
+      Ist viel größer als die Sünde,
+      Die ich stets in mir befinde.
+  - num: 42
+    type: Aria
+    voices: B
+    instruments: Violino concertante, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Gebt mir meinen Jesum wieder!
+      Seht, das Geld, den Mörderlohn,
+      Wirft euch der verlorne Sohn
+      Zu den Füßen nieder!
+  - num: 43
+    type: Recitative
+    voices: T, B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Evangelist (T), Pilatus (B.I), Jesus (B.II)
+      Evangelist
+      Sie hielten aber einen Rat
+      und kauften einen Töpfersacker darum zum Begräbnis der
+      Pilger. Daher ist derselbige Acker genennet der Blutacker bis auf
+      den heutigen Tag. Da ist erfüllet, das gesagt ist durch den
+      Propheten Jeremias, da er spricht: "Sie haben genommen dreißig
+      Silberlinge, damit bezahlet ward der Verkaufte, welchen sie kauften von
+      den Kindern Israel, und haben sie gegeben um einen Töpfersacker,
+      als mir der Herr befohlen hat." Jesus aber stund vor dem Landpfleger;
+      und der Landpfleger fragte ihn und sprach:
+      Pilatus
+      Bist du der Jüden König?
+      Evangelist
+      Jesus aber sprach zu ihm:
+      Jesus
+      Du sagest's.
+      Evangelist
+      Und da er verklagt war von den Hohenpriestern
+      und Ältesten, antwortete er nichts. Da sprach Pilatus zu ihm:
+      Pilatus
+      Hörest du nicht, wie hart sie dich verklagen?
+      Evangelist
+      Und er antwortete ihm nicht auf ein Wort,
+      also, dass sich auch der Landpfleger sehr verwunderte.
+  - num: 44
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Befiehl du deine Wege
+      Und was dein Herze kränkt
+      Der allertreusten Pflege
+      Des, der den Himmel lenkt.
+      Der Wolken, Luft und Winden
+      Gibt Wege, Lauf und Bahn,
+      Der wird auch Wege finden,
+      Da dein Fuß gehen kann.
+  - num: 46
+    type: Chorale
+    voices: SATB
+    instruments: Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Alto col Tenore, Organo, Continuo
+    de: |-
+      Wie wunderbarlich ist doch diese Strafe!
+      Der gute Hirte leidet für die Schafe,
+      Die Schuld bezahlt der Herre, der Gerechte,
+      Für seine Knechte.
+  - num: 47
+    type: Recitative
+    voices: T, B
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist (T), Pilatus (B)
+      Evangelist
+      Der Landpfleger sagte:
+      Pilatus
+      Was hat er denn Übels getan?
+  - num: 48
+    type: Recitative
+    voices: S
+    instruments: Oboe da caccia I/II, Organo, Continuo
+    de: |-
+      Er hat uns allen wohlgetan,
+      Den Blinden gab er das Gesicht,
+      Die Lahmen macht er gehend,
+      Er sagt uns seines Vaters Wort,
+      Er trieb die Teufel fort,
+      Betrübte hat er aufgericht',
+      Er nahm die Sünder auf und an.
+      Sonst hat mein Jesus nichts getan.
+  - num: 49
+    type: Aria
+    voices: S
+    instruments: Flauto traverso solo, Oboe da caccia I/II
+    de: |-
+      Aus Liebe,
+      Aus Liebe will mein Heiland sterben,
+      Von einer Sünde weiß er nichts.
+      Dass das ewige Verderben
+      Und die Strafe des Gerichts
+      Nicht auf meiner Seele bliebe.
+  - num: 51
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Erbarm es Gott!
+      Hier steht der Heiland angebunden.
+      O Geißelung, o Schläg, o Wunden!
+      Ihr Henker, haltet ein!
+      Erweichet euch
+      Der Seelen Schmerz,
+      Der Anblick solches Jammers nicht?
+      Ach ja! ihr habt ein Herz,
+      Das muss der Martersäule gleich
+      Und noch viel härter sein.
+      Erbarmt euch, haltet ein!
+  - num: 52
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Organo, Continuo
+    de: |-
+      Können Tränen meiner Wangen
+      Nichts erlangen,
+      O, so nehmt mein Herz hinein!
+      Aber lasst es bei den Fluten,
+      Wenn die Wunden milde bluten,
+      Auch die Opferschale sein!
+  - num: 54
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      O Haupt voll Blut und Wunden,
+      Voll Schmerz und voller Hohn,
+      O Haupt, zu Spott gebunden
+      Mit einer Dornenkron,
+      O Haupt, sonst schön gezieret
+      Mit höchster Ehr und Zier,
+      Jetzt aber hoch schimpfieret,
+      Gegrüßet seist du mir!
+      Du edles Angesichte,
+      Dafür sonst schrickt und scheut
+      Das große Weltgerichte,
+      Wie bist du so bespeit;
+      Wie bist du so erbleichet!
+      Wer hat dein Augenlicht,
+      Dem sonst kein Licht nicht gleichet,
+      So schändlich zugericht'?
+  - num: 55
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist
+      Und da sie ihn verspottet hatten, zogen sie ihm den Mantel aus
+      und zogen ihm seine Kleider an und führeten ihn hin, dass
+      sie ihn kreuzigten. Und indem sie hinausgingen, funden sie einen
+      Menschen von Kyrene mit Namen Simon; den zwungen sie, dass
+      er ihm sein Kreuz trug.
+  - num: 56
+    type: Recitative
+    voices: B
+    instruments: Flauto traverso I/II, Viola da gamba, Organo, Continuo
+    de: |-
+      Ja freilich will in uns das Fleisch und Blut
+      Zum Kreuz gezwungen sein;
+      Je mehr es unsrer Seele gut,
+      Je herber geht es ein.
+  - num: 57
+    type: Aria
+    voices: B
+    instruments: Viola da gamba sola, Organo, Continuo
+    de: |-
+      Komm, süßes Kreuz, so will ich sagen,
+      Mein Jesu, gib es immer her!
+      Wird mir mein Leiden einst zu schwer,
+      So hilfst du mir es selber tragen.
+  - num: 59
+    type: Recitative
+    voices: A
+    instruments: Oboe da caccia I/II, Violoncello, Organo, Continuo
+    de: |-
+      Ach Golgatha, unselges Golgatha!
+      Der Herr der Herrlichkeit muss schimpflich hier verderben
+      Der Segen und das Heil der Welt
+      Wird als ein Fluch ans Kreuz gestellt.
+      Der Schöpfer Himmels und der Erden
+      Soll Erd und Luft entzogen werden.
+      Die Unschuld muss hier schuldig sterben,
+      Das gehet meiner Seele nah;
+      Ach Golgatha, unselges Golgatha!
+  - num: 60
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Oboe da caccia I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Sehet, Jesus hat die Hand,
+      Uns zu fassen, ausgespannt,
+      Kommt! - Wohin? - in Jesu Armen
+      Sucht Erlösung, nehmt Erbarmen,
+      Suchet! - Wo? - in Jesu Armen.
+      Lebet, sterbet, ruhet hier,
+      Ihr verlass'nen Küchlein ihr,
+      Bleibet - Wo? - in Jesu Armen.
+  - num: 62
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Wenn ich einmal soll scheiden,
+      So scheide nicht von mir,
+      Wenn ich den Tod soll leiden,
+      So tritt du denn herfür!
+      Wenn mir am allerbängsten
+      Wird um das Herze sein,
+      So reiß mich aus den Ängsten
+      Kraft deiner Angst und Pein!
+  - num: 64
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Am Abend, da es kühle war,
+      Ward Adams Fallen offenbar;
+      Am Abend drücket ihn der Heiland nieder.
+      Am Abend kam die Taube wieder
+      Und trug ein Ölblatt in dem Munde.
+      O schöne Zeit! O Abendstunde!
+      Der Friedensschluss ist nun mit Gott gemacht,
+      Denn Jesus hat sein Kreuz vollbracht.
+      Sein Leichnam kömmt zur Ruh,
+      Ach! liebe Seele, bitte du,
+      Geh, lasse dir den toten Jesum schenken,
+      O heilsames, o köstlichs Angedenken!
+  - num: 65
+    type: Aria
+    voices: B
+    instruments: Oboe da caccia I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Mache dich, mein Herze, rein,
+      Ich will Jesum selbst begraben.
+      Denn er soll nunmehr in mir
+      Für und für
+      Seine süße Ruhe haben.
+      Welt, geh aus, lass Jesum ein!
+  - num: 67
+    type: Recitative
+    voices: B, T, A, S
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Bass
+      Nun ist der Herr zur Ruh gebracht.
+      Mein Jesu, gute Nacht!
+      Evangelist
+      Die Müh ist aus, die unsre Sünden ihm gemacht.
+      Mein Jesu, gute Nacht!
+      Alt
+      O selige Gebeine,
+      Seht, wie ich euch mit Buß und Reu beweine,
+      Dass euch mein Fall in solche Not gebracht!
+      Mein Jesu, gute Nacht!
+      Sopran
+      Habt lebenslang
+      Vor euer Leiden tausend Dank,
+      Dass ihr mein Seelenheil so wert geacht'.
+      Mein Jesu, gute Nacht!
+  - num: 68
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Wir setzen uns mit Tränen nieder
+      Und rufen dir im Grabe zu:
+      Ruhe sanfte, sanfte ruh!
+      Ruht, ihr ausgesognen Glieder!
+      Euer Grab und Leichenstein
+      Soll dem ängstlichen Gewissen
+      Ein bequemes Ruhekissen
+      Und der Seelen Ruhstatt sein.
+      Höchst vergnügt schlummern da die Augen ein.
+scoring: >-
+  Soli: S A T B, Coro I/II: S A T B, Flauto dolce I/II, Flauto traverso I/II, Oboe, Oboe d'amore I/II, Oboe da caccia
+  I/II, Violino I/II, Viola, Viola da gamba, Organo, Continuo
+features:
+  structure:
+    - Recitative
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Recitative
+    - Chorale
+    - Recitative
+    - Recitative
+    - Aria
+    - Recitative
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Recitative
+    - Recitative
+    - Chorale
+    - Aria
+    - Recitative
+    - Chorale
+    - Recitative
+    - Recitative
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+    - Aria
+    - Recitative
+    - Chorale
+    - Chorale
+    - Recitative
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Recitative
+  closing: Chorus
+  voice_profile:
+    T, B: 12
+    SATB: 14
+    A: 8
+    S: 5
+    T: 7
+    B: 7
+    B, T, A, S: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - organ
+    - recorder
+    - viola_da_gamba
+    - violino_solo
+    - violoncello
+wiki:
+  summary: "The St Matthew Passion, BWV\_244, is a Passion, a sacred oratorio written by Johann Sebastian Bach in 1727 for solo voices, double choir and double orchestra, with libretto in German by Picander. It sets the 26th and 27th chapters of the Gospel of Matthew to music, with interspersed chorales and arias. It is widely regarded as one of the masterpieces of Baroque sacred music. The original Latin title Passio Domini nostri J.C. secundum Evangelistam Matthæum translates to \"The Passion of our Lord Jesus Christ according to the Evangelist Matthew\"."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/BWV_244_Titelblatt.svg/330px-BWV_244_Titelblatt.svg.png
+  url: https://en.wikipedia.org/wiki/St_Matthew_Passion
+  summary_html: "<p>The <i><b>St Matthew Passion</b></i>, BWV\_244, is a <i>Passion</i>, a sacred oratorio written by Johann Sebastian Bach in 1727 for solo voices, double choir and double orchestra, with libretto in German by Picander. It sets the 26th and 27th chapters of the Gospel of Matthew to music, with interspersed chorales and arias. It is widely regarded as one of the masterpieces of Baroque sacred music. The original Latin title <b><span><i lang=\"la\">Passio Domini nostri J.C. secundum Evangelistam Matthæum</i></span></b> translates to \"The Passion of our Lord Jesus Christ according to the Evangelist Matthew\".</p>"
+performances:
+  - id: ZwVW1ttVhuQ
+    title: Bach - St Matthew Passion BWV 244 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Naarden
+    year: '2014'
+    duration: '2:44:32'
+    thumbnail: https://img.youtube.com/vi/ZwVW1ttVhuQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ZwVW1ttVhuQ
+  - id: RnkSFKJ4rC0
+    title: Bach - Opening Chorus Kommt, ihr Töchter from St Matthew Passion BWV 244 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Leipzig
+    year: April 2014
+    duration: '8:14'
+    thumbnail: https://img.youtube.com/vi/RnkSFKJ4rC0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RnkSFKJ4rC0
+  - id: KV2w93bvGwE
+    title: J.-S. Bach - Passion selon Saint Matthieu BWV 244 (sous-titré français)
+    channel: LesPauvresStFrancois
+    performer: LesPauvresStFrancois
+    place: ''
+    year: ''
+    duration: '2:44:59'
+    thumbnail: https://img.youtube.com/vi/KV2w93bvGwE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=KV2w93bvGwE
+  - id: BBeXF_lnj_M
+    title: 'Bach: Erbarme dich, mein Gott (Matthäuspassion) - Galou (Roth)'
+    channel: MehdiCapsII
+    performer: MehdiCapsII
+    place: Gott
+    year: '2008'
+    duration: '5:58'
+    thumbnail: https://img.youtube.com/vi/BBeXF_lnj_M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BBeXF_lnj_M
+  - id: YBtctAuSZZw
+    title: 'Bach: St Matthew Passion, BWV 244 (Herbert von Karajan) Matthäus-Passion'
+    channel: BEST OF CLASSICAL MUSIC
+    performer: BEST OF CLASSICAL MUSIC
+    place: Bethanien
+    year: '1972'
+    duration: '3:24:22'
+    thumbnail: https://img.youtube.com/vi/YBtctAuSZZw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YBtctAuSZZw
+  - id: _uLpp6cW7sA
+    title: Bach - Sind Blitze, sind Donner from St Matthew Passion BWV 244 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Leipzig
+    year: April 2014
+    duration: '1:26'
+    thumbnail: https://img.youtube.com/vi/_uLpp6cW7sA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_uLpp6cW7sA
+  - id: WXWPXJ5kcjk
+    title: Bach - Gebt mir meinen Jesum wieder from St Matthew Passion BWV 244 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Leipzig
+    year: April 2014
+    duration: '2:58'
+    thumbnail: https://img.youtube.com/vi/WXWPXJ5kcjk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WXWPXJ5kcjk
+  - id: QrrdWYh9Hwc
+    title: Johann Sebastian Bach | Matthäus - Passion / St Matthew Passion (BWV 244)
+    channel: Südtirol in concert
+    performer: Südtirol in concert
+    place: Glaubitz
+    year: '2017'
+    duration: '2:33:29'
+    thumbnail: https://img.youtube.com/vi/QrrdWYh9Hwc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=QrrdWYh9Hwc
+  - id: vGTs9ncHxo4
+    title: 'Bach: St Matthew Passion, BWV 244 - Nederlandse Bachvereniging & Masaaki Suzuki - Live Concert HD'
+    channel: AVROTROS Klassiek
+    performer: Masaaki
+    place: Grote Kerk
+    year: March 2026
+    duration: '2:46:28'
+    thumbnail: https://img.youtube.com/vi/vGTs9ncHxo4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vGTs9ncHxo4
+  - id: Zry9dpM1_n4
+    title: Bach - Erbarme dich, mein Gott from St Matthew Passion BWV 244 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Leipzig
+    year: ''
+    duration: '6:24'
+    thumbnail: https://img.youtube.com/vi/Zry9dpM1_n4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Zry9dpM1_n4
+  - id: olVw8aAYJuE
+    title: 'Nathalie Stutzmann: Bach - Saint Matthew Passion, "Erbarme Dich" (Orfeo 55 & Satomi Watanabe)'
+    channel: Total Baroque
+    performer: Total Baroque
+    place: ''
+    year: '2012'
+    duration: '6:59'
+    thumbnail: https://img.youtube.com/vi/olVw8aAYJuE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=olVw8aAYJuE
+  - id: DQUYZHKnn58
+    title: BACH - "ERBARME DICH, MEIN GOTT" - MAGDALENA KOZENÁ - SAINT MATTHEW PASSION
+    channel: Simone Gomes Arte e Música
+    performer: Simone Gomes Arte e Música
+    place: ''
+    year: ''
+    duration: '7:36'
+    thumbnail: https://img.youtube.com/vi/DQUYZHKnn58/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DQUYZHKnn58
+  - id: AVH-VLqOYGE
+    title: Bach - Komm, süsses Kreuz from St Matthew Passion BWV 244 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Leipzig
+    year: April 2014
+    duration: '6:57'
+    thumbnail: https://img.youtube.com/vi/AVH-VLqOYGE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AVH-VLqOYGE
+  - id: PCtEMv2LXHc
+    title: J. S. Bach - Matthäuspassion - St Matthew Passion - BWV 244 - Karl Richter - 1971 Restored 2025 - 4K
+    channel: TEMPUS Collection - Multimedia - Record Label
+    performer: Richter
+    place: Herze
+    year: '1971'
+    duration: '3:17:25'
+    thumbnail: https://img.youtube.com/vi/PCtEMv2LXHc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PCtEMv2LXHc
+  - id: DdiyuPNvQX4
+    title: 'J.S. Bach: St Matthew Passion, BWV 244 (Full). RCO, Eugen Jochum. Rec. 1965'
+    channel: Mikhail Sayamov
+    performer: Mikhail Sayamov
+    place: Amsterdam
+    year: 30 November 1965
+    duration: '3:21:28'
+    thumbnail: https://img.youtube.com/vi/DdiyuPNvQX4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DdiyuPNvQX4

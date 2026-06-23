@@ -1,0 +1,95 @@
+bwv: '90'
+title: Es reißet euch ein schrecklich Ende
+cycle: C1
+occasion: Trinity XXV
+date: '1723-11-14'
+url: https://en.wikipedia.org/wiki/BWV_90
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Es reißet euch ein schrecklich Ende,
+      Ihr sündlichen Verächter, hin.
+      Der Sünden Maß ist voll gemessen,
+      Doch euer ganz verstockter Sinn
+      Hat seines Richters ganz vergessen.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Des Höchsten Güte wird von Tag zu Tage neu,
+      Der Undank aber sündigt stets auf Gnade.
+      O, ein verzweifelt böser Schade,
+      So dich in dein Verderben führt.
+      Ach! wird dein Herze nicht gerührt?
+      Dass Gottes Güte dich
+      Zur wahren Buße leitet?
+      Sein treues Herze lässet sich
+      Zu ungezählter Wohltat schauen:
+      Bald lässt er Tempel auferbauen,
+      Bald wird die Aue zubereitet,
+      Auf die des Wortes Manna fällt,
+      So dich erhält.
+      Jedoch, o! Bosheit dieses Lebens,
+      Die Wohltat ist an dir vergebens.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      So löschet im Eifer der rächende Richter
+      Den Leuchter des Wortes zur Strafe doch aus.
+      Ihr müsset, o Sünder, durch euer Verschulden
+      Den Greuel an heiliger Stätte erdulden,
+      Ihr machet aus Tempeln ein mörderisch Haus.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Doch Gottes Auge sieht auf uns als Auserwählte:
+      Und wenn kein Mensch der Feinde Menge zählte,
+      So schützt uns doch der Held in Israel,
+      Es hemmt sein Arm der Feinde Lauf
+      Und hilft uns auf;
+      Des Wortes Kraft wird in Gefahr
+      Um so viel mehr erkannt und offenbar.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Leit uns mit deiner rechten Hand
+      Und segne unser Stadt und Land;
+      Gib uns allzeit dein heilges Wort,
+      Behüt für's Teufels List und Mord;
+      Verleih ein selges Stündelein,
+      Auf dass wir ewig bei dir sein!
+scoring: 'Soli: A T B, Coro: S A T B, Tromba, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 2
+    A: 1
+    B: 1
+    SATB: 1
+  instrumentation_families:
+    - tromba
+key: D minor
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Es reißet euch ein schrecklich Ende, BWV\_90, in Leipzig for the 25th Sunday after Trinity and first performed it on 14 November 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/D%C3%BCrer-H%C3%B6llensturz.jpg/330px-D%C3%BCrer-H%C3%B6llensturz.jpg
+  url: https://en.wikipedia.org/wiki/Es_rei%C3%9Fet_euch_ein_schrecklich_Ende%2C_BWV_90
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Es reißet euch ein schrecklich Ende</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>90</b>, in Leipzig for the 25th Sunday after Trinity and first performed it on 14 November 1723.</p>"

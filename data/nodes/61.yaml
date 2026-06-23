@@ -1,0 +1,232 @@
+bwv: '61'
+title: Nun komm, der Heiden Heiland
+cycle: EARLY
+occasion: Advent I
+date: '1714-12-02'
+url: https://en.wikipedia.org/wiki/BWV_61
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Violino I/II, Viola I/II, Fagotto, Continuo
+    de: |-
+      Nun komm, der Heiden Heiland,
+      Der Jungfrauen Kind erkannt,
+      Des sich wundert alle Welt,
+      Gott solch Geburt ihm bestellt.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Der Heiland ist gekommen,
+      Hat unser armes Fleisch und Blut
+      An sich genommen
+      Und nimmet uns zu Blutsverwandten an.
+      O allerhöchstes Gut,
+      Was hast du nicht an uns getan?
+      Was tust du nicht
+      Noch täglich an den Deinen?
+      Du kömmst und lässt dein Licht
+      Mit vollem Segen scheinen.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola I/II, Continuo
+    de: |-
+      Komm, Jesu, komm zu deiner Kirche
+      Und gib ein selig neues Jahr!
+      Befördre deines Namens Ehre,
+      Erhalte die gesunde Lehre
+      Und segne Kanzel und Altar!
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola I/II, Continuo
+    de: |-
+      Siehe, ich stehe vor der Tür
+      und klopfe an. So jemand meine Stimme hören wird und die Tür
+      auftun, zu dem werde ich eingehen und das Abendmahl mit ihm halten
+      und er mit mir.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Violoncelli, Continuo
+    de: |-
+      Öffne dich, mein ganzes Herze,
+      Jesus kömmt und ziehet ein.
+      Bin ich gleich nur Staub und Erde,
+      Will er mich doch nicht verschmähn,
+      Seine Lust an mir zu sehn,
+      Dass ich seine Wohnung werde.
+      O wie selig werd ich sein!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Viola I coll' Alto, Viola II col Tenore, Fagotto col Basso, Violino I/II, Continuo
+    de: |-
+      Amen, amen!
+      Komm, du schöne Freudenkrone, bleib nicht lange!
+      Deiner wart ich mit Verlangen.
+scoring: 'Soli: S T B, Coro: S A T B, Violino I/II, Viola I/II, Violoncello, Fagotto, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    B: 1
+    S: 1
+  instrumentation_families:
+    - fagotto
+key: C major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Nun komm, der Heiden Heiland, BWV\_61, in Weimar for the first Sunday in Advent, the Sunday which begins the liturgical year, and first performed it there on 2 December 1714."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Nun_komm%2C_der_Heiden_Heiland%2C_BWV_61
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Nun komm, der Heiden Heiland</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>61</b>, in Weimar for the first Sunday in Advent, the Sunday which begins the liturgical year, and first performed it there on <span class=\"nowrap\">2 December</span> 1714.</p>"
+performances:
+  - id: MzWJsRjanC4
+    title: Bach - Cantata Nun komm, der Heiden Heiland BWV 61 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2013'
+    duration: '16:20'
+    thumbnail: https://img.youtube.com/vi/MzWJsRjanC4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MzWJsRjanC4
+  - id: mREUBjHoE0w
+    title: J.S. Bach - Cantata BWV 61 "Nun komm der Heiden Heiland" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '17:30'
+    thumbnail: https://img.youtube.com/vi/mREUBjHoE0w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mREUBjHoE0w
+  - id: jQkmFte5Q-w
+    title: 'Johann Sebastian Bach - Cantata: Nun komm, der Heiden Heiland, BWV 61. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '18:23'
+    thumbnail: https://img.youtube.com/vi/jQkmFte5Q-w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jQkmFte5Q-w
+  - id: DrUnBH2z4iY
+    title: 'J. S. Bach – Cantatas: BWV 12, BWV 18, BWV 61 – T. Koopman (Vol.2 CD1)'
+    channel: Miguel Zampedri
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '55:33'
+    thumbnail: https://img.youtube.com/vi/DrUnBH2z4iY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DrUnBH2z4iY
+  - id: pLPSQMOFxbA
+    title: 'Johann Sebastian Bach: Kantata BWV 61 - Nikolaus Harnoncourt (HD 1080p)'
+    channel: Faces of Classical Music – 2
+    performer: Harnoncourt
+    place: Weimar
+    year: '2000'
+    duration: '17:33'
+    thumbnail: https://img.youtube.com/vi/pLPSQMOFxbA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=pLPSQMOFxbA
+  - id: 7oj63klgeEg
+    title: Bach - Cantata Nun komm, der Heiden Heiland BWV 62 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2013'
+    duration: '19:04'
+    thumbnail: https://img.youtube.com/vi/7oj63klgeEg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7oj63klgeEg
+  - id: sKAttv5yRCs
+    title: J.S. Bach - Ouverture "Nun komm, der Heiden Heiland" from Cantata BWV 61
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '2:52'
+    thumbnail: https://img.youtube.com/vi/sKAttv5yRCs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sKAttv5yRCs
+  - id: _lobKhBXUJA
+    title: 'Bach: Cantata BWV 61. Argenta, Lang, Rolfe Johnson, Bär, Gardiner'
+    channel: Muzikay
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '14:15'
+    thumbnail: https://img.youtube.com/vi/_lobKhBXUJA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_lobKhBXUJA
+  - id: wecrqM9v2X0
+    title: 'JS Bach: Advent Cantata BWV 61 - Thomanerchor, Georg Christoph Biller (Audio video)'
+    channel: Faces of Classical Music – 11
+    performer: Faces of Classical Music – 11
+    place: Weimar
+    year: '2014'
+    duration: '14:29'
+    thumbnail: https://img.youtube.com/vi/wecrqM9v2X0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=wecrqM9v2X0
+  - id: hzyRcz8wOp8
+    title: J.S. Bach Cantata BWV 61
+    channel: Rebecca Myers
+    performer: Rebecca Myers
+    place: St
+    year: '2015'
+    duration: '3:42'
+    thumbnail: https://img.youtube.com/vi/hzyRcz8wOp8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hzyRcz8wOp8
+  - id: f6epg-zk_s0
+    title: BCA001 BWV61 Cantata for 1st Sunday in Advent Richter 1970-71
+    channel: Johann Sebastian
+    performer: Richter
+    place: Advent
+    year: '1970'
+    duration: '18:27'
+    thumbnail: https://img.youtube.com/vi/f6epg-zk_s0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=f6epg-zk_s0
+  - id: jD2JfYDklug
+    title: 'Nun komm, der Heiden Heiland, BWV 61: Amen, Amen (Chorus)'
+    channel: Joanne Lunn - Topic
+    performer: Gardiner
+    place: Luther
+    year: '2009'
+    duration: '0:47'
+    thumbnail: https://img.youtube.com/vi/jD2JfYDklug/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jD2JfYDklug
+  - id: VWBAO5qlJOg
+    title: 'J. S. Bach:  Nun komm, der Heiden Heiland (BWV 61) (American Bach Soloists)'
+    channel: Edward Murray
+    performer: Edward Murray
+    place: Butterfield
+    year: ''
+    duration: '13:57'
+    thumbnail: https://img.youtube.com/vi/VWBAO5qlJOg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=VWBAO5qlJOg
+  - id: 3_RKlsydSwE
+    title: J. S. Bach - Cantata BWV 62 "Nun komm, der Heiden Heiland" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Richter
+    place: Martina Bischof
+    year: '2023'
+    duration: '23:49'
+    thumbnail: https://img.youtube.com/vi/3_RKlsydSwE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3_RKlsydSwE
+  - id: aXylPTvMlio
+    title: J.S. BACH, Cantata BWV 61 «Nun komm, der Heiden Heiland I» John Eliot Gardiner
+    channel: SOARES DOS REIS, Mestre Escultor
+    performer: Gardiner
+    place: Weimar
+    year: ''
+    duration: '14:00'
+    thumbnail: https://img.youtube.com/vi/aXylPTvMlio/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=aXylPTvMlio

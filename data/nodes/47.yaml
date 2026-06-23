@@ -1,0 +1,86 @@
+bwv: '47'
+title: Wer sich selbst erhöhet...
+cycle: C3
+occasion: Trinity XVII
+date: '1726-10-13'
+url: https://en.wikipedia.org/wiki/BWV_47
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wer sich selbst erhöhet, der soll erniedriget werden,
+      und wer sich selbst erniedriget, der soll erhöhet werden.
+  - num: 2
+    type: Aria
+    voices: S
+    instruments: Organo obligato, Continuo
+    de: |-
+      Wer ein wahrer Christ will heißen,
+      Muss der Demut sich befleißen;
+      Demut stammt aus Jesu Reich.
+      Hoffart ist dem Teufel gleich;
+      Gott pflegt alle die zu hassen,
+      So den Stolz nicht fahrenlassen.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Der Mensch ist Kot, Staub, Asch und Erde;
+      Ist's möglich, dass vom Übermut,
+      Als einer Teufelsbrut,
+      Er noch bezaubert werde?
+      Ach Jesus, Gottes Sohn,
+      Der Schöpfer aller Dinge,
+      Ward unsretwegen niedrig und geringe,
+      Er duldte Schmach und Hohn;
+      Und du, du armer Wurm, suchst dich zu brüsten?
+      Gehört sich das vor einen Christen?
+      Geh, schäme dich, du stolze Kreatur,
+      Tu Buß und folge Christi Spur;
+      Wirf dich vor Gott im Geiste gläubig nieder!
+      Zu seiner Zeit erhöht er dich auch wieder.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Oboe, Violino, Continuo
+    de: |-
+      Jesu, beuge doch mein Herze
+      Unter deine starke Hand,
+      Dass ich nicht mein Heil verscherze
+      Wie der erste Höllenbrand.
+      Lass mich deine Demut suchen
+      Und den Hochmut ganz verfluchen;
+      Gib mir einen niedern Sinn,
+      Dass ich dir gefällig bin!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Der zeitlichen Ehrn will ich gern entbehrn,
+      Du wollst mir nur das Ewge gewährn,
+      Das du erworben hast
+      Durch deinen herben, bittern Tod.
+      Das bitt ich dich, mein Herr und Gott.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Organo obligato, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    S: 1
+    B: 2
+  instrumentation_families:
+    - oboe
+    - organ
+key: A minor

@@ -1,0 +1,268 @@
+bwv: '199'
+title: Mein Herze schwimmt im Blut
+cycle: EARLY
+occasion: Trinity XI
+date: '1714-08-12'
+url: https://en.wikipedia.org/wiki/BWV_199
+edges: {}
+movements:
+  - num: 1
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Mein Herze schwimmt im Blut,
+      Weil mich der Sünden Brut
+      In Gottes heilgen Augen
+      Zum Ungeheuer macht.
+      Und mein Gewissen fühlet Pein,
+      Weil mir die Sünden nichts
+      Als Höllenhenker sein.
+      Verhaßte Lasternacht!
+      Du, du allein
+      Hast mich in solche Not gebracht;
+      Und du, du böser Adamssamen,
+      Raubst meiner Seele alle Ruh
+      Und schließest ihr den Himmel zu!
+      Ach! unerhörter Schmerz!
+      Mein ausgedorrtes Herz
+      Will ferner mehr kein Trost befeuchten,
+      Und ich muss mich vor dem verstecken,
+      Vor dem die Engel selbst ihr Angesicht verdecken.
+  - num: 2
+    type: Aria
+    voices: ''
+    instruments: Oboe solo, Violone, Continuo
+    de: |-
+      Stumme Seufzer, stille Klagen,
+      Ihr mögt meine Schmerzen sagen,
+      Weil der Mund geschlossen ist.
+      Und ihr nassen Tränenquellen
+      Könnt ein sichres Zeugnis stellen,
+      Wie mein sündlich Herz gebüßt.
+      Mein Herz ist itzt ein Tränenbrunn,
+      Die Augen heiße Quellen.
+      Ach Gott! wer wird dich doch zufriedenstellen?
+  - num: 3
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Fagotto, Violone, Continuo
+    de: |-
+      Doch Gott muss mir genädig sein,
+      Weil ich das Haupt mit Asche,
+      Das Angesicht mit Tränen wasche,
+      Mein Herz in Reu und Leid zerschlage
+      Und voller Wehmut sage:
+      Gott sei mir Sünder gnädig!
+      Ach ja! sein Herze bricht,
+      Und meine Seele spricht:
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Fagotto, Violone, Continuo
+    de: |-
+      Tief gebückt und voller Reue
+      Lieg ich, liebster Gott, vor dir.
+      Ich bekenne meine Schuld,
+      Aber habe doch Geduld,
+      Habe doch Geduld mit mir!
+  - num: 5
+    type: Recitative
+    voices: S
+    instruments: Violone, Continuo
+    de: |-
+      Auf diese Schmerzensreu
+      Fällt mir alsdenn dies Trostwort bei:
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Violone, Viola solo, Continuo
+    de: |-
+      Ich, dein betrübtes Kind,
+      Werf alle meine Sünd,
+      So viel ihr in mir stecken
+      Und mich so heftig schrecken,
+      In deine tiefen Wunden,
+      Da ich stets Heil gefunden.
+  - num: 7
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Fagotto, Violone, Continuo
+    de: |-
+      Ich lege mich in diese Wunden
+      Als in den rechten Felsenstein;
+      Die sollen meine Ruhstatt sein.
+      In diese will ich mich im Glauben schwingen
+      Und drauf vergnügt und fröhlich singen:
+  - num: 8
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Wie freudig ist mein Herz,
+      Da Gott versöhnet ist
+      Und mir auf Reu und Leid
+      Nicht mehr die Seligkeit
+      Noch auch sein Herz verschließt.
+scoring: 'Solo: S, Oboe, Violino I/II, Viola, Violone, Fagotto, Continuo'
+features:
+  structure:
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Recitative
+    - Aria
+  opening: Recitative
+  closing: Aria
+  voice_profile:
+    S: 6
+    SATB: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - violone
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Mein Herze schwimmt im Blut BWV\_199 in Weimar between 1712 and 1713, and performed it on the eleventh Sunday after Trinity, 12 August 1714. It is a solo cantata for soprano."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Mein_Herze_schwimmt_im_Blut%2C_BWV_199
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Mein Herze schwimmt im Blut</i></span></b> <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>199</b> in Weimar between 1712 and 1713, and performed it on the eleventh Sunday after Trinity, 12 August 1714. It is a solo cantata for soprano.</p>"
+performances:
+  - id: v9ow2SGHI94
+    title: Bach - Cantata Mein Herze schwimmt in Blut BWV 199 - Bernardini | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Weimar
+    year: '2014'
+    duration: '23:54'
+    thumbnail: https://img.youtube.com/vi/v9ow2SGHI94/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=v9ow2SGHI94
+  - id: ydCKpBxdB8w
+    title: 'Johann Sebastian Bach: Cantata BWV 199 - Magdalena Kožená, John Eliot Gardiner (Full HD 1080p)'
+    channel: Ifikratis Vlahos
+    performer: Gardiner
+    place: D minor
+    year: '2000'
+    duration: '25:05'
+    thumbnail: https://img.youtube.com/vi/ydCKpBxdB8w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ydCKpBxdB8w
+  - id: NeCsN-epeL0
+    title: J. S. Bach - Cantata BWV 199 "Mein Herze schwimmt im Blut" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Herze schwimmt im Blut
+    year: '2023'
+    duration: '27:23'
+    thumbnail: https://img.youtube.com/vi/NeCsN-epeL0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NeCsN-epeL0
+  - id: XWP_vdDde_0
+    title: J.S. Bach - Cantata BWV 199 Mein Herze schwimmt im Blut - extrait - Sabine Devieilhe
+    channel: Pygmalion - Raphaël Pichon
+    performer: Pygmalion - Raphaël Pichon
+    place: Paris
+    year: '2018'
+    duration: '8:50'
+    thumbnail: https://img.youtube.com/vi/XWP_vdDde_0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XWP_vdDde_0
+  - id: gjSeVWa92Js
+    title: Bach-Kantate BWV 199 Mein Herze schwimmt im Blut, Adele Stolte 1961
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Herze schwimmt im Blut
+    year: '1961'
+    duration: '28:11'
+    thumbnail: https://img.youtube.com/vi/gjSeVWa92Js/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gjSeVWa92Js
+  - id: x2EG1x9qarE
+    title: Kozena sings Bach - Cantata 199 -  Aria 'Tief gebuckt und voller Reue'
+    channel: Christopher Case
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '8:57'
+    thumbnail: https://img.youtube.com/vi/x2EG1x9qarE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=x2EG1x9qarE
+  - id: zl5tuvZaXyw
+    title: Johann Sebastian Bach Cantata BWV 199   Magdalena Kožená, John Eliot Gardiner Full HD 1080p2
+    channel: Christina Stoffel
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '0:59'
+    thumbnail: https://img.youtube.com/vi/zl5tuvZaXyw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zl5tuvZaXyw
+  - id: o9XuTA4MuE0
+    title: Doyle on Bach Cantata BWV 199 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Walloon Chuch
+    year: '2014'
+    duration: '4:13'
+    thumbnail: https://img.youtube.com/vi/o9XuTA4MuE0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=o9XuTA4MuE0
+  - id: PlOS_OQvDSA
+    title: 'J.S. Bach: Mein Herze schwimmt im Blut, BWV 199  {Score Video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Herze schwimmt im Blut
+    year: ''
+    duration: '25:04'
+    thumbnail: https://img.youtube.com/vi/PlOS_OQvDSA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PlOS_OQvDSA
+  - id: lSrwMr7aKzU
+    title: Bernardini on Bach Cantata BWV 199 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Walloon Chuch
+    year: '2014'
+    duration: '5:20'
+    thumbnail: https://img.youtube.com/vi/lSrwMr7aKzU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lSrwMr7aKzU
+  - id: iZJ-_er9r3M
+    title: 'Bach: Mein Herze schwimmt im Blut, BWV 199| Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Boston
+    year: '2025'
+    duration: '25:24'
+    thumbnail: https://img.youtube.com/vi/iZJ-_er9r3M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=iZJ-_er9r3M
+  - id: mYzGZrxdlFI
+    title: 'J. S. Bach:  Mein Herze schwimmt im Blut (BWV 199) (Emma Kirkby/Freiburg Baroque Orchestra)'
+    channel: Edward Murray
+    performer: Edward Murray
+    place: Herze schwimmt im Blut
+    year: ''
+    duration: '25:30'
+    thumbnail: https://img.youtube.com/vi/mYzGZrxdlFI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mYzGZrxdlFI
+  - id: gDAPGKliLiw
+    title: 'Sabine Devieilhe – Bach: "Stumme Seufzer, stille Klagen", Aria (Mein Herze schwimmt im Blut BWV 199)'
+    channel: Warner Classics
+    performer: Warner Classics
+    place: Herze schwimmt im Blut
+    year: ''
+    duration: '1:27'
+    thumbnail: https://img.youtube.com/vi/gDAPGKliLiw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gDAPGKliLiw
+  - id: Z1skca4SAzM
+    title: 'Mein Herze schwimmt im Blut, BWV 199: No. 2, Aria. "Stumme Seufzer, stille Klagen"'
+    channel: Natalie Dessay
+    performer: Natalie Dessay
+    place: Herze schwimmt im Blut
+    year: '2008'
+    duration: '7:53'
+    thumbnail: https://img.youtube.com/vi/Z1skca4SAzM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Z1skca4SAzM
+  - id: HTpVqK-5ArQ
+    title: 'Cantata "Mein Herze schwimmt im Blut", BWV 199: No. 2, Aria, "Stumme Seufzer, stille Klagen"...'
+    channel: Elly Ameling - Topic
+    performer: Elly Ameling - Topic
+    place: ''
+    year: '1983'
+    duration: '6:58'
+    thumbnail: https://img.youtube.com/vi/HTpVqK-5ArQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HTpVqK-5ArQ

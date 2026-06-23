@@ -1,0 +1,179 @@
+bwv: '70'
+title: Wachet! betet! betet! wachet!
+cycle: C1
+occasion: Trinity XXVI
+date: '1723-11-21'
+url: https://en.wikipedia.org/wiki/BWV_70
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba, Oboe, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Wachet! betet! betet! wachet!
+      Seid bereit
+      Allezeit,
+      Bis der Herr der Herrlichkeit
+      Dieser Welt ein Ende machet.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Tromba, Oboe, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Erschrecket, ihr verstockten Sünder!
+      Ein Tag bricht an,
+      Vor dem sich niemand bergen kann:
+      Er eilt mit dir zum strengen Rechte,
+      O! sündliches Geschlechte,
+      Zum ewgen Herzeleide.
+      Doch euch, erwählte Gotteskinder,
+      Ist er ein Anfang wahrer Freude.
+      Der Heiland holet euch, wenn alles fällt und bricht,
+      Vor sein erhöhtes Angesicht;
+      Drum zaget nicht!
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violoncello obligato, Fagotto, Continuo
+    de: |-
+      Wenn kömmt der Tag, an dem wir ziehen
+      Aus dem Ägypten dieser Welt?
+      Ach! lasst uns bald aus Sodom fliehen,
+      Eh uns das Feuer überfällt!
+      Wacht, Seelen, auf von Sicherheit
+      Und glaubt, es ist die letzte Zeit!
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Fagotto, Continuo
+    de: |-
+      Auch bei dem himmlischen Verlangen
+      Hält unser Leib den Geist gefangen;
+      Es legt die Welt durch ihre Tücke
+      Den Frommen Netz und Stricke.
+      Der Geist ist willig, doch das Fleisch ist schwach;
+      Dies presst uns aus ein jammervolles Ach!
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Lasst der Spötter Zungen schmähen,
+      Es wird doch und muss geschehen,
+      Dass wir Jesum werden sehen
+      Auf den Wolken, in den Höhen.
+      Welt und Himmel mag vergehen,
+      Christi Wort muss fest bestehen.
+      Lasst der Spötter Zungen schmähen;
+      Es wird doch und muss geschehen!
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Fagotto, Continuo
+    de: |-
+      Jedoch bei dem unartigen Geschlechte
+      Denkt Gott an seine Knechte,
+      Dass diese böse Art
+      Sie ferner nicht verletzet,
+      Indem er sie in seiner Hand bewahrt
+      Und in ein himmlisch Eden setzet.
+  - num: 7
+    type: Chorale
+    voices: T
+    instruments: Tromba e Oboe e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Fagotto, Continuo
+    de: |-
+      Freu dich sehr, o meine Seele,
+      Und vergiss all Not und Qual,
+      Weil dich nun Christus, dein Herre,
+      Ruft aus diesem Jammertal!
+      Seine Freud und Herrlichkeit
+      Sollt du sehn in Ewigkeit,
+      Mit den Engeln jubilieren,
+      In Ewigkeit triumphieren.
+  - num: 8
+    type: Aria
+    voices: T
+    instruments: Oboe, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Hebt euer Haupt empor
+      Und seid getrost, ihr Frommen,
+      Zu eurer Seelen Flor!
+      Ihr sollt in Eden grünen,
+      Gott ewiglich zu dienen.
+  - num: 9
+    type: Recitative
+    voices: B
+    instruments: Tromba, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Ach, soll nicht dieser große Tag,
+      Der Welt Verfall
+      Und der Posaunen Schall,
+      Der unerhörte letzte Schlag,
+      Des Richters ausgesprochne Worte,
+      Des Höllenrachens offne Pforte
+      In meinem Sinn
+      Viel Zweifel, Furcht und Schrecken,
+      Der ich ein Kind der Sünden bin,
+      Erwecken?
+      Jedoch, es gehet meiner Seelen
+      Ein Freudenschein, ein Licht des Trostes auf.
+      Der Heiland kann sein Herze nicht verhehlen,
+      So vor Erbarmen bricht,
+      Sein Gnadenarm verlässt mich nicht.
+      Wohlan, so ende ich mit Freuden meinen Lauf.
+  - num: 10
+    type: Aria
+    voices: B
+    instruments: Tromba, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Seligster Erquickungstag,
+      Führe mich zu deinen Zimmern!
+      Schalle, knalle, letzter Schlag,
+      Welt und Himmel, geht zu Trümmern!
+      Jesus führet mich zur Stille,
+      An den Ort, da Lust die Fülle.
+  - num: 11
+    type: Chorale
+    voices: T
+    instruments: Tromba, Oboe, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Nicht nach Welt, nach Himmel nicht
+      Meine Seele wünscht und sehnet,
+      Jesum wünsch ich und sein Licht,
+      Der mich hat mit Gott versöhnet,
+      Der mich freiet vom Gericht,
+      Meinen Jesum lass ich nicht.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba, Oboe, Violino I/II, Viola, Violoncello, Fagotto, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 6
+    B: 3
+    A: 1
+    S: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - tromba
+    - violoncello
+key: C major
+wiki:
+  summary: "Wachet! betet! betet! wachet! is the title of two church cantatas by Johann Sebastian Bach. He composed a first version, BWV\_70a, in Weimar for the second Sunday in Advent of 1716 and expanded it in 1723 in Leipzig to BWV 70, a cantata in two parts for the 26th Sunday after Trinity."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Wachet!_betet!_betet!_wachet!_BWV_70
+  summary_html: "<p><b><span><i lang=\"de\">Wachet! betet! betet! wachet!</i></span></b> is the title of two church cantatas by Johann Sebastian Bach. He composed a first version, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>70a</b>, in Weimar for the second Sunday in Advent of 1716 and expanded it in 1723 in Leipzig to <b><span class=\"nowrap\">BWV 70</span></b>, a cantata in two parts for the 26th Sunday after Trinity.</p>"

@@ -1,0 +1,163 @@
+bwv: '2'
+title: Ach Gott, vom Himmel sieh darein
+cycle: C2
+occasion: Trinity II
+date: '1724-06-18'
+url: https://en.wikipedia.org/wiki/BWV_2
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Violino I e Trombone I col Soprano, Violino II e Oboe I/II e Trombone II coll' Alto, Viola e Trombone III col
+      Tenore, Trombone IV col Basso, Continuo
+    de: |-
+      Ach Gott, vom Himmel sieh darein
+      Und lass dich's doch erbarmen!
+      Wie wenig sind der Heilgen dein,
+      Verlassen sind wir Armen;
+      Dein Wort man nicht lässt haben wahr,
+      Der Glaub ist auch verloschen gar
+      Bei allen Menschenkindern.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Sie lehren eitel falsche List,
+      Was wider Gott und seine Wahrheit ist;
+      Und was der eigen Witz erdenket,
+      - O Jammer! der die Kirche schmerzlich kränket -
+      Das muss anstatt der Bibel stehn.
+      Der eine wählet dies, der andre das,
+      Die törichte Vernunft ist ihr Kompass;
+      Sie gleichen denen Totengräbern
+      Die, ob sie zwar von außen schön,
+      Nur Stank und Moder in sich fassen
+      Und lauter Unflat sehen lassen.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino solo, Continuo
+    de: |-
+      Tilg, o Gott, die Lehren,
+      So dein Wort verkehren!
+      Wehre doch der Ketzerei
+      Und allen Rottengeistern;
+      Denn sie sprechen ohne Scheu:
+      Trotz dem, der uns will meistern!
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Die Armen sind verstört,
+      Ihr seufzend Ach, ihr ängstlich Klagen
+      Bei soviel Kreuz und Not,
+      Wodurch die Feinde fromme Seelen plagen,
+      Dringt in das Gnadenohr des Allerhöchsten ein.
+      Darum spricht Gott: Ich muss ihr Helfer sein!
+      Ich hab ihr Flehn erhört,
+      Der Hilfe Morgenrot,
+      Der reinen Wahrheit heller Sonnenschein
+      Soll sie mit neuer Kraft,
+      Die Trost und Leben schafft,
+      Erquicken und erfreun.
+      Ich will mich ihrer Not erbarmen,
+      Mein heilsam Wort soll sein die Kraft der Armen.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Durchs Feuer wird das Silber rein,
+      Durchs Kreuz das Wort bewährt erfunden.
+      Drum soll ein Christ zu allen Stunden
+      Im Kreuz und Not geduldig sein.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Violino I e Oboe I/II e Trombone I col Soprano, Violino II e Trombone II coll' Alto, Viola e Trombone III col
+      Tenore, Trombone IV col Basso, Continuo
+    de: |-
+      Das wollst du, Gott, bewahren rein
+      Für diesem arg'n Geschlechte;
+      Und lass uns dir befohlen sein,
+      Dass sichs in uns nicht flechte.
+      Der gottlos Hauf sich umher findt,
+      Wo solche lose Leute sind
+      In deinem Volk erhaben.
+scoring: 'Soli: A T B, Coro: S A T B, Trombone I-IV, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    A: 1
+    B: 1
+  instrumentation_families:
+    - oboe
+    - trombone
+    - violino_solo
+wiki:
+  summary: "Ach Gott, vom Himmel sieh darein, BWV\_2, is a chorale cantata composed by Johann Sebastian Bach for the second Sunday after Trinity in 1724. First performed on 18 June in Leipzig, it is the second cantata of his chorale cantata cycle. The church cantata is based on Martin Luther's 1524 hymn \"Ach Gott, vom Himmel sieh darein\", a paraphrase of Psalm 12."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Ach_Gott%2C_vom_Himmel_sieh_darein%2C_BWV_2
+  summary_html: "<p><b><span><i lang=\"de\">Ach Gott, vom Himmel sieh darein</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>2</b>, is a chorale cantata composed by Johann Sebastian Bach for the second Sunday after Trinity in 1724. First performed on 18 June in Leipzig, it is the second cantata of his chorale cantata cycle. The church cantata is based on Martin Luther's 1524 hymn \"Ach Gott, vom Himmel sieh darein\", a paraphrase of Psalm 12.</p>"
+performances:
+  - id: ttY4ecpJjBw
+    title: J.S. Bach - Cantata BWV 2 "Ach Gott, vom Himmel sieh darein" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: '2019'
+    duration: '22:37'
+    thumbnail: https://img.youtube.com/vi/ttY4ecpJjBw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ttY4ecpJjBw
+  - id: W5aMSz3LPEE
+    title: Bach J.S. Cantata BWV 2
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '18:18'
+    thumbnail: https://img.youtube.com/vi/W5aMSz3LPEE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=W5aMSz3LPEE
+  - id: 3EsR_4RD2PQ
+    title: 'J.S Bach - Cantata: Ach Gott, vom Himmel sieh darein, BWV 2'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '18:27'
+    thumbnail: https://img.youtube.com/vi/3EsR_4RD2PQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3EsR_4RD2PQ
+  - id: DaThhld54U8
+    title: Bach - Cantate BWV 2 - Ach Gott, vom Himmel sieh darein
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leipzig
+    year: '1970'
+    duration: '18:56'
+    thumbnail: https://img.youtube.com/vi/DaThhld54U8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DaThhld54U8
+  - id: 1mH5TUOMQq0
+    title: Bach - BWV 2, Cantata "Ach Gott, vom Himmel sieh darein"
+    channel: vanille_chose
+    performer: Masaaki
+    place: ''
+    year: ''
+    duration: '17:11'
+    thumbnail: https://img.youtube.com/vi/1mH5TUOMQq0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1mH5TUOMQq0
+key: B♭ major

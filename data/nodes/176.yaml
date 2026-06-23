@@ -1,0 +1,238 @@
+bwv: '176'
+title: Es ist ein trotzig und verzagt Ding
+cycle: C2
+occasion: Trinity
+date: '1725-05-27'
+url: https://en.wikipedia.org/wiki/BWV_176
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Oboe da caccia, Violino I/II, Viola, Continuo
+    de: Es ist ein trotzig und verzagt Ding um aller Menschen Herze.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ich meine, recht verzagt,
+      Dass Nikodemus sich bei Tage nicht,
+      Bei Nacht zu Jesu wagt.
+      Die Sonne musste dort bei Josua so lange stille stehn,
+      So lange bis der Sieg vollkommen war geschehn;
+      Hier aber wünschet Nikodem: O säh ich sie zu Rüste gehn!
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Dein sonst hell beliebter Schein
+      Soll vor mich umnebelt sein,
+      Weil ich nach dem Meister frage,
+      Denn ich scheue mich bei Tage.
+      Niemand kann die Wunder tun,
+      Denn sein Allmacht und sein Wesen,
+      Scheint, ist göttlich auserlesen,
+      Gottes Geist muss auf ihm ruhn.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      So wundre dich, o Meister, nicht,
+      Warum ich dich bei Nacht ausfrage!
+      Ich fürchte, dass bei Tage
+      Mein Ohnmacht nicht bestehen kann.
+      Doch tröst ich mich, du nimmst mein Herz und Geist
+      Zum Leben auf und an,
+      Weil alle, die nur an dich glauben, nicht verloren werden.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Oboe da caccia, Continuo
+    de: |-
+      Ermuntert euch, furchtsam und schüchterne Sinne,
+      Erholet euch, höret, was Jesus verspricht:
+      Dass ich durch den Glauben den Himmel gewinne.
+      Wenn die Verheißung erfüllend geschicht,
+      Werd ich dort oben
+      Mit Danken und Loben
+      Vater, Sohn und Heilgen Geist
+      Preisen, der dreieinig heißt.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Oboe da caccia e Viola col Tenore, Continuo
+    de: |-
+      Auf dass wir also allzugleich
+      Zur Himmelspforten dringen
+      Und dermaleinst in deinem Reich
+      Ohn alles Ende singen,
+      Dass du alleine König seist,
+      Hoch über alle Götter,
+      Gott Vater, Sohn und Heilger Geist,
+      Der Frommen Schutz und Retter,
+      Ein Wesen drei Personen.
+scoring: 'Soli: S A B, Coro: S A T B, Oboe I/II, Oboe da caccia I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 2
+    S: 1
+    B: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+key: C major
+wiki:
+  summary: "Es ist ein trotzig und verzagt Ding, BWV\_176, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Trinity Sunday on a text by Christiana Mariana von Ziegler and first performed it on 27 May 1725. This cantata concluded his second year of cantata compositions in Leipzig, the last of nine cantatas on texts by Ziegler that Bach set at the end of the second cantata cycle."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Christiana_Mariana_von_Ziegler.jpg/330px-Christiana_Mariana_von_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Es_ist_ein_trotzig_und_verzagt_Ding%2C_BWV_176
+  summary_html: "<p><b><span><i lang=\"de\">Es ist ein trotzig und verzagt Ding</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>176</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Trinity Sunday on a text by Christiana Mariana von Ziegler and first performed it on 27 May 1725. This cantata concluded his second year of cantata compositions in Leipzig, the last of nine cantatas on texts by Ziegler that Bach set at the end of the second cantata cycle.</p>"
+performances:
+  - id: GHpIEf3rmFQ
+    title: J.S. Bach - Cantata BWV 176 "Es ist ein trotzig und verzagt Ding" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Korrodi
+    year: '2013'
+    duration: '14:50'
+    thumbnail: https://img.youtube.com/vi/GHpIEf3rmFQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GHpIEf3rmFQ
+  - id: hZUW-ii3KCY
+    title: BWV 176, ‘Es ist ein trotzig und verzagt Ding’, Residentie Bach Ensembles olv Jos Vermunt, 29-5-22
+    channel: Stichting Kloosterkerk
+    performer: Stichting Kloosterkerk
+    place: Nicodemus
+    year: '2022'
+    duration: '12:20'
+    thumbnail: https://img.youtube.com/vi/hZUW-ii3KCY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hZUW-ii3KCY
+  - id: logpIvcnpTM
+    title: Bach - Es ist ein trotzig und verzagt Ding, BWV 176 (score)
+    channel: Lordlouckster
+    performer: Leonhardt
+    place: ''
+    year: ''
+    duration: '12:21'
+    thumbnail: https://img.youtube.com/vi/logpIvcnpTM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=logpIvcnpTM
+  - id: xXMUpqSyJJo
+    title: Bach - Cantata Gottes Zeit..., 'Actus Tragicus' BWV 106 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Oostkerk
+    year: '2015'
+    duration: '20:54'
+    thumbnail: https://img.youtube.com/vi/xXMUpqSyJJo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xXMUpqSyJJo
+  - id: zgxYiZHpTXM
+    title: Bach - Cantate BWV 176 - Es ist ein trotzig und verzagt Ding
+    channel: MusicArt61
+    performer: Herreweghe
+    place: Leipzig
+    year: '1988'
+    duration: '12:21'
+    thumbnail: https://img.youtube.com/vi/zgxYiZHpTXM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zgxYiZHpTXM
+  - id: Qndtsjc3rcQ
+    title: 'J. S. Bach: Es ist ein trotzig und verzagt Ding (BWV 176) (Herreweghe)'
+    channel: Edward Murray
+    performer: Herreweghe
+    place: ''
+    year: ''
+    duration: '10:56'
+    thumbnail: https://img.youtube.com/vi/Qndtsjc3rcQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Qndtsjc3rcQ
+  - id: 8pvJCiGS2VQ
+    title: BCA092 BWV176 Cantata for Trinity Herreweghe 2002
+    channel: Johann Sebastian
+    performer: Herreweghe
+    place: ''
+    year: '2002'
+    duration: '10:55'
+    thumbnail: https://img.youtube.com/vi/8pvJCiGS2VQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=8pvJCiGS2VQ
+  - id: JgI72gdfzuI
+    title: Bach Cantate BVV 176
+    channel: RICHARD DI NIZZA (RIRRATTO)
+    performer: RICHARD DI NIZZA (RIRRATTO)
+    place: Leipzig
+    year: ''
+    duration: '3:13'
+    thumbnail: https://img.youtube.com/vi/JgI72gdfzuI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JgI72gdfzuI
+  - id: SfnkKsb4zD4
+    title: Bach Kantate BWV176, Es ist ein trotzig und verzagt Ding, LP Rilling
+    channel: Rainer Harald
+    performer: Rilling
+    place: Stuttgart
+    year: '1967'
+    duration: '14:08'
+    thumbnail: https://img.youtube.com/vi/SfnkKsb4zD4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SfnkKsb4zD4
+  - id: Ki1LnS_MvM0
+    title: 'Es ist ein trotzig und verzagt Ding, BWV 176: V. Ermuntert euch, furchtsam und schüchterne...'
+    channel: Daniel Taylor - Topic
+    performer: Gardiner
+    place: ''
+    year: '2000'
+    duration: '2:21'
+    thumbnail: https://img.youtube.com/vi/Ki1LnS_MvM0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ki1LnS_MvM0
+  - id: 7IX15ZJuRm4
+    title: J.S. Bach - BWV 176 (There is something stubborn and fainthearted)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '12:26'
+    thumbnail: https://img.youtube.com/vi/7IX15ZJuRm4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7IX15ZJuRm4
+  - id: 95i1mwv5fAA
+    title: J. S. Bach - Cantatas for Trinity BWV 2, 20 & 176 (Remastered 2023) - Ph. Herreweghe
+    channel: Miguel Zampedri
+    performer: Herreweghe
+    place: ''
+    year: '2023'
+    duration: '53:12'
+    thumbnail: https://img.youtube.com/vi/95i1mwv5fAA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=95i1mwv5fAA
+  - id: uFuw1Tgeu6w
+    title: Johann Sebastian Bach - Kantaten - (BWV 176), (BWV 177), (BWV 178)
+    channel: Nicolás Nicholson
+    performer: RILLING
+    place: 'No'
+    year: ''
+    duration: '1:02:01'
+    thumbnail: https://img.youtube.com/vi/uFuw1Tgeu6w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uFuw1Tgeu6w
+  - id: oj1fM1-X190
+    title: 'J.S. Bach – „Es ist ein trotzig“ Chorus aus der Kantate BWV 176 (Bearbeitung: Blockflöten und Orgel)'
+    channel: Harald Meyer
+    performer: Harald Meyer
+    place: ''
+    year: ''
+    duration: '2:08'
+    thumbnail: https://img.youtube.com/vi/oj1fM1-X190/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=oj1fM1-X190
+  - id: _cSJB10S45U
+    title: Bach - Cantata Komm, du süße Todesstunde BWV 161 - Johanna Soller | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Oude Kerk Charlois
+    year: '2024'
+    duration: '19:28'
+    thumbnail: https://img.youtube.com/vi/_cSJB10S45U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_cSJB10S45U

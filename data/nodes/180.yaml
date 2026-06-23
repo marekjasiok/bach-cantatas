@@ -1,0 +1,270 @@
+bwv: '180'
+title: Schmücke dich, o liebe Seele
+cycle: C2
+occasion: Trinity XX
+date: '1724-10-22'
+url: https://en.wikipedia.org/wiki/BWV_180
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto I/II, Oboe I/II (Oboe da caccia), Violino I/II, Viola, Continuo
+    de: |-
+      Schmücke dich, o liebe Seele,
+      Lass die dunkle Sündenhöhle,
+      Komm ans helle Licht gegangen,
+      Fange herrlich an zu prangen;
+      Denn der Herr voll Heil und Gnaden
+      Läßt dich itzt zu Gaste laden.
+      Der den Himmel kann verwalten,
+      Will selbst Herberg in dir halten.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Flauto traverso, Continuo
+    de: |-
+      Ermuntre dich: dein Heiland klopft,
+      Ach, öffne bald die Herzenspforte!
+      Ob du gleich in entzückter Lust
+      Nur halb gebrochne Freudenworte
+      Zu deinem Jesu sagen musst.
+  - num: 3
+    type: Recitative
+    voices: ''
+    instruments: Violoncello piccolo, Continuo
+    de: |-
+      Wie teuer sind des heilgen Mahles Gaben!
+      Sie finden ihresgleichen nicht.
+      Was sonst die Welt
+      Vor kostbar hält,
+      Sind Tand und Eitelkeiten;
+      Ein Gotteskind wünscht diesen Schatz zu haben
+      Und spricht:
+      Ach, wie hungert mein Gemüte,
+      Menschenfreund, nach deiner Güte!
+      Ach, wie pfleg ich oft mit Tränen
+      Mich nach dieser Kost zu sehnen!
+      Ach, wie pfleget mich zu dürsten
+      Nach dem Trank des Lebensfürsten!
+      Wünsche stets, dass mein Gebeine
+      Mich durch Gott mit Gott vereine.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Flauto I/II, Continuo
+    de: |-
+      Mein Herz fühlt in sich Furcht und Freude;
+      Es wird die Furcht erregt
+      Wenn es die Hoheit überlegt
+      Wenn es sich nicht in das Geheimnis findet,
+      Noch durch Vernunft dies hohe Werk ergründet.
+      Nur Gottes Geist kann durch sein Wort uns lehren,
+      Wie sich allhier die Seelen nähren,
+      Die sich im Glauben zugeschickt.
+      Die Freude aber wird gestärket,
+      Wenn sie des Heilands Herz erblickt
+      Und seiner Liebe Größe merket.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Flauto I/II, Oboe I/II (Oboe da caccia), Violino I/II, Viola, Continuo
+    de: |-
+      Lebens Sonne, Licht der Sinnen,
+      Herr, der du mein alles bist!
+      Du wirst meine Treue sehen
+      Und den Glauben nicht verschmähen,
+      Der noch schwach und furchtsam ist.
+  - num: 6
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Herr, lass an mir dein treues Lieben,
+      So dich vom Himmel abgetrieben,
+      Ja nicht vergeblich sein!
+      Entzünde du in Liebe meinen Geist,
+      Dass er sich nur nach dem, was himmlisch heißt,
+      Im Glauben lenke
+      Und deiner Liebe stets gedenke.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Jesu, wahres Brot des Lebens,
+      Hilf, dass ich doch nicht vergebens
+      Oder mir vielleicht zum Schaden
+      Sei zu deinem Tisch geladen.
+      Lass mich durch dies Seelenessen
+      Deine Liebe recht ermessen,
+      Dass ich auch, wie itzt auf Erden,
+      Mög ein Gast im Himmel werden.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Flauto I/II, Flauto traverso, Oboe, Oboe da caccia, Violino I/II, Viola, Violoncello
+  piccolo, Continuo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    A: 1
+    S: 1
+    B: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_da_caccia
+    - recorder
+    - violoncello_piccolo
+key: D minor
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Schmücke dich, o liebe Seele, BWV\_180, in Leipzig for the 20th Sunday after Trinity and first performed it on 22 October 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Schm%C3%BCcke_dich%2C_o_liebe_Seele%2C_BWV_180
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Schmücke dich, o liebe Seele</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>180</b>, in Leipzig for the 20th Sunday after Trinity and first performed it on 22 October 1724.</p>"
+performances:
+  - id: sKeyzYVSJVw
+    title: Bach - Cantate BWV 180 - Schmücke dich, o liebe Seele
+    channel: MusicArt61
+    performer: Herreweghe
+    place: Leipzig
+    year: '1987'
+    duration: '24:56'
+    thumbnail: https://img.youtube.com/vi/sKeyzYVSJVw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sKeyzYVSJVw
+  - id: sNz7bcNKxUU
+    title: 'Bach: Schmücke dich, o liebe Seele, BWV 180| Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Boston
+    year: '2025'
+    duration: '24:31'
+    thumbnail: https://img.youtube.com/vi/sNz7bcNKxUU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sNz7bcNKxUU
+  - id: 2_wiIaB2VCA
+    title: 'J. S. Bach - Cantata: Schmücke dich, o liebe Seele - BWV 180 - M. Suzuki'
+    channel: Miguel Zampedri
+    performer: Suzuki
+    place: ''
+    year: ''
+    duration: '21:21'
+    thumbnail: https://img.youtube.com/vi/2_wiIaB2VCA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2_wiIaB2VCA
+  - id: FCOZmo2Gi50
+    title: 'J.S. Bach: Schmücke dich, o liebe Seele, BWV 180 {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Banquet from the Gospel of Matthew
+    year: ''
+    duration: '23:31'
+    thumbnail: https://img.youtube.com/vi/FCOZmo2Gi50/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=FCOZmo2Gi50
+  - id: 1nZjYDfxvNQ
+    title: J.S. Bach / Schmücke dich, o liebe Seele, BWV 180 (McCreesh)
+    channel: scrymgeour34
+    performer: scrymgeour34
+    place: Cana
+    year: ''
+    duration: '19:54'
+    thumbnail: https://img.youtube.com/vi/1nZjYDfxvNQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1nZjYDfxvNQ
+  - id: AiTHUECRuTM
+    title: 'Bach: Schmucke dich, o liebe Seele, BWV 180 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Emmanuel Epsicopal Church in Boston
+    year: '2021'
+    duration: '24:27'
+    thumbnail: https://img.youtube.com/vi/AiTHUECRuTM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AiTHUECRuTM
+  - id: 7JmRkTayfSs
+    title: '"Schmücke dich, o liebe Seele" BWV 180'
+    channel: The Amsterdam Baroque Orchestra and Choir - Topic
+    performer: Koopman
+    place: Amsterdam
+    year: '2007'
+    duration: '7:27'
+    thumbnail: https://img.youtube.com/vi/7JmRkTayfSs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7JmRkTayfSs
+  - id: QN-H9ML1rLs
+    title: 'Bach: Schmücke dich, o liebe Seele,  BWV 180  | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Emmanuel Epsicopal Church in Boston
+    year: '2022'
+    duration: '24:06'
+    thumbnail: https://img.youtube.com/vi/QN-H9ML1rLs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=QN-H9ML1rLs
+  - id: 36Zk8oRXvzY
+    title: J.S. Bach Cantata Schmucke dich, o liebe Seele BWV 180
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: ''
+    year: ''
+    duration: '27:05'
+    thumbnail: https://img.youtube.com/vi/36Zk8oRXvzY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=36Zk8oRXvzY
+  - id: YwNx0jYpv7I
+    title: J.S. Bach - BWV 180 (Adorn yourself, beloved soul)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '28:25'
+    thumbnail: https://img.youtube.com/vi/YwNx0jYpv7I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YwNx0jYpv7I
+  - id: tYH5H9EwZw0
+    title: Bach - Schmücke dich, o liebe Seele - BWV 180
+    channel: BEST OF CLASSICAL MUSIC
+    performer: BEST OF CLASSICAL MUSIC
+    place: ''
+    year: ''
+    duration: '22:49'
+    thumbnail: https://img.youtube.com/vi/tYH5H9EwZw0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=tYH5H9EwZw0
+  - id: A3fJh4nQ7A4
+    title: 'Gustav Leonhardt et Nikolaus Harnoncourt - BACH : Cantates sacrées Vol. 9 BWV 180-182'
+    channel: ChroNotes
+    performer: Leonhardt
+    place: Salem der Freuden
+    year: '1987'
+    duration: '1:09:34'
+    thumbnail: https://img.youtube.com/vi/A3fJh4nQ7A4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=A3fJh4nQ7A4
+  - id: G79sOzAQBkU
+    title: J.S. Bach - Aria "Lebens Sonne, Licht der Sinnen" from Cantata BWV 180
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '4:16'
+    thumbnail: https://img.youtube.com/vi/G79sOzAQBkU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=G79sOzAQBkU
+  - id: oS0bRfhjDEk
+    title: 'J.S. Bach: Schmücke dich, o liebe Seele, Cantata BWV 180: I. "Schmücke dich, o liebe Seele"'
+    channel: Münchener Bach-Orchester - Topic
+    performer: Richter
+    place: Berlin
+    year: '1979'
+    duration: '8:06'
+    thumbnail: https://img.youtube.com/vi/oS0bRfhjDEk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=oS0bRfhjDEk
+  - id: mNS_dIvhzdk
+    title: Schmücke dich, o liebe Seele, BWV 180
+    channel: Chamber Choir of Europe - Topic
+    performer: Chamber Choir of Europe - Topic
+    place: ''
+    year: '2011'
+    duration: '2:19'
+    thumbnail: https://img.youtube.com/vi/mNS_dIvhzdk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mNS_dIvhzdk

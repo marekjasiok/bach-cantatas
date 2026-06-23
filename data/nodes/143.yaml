@@ -1,0 +1,111 @@
+bwv: '143'
+title: Lobe den Herrn, meine Seele
+cycle: EARLY
+occasion: New Year
+date: c. 1708 (Authorship debated)
+url: https://en.wikipedia.org/wiki/BWV_143
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno da caccia I-III, Tamburi, Fagotto, Violino I/II, Viola, Continuo
+    de: Lobe den Herrn, meine Seele.
+  - num: 2
+    type: Chorale
+    voices: S
+    instruments: Violino, Continuo
+    de: |-
+      Du Friedefürst, Herr Jesu Christ,
+      Wahr' Mensch und wahrer Gott,
+      Ein starker Nothelfer du bist
+      Im Leben und im Tod;
+      Drum wir allein
+      Im Namen dein
+      Zu deinem Vater schreien.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wohl dem, des Hülfe der Gott Jakob ist,
+      des Hoffnung auf dem Herrn, seinem Gotte, stehet.
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Tausendfaches Unglück, Schrecken,
+      Trübsal, Angst und schneller Tod,
+      Völker, die das Land bedecken,
+      Sorgen und sonst noch mehr Not
+      Sehen andre Länder zwar,
+      Aber wir ein Segensjahr.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Corno da caccia I-III, Tamburi, Fagotto, Continuo
+    de: |-
+      Der Herr ist König ewiglich,
+      dein Gott, Zion, für und für.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Jesu, Retter deiner Herde,
+      Bleibe ferner unser Hort,
+      Dass dies Jahr uns glücklich werde,
+      Halte Wacht an jedem Ort.
+      Führ, o Jesu, deine Schar
+      Bis zu jenem neuen Jahr.
+  - num: 7
+    type: Chorus
+    voices: SATB
+    instruments: Corno da caccia I-III, Tamburi, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Halleluja.
+      Gedenk, Herr, jetzund an dein Amt,
+      Dass du ein Friedfürst bist,
+      Und hilf uns gnädig allesamt
+      Jetzund zu dieser Frist;
+      Lass uns hinfort
+      Dein göttlich Wort
+      Im Fried noch länger schallen.
+scoring: 'Soli: S T B, Coro: S A T B, Corno da caccia I-III, Tamburi, Fagotto, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+    S: 1
+    T: 3
+    B: 1
+  instrumentation_families:
+    - corno_da_caccia
+    - fagotto
+    - timpani
+wiki:
+  summary: >-
+    Lobe den Herrn, meine Seele, BWV 143, is an early cantata by Johann Sebastian Bach. He appears to have composed the
+    cantata for New Year's Day, probably when he was in his 20s, but whether it was first performed in Mühlhausen or
+    Weimar is not known: the date of composition is unclear. Bach's authorship has been doubted because the cantata has
+    several unusual features; one of these is the scoring, it is the only Bach cantata to combine three corni da caccia
+    with timpani.
+  image: null
+  url: https://en.wikipedia.org/wiki/Lobe_den_Herrn%2C_meine_Seele%2C_BWV_143
+  summary_html: >-
+    <p><i><b><span><i lang="de">Lobe den Herrn, meine Seele</i></span></b></i>, <b><span class="nowrap">BWV
+    143</span></b>, is an early cantata by Johann Sebastian Bach. He appears to have composed the cantata for New Year's
+    Day, probably when he was in his 20s, but whether it was first performed in Mühlhausen or Weimar is not known: the
+    date of composition is unclear. Bach's authorship has been doubted because the cantata has several unusual features;
+    one of these is the scoring, it is the only Bach cantata to combine three corni da caccia with timpani.</p>
+key: B♭ major

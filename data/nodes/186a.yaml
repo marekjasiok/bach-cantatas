@@ -1,0 +1,102 @@
+bwv: 186a
+title: Ärgre dich, o Seele, nicht
+cycle: EARLY
+occasion: Advent III
+date: 1716 (**Non-Extant**)
+url: https://en.wikipedia.org/wiki/BWV_186a
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Taille, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Ärgre dich, o Seele, nicht,
+      Dass das allerhöchste Licht,
+      Gottes Glanz und Ebenbild,
+      Sich in Knechtsgestalt verhüllt.
+      Ärgre dich, o Seele, nicht!
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Bist du, der da kommen soll,
+      Seelenfreund im Kirchengarten?
+      Mein Gemüt ist zweifelsvoll,
+      Soll ich eines andern warten?
+      Doch, o Seele, zweifle nicht.
+      Lass Vernunft dich nicht verstricken,
+      Deinen Schild, o Jakobs Licht,
+      Kannst du in der Schrift erblicken!
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Viola, Continuo
+    de: |-
+      Messias lässt sich merken
+      Aus seinen Gnadenwerken,
+      Unreine werden rein.
+      Die geistlich Lahme gehen,
+      Die geistlich Blinde sehen
+      Den hellen Gnadenschein.
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Continuo
+    de: |-
+      Die Armen will der Herr umarmen
+      Mit Gnaden hier und dort!
+      Er schenket ihnen aus Erbarmen
+      Den höchsten Schatz, des Lebens Wort!
+  - num: 5
+    type: Aria
+    voices: S, A
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Lass, Seele, kein Leiden
+      Von Jesu dich scheiden,
+      Sei, Seele, getreu!
+      Dir bleibet die Krone
+      Aus Gnaden zu Lohne,
+      Wenn du von Banden des Leibes nun frei.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Darum, ob ich schon dulde
+      Hie Widerwärtigkeit,
+      Wie ich auch wohl verschulde,
+      Kommt doch die Ewigkeit,
+      Ist aller Freuden voll,
+      Dieselb ohn einigs Ende,
+      Dieweil ich Christum kennt,
+      Mir widerfahren soll.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Taille, Fagotto, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 1
+    T: 1
+    S: 1
+    S, A: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - oboe_da_caccia
+wiki:
+  summary: "Ärgre dich, o Seele, nicht, BWV\_186 is a church cantata by Johann Sebastian Bach. He composed it originally in Weimar in 1716 for Advent, BWV 186a, and expanded it in Leipzig in 1723 for the seventh Sunday after Trinity, where he first performed it on 11 July 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/%C3%84rgre_dich%2C_o_Seele%2C_nicht%2C_BWV_186
+  summary_html: "<p><b><span><i lang=\"de\">Ärgre dich, o Seele, nicht</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>186</b> is a church cantata by Johann Sebastian Bach. He composed it originally in Weimar in 1716 for Advent, <b><span class=\"nowrap\">BWV 186a</span></b>, and expanded it in Leipzig in 1723 for the seventh Sunday after Trinity, where he first performed it on 11 July 1723.</p>"

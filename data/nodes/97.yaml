@@ -1,0 +1,136 @@
+bwv: '97'
+title: In allen meinen Taten
+cycle: LATE
+occasion: Unknown
+date: 1734 (Chorale)
+url: https://en.wikipedia.org/wiki/BWV_97
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Fagotti, Violino I/II, Viola, Continuo
+    de: |-
+      In allen meinen Taten
+      Lass ich den Höchsten raten,
+      Der alles kann und hat;
+      Er muss zu allen Dingen,
+      Solls anders wohl gelingen,
+      Selbst geben Rat und Tat.
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Nichts ist es spät und frühe
+      Um alle meine Mühe,
+      Mein Sorgen ist umsonst.
+      Er mags mit meinen Sachen
+      Nach seinem Willen machen,
+      Ich stells in seine Gunst.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Es kann mir nichts geschehen,
+      Als was er hat ersehen,
+      Und was mir selig ist:
+      Ich nehm es, wie ers gibet;
+      Was ihm von mir beliebet,
+      Das hab ich auch erkiest.
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violino solo, Continuo
+    de: |-
+      Ich traue seiner Gnaden,
+      Die mich vor allem Schaden,
+      Vor allem Übel schützt.
+      Leb ich nach seinen Gesetzen,
+      So wird mich nichts verletzen,
+      Nichts fehlen, was mir nützt.
+  - num: 5
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Er wolle meiner Sünden
+      In Gnaden mich entbinden,
+      Durchstreichen meine Schuld!
+      Er wird auf mein Verbrechen
+      Nicht stracks das Urteil sprechen
+      Und haben noch Geduld.
+  - num: 6
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Leg ich mich späte nieder,
+      Erwache frühe wieder,
+      Lieg und ziehe fort,
+      In Schwachheit und in Banden,
+      Und was mir stößt zuhanden,
+      So tröstet mich sein Wort.
+  - num: 7
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Hat er es denn beschlossen,
+      So will ich unverdrossen
+      An mein Verhängnis gehn!
+      Kein Unfall unter allen
+      Soll mir zu harte fallen,
+      Ich will ihn überstehn.
+  - num: 8
+    type: Aria
+    voices: S
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Ich hab mich ihm ergeben
+      Zu sterben und zu leben,
+      Sobald er mir gebeut.
+      Es sei heut oder morgen,
+      Dafür lass ich ihn sorgen;
+      Er weiß die rechte Zeit.
+  - num: 9
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II col Soprano, Violino I/II, Viola, Continuo
+    de: |-
+      So sein nun, Seele, deine
+      Und traue dem alleine,
+      Der Dich erschaffen hat;
+      Es gehe, wie es gehe,
+      Dein Vater in der Höhe
+      Weiß allen Sachen Rat.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Violino solo, Violino I/II, Viola, Fagotto, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 1
+    T: 2
+    A: 2
+    S: 1
+  instrumentation_families:
+    - oboe
+    - violino_solo
+key: D minor
+wiki:
+  summary: "In allen meinen Taten, BWV\_97, is a church cantata by Johann Sebastian Bach. He composed the chorale cantata in Leipzig in 1734 for an unspecified occasion. The text consists of the unchanged words of the hymn by Paul Fleming (1642)."
+  image: null
+  url: https://en.wikipedia.org/wiki/In_allen_meinen_Taten%2C_BWV_97
+  summary_html: "<p><i><b><span><i lang=\"de\">In allen meinen Taten</i></span></b></i>, <b>BWV\_97</b>, is a church cantata by Johann Sebastian Bach. He composed the chorale cantata in Leipzig in 1734 for an unspecified occasion. The text consists of the unchanged words of the hymn by Paul Fleming (1642).</p>"

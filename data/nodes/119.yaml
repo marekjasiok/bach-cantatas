@@ -1,0 +1,156 @@
+bwv: '119'
+title: Preise, Jerusalem, den Herrn
+cycle: C1
+occasion: Ratswahl
+date: '1723-08-30'
+url: https://en.wikipedia.org/wiki/BWV_119
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-IV, Tamburi, Flauto I/II, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Preise, Jerusalem, den Herrn, lobe, Zion, deinen Gott!
+      Denn er machet fest die Riegel deiner Tore
+      und segnet deine Kinder drinnen,
+      er schaffet deinen Grenzen Frieden.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Gesegnet Land, glückselge Stadt,
+      Woselbst der Herr sein Herd und Feuer hat!
+      Wie kann Gott besser lohnen,
+      Als wo er Ehre lässt in einem Lande wohnen?
+      Wie kann er eine Stadt
+      Mit reicherm Nachdruck segnen,
+      Als wo er Güt und Treu einander lässt begegnen,
+      Wo er Gerechtigkeit und Friede
+      Zu küssen niemals müde,
+      Nicht müde, niemals satt
+      Zu werden teur verheißen, auch in der Tat erfüllet hat?
+      Da ist der Schluss gemacht: Gesegnet Land, glückselge Stadt!
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe da caccia I/II, Continuo
+    de: |-
+      Wohl dir, du Volk der Linden,
+      Wohl dir, du hast es gut!
+      Wieviel an Gottes Segen
+      Und seiner Huld gelegen,
+      Die überschwenglich tut,
+      Kannst du an dir befinden.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Tromba I-IV, Tamburi, Flauto I/II, Oboe da caccia I/II, Continuo
+    de: |-
+      So herrlich stehst du, liebe Stadt!
+      Du Volk, das Gott zum Erbteil sich erwählet hat!
+      Doch wohl! und aber wohl! wo man's zu Herzen fassen
+      Und recht erkennen will,
+      Durch wen der Herr den Segen wachsen lassen.
+      Ja!
+      Was bedarf es viel?
+      Das Zeugnis ist schon da,
+      Herz und Gewissen wird uns überzeugen,
+      Dass, was wir Gutes bei uns sehn,
+      Nächst Gott durch kluge Obrigkeit
+      Und durch ihr weises Regiment geschehn.
+      Drum sei, geliebtes Volk, zu treuem Dank bereit,
+      Sonst würden auch davon nicht deine Mauern schweigen!
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Flauto I/II, Continuo
+    de: |-
+      Die Obrigkeit ist Gottes Gabe,
+      Ja selber Gottes Ebenbild.
+      Wer ihre Macht nicht will ermessen,
+      Der muss auch Gottes gar vergessen:
+      Wie würde sonst sein Wort erfüllt?
+  - num: 6
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Nun! wir erkennen es und bringen dir,
+      O höchster Gott, ein Opfer unsers Danks dafür.
+      Zumal, nachdem der heutge Tag,
+      Der Tag, den uns der Herr gemacht,
+      Euch, teure Väter, teils von eurer Last entbunden,
+      Teils auch auf euch
+      Schlaflose Sorgenstunden
+      Bei einer neuen Wahl gebracht,
+      So seufzt ein treues Volk mit Herz und Mund zugleich:
+  - num: 7
+    type: Chorus
+    voices: T
+    instruments: Tromba I-IV, Tamburi, Flauto I/II, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Der Herr hat Guts an uns getan,
+      Des sind wir alle fröhlich.
+      Er seh die teuren Väter an
+      Und halte auf unzählig
+      Und späte lange Jahre naus
+      In ihrem Regimente Haus,
+      So wollen wir ihn preisen.
+  - num: 8
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Zuletzt!
+      Da du uns, Herr, zu deinem Volk gesetzt,
+      So lass von deinen Frommen
+      Nur noch ein arm Gebet vor deine Ohren kommen
+      Und höre! ja erhöre!
+      Der Mund, das Herz und Seele seufzet sehre.
+  - num: 9
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Hilf deinem Volk, Herr Jesu Christ,
+      Und segne, was dein Erbteil ist.
+      Wart und pfleg ihr zu aller Zeit
+      Und heb sie hoch in Ewigkeit!
+      Amen.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Tromba I-IV, Tamburi, Flauto I/II, Oboe I-III, Oboe da caccia I/II, Violino I/II, Viola,
+  Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 4
+    B: 1
+    A: 2
+    S: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - recorder
+    - timpani
+    - tromba
+key: C major
+wiki:
+  summary: "Preise, Jerusalem, den Herrn, BWV\_119, is a sacred cantata by Johann Sebastian Bach. He composed it in Leipzig for Ratswechsel, the inauguration of a new town council, and first performed it on 30 August 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/330px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
+  url: https://en.wikipedia.org/wiki/Preise%2C_Jerusalem%2C_den_Herrn%2C_BWV_119
+  summary_html: "<p><b><span><i lang=\"de\">Preise, Jerusalem, den Herrn</i></span></b>, <b>BWV\_119</b>, is a sacred cantata by Johann Sebastian Bach. He composed it in Leipzig for <i>Ratswechsel</i>, the inauguration of a new town council, and first performed it on 30 August 1723.</p>"

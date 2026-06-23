@@ -1,0 +1,107 @@
+bwv: '87'
+title: Bisher habt ihr nichts gebeten...
+cycle: C2
+occasion: Easter V
+date: '1725-05-06'
+url: https://en.wikipedia.org/wiki/BWV_87
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Oboe da caccia, Violino I/II, Viola, Continuo
+    de: Bisher habt ihr nichts gebeten in meinem Namen.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      O Wort, das Geist und Seel erschreckt!
+      Ihr Menschen, merkt den Zuruf, was dahinter steckt!
+      Ihr habt Gesetz und Evangelium vorsätzlich übertreten;
+      Und dies möcht' ihr ungesäumt in Buß und Andacht beten.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe da caccia I/II, Continuo
+    de: |-
+      Vergib, o Vater, unsre Schuld
+      Und habe noch mit uns Geduld,
+      Wenn wir in Andacht beten
+      Und sagen: Herr, auf dein Geheiß,
+      Ach, rede nicht mehr sprichwortsweis,
+      Hilf uns vielmehr vertreten.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wenn unsre Schuld bis an den Himmel steigt,
+      Du siehst und kennest ja mein Herz, das nichts vor dir verschweigt;
+      Drum suche mich zu trösten!
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      In der Welt habt ihr Angst;
+      aber seid getrost, ich habe die Welt überwunden.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ich will leiden, ich will schweigen,
+      Jesus wird mir Hilf erzeigen,
+      Denn er tröst' mich nach dem Schmerz.
+      Weicht, ihr Sorgen, Trauer, Klagen,
+      Denn warum sollt ich verzagen?
+      Fasse dich betrübtes Herz!
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Oboe I e Violino I col Soprano, Oboe da caccia I e Violino II coll' Alto, Oboe da caccia II e Viola col Tenore,
+      Continuo
+    de: |-
+      Muss ich sein betrübet?
+      So mich Jesus liebet,
+      Ist mir aller Schmerz
+      Über Honig süße,
+      Tausend Zuckerküsse
+      Drücket er ans Herz.
+      Wenn die Pein sich stellet ein,
+      Seine Liebe macht zur Freuden
+      Auch das bittre Leiden.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe I/II, Oboe da caccia I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 2
+    A: 2
+    T: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+key: E minor
+wiki:
+  summary: >-
+    Bisher habt ihr nichts gebeten in meinem Namen, BWV 87, is a church cantata by Johann Sebastian Bach. He composed it
+    in Leipzig for Rogate, the fifth Sunday after Easter, and first performed it on 6 May 1725.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Christiana_Mariana_von_Ziegler.jpg/330px-Christiana_Mariana_von_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Bisher_habt_ihr_nichts_gebeten_in_meinem_Namen%2C_BWV_87
+  summary_html: >-
+    <p><b><span><i lang="de">Bisher habt ihr nichts gebeten in meinem Namen</i></span></b>, <b><span class="nowrap">BWV
+    87</span></b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Rogate, the fifth Sunday
+    after Easter, and first performed it on 6 May 1725.</p>

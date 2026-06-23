@@ -1,0 +1,87 @@
+bwv: '82'
+title: Ich habe genug
+cycle: C3
+occasion: Purification
+date: '1727-02-02'
+url: https://en.wikipedia.org/wiki/BWV_82
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Ich habe genug,
+      Ich habe den Heiland, das Hoffen der Frommen,
+      Auf meine begierigen Arme genommen;
+      Ich habe genug!
+      Ich hab ihn erblickt,
+      Mein Glaube hat Jesum ans Herze gedrückt;
+      Nun wünsch ich, noch heute mit Freuden
+      Von hinnen zu scheiden.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Ich habe genug.
+      Mein Trost ist nur allein,
+      Dass Jesus mein und ich sein eigen möchte sein.
+      Im Glauben halt ich ihn,
+      Da seh ich auch mit Simeon
+      Die Freude jenes Lebens schon.
+      Lasst uns mit diesem Manne ziehn!
+      Ach! möchte mich von meines Leibes Ketten
+      Der Herr erretten;
+      Ach! wäre doch mein Abschied hier,
+      Mit Freuden sagt ich, Welt, zu dir:
+      Ich habe genug.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Schlummert ein, ihr matten Augen,
+      Fallet sanft und selig zu!
+      Welt, ich bleibe nicht mehr hier,
+      Hab ich doch kein Teil an dir,
+      Das der Seele könnte taugen.
+      Hier muss ich das Elend bauen,
+      Aber dort, dort werd ich schauen
+      Süßen Friede, stille Ruh.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Organo
+    de: |-
+      Mein Gott! wenn kömmt das schöne: Nun!
+      Da ich im Friede fahren werde
+      Und in dem Sande kühler Erde
+      Und dort bei dir im Schoße ruhn?
+      Der Abschied ist gemacht,
+      Welt, gute Nacht!
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Ich freue mich auf meinen Tod,
+      Ach, hätt er sich schon eingefunden.
+      Da entkomm ich aller Not,
+      Die mich noch auf der Welt gebunden.
+scoring: 'Solo: B, Oboe, Violino I/II, Viola, Organo, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+  opening: Aria
+  closing: Aria
+  voice_profile:
+    B: 5
+  instrumentation_families:
+    - oboe
+    - organ
+key: C minor

@@ -1,0 +1,77 @@
+bwv: '137'
+title: Lobe den Herren, den mächtigen König
+cycle: C3
+occasion: Trinity XII
+date: '1725-08-19'
+url: https://en.wikipedia.org/wiki/BWV_137
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Lobe den Herren, den mächtigen König der Ehren,
+      Meine geliebete Seele, das ist mein Begehren.
+      Kommet zu Hauf,
+      Psalter und Harfen, wacht auf!
+      Lasset die Musicam hören.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Violino solo, Continuo
+    de: |-
+      Lobe den Herren, der alles so herrlich regieret,
+      Der dich auf Adelers Fittichen sicher geführet,
+      Der dich erhält,
+      Wie es dir selber gefällt;
+      Hast du nicht dieses verspüret?
+  - num: 3
+    type: Aria
+    voices: ''
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Lobe den Herren, der künstlich und fein dich bereitet,
+      Der dir Gesundheit verliehen, dich freundlich geleitet;
+      In wieviel Not
+      Hat nicht der gnädige Gott
+      Über dir Flügel gebreitet!
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Tromba, Continuo
+    de: |-
+      Lobe den Herren, der deinen Stand sichtbar gesegnet,
+      Der aus dem Himmel mit Strömen der Liebe geregnet;
+      Denke dran,
+      Was der Allmächtige kann,
+      Der dir mit Liebe begegnet.
+  - num: 5
+    type: Chorale
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Lobe den Herren, was in mir ist, lobe den Namen!
+      Alles, was Odem hat, lobe mit Abrahams Samen!
+      Er ist dein Licht,
+      Seele, vergiss es ja nicht;
+      Lobende, schließe mit Amen!
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    A: 1
+  instrumentation_families:
+    - oboe
+    - timpani
+    - tromba
+    - violino_solo
+key: C major

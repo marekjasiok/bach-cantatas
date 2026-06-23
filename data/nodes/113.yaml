@@ -1,0 +1,151 @@
+bwv: '113'
+title: Herr Jesu Christ, du höchstes Gut
+cycle: C2
+occasion: Trinity XI
+date: '1724-08-20'
+url: https://en.wikipedia.org/wiki/BWV_113
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Herr Jesu Christ, du höchstes Gut,
+      Du Brunnquell aller Gnaden,
+      Sieh doch, wie ich in meinem Mut
+      Mit Schmerzen bin beladen
+      Und in mir hab der Pfeile viel,
+      Die im Gewissen ohne Ziel
+      Mich armen Sünder drücken.
+  - num: 2
+    type: Chorale
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Erbarm dich mein in solcher Last,
+      Nimm sie aus meinem Herzen,
+      Dieweil du sie gebüßet hast
+      Am Holz mit Todesschmerzen,
+      Auf dass ich nicht für großem Weh
+      In meinen Sünden untergeh,
+      Noch ewiglich verzage.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Fürwahr, wenn mir das kömmet ein,
+      Dass ich nicht recht vor Gott gewandelt
+      Und täglich wider ihn misshandelt,
+      So quält mich Zittern, Furcht und Pein.
+      Ich weiß, dass mir das Herze bräche,
+      Wenn mir dein Wort nicht Trost verspräche.
+  - num: 4
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Jedoch dein heilsam Wort, das macht
+      Mit seinem süßen Singen,
+      Dass meine Brust,
+      Der vormals lauter Angst bewusst,
+      Sich wieder kräftig kann erquicken.
+      Das jammervolle Herz
+      Empfindet nun nach tränenreichem Schmerz
+      Den hellen Schein von Jesu Gnadenblicken;
+      Sein Wort hat mir so vielen Trost gebracht,
+      Dass mir das Herze wieder lacht,
+      Als wenn's beginnt zu springen.
+      Wie wohl ist meiner Seelen!
+      Das zagende Gewissen kann mich nicht länger quälen,
+      Dieweil Gotts alle Gnad verheißt,
+      Hiernächst die Gläubigen und Frommen
+      Mit Himmelsmanna speist,
+      Wenn wir nur mit zerknirschtem Geist
+      Zu unserm Jesu kommen.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Flauto traverso, Continuo
+    de: |-
+      Jesus nimmt die Sünder an:
+      Süßes Wort voll Trost und Leben!
+      Er schenkt die wahre Seelenruh
+      Und rufet jedem tröstlich zu:
+      Dein Sünd ist dir vergeben.
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Der Heiland nimmt die Sünder an:
+      Wie lieblich klingt das Wort in meinen Ohren!
+      ES ruft: Kommt her zu mir,
+      Die ihr mühselig und beladen,
+      Kommt her zum Brunnquell aller Gnaden,
+      Ich hab euch mir zu Freunden auserkoren!
+      Auf dieses Wort will ich zu dir
+      Wie der bußfertge Zöllner treten
+      Und mit demütgem Geist >>Gott, sei mir gnädig! << beten.
+      Ach, tröste meinen blöden Mut
+      Und mache mich durch dein vergossnes Blut
+      Von allen Sünden rein,
+      So werd ich auch wie David und Manasse,
+      Wenn ich dabei
+      Dich stets in Lieb und Treu
+      Mit meinem Glaubensarm umfasse,
+      Hinfort ein Kind des Himmels sein.
+  - num: 7
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Ach Herr, mein Gott, vergib mir's doch,
+      Wormit ich deinen Zorn erreget,
+      Zerbrich das schwere Sündenjoch,
+      Das mir der Satan auferleget,
+      Dass sich mein Herz zufriedengebe
+      Und dir zum Preis und Ruhm hinfort
+      Nach deinem Wort
+      In kindlichem Gehorsam lebe.
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Stärk mich mit deinem Freudengeist,
+      Heil mich mit deinen Wunden,
+      Wasch mich mit deinem Todesschweiß
+      In meiner letzten Stunden;
+      Und nimm mich einst, wenn dir's gefällt,
+      In wahrem Glauben von der Welt
+      Zu deinen Auserwählten!
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto traverso, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Aria
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    A: 1
+    B: 1
+    T: 2
+  instrumentation_families:
+    - flauto_traverso
+    - oboe_damore
+key: A minor
+wiki:
+  summary: "Herr Jesu Christ, du höchstes Gut, BWV\_113, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the eleventh Sunday after Trinity and first performed it on 20 August 1724. It is based on the eight stanzas of the 1588 hymn \"Herr Jesu Christ, du höchstes Gut\" by Bartholomäus Ringwaldt, a penitential song."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gelijkenis_van_een_farizee%C3%ABr_en_een_tollenaar%2C_RP-P-OB-44.953.jpg/330px-Gelijkenis_van_een_farizee%C3%ABr_en_een_tollenaar%2C_RP-P-OB-44.953.jpg
+  url: https://en.wikipedia.org/wiki/Herr_Jesu_Christ%2C_du_h%C3%B6chstes_Gut%2C_BWV_113
+  summary_html: "<p><b><span><i lang=\"de\">Herr Jesu Christ, du höchstes Gut</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>113</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the eleventh Sunday after Trinity and first performed it on 20 August 1724. It is based on the eight stanzas of the 1588 hymn \"Herr Jesu Christ, du höchstes Gut\" by Bartholomäus Ringwaldt, a penitential song.</p>"

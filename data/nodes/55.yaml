@@ -1,0 +1,151 @@
+bwv: '55'
+title: Ich armer Mensch, ich Sündenknecht
+cycle: C3
+occasion: Trinity XXII
+date: '1726-11-17'
+url: https://en.wikipedia.org/wiki/BWV_55
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T
+    instruments: Flauto traverso, Oboe d'amore, Violino I/II, Continuo
+    de: |-
+      Ich armer Mensch, ich Sündenknecht,
+      Ich geh vor Gottes Angesichte
+      Mit Furcht und Zittern zum Gerichte.
+      Er ist gerecht, ich ungerecht.
+      Ich armer Mensch, ich Sündenknecht!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ich habe wider Gott gehandelt
+      Und bin demselben Pfad,
+      Den er mir vorgeschrieben hat,
+      Nicht nachgewandelt.
+      Wohin? soll ich der Morgenröte Flügel
+      Zu meiner Flucht erkiesen,
+      Die mich zum letzten Meere wiesen,
+      So wird mich doch die Hand des Allerhöchsten finden
+      Und mir die Sündenrute binden.
+      Ach ja!
+      Wenn gleich die Höll ein Bette
+      Vor mich und meine Sünden hätte,
+      So wäre doch der Grimm des Höchsten da.
+      Die Erde schützt mich nicht,
+      Sie droht mich Scheusal zu verschlingen;
+      Und will ich mich zum Himmel schwingen,
+      Da wohnet Gott, der mir das Urteil spricht.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Flauto traverso, Continuo
+    de: |-
+      Erbarme dich!
+      Lass die Tränen dich erweichen,
+      Lass sie dir zu Herzen reichen;
+      Lass um Jesu Christi willen
+      Deinen Zorn des Eifers stillen!
+      Erbarme dich!
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Erbarme dich!
+      Jedoch nun
+      Tröst ich mich,
+      Ich will nicht für Gerichte stehen
+      Und lieber vor dem Gnadenthron
+      Zu meinem frommen Vater gehen.
+      Ich halt ihm seinen Sohn,
+      Sein Leiden, sein Erlösen für,
+      Wie er für meine Schuld
+      Bezahlet und genug getan,
+      Und bitt ihn um Geduld,
+      Hinfüro will ich's nicht mehr tun.
+      So nimmt mich Gott zu Gnaden wieder an.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Flauto traverso e Oboe e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Bin ich gleich von dir gewichen,
+      Stell ich mich doch wieder ein;
+      Hat uns doch dein Sohn verglichen
+      Durch sein Angst und Todespein.
+      Ich verleugne nicht die Schuld,
+      Aber deine Gnad und Huld
+      Ist viel größer als die Sünde,
+      Die ich stets bei mir befinde.
+scoring: 'Solo: T, Coro: S A T B, Flauto traverso, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 4
+    SATB: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ich armer Mensch, ich Sündenknecht, BWV\_55, in Leipzig for the 22nd Sunday after Trinity and first performed it on 17 November 1726."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Manuscript-BWV55-5.png/330px-Manuscript-BWV55-5.png
+  url: https://en.wikipedia.org/wiki/Ich_armer_Mensch%2C_ich_S%C3%BCndenknecht%2C_BWV_55
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ich armer Mensch, ich Sündenknecht</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>55</b>, in Leipzig for the 22nd Sunday after Trinity and first performed it on 17 November 1726.</p>"
+performances:
+  - id: YvDcBsn78sw
+    title: Bach - Cantata Ich armer Mensch, ich Sündenknecht BWV 55 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2016'
+    duration: '13:35'
+    thumbnail: https://img.youtube.com/vi/YvDcBsn78sw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YvDcBsn78sw
+  - id: qyAxqkzWKEw
+    title: 'J.S Bach - Cantata: Ich armer Mensch, ich Sündenknecht, BWV 55'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '15:55'
+    thumbnail: https://img.youtube.com/vi/qyAxqkzWKEw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qyAxqkzWKEw
+  - id: LrGWqpHAWww
+    title: J.S. Bach Cantata Ich armer Mensch, ich Sundenknecht BWV 55
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: ''
+    year: ''
+    duration: '15:28'
+    thumbnail: https://img.youtube.com/vi/LrGWqpHAWww/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=LrGWqpHAWww
+  - id: s70ClijNXp4
+    title: Bach - Cantate BWV 55 - Ich armer Mensch, ich Sündenknecht
+    channel: MusicArt61
+    performer: Leonhardt
+    place: Leipzig
+    year: '1975'
+    duration: '12:59'
+    thumbnail: https://img.youtube.com/vi/s70ClijNXp4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=s70ClijNXp4
+  - id: 4ScutjsjxjE
+    title: Bach cantate "Ich armer Mensch, ich Sündenknecht" BWV 55 cantate ténor
+    channel: Leonart Music
+    performer: Leonart Music
+    place: Leipzig
+    year: March 2020
+    duration: '15:08'
+    thumbnail: https://img.youtube.com/vi/4ScutjsjxjE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4ScutjsjxjE
+key: D minor

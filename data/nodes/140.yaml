@@ -1,0 +1,294 @@
+bwv: '140'
+title: Wachet auf, ruft uns die Stimme
+cycle: LATE
+occasion: Trinity XXVII
+date: '1731-11-25'
+url: https://en.wikipedia.org/wiki/BWV_140
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Taille, Violino I/II, Violino piccolo, Viola, Corno col Soprano, Continuo
+    de: |-
+      Wachet auf, ruft uns die Stimme
+      Der Wächter sehr hoch auf der Zinne,
+      Wach auf, du Stadt Jerusalem!
+      Mitternacht heißt diese Stunde;
+      Sie rufen uns mit hellem Munde:
+      Wo seid ihr klugen Jungfrauen?
+      Wohl auf, der Bräutgam kömmt;
+      Steht auf, die Lampen nehmt! Alleluja!
+      Macht euch bereit
+      Zu der Hochzeit,
+      Ihr müsset ihm entgegen gehn!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Er kommt, er kommt,
+      Der Bräutgam kommt!
+      Ihr Töchter Zions, kommt heraus,
+      Sein Ausgang eilet aus der Höhe
+      In euer Mutter Haus.
+      Der Bräutgam kommt, der einem Rehe
+      Und jungen Hirsche gleich
+      Auf denen Hügeln springt
+      Und euch das Mahl der Hochzeit bringt.
+      Wacht auf, ermuntert euch!
+      Den Bräutgam zu empfangen!
+      Dort, sehet, kommt er hergegangen.
+  - num: 3
+    type: Aria
+    voices: ''
+    instruments: Violino piccolo, Continuo
+    de: |-
+      Seele (S), Jesus (B)
+      Sopran
+      Wenn kömmst du, mein Heil?
+      Bass
+      Ich komme, dein Teil.
+      Sopran
+      Ich warte mit brennendem Öle.
+      {Sopran, Bass}
+      {Eröffne, Ich öffne} den Saal
+      beide
+      Zum himmlischen Mahl
+      Sopran
+      Komm, Jesu!
+      Bass
+      Komm, liebliche Seele!
+  - num: 4
+    type: Chorale
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Zion hört die Wächter singen,
+      Das Herz tut ihr vor Freuden springen,
+      Sie wachet und steht eilend auf.
+      Ihr Freund kommt vom Himmel prächtig,
+      Von Gnaden stark, von Wahrheit mächtig,
+      Ihr Licht wird hell, ihr Stern geht auf.
+      Nun komm, du werte Kron,
+      Herr Jesu, Gottes Sohn!
+      Hosianna!
+      Wir folgen all
+      Zum Freudensaal
+      Und halten mit das Abendmahl.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Violino piccolo, Viola, Continuo
+    de: |-
+      So geh herein zu mir,
+      Du mir erwählte Braut!
+      Ich habe mich mit dir
+      Von Ewigkeit vertraut.
+      Dich will ich auf mein Herz,
+      Auf meinem Arm gleich wie ein Siegel setzen
+      Und dein betrübtes Aug ergötzen.
+      Vergiß, o Seele, nun
+      Die Angst, den Schmerz,
+      Den du erdulden müssen;
+      Auf meiner Linken sollst du ruhn,
+      Und meine Rechte soll dich küssen.
+  - num: 6
+    type: Aria
+    voices: ''
+    instruments: Oboe solo, Continuo
+    de: |-
+      Seele (S), Jesus (B)
+      Seele
+      Mein Freund ist mein,
+      Bass
+      Und ich bin dein,
+      beide
+      Die Liebe soll nichts scheiden.
+      {Seele, Bass}
+      {Ich will, du sollst} mit {dir, mir} in Himmels Rosen weiden,
+      beide
+      Da Freude die Fülle, da Wonne wird sein.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Violino piccolo in octava e Corno e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Taille e
+      Viola col Tenore, Continuo
+    de: |-
+      Gloria sei dir gesungen
+      Mit Menschen- und englischen Zungen,
+      Mit Harfen und mit Zimbeln schon.
+      Von zwölf Perlen sind die Pforten,
+      An deiner Stadt; wir sind Konsorten
+      Der Engel hoch um deinen Thron.
+      Kein Aug hat je gespürt,
+      Kein Ohr hat je gehört
+      Solche Freude.
+      Des sind wir froh,
+      Io, io!
+      Ewig in dulci jubilo.
+scoring: 'Soli: S T B, Coro: S A T B, Corno, Oboe I/II, Taille, Violino piccolo, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    B: 1
+  instrumentation_families:
+    - corno
+    - oboe
+    - oboe_da_caccia
+    - violino_piccolo
+key: E♭ major
+wiki:
+  summary: "Wachet auf, ruft uns die Stimme, BWV\_140, also known as Sleepers Awake, is a church cantata by Johann Sebastian Bach, regarded as one of his most mature and popular sacred cantatas. He composed the chorale cantata in Leipzig for the 27th Sunday after Trinity and first performed it on 25 November 1731."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BWV_140_aria_obbligato_piccolo_violino.jpg/330px-BWV_140_aria_obbligato_piccolo_violino.jpg
+  url: https://en.wikipedia.org/wiki/Wachet_auf%2C_ruft_uns_die_Stimme%2C_BWV_140
+  summary_html: "<p><b><span><i lang=\"de\">Wachet auf, ruft uns die Stimme</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>140</b>, also known as <i>Sleepers Awake</i>, is a church cantata by Johann Sebastian Bach, regarded as one of his most mature and popular sacred cantatas. He composed the chorale cantata in Leipzig for the 27th Sunday after Trinity and first performed it on 25 November 1731.</p>"
+performances:
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: 3K_RVdLAiFI
+    title: 'J.S. Bach: Cantata "Wachet auf", BWV 140 (complete) - Makris Symphony Orchestra and Choir "Orfelin"'
+    channel: Makris Symphony Orchestra
+    performer: Makris Symphony Orchestra
+    place: Kolarac Concert Hall in Belgrade
+    year: '2019'
+    duration: '27:11'
+    thumbnail: https://img.youtube.com/vi/3K_RVdLAiFI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3K_RVdLAiFI
+  - id: _B9eGXDKae0
+    title: J.S. Bach - Cantata BWV 140 "Wachet auf, ruft uns die Stimme" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2008'
+    duration: '27:58'
+    thumbnail: https://img.youtube.com/vi/_B9eGXDKae0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_B9eGXDKae0
+  - id: 3sj-NKqR0tw
+    title: 'Bach - Cantata 140: Wachet auf, ruft uns die Stimme, BWV 140 (1731)'
+    channel: musicanth
+    performer: Harnoncourt
+    place: Lutheran lectionary
+    year: ''
+    duration: '28:25'
+    thumbnail: https://img.youtube.com/vi/3sj-NKqR0tw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3sj-NKqR0tw
+  - id: Lz0FmmNrTck
+    title: J.S. Bach - Chorus "Wachet auf, ruft uns die Stimme" from Cantata BWV 140
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '6:16'
+    thumbnail: https://img.youtube.com/vi/Lz0FmmNrTck/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Lz0FmmNrTck
+  - id: 5tpFzmkGBJ4
+    title: J.S. Bach - Cantata BWV 140 "Wachet auf, ruft uns die Stimme" (Nuria Rial, Schola Seconda Pratica)
+    channel: wocomoMUSIC
+    performer: Lutz
+    place: ''
+    year: November 2005
+    duration: '27:58'
+    thumbnail: https://img.youtube.com/vi/5tpFzmkGBJ4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5tpFzmkGBJ4
+  - id: 9Do6NLjGqq0
+    title: Bach - Zion hört die Wächter singen from Cantata BWV 140 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '4:45'
+    thumbnail: https://img.youtube.com/vi/9Do6NLjGqq0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9Do6NLjGqq0
+  - id: 4N60ATIaEGw
+    title: '[4K] J. S. Bach - Wachet auf, ruft uns die Stimme, BWV 140 :: 지휘 김보미, 수원시립합창단, 카메라타 안티콰 서울'
+    channel: TomatoClassic
+    performer: TomatoClassic
+    place: Seoul
+    year: '2025'
+    duration: '29:51'
+    thumbnail: https://img.youtube.com/vi/4N60ATIaEGw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4N60ATIaEGw
+  - id: hR5ImpCyrdY
+    title: Cantata 140 "Wachet auf, ruft uns die Stimme" (FULL SCORE) - J.S. Bach
+    channel: Bobby Alarcón
+    performer: Bobby Alarcón
+    place: Leipzig
+    year: ''
+    duration: '28:23'
+    thumbnail: https://img.youtube.com/vi/hR5ImpCyrdY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hR5ImpCyrdY
+  - id: sJtS6g5uTKM
+    title: BWV 140 "Wachet auf, ruft uns die Stimme", J S Bach - Karl Richter
+    channel: narciso machuca
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '34:14'
+    thumbnail: https://img.youtube.com/vi/sJtS6g5uTKM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sJtS6g5uTKM
+  - id: 4Q3CogZxMfY
+    title: Bach - Canatas BWV 140 & BWV 148 - Gardiner, English Baroque Soloists (1992) [Complete CD]
+    channel: Mark's Music Collection - Classical
+    performer: Gardiner
+    place: ''
+    year: '1992'
+    duration: '52:51'
+    thumbnail: https://img.youtube.com/vi/4Q3CogZxMfY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4Q3CogZxMfY
+  - id: D9VKcbD47tg
+    title: JS Bach BWV 140 - 07 Chorale - Gloria sei dir gesungen
+    channel: Andreas Setyaputra
+    performer: Andreas Setyaputra
+    place: You Tube
+    year: ''
+    duration: '1:32'
+    thumbnail: https://img.youtube.com/vi/D9VKcbD47tg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=D9VKcbD47tg
+  - id: kl2ssugNE-M
+    title: '[ 1h Repeat ] 바흐(Bach) _ 눈 뜨라고 부르는 소리 있어(Cantata No140 / Wachet Auf, Ruft Uns Die Stimme, BWV 645)'
+    channel: 인생클래식 Classic Repeat Channel
+    performer: 인생클래식 Classic Repeat Channel
+    place: ''
+    year: ''
+    duration: '1:06:28'
+    thumbnail: https://img.youtube.com/vi/kl2ssugNE-M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=kl2ssugNE-M
+  - id: Fn-PAottrvc
+    title: Bach - Cantate BWV 140 - Wachet auf, ruft uns die Stimme
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Freund ist mein
+    year: '1983'
+    duration: '28:37'
+    thumbnail: https://img.youtube.com/vi/Fn-PAottrvc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Fn-PAottrvc
+  - id: 9ULWMAfcIdQ
+    title: The Polyphonists — "Gloria sei dir gesungen," BWV 140 (J.S. Bach)
+    channel: The Polyphonists
+    performer: The Polyphonists
+    place: Chamber Music Performance
+    year: '2020'
+    duration: '1:57'
+    thumbnail: https://img.youtube.com/vi/9ULWMAfcIdQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9ULWMAfcIdQ

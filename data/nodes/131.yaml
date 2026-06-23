@@ -1,0 +1,91 @@
+bwv: '131'
+title: Aus der Tiefen rufe ich, Herr, zu dir
+cycle: EARLY
+occasion: Penitential
+date: 1707 (Mühlhausen) [^2]
+url: https://en.wikipedia.org/wiki/BWV_131
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe, Fagotto, Violino, Viola I/II, Continuo
+    de: |-
+      Aus der Tiefen rufe ich, Herr, zu dir.
+      Herr, höre meine Stimme, lass deine Ohren merken auf die Stimme
+      meines Flehens!
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Oboe, Continuo
+    de: |-
+      So du willst, Herr, Sünde zurechnen, Herr, wer wird bestehen?
+      Erbarm dich mein in solcher Last,
+      Nimm sie aus meinem Herzen,
+      Dieweil du sie gebüßet hast
+      Am Holz mit Todesschmerzen,
+      Denn bei dir ist die Vergebung, dass man dich fürchte.
+      Auf dass ich nicht mit großem Weh
+      In meinen Sünden untergeh,
+      Noch ewiglich verzage.
+  - num: 3
+    type: Chorus
+    voices: SATB
+    instruments: Oboe, Fagotto, Violino, Viola I/II, Continuo
+    de: |-
+      Ich harre des Herrn, meine Seele harret,
+      und ich hoffe auf sein Wort.
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Continuo
+    de: |-
+      Meine Seele wartet auf den Herrn
+      von einer Morgenwache bis zu der andern.
+      Und weil ich denn in meinem Sinn,
+      Wie ich zuvor geklaget,
+      Auch ein betrübter Sünder bin,
+      Den sein Gewissen naget,
+      Und wollte gern im Blute dein
+      Von Sünden abgewaschen sein
+      Wie David und Manasse.
+  - num: 5
+    type: Chorus
+    voices: SATB
+    instruments: Oboe, Fagotto, Violino, Viola I/II, Continuo
+    de: |-
+      Israel hoffe auf den Herrn;
+      denn bei dem Herrn ist die Gnade und viel Erlösung bei ihm.
+      Und er wird Israel erlösen aus allen seinen Sünden.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe, Fagotto, Violino, Viola I/II, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorus
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 3
+    B: 1
+    T: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+wiki:
+  summary: >-
+    Aus der Tiefen rufe ich, Herr, zu dir, BWV 131, is a church cantata by the German composer Johann Sebastian Bach. It
+    was composed in either 1707 or 1708, which makes it one of Bach's earliest cantatas. Some sources suggest that it
+    could be his earliest surviving work in this form, but current thinking is that there are one or two earlier
+    examples.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kirche_St._Marien_-_Innenraum.JPG/330px-Kirche_St._Marien_-_Innenraum.JPG
+  url: https://en.wikipedia.org/wiki/Aus_der_Tiefen_rufe_ich%2C_Herr%2C_zu_dir%2C_BWV_131
+  summary_html: >-
+    <p><b><span><i lang="de">Aus der Tiefen rufe ich, Herr, zu dir</i></span></b>, <b><span class="nowrap">BWV
+    131</span></b>, is a church cantata by the German composer Johann Sebastian Bach. It was composed in either 1707 or
+    1708, which makes it one of Bach's earliest cantatas. Some sources suggest that it could be his earliest surviving
+    work in this form, but current thinking is that there are one or two earlier examples.</p>
+key: G minor

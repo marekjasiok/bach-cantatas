@@ -1,0 +1,134 @@
+bwv: '134'
+title: Ein Herz, das seinen Jesum lebend weiß
+cycle: C1
+occasion: Easter Tue.
+date: '1724-04-11'
+url: https://en.wikipedia.org/wiki/BWV_134
+edges: {}
+movements:
+  - num: 1
+    type: Recitative
+    voices: T, A
+    instruments: Continuo
+    de: |-
+      Tenor
+      Ein Herz, das seinen Jesum lebend weiß,
+      Empfindet Jesu neue Güte
+      Und dichtet nur auf seines Heilands Preis.
+      Alt
+      Wie freuet sich ein gläubiges Gemüte.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Auf, Gläubige, singet die lieblichen Lieder,
+      Euch scheinet ein herrlich verneuetes Licht.
+      Der lebende Heiland gibt selige Zeiten,
+      Auf, Seelen, ihr müsset ein Opfer bereiten,
+      Bezahlet dem Höchsten mit Danken die Pflicht.
+  - num: 3
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Tenor
+      Wohl dir, Gott hat an dich gedacht,
+      O Gott geweihtes Eigentum;
+      Der Heiland lebt und siegt mit
+      Macht Zu deinem Heil, zu seinem Ruhm
+      Muss hier der Satan furchtsam zittern
+      Und sich die Hölle selbst erschüttern.
+      Es stirbt der Heiland dir zugut
+      Und fähret vor dich zu der Höllen,
+      Sogar vergießet er sein kostbar Blut,
+      Dass du in seinem Blute siegst,
+      Denn dieses kann die Feinde fällen,
+      Und wenn der Streit dir an die Seele dringt,
+      Dass du alsdann nicht überwunden liegst.
+      Alt
+      Der Liebe Kraft ist vor mich ein Panier
+      Zum Heldenmut, zur Stärke in den Streiten:
+      Mir Siegeskronen zu bereiten,
+      Nahmst du die Dornenkrone dir,
+      Mein Herr, mein Gott, mein auferstandnes Heil,
+      So hat kein Feind an mir zum Schaden teil.
+      Tenor
+      Die Feinde zwar sind nicht zu zählen.
+      Alt
+      Gott schützt die ihm getreuen Seelen.
+      Tenor
+      Der letzte Feind ist Grab und Tod.
+      Alt
+      Gott macht auch den zum Ende unsrer Not.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wir danken und preisen dein brünstiges Lieben
+      Und bringen ein Opfer der Lippen vor dich.
+      Der Sieger erwecket die freudigen Lieder,
+      Der Heiland erscheinet und tröstet uns wieder
+      Und stärket die streitende Kirche durch sich.
+  - num: 5
+    type: Recitative
+    voices: T, A
+    instruments: Continuo
+    de: |-
+      Tenor
+      Doch würke selbst den Dank in unserm Munde,
+      In dem er allzu irdisch ist;
+      Ja schaffe, dass zu keiner Stunde
+      Dich und dein Werk kein menschlich Herz vergisst;
+      Ja, lass in dir das Labsal unsrer Brust
+      Und aller Herzen Trost und Lust,
+      Die unter deiner Gnade trauen,
+      Vollkommen und unendlich sein.
+      Es schließe deine Hand uns ein,
+      Dass wir die Wirkung kräftig schauen,
+      Was uns dein Tod und Sieg erwirbt
+      Und dass man nun nach deinem Auferstehen
+      Nicht stirbt, wenn man gleich zeitlich stirbt,
+      Und wir dadurch zu deiner Herrlichkeit eingehen
+      Alt
+      Was in uns ist, erhebt dich, großer Gott,
+      Und preiset deine Huld und Treu;
+      Dein Auferstehen macht sie wieder neu,
+      Dein großer Sieg macht uns von Feinden los
+      Und bringet uns zum Leben;
+      Drum sei dir Preis und Dank gegeben.
+  - num: 6
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Erschallet, ihr Himmel, erfreue dich, Erde,
+      Lobsinge dem Höchsten, du glaubende Schar,
+      Es schauet und schmecket ein jedes Gemüte
+      Des lebenden Heilands unendliche Güte,
+      Er tröstet und stellet als Sieger sich dar.
+scoring: 'Soli: A T, Coro: S A T B, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Recitative
+  closing: Chorus
+  voice_profile:
+    T, A: 2
+    T: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+key: A major
+wiki:
+  summary: "Ein Herz, das seinen Jesum lebend weiß, BWV\_134, is a church cantata for Easter by Johann Sebastian Bach. Bach composed the cantata for the third day of Easter in Leipzig and first performed it on 11 April 1724. He based it on his congratulatory cantata Die Zeit, die Tag und Jahre macht, BWV 134a, first performed in Köthen on 1 January 1719."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nikolaikirche_Leipzg_1749_%28Kupferstich%29_Foto_H.-P.Haack.JPG/330px-Nikolaikirche_Leipzg_1749_%28Kupferstich%29_Foto_H.-P.Haack.JPG
+  url: https://en.wikipedia.org/wiki/Ein_Herz%2C_das_seinen_Jesum_lebend_wei%C3%9F%2C_BWV_134
+  summary_html: "<p><b><span><i lang=\"de\">Ein Herz, das seinen Jesum lebend weiß</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>134</b>, is a church cantata for Easter by Johann Sebastian Bach. Bach composed the cantata for the third day of Easter in Leipzig and first performed it on 11 April 1724. He based it on his congratulatory cantata <span><span><span><i>Die Zeit, die Tag und Jahre macht</i>, BWV 134a</span></span></span>, first performed in Köthen on 1 January 1719.</p>"

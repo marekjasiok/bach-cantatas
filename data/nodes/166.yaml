@@ -1,0 +1,132 @@
+bwv: '166'
+title: Wo gehest du hin?
+cycle: C1
+occasion: Easter IV
+date: '1724-05-07'
+url: https://en.wikipedia.org/wiki/BWV_166
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: Wo gehest du hin?
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe (Violino solo), Continuo
+    de: |-
+      Ich will an den Himmel denken
+      Und der Welt mein Herz nicht schenken.
+      Denn ich gehe oder stehe,
+      So liegt mir die Frag im Sinn:
+      Mensch, ach Mensch, wo gehst du hin?
+  - num: 3
+    type: Chorale
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ich bitte dich, Herr Jesu Christ,
+      Halt mich bei den Gedanken
+      Und lass mich ja zu keiner Frist
+      Von dieser Meinung wanken,
+      Sondern dabei verharren fest,
+      Bis dass die Seel aus ihrem Nest
+      Wird in den Himmel kommen.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gleichwie die Regenwasser bald verfließen
+      Und manche Farben leicht verschießen,
+      So geht es auch der Freude in der Welt,
+      Auf welche mancher Mensch so viele Stücken hält;
+      Denn ob man gleich zuweilen sieht,
+      Dass sein gewünschtes Glücke blüht,
+      So kann doch wohl in besten Tagen
+      Ganz unvermut' die letzte Stunde schlagen.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Man nehme sich in acht,
+      Wenn das Gelücke lacht.
+      Denn es kann leicht auf Erden
+      Vor abends anders werden,
+      Als man am Morgen nicht gedacht.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Wer weiß, wie nahe mir mein Ende!
+      Hin geht die Zeit, her kommt der Tod;
+      Ach wie geschwinde und behände
+      Kann kommen meine Todesnot.
+      Mein Gott, ich bitt durch Christi Blut:
+      Mach's nur mit meinem Ende gut!
+scoring: 'Soli: A T B, Coro: S A T B, Oboe, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 2
+    T: 1
+    S: 1
+    A: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - violino_solo
+wiki:
+  summary: "Wo gehest du hin?, BWV\_166, is a church cantata by Johann Sebastian Bach for Cantate Sunday, the fourth Sunday after Easter. Bach composed the work as part of his first cantata cycle for Leipzig and first performed it on 7 May 1724. The topic of the cantata is based on the Farewell Discourse from the Gospel of John, when Jesus announces a Comforter. Based on his question quoted from the narration, \"Where do you go?\", the cantata explores the direction in which life should go."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Wo_gehest_du_hin%3F_BWV_166
+  summary_html: "<p><b><span><i lang=\"de\">Wo gehest du hin?</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>166</b>, is a church cantata by Johann Sebastian Bach for Cantate Sunday, the fourth Sunday after Easter. Bach composed the work as part of his first cantata cycle for Leipzig and first performed it on 7 May 1724. The topic of the cantata is based on the Farewell Discourse from the Gospel of John, when Jesus announces a Comforter. Based on his question quoted from the narration, \"Where do you go?\", the cantata explores the direction in which life should go.</p>"
+performances:
+  - id: fkpRg1GguJI
+    title: J.S. Bach - Cantata BWV 166 "Wo gehest du hin?" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '18:21'
+    thumbnail: https://img.youtube.com/vi/fkpRg1GguJI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fkpRg1GguJI
+  - id: VzsqJNP9bQM
+    title: Johann Sebastian Bach - BWV 166 Cantata 'Wo gehest du hin?' in B-flat major
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Gewandhaus
+    year: ''
+    duration: '17:30'
+    thumbnail: https://img.youtube.com/vi/VzsqJNP9bQM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=VzsqJNP9bQM
+  - id: qIgThr-licU
+    title: BWV 166, ‘Wo gehest du hin?’, Residentie Bachensemble olv Jos Vermunt, uit dienst 25-4-21
+    channel: Stichting Kloosterkerk
+    performer: Stichting Kloosterkerk
+    place: Herz nicht schenken
+    year: 25 APRIL 2021
+    duration: '18:48'
+    thumbnail: https://img.youtube.com/vi/qIgThr-licU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qIgThr-licU
+  - id: YcDt4IxTMbw
+    title: Bach - Cantate BWV 166 - Wo gehest du hin?
+    channel: MusicArt61
+    performer: Herreweghe
+    place: Ende
+    year: '1987'
+    duration: '17:55'
+    thumbnail: https://img.youtube.com/vi/YcDt4IxTMbw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YcDt4IxTMbw
+key: B♭ major

@@ -1,0 +1,164 @@
+bwv: '126'
+title: Erhalt uns, Herr, bei deinem Wort
+cycle: C2
+occasion: Sexagesima
+date: '1725-02-04'
+url: https://en.wikipedia.org/wiki/BWV_126
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Erhalt uns, Herr, bei deinem Wort,
+      Und steur' des Papsts und Türken Mord,
+      Die Jesum Christum, deinen Sohn,
+      Stürzen wollen von seinem Thron.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Sende deine Macht von oben,
+      Herr der Herren, starker Gott!
+      Deine Kirche zu erfreuen
+      Und der Feinde bittern Spott
+      Augenblicklich zu zerstreuen.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Alt
+      Der Menschen Gunst und Macht wird wenig nützen,
+      Wenn du nicht willt das arme Häuflein schützen,
+      beide
+      Gott Heilger Geist, du Tröster wert,
+      Tenor
+      Du weißt, dass die verfolgte Gottesstadt
+      Den ärgsten Feind nur in sich selber hat
+      Durch die Gefährlichkeit der falschen Brüder.
+      beide
+      Gib dein'm Volk einerlei Sinn auf Erd,
+      Alt
+      Dass wir, an Christi Leibe Glieder,
+      Im Glauben eins, im Leben einig sei'n.
+      beide
+      Steh bei uns in der letzten Not!
+      Tenor
+      Es bricht alsdann der letzte Feind herein
+      Und will den Trost von unsern Herzen trennen;
+      Doch lass dich da als unsern Helfer kennen.
+      beide
+      G'leit uns ins Leben aus dem Tod!
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Stürze zu Boden, schwülstige Stolze!
+      Mache zunichte, was sie erdacht!
+      Lass sie den Abgrund plötzlich verschlingen,
+      Wehre dem Toben feindlicher Macht,
+      Lass ihr Verlangen nimmer gelingen!
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      So wird dein Wort und Wahrheit offenbar
+      Und stellet sich im höchsten Glanze dar,
+      Dass du vor deine Kirche wachst,
+      Dass du des heilgen Wortes Lehren
+      Zum Segen fruchtbar machst;
+      Und willst du dich als Helfer zu uns kehren,
+      So wird uns denn in Frieden
+      Des Segens Überfluss beschieden.
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: Tromba e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Verleih uns Frieden gnädiglich,
+      Herr Gott, zu unsern Zeiten;
+      Es ist doch ja kein andrer nicht,
+      Der für uns könnte streiten,
+      Denn du, unser Gott, alleine.
+      Gib unsern Fürst'n und aller Obrigkeit
+      Fried und gut Regiment,
+      Dass wir unter ihnen
+      Ein geruh'g und stilles Leben führen mögen
+      In aller Gottseligkeit und Ehrbarkeit.
+      Amen.
+scoring: 'Soli: A T B, Coro: S A T B, Tromba in D, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorale
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 4
+    SATB: 1
+    B: 1
+  instrumentation_families:
+    - oboe
+    - tromba
+wiki:
+  summary: "Erhalt uns, Herr, bei deinem Wort, BWV\_126, is a cantata by Johann Sebastian Bach for use in a Lutheran service. He composed the chorale cantata in 1725 in Leipzig for the Sunday Sexagesimae, the second Sunday before Lent, and first performed it on 4 February 1725. It is based on the hymn \"Erhalt uns, Herr, bei deinem Wort\" by Martin Luther, published in 1542. The hymn text at Bach's time also included two stanzas by Justus Jonas and Luther's \"Verleih uns Frieden gnädiglich\"."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lucas_Cranach_d._J._014.jpg/330px-Lucas_Cranach_d._J._014.jpg
+  url: https://en.wikipedia.org/wiki/Erhalt_uns%2C_Herr%2C_bei_deinem_Wort%2C_BWV_126
+  summary_html: "<p><b><span><i lang=\"de\">Erhalt uns, Herr, bei deinem Wort</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>126</b>, is a cantata by Johann Sebastian Bach for use in a Lutheran service. He composed the chorale cantata in 1725 in Leipzig for the Sunday Sexagesimae, the second Sunday before Lent, and first performed it on 4 February 1725. It is based on the hymn \"Erhalt uns, Herr, bei deinem Wort\" by Martin Luther, published in 1542. The hymn text at Bach's time also included two stanzas by Justus Jonas and Luther's \"Verleih uns Frieden gnädiglich\".</p>"
+performances:
+  - id: ApF8AcWFdVk
+    title: J.S. Bach - Cantata BWV 126 "Erhalt uns, Herr, bei deinem Wort" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2019'
+    duration: '19:39'
+    thumbnail: https://img.youtube.com/vi/ApF8AcWFdVk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ApF8AcWFdVk
+  - id: '-n_RqghSZoQ'
+    title: J. S. Bach – Cantata "Erhalt uns, Herr, bei deinem Wort", BWV 126
+    channel: SP's score videos
+    performer: SP's score videos
+    place: ''
+    year: ''
+    duration: '17:14'
+    thumbnail: https://img.youtube.com/vi/-n_RqghSZoQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-n_RqghSZoQ
+  - id: cYC-wOelb08
+    title: J.S. Bach Cantata Erhalt uns, Herr bei deinem Wor,t BWV 126, Karl Richter
+    channel: HarpsichordA6
+    performer: Richter
+    place: Wort und Wahrheit offenbar
+    year: ''
+    duration: '16:58'
+    thumbnail: https://img.youtube.com/vi/cYC-wOelb08/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=cYC-wOelb08
+  - id: 1F5jbFjvfgM
+    title: 'J. S. Bach - Cantata: "Erhalt uns, Herr, bei deinem Wort", BWV 126 - J. P. Leusink'
+    channel: Miguel Zampedri
+    performer: Miguel Zampedri
+    place: Wort und Wahrheit offenbar
+    year: ''
+    duration: '17:31'
+    thumbnail: https://img.youtube.com/vi/1F5jbFjvfgM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1F5jbFjvfgM
+  - id: xSaY0fX8LiA
+    title: 'J. S. Bach: Erhalt uns, Herr, bei deinem Wort (BWV 126) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Wort und Wahrheit offenbar
+    year: ''
+    duration: '16:02'
+    thumbnail: https://img.youtube.com/vi/xSaY0fX8LiA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xSaY0fX8LiA
+key: C major

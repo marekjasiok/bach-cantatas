@@ -1,0 +1,100 @@
+bwv: '23'
+title: Du wahrer Gott und Davids Sohn
+cycle: C1
+occasion: Estomihi
+date: '1723-02-07'
+url: https://en.wikipedia.org/wiki/BWV_23
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: ''
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Du wahrer Gott und Davids Sohn,
+      Der du von Ewigkeit in der Entfernung schon
+      Mein Herzeleid und meine Leibespein
+      Umständlich angesehn, erbarm dich mein!
+      Und lass durch deine Wunderhand,
+      Die so viel Böses abgewandt,
+      Mir gleichfalls Hilf und Trost geschehen.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Ach! gehe nicht vorüber;
+      Du, aller Menschen Heil,
+      Bist ja erschienen,
+      Die Kranken und nicht die Gesunden zu bedienen.
+      Drum nehm ich ebenfalls an deiner Allmacht teil;
+      Ich sehe dich auf diesen Wegen,
+      Worauf man
+      Mich hat wollen legen,
+      Auch in der Blindheit an.
+      Ich fasse mich
+      Und lasse dich
+      Nicht ohne deinen Segen.
+  - num: 3
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Aller Augen warten, Herr,
+      Du allmächtger Gott, auf dich,
+      Und die meinen sonderlich.
+      Gib denselben Kraft und Licht,
+      Lass sie nicht
+      Immerdar in Finsternissen!
+      Künftig soll dein Wink allein
+      Der geliebte Mittelpunkt
+      Aller ihrer Werke sein,
+      Bis du sie einst durch den Tod
+      Wiederum gedenkst zu schließen.
+  - num: 4
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Oboe I/II, Violino I/II, Viola, Cornetto col Soprano, Trombone I coll' Alto, Trombone II col Tenore, Trombone III
+      col Basso, Continuo
+    de: |-
+      Christe, du Lamm Gottes,
+      Der du trägst die Sünd der Welt,
+      Erbarm dich unser!
+      Christe, du Lamm Gottes,
+      Der du trägst die Sünd der Welt,
+      Erbarm dich unser!
+      Christe, du Lamm Gottes,
+      Der du trägst die Sünd der Welt,
+      Gib uns dein' Frieden. Amen.
+scoring: 'Soli: S A T, Coro: S A T B, Cornetto, Trombone I-III, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Chorus
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 1
+    SATB: 2
+  instrumentation_families:
+    - cornetto
+    - oboe
+    - trombone
+key: C minor
+wiki:
+  summary: >-
+    Du wahrer Gott und Davids Sohn, BWV 23, is a church cantata by Johann Sebastian Bach. He composed it in Köthen
+    between 1717 and 1723 for Quinquagesima Sunday and performed it as an audition piece for the position of
+    Thomaskantor in Leipzig on 7 February 1723. The Sunday was the last occasion for music at church before the quiet
+    time of Lent.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Du_wahrer_Gott_und_Davids_Sohn%2C_BWV_23
+  summary_html: >-
+    <p><b><span><i lang="de">Du wahrer Gott und Davids Sohn</i></span></b>, <b><span class="nowrap">BWV 23</span></b>,
+    is a church cantata by Johann Sebastian Bach. He composed it in Köthen between 1717 and 1723 for <span><span
+    style="font-style:normal">Quinquagesima</span></span> Sunday and performed it as an audition piece for the position
+    of <span><i lang="de">Thomaskantor</i></span> in Leipzig on 7 February 1723. The Sunday was the last occasion for
+    music at church before the quiet time of Lent.</p>

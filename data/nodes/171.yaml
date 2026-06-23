@@ -1,0 +1,262 @@
+bwv: '171'
+title: Gott, wie dein Name, so ist auch dein Ruhm
+cycle: PICANDER
+occasion: New Year
+date: '1729-01-01'
+url: https://en.wikipedia.org/wiki/BWV_171
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Gott, wie dein Name, so ist auch dein Ruhm
+      bis an der Welt Ende.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Continuo
+    de: |-
+      Herr, so weit die Wolken gehen,
+      Gehet deines Namens Ruhm.
+      Alles, was die Lippen rührt,
+      Alles, was noch Odem führt,
+      Wird dich in der Macht erhöhen.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Du süßer Jesus-Name du,
+      In dir ist meine Ruh,
+      Du bist mein Trost auf Erden,
+      Wie kann denn mir
+      Im Kreuze bange werden?
+      Du bist mein festes Schloss und mein Panier,
+      Da lauf ich hin,
+      Wenn ich verfolget bin.
+      Du bist mein Leben und mein Licht,
+      Mein Ehre, meine Zuversicht,
+      Mein Beistand in Gefahr
+      Und mein Geschenk zum neuen Jahr.
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Violino solo, Continuo
+    de: |-
+      Jesus soll mein erstes Wort
+      In dem neuen Jahre heißen.
+      Fort und fort
+      Lacht sein Nam in meinem Munde,
+      Und in meiner letzten Stunde
+      Ist Jesus auch mein letztes Wort.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Und da du, Herr, gesagt:
+      Bittet nur in meinem Namen,
+      So ist alles Ja! und Amen!
+      So flehen wir,
+      Du Heiland aller Welt, zu dir:
+      Verstoß uns ferner nicht,
+      Behüt uns dieses Jahr
+      Für Feuer, Pest und Kriegsgefahr!
+      Lass uns dein Wort, das helle Licht,
+      Noch rein und lauter brennen;
+      Gib unsrer Obrigkeit
+      Und dem gesamten Lande
+      Dein Heil des Segens zu erkennen;
+      Gib allezeit
+      Glück und Heil zu allem Stande.
+      Wir bitten, Herr, in deinem Namen,
+      Sprich: ja! darzu, sprich: Amen, Amen!
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Lass uns das Jahr vollbringen
+      Zu Lob dem Namen dein,
+      Dass wir demselben singen
+      In der Christen Gemein.
+      Wollst uns das Leben fristen
+      Durch dein allmächtig Hand,
+      Erhalt dein liebe Christen
+      Und unser Vaterland!
+      Dein Segen zu uns wende,
+      Gib Fried an allem Ende,
+      Gib unverfälscht im Lande
+      Dein seligmachend Wort,
+      Die Teufel mach zuschanden
+      Hier und an allem Ort!
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    A: 1
+    S: 1
+    B: 1
+  instrumentation_families:
+    - oboe
+    - timpani
+    - tromba
+    - violino_solo
+key: D major
+wiki:
+  summary: >-
+    Gott, wie dein Name, so ist auch dein Ruhm, BWV 171, is a church cantata by Johann Sebastian Bach. He composed it in
+    Leipzig for New Year's Day and probably first performed it on 1 January 1729.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomaskirche_Interior.jpg/330px-Thomaskirche_Interior.jpg
+  url: https://en.wikipedia.org/wiki/Gott%2C_wie_dein_Name%2C_so_ist_auch_dein_Ruhm%2C_BWV_171
+  summary_html: >-
+    <p><b><span><i lang="de">Gott, wie dein Name, so ist auch dein Ruhm</i></span></b>, <b><span class="nowrap">BWV
+    171</span></b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for New Year's Day and
+    probably first performed it on 1 January 1729.</p>
+performances:
+  - id: IXuAbwdGoQY
+    title: J. S. Bach - Cantata BWV 171 "Gott, wie dein Name, so ist auch dein Ruhm" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Trogen
+    year: '2025'
+    duration: '20:42'
+    thumbnail: https://img.youtube.com/vi/IXuAbwdGoQY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IXuAbwdGoQY
+  - id: 0VTBbElDqFc
+    title: Bach - Cantata Gott, wie dein Name, so ist auch dein Ruhm BWV 171 - Egarr | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Name
+    year: '2025'
+    duration: '15:07'
+    thumbnail: https://img.youtube.com/vi/0VTBbElDqFc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0VTBbElDqFc
+  - id: xvGIqU84mBE
+    title: J.S. Bach Cantata Gott, wie dein Name so ist auch dein Ruhm BWV 171, Karl Richter
+    channel: HarpsichordA6
+    performer: Richter
+    place: Name
+    year: ''
+    duration: '18:54'
+    thumbnail: https://img.youtube.com/vi/xvGIqU84mBE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xvGIqU84mBE
+  - id: YO15GtwWXIs
+    title: 'J. S. Bach:  Gott, wie dein Name, so ist auch dein Ruhm (BWV 171)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Name
+    year: ''
+    duration: '14:38'
+    thumbnail: https://img.youtube.com/vi/YO15GtwWXIs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YO15GtwWXIs
+  - id: piXjER6e2cU
+    title: Bach - Cantate BWV 171 - Gott, wie dein Name, so ist auch dein Ruhm
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Name
+    year: '1987'
+    duration: '16:01'
+    thumbnail: https://img.youtube.com/vi/piXjER6e2cU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=piXjER6e2cU
+  - id: bk4it5QJJfU
+    title: J.S. Bach - "Gott, wie dein Name, so ist auch dein Ruhm" BWV 171
+    channel: Franz Bannwart
+    performer: Franz Bannwart
+    place: Kaalitzky
+    year: '2016'
+    duration: '11:09'
+    thumbnail: https://img.youtube.com/vi/bk4it5QJJfU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bk4it5QJJfU
+  - id: bK7CGFXSH1w
+    title: BCA024 BWV171 Cantata for New Year's Day Richter 1970-71
+    channel: Johann Sebastian
+    performer: Richter
+    place: ''
+    year: '1970'
+    duration: '18:58'
+    thumbnail: https://img.youtube.com/vi/bK7CGFXSH1w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bK7CGFXSH1w
+  - id: D_ahDHRnKMQ
+    title: Bach - Gott, wie dein Name, so ist auch dein Ruhm, BWV 171 (score)
+    channel: Lordlouckster
+    performer: Harnoncourt
+    place: Name
+    year: ''
+    duration: '16:03'
+    thumbnail: https://img.youtube.com/vi/D_ahDHRnKMQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=D_ahDHRnKMQ
+  - id: EQgs4ctsh6M
+    title: J.S. Bach - BWV 171 (According to Thy name, O God, so is Thy praise)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '18:55'
+    thumbnail: https://img.youtube.com/vi/EQgs4ctsh6M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=EQgs4ctsh6M
+  - id: afPbehQS5rw
+    title: Bach Cantata BWV 171 - Jesus soll mein erstes Wort
+    channel: CWRU Department of Music
+    performer: CWRU Department of Music
+    place: Leipzig
+    year: ''
+    duration: '5:15'
+    thumbnail: https://img.youtube.com/vi/afPbehQS5rw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=afPbehQS5rw
+  - id: wUVwYQCwYKc
+    title: Bach - Cantata Gott, man lobet dich in der Stille BWV 120 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Groningen
+    year: '2014'
+    duration: '22:31'
+    thumbnail: https://img.youtube.com/vi/wUVwYQCwYKc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=wUVwYQCwYKc
+  - id: HK18eb82_ug
+    title: Johann Sebastian Bach - BWV 171 Cantata 'Gott, wie dein Name, so ist auch dein Ruhm' in D major
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: ''
+    year: ''
+    duration: '19:26'
+    thumbnail: https://img.youtube.com/vi/HK18eb82_ug/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HK18eb82_ug
+  - id: YBr5xQfgCHw
+    title: Bach, Cantata BWV171, Wolfgang Gonnenwein,cond
+    channel: SERIOSO SERIOSO
+    performer: SERIOSO SERIOSO
+    place: ''
+    year: ''
+    duration: '18:46'
+    thumbnail: https://img.youtube.com/vi/YBr5xQfgCHw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YBr5xQfgCHw
+  - id: 5TGnw2fVQQ0
+    title: 'Gott, wie dein Name, so ist auch dein Ruhm BWV 171: Aria (Soprano) : "Jesus soll mein erstes...'
+    channel: Ton Koopman - Topic
+    performer: Koopman
+    place: Name
+    year: '2007'
+    duration: '4:21'
+    thumbnail: https://img.youtube.com/vi/5TGnw2fVQQ0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5TGnw2fVQQ0
+  - id: C1wOee7Q1Uo
+    title: 'J.S. Bach: Gott, wie dein Name, so ist auch dein Ruhm, Cantata BWV 171: IV. Aria. Jesus soll...'
+    channel: Kathleen Battle - Topic
+    performer: Kathleen Battle - Topic
+    place: Name
+    year: '1992'
+    duration: '4:12'
+    thumbnail: https://img.youtube.com/vi/C1wOee7Q1Uo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=C1wOee7Q1Uo

@@ -1,0 +1,256 @@
+bwv: 197a
+title: Ehre sei Gott in der Höhe
+cycle: PICANDER
+occasion: Christmas Day
+date: 1728 (**Fragment**)
+url: https://en.wikipedia.org/wiki/BWV_197a
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: ''
+    de: |-
+      Ehre sei Gott in der Höhe,
+      Friede auf Erden und den Menschen ein Wohlgefallen.
+  - num: 2
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Erzählet, ihr Himmel, die Ehre Gottes,
+      Ihr Feste, verkündet seine Macht.
+      Doch vergesset nicht dabei
+      Seine Liebe, seine Treu,
+      Die er an denen Verlornen vollbracht.
+  - num: 3
+    type: Recitative
+    voices: ''
+    instruments: ''
+    de: |-
+      O! Liebe, der kein Lieben gleich:
+      Der hochgelobte Gottessohn
+      Verlässt sein Himmelreich;
+      Ein Prinz verlässt den Königsthron
+      Und wird ein Knecht
+      Und als ein armer Mensch geboren,
+      Damit das menschliche Geschlecht
+      Nicht ewig sei verloren;
+      Was wird denn dir,
+      Mein treuer Jesus, nun dafür?
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Flauto traverso I/II, Violoncello, Continuo
+    de: |-
+      O du angenehmer Schatz,
+      Hebe dich aus denen Krippen
+      Nimm dafür auf meinen Lippen
+      Und in meinem Herzen Platz.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Das Kind ist mein,
+      Und ich bin sein,
+      Du bist mein alles unter allen
+      Und außer dir
+      Soll mir
+      Kein Gut, kein Kleinod wohlgefallen.
+      In Mangel hab ich Überfluss,
+      In Leide
+      Hab ich Freude,
+      Bin ich krank, so heilt er mich,
+      Bin ich schwach, so trägt er mich,
+      Bin ich verirrt, so sucht er mich,
+      Und wenn ich falle, hält er mich,
+      Ja, wenn ich endlich sterben muss,
+      So bringt er mich zum Himmelsleben;
+      Geliebter Schatz, durch dich
+      Wird mir noch auf der Welt der Himmel selbst gegeben.
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore solo, Continuo
+    de: |-
+      Ich lasse dich nicht,
+      Ich schließe dich ein
+      Im Herzen durch Lieben und Glauben.
+      Es soll dich, mein Licht,
+      Noch Marter, noch Pein,
+      Ja! selber die Hölle nicht rauben.
+  - num: 7
+    type: Chorus
+    voices: SATB
+    instruments: ''
+    de: |-
+      Wohlan! so will ich mich
+      An dich, o Jesu halten,
+      Und sollte gleich die Welt
+      In tausend Stücke spalten.
+      O Jesu, dir, nur dir,
+      Dir leb ich ganz allein,
+      Auf dich allein, auf dich,
+      O Jesu, schlaf ich ein.
+scoring: 'Soli: A B, Coro: S A T B, Flauto traverso I/II, Oboe d''amore, Violino I/II, Viola, Violoncello, Fagotto, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+    A: 1
+    B: 2
+  instrumentation_families:
+    - flauto_traverso
+    - oboe_damore
+    - violoncello
+wiki:
+  summary: "Ehre sei Gott in der Höhe, BWV\_197a (197.1), is a Christmas cantata by Johann Sebastian Bach. He composed it in Leipzig for the First Day of Christmas in 1728 or 1729."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Caspar_Ziegler.jpg/330px-Caspar_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Ehre_sei_Gott_in_der_H%C3%B6he%2C_BWV_197a
+  summary_html: "<p><b><span><i lang=\"de\">Ehre sei Gott in der Höhe</i></span></b>, <b><span><abbr>BWV</abbr></span><span class=\"nowrap\">\_</span>197a (197.1)</b>, is a Christmas cantata by Johann Sebastian Bach. He composed it in Leipzig for the First Day of Christmas in 1728 or 1729.</p>"
+performances:
+  - id: hfylQu5MlMo
+    title: 'Bach: Ehre sei Gott in der Höhe BWV 197.1 (reconstruction: Pieter Dirksen)'
+    channel: Pieterson
+    performer: Pieterson
+    place: ''
+    year: '2022'
+    duration: '22:18'
+    thumbnail: https://img.youtube.com/vi/hfylQu5MlMo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hfylQu5MlMo
+  - id: ktkbo6DLP08
+    title: Cantata, BWV 197a 'Ehre sei Gott in der Höhe'
+    channel: VOX CHRISTIE
+    performer: Masaaki
+    place: Wohlgefallen
+    year: '2021'
+    duration: '14:21'
+    thumbnail: https://img.youtube.com/vi/ktkbo6DLP08/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ktkbo6DLP08
+  - id: Icfb4vMeedU
+    title: Bach - Cantate BWV 197a - Ehre sei Gott in der Höhe
+    channel: MusicArt61
+    performer: Masaaki
+    place: Leipzig
+    year: '2012'
+    duration: '11:29'
+    thumbnail: https://img.youtube.com/vi/Icfb4vMeedU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Icfb4vMeedU
+  - id: YNjAHgMMsFs
+    title: Bach - Cantata Der Herr denket an uns BWV 196 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Dornheim
+    year: '2015'
+    duration: '11:52'
+    thumbnail: https://img.youtube.com/vi/YNjAHgMMsFs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YNjAHgMMsFs
+  - id: FA_D0yK_GP0
+    title: J S Bach - Ehre sei Gott in der Höhe, BWV 197a
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '11:49'
+    thumbnail: https://img.youtube.com/vi/FA_D0yK_GP0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=FA_D0yK_GP0
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: dsiLFczdkwA
+    title: Bach - Cantate BWV 197 - Gott ist unsre Zuversicht
+    channel: MusicArt61
+    performer: Jacobs
+    place: Leipzig
+    year: '1989'
+    duration: '29:55'
+    thumbnail: https://img.youtube.com/vi/dsiLFczdkwA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dsiLFczdkwA
+  - id: 5h6nI5WgpE4
+    title: J.S. Bach - BWV 197 (God is our trust)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '30:00'
+    thumbnail: https://img.youtube.com/vi/5h6nI5WgpE4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5h6nI5WgpE4
+  - id: sqdXwd7FEyI
+    title: Bach - Sinfonia from Cantata BWV 29 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Groningen
+    year: ''
+    duration: '4:12'
+    thumbnail: https://img.youtube.com/vi/sqdXwd7FEyI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sqdXwd7FEyI
+  - id: YnhkPwFno0Y
+    title: Bach - Cantata Auf, schmetternde Töne BWV 207a - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Dresden
+    year: '2016'
+    duration: '33:06'
+    thumbnail: https://img.youtube.com/vi/YnhkPwFno0Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YnhkPwFno0Y
+  - id: dfq89er-e9U
+    title: 'J.S. Bach: "Ich lasse dich nicht" from "Ehre sei dir Gott" BWV 197a'
+    channel: Les Délices
+    performer: Les Délices
+    place: ''
+    year: ''
+    duration: '3:32'
+    thumbnail: https://img.youtube.com/vi/dfq89er-e9U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dfq89er-e9U
+  - id: JAlt2NAfaYA
+    title: Bach - Cantata Jesu, der du meine Seele BWV 78 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '24:33'
+    thumbnail: https://img.youtube.com/vi/JAlt2NAfaYA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JAlt2NAfaYA
+  - id: V8zPoLLoRZg
+    title: Bach - Cantata In allen meinen Taten BWV 97 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Philharmonie Haarlem
+    year: 20 June 2022
+    duration: '26:33'
+    thumbnail: https://img.youtube.com/vi/V8zPoLLoRZg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=V8zPoLLoRZg
+  - id: t8WBINP8gSw
+    title: Ehre sei Gott in der Hohe, cantata BWV 197a | Johann Sebastian Bach
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: ''
+    year: ''
+    duration: '11:50'
+    thumbnail: https://img.youtube.com/vi/t8WBINP8gSw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=t8WBINP8gSw
+  - id: IZs_Mu660uM
+    title: Bach - Parodie BWV 197 - BWV 197a (I)
+    channel: MusicArt61
+    performer: Leonhardt
+    place: ''
+    year: ''
+    duration: '10:52'
+    thumbnail: https://img.youtube.com/vi/IZs_Mu660uM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IZs_Mu660uM

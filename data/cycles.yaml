@@ -1,0 +1,65 @@
+EARLY:
+  name: Pre-Leipzig (1704–1722)
+  short: Pre-Leipzig
+  years: '1704–1722'
+  wiki: Church_cantatas_of_Johann_Sebastian_Bach
+  heroPage: Divi_Blasii,_Mühlhausen
+  desc: |
+    <p>Bach's earliest sacred cantatas span nearly two decades across Arnstadt, Mühlhausen, and Weimar. These works reveal a young composer absorbing Italian concerto forms, French overture styles, and the North German organ tradition into a personal sacred language.</p>
+    <p>The Mühlhausen cantatas (BWV 71, 131, 106) are already astonishingly mature — the funeral cantata <em>Gottes Zeit ist die allerbeste Zeit</em> (BWV 106) remains one of the most moving works in the repertoire. In Weimar, Bach began composing cantatas systematically for the ducal chapel, developing the recitative-aria alternation that would define the Leipzig cycles.</p>
+    <p>These pre-Leipzig works tend toward older forms: biblical dictum, chorale stanzas, and strophic arias. But already we see the dramatic impulse, the word-painting, and the architectural ambition that would reach full expression in Leipzig.</p>
+
+C1:
+  name: Leipzig Cycle 1 (1723–1724)
+  short: Leipzig Cycle 1
+  years: '1723–1724'
+  wiki: Church_cantata_(Bach)
+  heroPage: Thomaskirche
+  desc: |
+    <p>In May 1723, Bach took up the post of Thomaskantor in Leipzig — and immediately embarked on a creative marathon without parallel in Western music. Over the next twelve months he composed a new cantata for almost every Sunday and feast day, producing roughly 60 works in a single year.</p>
+    <p>The first cycle establishes what we now recognise as the "mature Bach cantata": an opening chorus of contrapuntal grandeur, alternating recitatives and arias that explore the day's Gospel, and a plain four-part chorale to close. The orchestra expands dramatically — oboes d'amore, hunting horns, festive trumpets appear for the first time.</p>
+    <p>Notable works include <em>Die Elenden sollen essen</em> (BWV 75, his first Leipzig performance), <em>Ein feste Burg</em> (BWV 80), and the majestic <em>Himmelskönig, sei willkommen</em> (BWV 182).</p>
+
+C2:
+  name: Chorale Cantata Cycle (1724–1725)
+  short: Chorale Cantata
+  years: '1724–1725'
+  wiki: Chorale_cantata_(Bach)
+  heroPage: Wachet_auf,_ruft_uns_die_Stimme,_BWV_140
+  desc: |
+    <p>Beginning on the first Sunday after Trinity 1724, Bach undertook his most ambitious systematic project: an entire annual cycle in which every cantata is built upon a single Lutheran chorale. The hymn provides not just the text but the musical DNA — its melody permeates the opening chorus, inspires the inner movements, and returns in its original harmonisation to close.</p>
+    <p>The opening choruses are the crown jewels of the cycle: massive chorale fantasias where the cantus firmus is embedded in elaborate counterpoint, with independent orchestral motifs weaving around the voices. Each is a unique architectural solution to the same problem — how to simultaneously present a familiar hymn and make it sound completely new.</p>
+    <p>The cycle was left incomplete when Bach's librettist apparently became unavailable around Easter 1725. But the approximately 40 chorale cantatas that survive form the most unified and intellectually rigorous body of work in the cantata repertoire.</p>
+
+C3:
+  name: Leipzig Cycle 3 (1725–1727)
+  short: Leipzig Cycle 3
+  years: '1725–1727'
+  wiki: Church_cantata_(Bach)
+  heroPage: Nikolaikirche,_Leipzig
+  desc: |
+    <p>After the strict discipline of the chorale cantata cycle, Bach's third year in Leipzig sees a loosening of formal constraints and a new spirit of experimentation. Multiple librettists contribute texts — including Mariane von Ziegler, one of the few women to write cantata poetry for Bach.</p>
+    <p>The forms are more varied: solo cantatas become more frequent, Italian-style da capo arias grow more elaborate, and recitatives take on a heightened dramatic intensity. Some of the most introspective and emotionally complex cantatas belong to this period.</p>
+    <p>The cycle is less complete than the first two — Bach was increasingly occupied with other duties, and may have repeated earlier cantatas for some Sundays. But individual works like <em>Ich will den Kreuzstab gerne tragen</em> (BWV 56) and <em>Vergnügte Ruh</em> (BWV 170) rank among his finest.</p>
+
+PICANDER:
+  name: Picander Cycle (1728–1729)
+  short: Picander
+  years: '1728–1729'
+  wiki: Picander
+  heroPage: Picander
+  desc: |
+    <p>Christian Friedrich Henrici, writing under the pen name Picander, was Bach's most prolific collaborator and the librettist of the <em>St. Matthew Passion</em>. In 1728–29, he published a complete set of cantata texts for the liturgical year, explicitly intended for Bach to set to music.</p>
+    <p>The fate of this cycle is one of the great mysteries of Bach scholarship. Picander's texts survive in print, but most of the music is lost. Only around a dozen cantatas can be securely attributed to this cycle — the rest may have perished, or may yet be rediscovered among unattributed works.</p>
+    <p>What survives shows a mature partnership: Picander's poetry is more dramatic and psychologically nuanced than earlier librettists, and Bach's settings respond with music of corresponding depth.</p>
+
+LATE:
+  name: Late Works (1730–1748)
+  short: Late Period
+  years: '1730–1748'
+  wiki: Church_cantata_(Bach)
+  heroPage: Johann_Sebastian_Bach
+  desc: |
+    <p>After 1729, Bach's cantata production slowed dramatically. He was now directing the <em>Collegium Musicum</em>, composing the great keyboard collections, and working toward the monuments of his final decade: the <em>Mass in B minor</em>, <em>Musical Offering</em>, and <em>Art of Fugue</em>.</p>
+    <p>The late cantatas are often reworkings of earlier material — a practice that was standard but which Bach elevated to an art. Movements are transposed, re-scored, given new texts, and woven into fresh contexts. The results are not lesser works but distillations: the craft is deeper, the textures more refined, the expression more concentrated.</p>
+    <p>Among the late works are some remarkable occasional pieces — the festive Ratswahl cantatas for Leipzig's town council, and wedding cantatas of surprising tenderness. Bach's last known cantata dates from around 1748, two years before his death.</p>

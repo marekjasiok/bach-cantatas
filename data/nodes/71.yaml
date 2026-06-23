@@ -1,0 +1,167 @@
+bwv: '71'
+title: Gott ist mein König
+cycle: EARLY
+occasion: Ratswahl
+date: Feb 4, 1708 (Printed)
+url: https://en.wikipedia.org/wiki/BWV_71
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Tromba I-III, Tamburi, Flauto I/II, Violoncello, Oboe I/II, Fagotto, Violino I/II, Viola, Violone, Organo
+    de: |-
+      Gott ist mein König von altersher,
+      der alle Hilfe tut, so auf Erden geschicht.
+  - num: 2
+    type: Aria
+    voices: ''
+    instruments: Organo
+    de: |-
+      Ich bin nun achtzig Jahr, warum soll dein Knecht sich mehr beschweren?
+      Soll ich auf dieser Welt
+      Mein Leben höher bringen,
+      Durch manchen sauren Tritt
+      Hindurch ins Alter dringen,
+      Ich will umkehren, dass ich sterbe in meiner Stadt,
+      So gib Geduld, für Sünd
+      Und Schanden mich bewahr,
+      Auf dass ich tragen mag
+      bei meines Vaters und meiner Mutter Grab.
+      Mit Ehren graues Haar.
+  - num: 3
+    type: Chorus
+    voices: SATB
+    instruments: Organo
+    de: |-
+      Dein Alter sei wie deine Jugend,
+      und Gott ist mit dir in allem, das du tust.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Flauto I/II, Violoncello, Oboe I/II, Fagotto, Organo
+    de: |-
+      Tag und Nacht ist dein.
+      Du machest, dass beide, Sonn und Gestirn, ihren gewissen Lauf
+      haben. Du setzest einem jeglichen Lande seine Grenze.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Tromba I-III, Tamburi, Organo
+    de: |-
+      Durch mächtige Kraft
+      Erhältst du unsre Grenzen,
+      Hier muss der Friede glänzen,
+      Wenn Mord und Kriegessturm
+      Sich allerort erhebt.
+      Wenn Kron und Zepter bebt,
+      Hast du das Heil geschafft
+      Durch mächtige Kraft!
+  - num: 6
+    type: Chorus
+    voices: SATB
+    instruments: Flauto I/II, Violoncello, Oboe I/II, Fagotto, Violino I/II, Viola, Violone, Organo
+    de: Du wollest dem Feinde nicht geben die Seele deiner Turteltauben.
+  - num: 7
+    type: Chorus
+    voices: SATB
+    instruments: Tromba I-III, Tamburi, Flauto I/II, Violoncello, Oboe I/II, Fagotto, Violino I/II, Violone, Organo
+    de: |-
+      Das neue Regiment
+      Auf jeglichen Wegen
+      Bekröne mit Segen!
+      Friede, Ruh und Wohlergehen,
+      Müsse stets zur Seite stehen
+      Dem neuen Regiment.
+      Glück, Heil und großer Sieg
+      Muss täglich von neuen
+      Dich, Joseph, erfreuen,
+      Dass an allen Ort und Landen
+      Ganz beständig sei vorhanden
+      Glück, Heil und großer Sieg!
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Flauto I/II, Oboe I/II, Fagotto, Violino I/II, Viola,
+  Violoncello, Violone, Organo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorus
+    - Aria
+    - Aria
+    - Chorus
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 4
+    B: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - organ
+    - recorder
+    - timpani
+    - tromba
+    - violoncello
+    - violone
+wiki:
+  summary: >-
+    Gott ist mein König, BWV 71, is a cantata by Johann Sebastian Bach written in Mühlhausen when the composer was 22
+    years old. Unusually for an early cantata by Bach, the date of first performance is known: at the inauguration of a
+    new town council on 4 February 1708.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gott_ist_mein_K%C3%B6nig_Originaldruck_1708_Titelseite.jpg/330px-Gott_ist_mein_K%C3%B6nig_Originaldruck_1708_Titelseite.jpg
+  url: https://en.wikipedia.org/wiki/Gott_ist_mein_K%C3%B6nig%2C_BWV_71
+  summary_html: >-
+    <p><i><b><span><i lang="de">Gott ist mein König</i></span></b></i>, <b><span class="nowrap">BWV 71</span></b>, is a
+    cantata by Johann Sebastian Bach written in Mühlhausen when the composer was 22 years old. Unusually for an early
+    cantata by Bach, the date of first performance is known: at the inauguration of a new town council on 4 February
+    1708.</p>
+performances:
+  - id: 6LdC03ikkNI
+    title: Bach, Gott ist mein König, BWV 71 [Complete] // Musica Gloria
+    channel: Musica Gloria
+    performer: Rademann
+    place: Alter sei wie deine Jugend
+    year: April 2024
+    duration: '18:50'
+    thumbnail: https://img.youtube.com/vi/6LdC03ikkNI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6LdC03ikkNI
+  - id: wn_hu28x5Ks
+    title: BWV 71 - Gott ist mein König
+    channel: Bachcantates Tilburg
+    performer: Bachcantates Tilburg
+    place: ''
+    year: '2017'
+    duration: '19:46'
+    thumbnail: https://img.youtube.com/vi/wn_hu28x5Ks/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=wn_hu28x5Ks
+  - id: 1Y1Lrlgi-oI
+    title: J.S. Bach - Cantata BWV 72 "Alles nur nach Gottes Willen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2020'
+    duration: '18:29'
+    thumbnail: https://img.youtube.com/vi/1Y1Lrlgi-oI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1Y1Lrlgi-oI
+  - id: Kpa5IXAZ594
+    title: Bach Cantata BWV 71 Town Council «Gott ist mein König»
+    channel: Felices Cantus Bach Kirchenmusik
+    performer: Felices Cantus Bach Kirchenmusik
+    place: ''
+    year: ''
+    duration: '17:57'
+    thumbnail: https://img.youtube.com/vi/Kpa5IXAZ594/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Kpa5IXAZ594
+  - id: B93E0DYIMEU
+    title: 'J. S. Bach:  Gott ist mein König (BWV 71) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Alter sei wie deine Jugend
+    year: ''
+    duration: '18:26'
+    thumbnail: https://img.youtube.com/vi/B93E0DYIMEU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=B93E0DYIMEU
+key: F major

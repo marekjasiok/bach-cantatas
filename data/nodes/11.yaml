@@ -1,0 +1,273 @@
+bwv: '11'
+title: Lobet Gott in seinen Reichen
+cycle: LATE
+occasion: Ascension
+date: 1735 (_Ascension Oratorio_)
+url: https://en.wikipedia.org/wiki/Ascension_Oratorio
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Lobet Gott in seinen Reichen,
+      Preiset ihn in seinen Ehren,
+      Rühmet ihn in seiner Pracht;
+      Sucht sein Lob recht zu vergleichen,
+      Wenn ihr mit gesamten Chören
+      Ihm ein Lied zu Ehren macht!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Der Herr Jesus hub seine Hände auf
+      und segnete seine Jünger,
+      und es geschah, da er sie segnete, schied er von ihnen.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Flauto traverso I/II, Continuo
+    de: |-
+      Ach, Jesu, ist dein Abschied schon so nah?
+      Ach, ist denn schon die Stunde da,
+      Da wir dich von uns lassen sollen?
+      Ach, siehe, wie die heißen Tränen
+      Von unsern blassen Wangen rollen,
+      Wie wir uns nach dir sehnen,
+      Wie uns fast aller Trost gebricht.
+      Ach, weiche doch noch nicht!
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Violini all' unisono, Continuo
+    de: |-
+      Ach, bleibe doch, mein liebstes Leben,
+      Ach, fliehe nicht so bald von mir!
+      Dein Abschied und dein frühes Scheiden
+      Bringt mir das allergrößte Leiden,
+      Ach ja, so bleibe doch noch hier;
+      Sonst werd ich ganz von Schmerz umgeben.
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Und ward aufgehaben zusehends und fuhr auf gen Himmel,
+      eine Wolke nahm ihn weg vor ihren Augen,
+      und er sitzet zur rechten Hand Gottes.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II in octava e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col
+      Tenore, Continuo
+    de: |-
+      Nun lieget alles unter dir,
+      Dich selbst nur ausgenommen;
+      Die Engel müssen für und für
+      Dir aufzuwarten kommen.
+      Die Fürsten stehn auch auf der Bahn
+      Und sind dir willig untertan;
+      Luft, Wasser, Feuer, Erden
+      Muss dir zu Dienste werden.
+  - num: 8
+    type: Aria
+    voices: S
+    instruments: Flauto traverso I/II, Oboe I e Violini e Viola all' unisono
+    de: |-
+      Jesu, deine Gnadenblicke
+      Kann ich doch beständig sehn.
+      Deine Liebe bleibt zurücke,
+      Dass ich mich hier in der Zeit
+      An der künftgen Herrlichkeit
+      Schon voraus im Geist erquicke,
+      Wenn wir einst dort vor dir stehn.
+  - num: 9
+    type: Chorale
+    voices: T
+    instruments: Tromba I-III, Tamburi, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wenn soll es doch geschehen,
+      Wenn kömmt die liebe Zeit,
+      Dass ich ihn werde sehen,
+      In seiner Herrlichkeit?
+      Du Tag, wenn wirst du sein,
+      Dass wir den Heiland grüßen,
+      Dass wir den Heiland küssen?
+      Komm, stelle dich doch ein!
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 4
+    B: 1
+    A: 1
+    SATB: 1
+    S: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - timpani
+    - tromba
+key: D major
+performances:
+  - id: YoIV8ouBb2E
+    title: J.S. Bach - Cantata BWV 11 "Lobet Gott in seinen Reichen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Parli
+    year: '2022'
+    duration: '32:18'
+    thumbnail: https://img.youtube.com/vi/YoIV8ouBb2E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YoIV8ouBb2E
+  - id: mJeqUaqfkYk
+    title: Bach - Ascension Oratorio, BWV 11 - Gardiner
+    channel: Classical Vault 1
+    performer: Gardiner
+    place: Abschied
+    year: '2013'
+    duration: '29:51'
+    thumbnail: https://img.youtube.com/vi/mJeqUaqfkYk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mJeqUaqfkYk
+  - id: 5hXUyuHVBAE
+    title: Bach - Cantata Lobet Gott in seinen Reichen BWV 11 - Richard Egarr | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: B minor
+    year: '2025'
+    duration: '26:30'
+    thumbnail: https://img.youtube.com/vi/5hXUyuHVBAE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5hXUyuHVBAE
+  - id: NU_nXGhvjJM
+    title: J.S. Bach - Lobet Gott in seinen Reichen BWV 11 | Collegium Vocale Gent
+    channel: Total Baroque
+    performer: Herreweghe
+    place: Chapelle de la Trinité
+    year: '2014'
+    duration: '4:53'
+    thumbnail: https://img.youtube.com/vi/NU_nXGhvjJM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NU_nXGhvjJM
+  - id: NbKF9QX3PY8
+    title: Bach - BWV 11 »Himmelfahrtsoratorium« | Gaechinger Cantorey | Hans-Christoph Rademann
+    channel: bachakademie
+    performer: Rademann
+    place: Stuttgart
+    year: ''
+    duration: '30:20'
+    thumbnail: https://img.youtube.com/vi/NbKF9QX3PY8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NbKF9QX3PY8
+  - id: '-2bZ5w-lzqM'
+    title: Bach J.S. Cantata BWV 11 / Oratoria
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '26:32'
+    thumbnail: https://img.youtube.com/vi/-2bZ5w-lzqM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-2bZ5w-lzqM
+  - id: _Vv2vV1zTnc
+    title: 'Bach: Ascension Oratorio, BWV 11 | Damien Guillon & Le Banquet Céleste'
+    channel: Frescos ayres del prado
+    performer: Frescos ayres del prado
+    place: ''
+    year: '2025'
+    duration: '29:20'
+    thumbnail: https://img.youtube.com/vi/_Vv2vV1zTnc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_Vv2vV1zTnc
+  - id: ZsjfvJz20Jk
+    title: Bach Himmelfahrtsoratorium BWV 11 Ascension Oratorio Raphaël Pichon Ensemble Pygmalion
+    channel: Felices Cantus Bach Kirchenmusik
+    performer: Felices Cantus Bach Kirchenmusik
+    place: ''
+    year: ''
+    duration: '27:35'
+    thumbnail: https://img.youtube.com/vi/ZsjfvJz20Jk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ZsjfvJz20Jk
+  - id: ql3W5YQPtXs
+    title: J.S. Bach - Cantata BWV 11 "Lobet Gott in seinen Reichen"
+    channel: Total Baroque
+    performer: Herreweghe
+    place: Chapelle de la trinité
+    year: ''
+    duration: '2:59'
+    thumbnail: https://img.youtube.com/vi/ql3W5YQPtXs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ql3W5YQPtXs
+  - id: eeROQeYDpos
+    title: J. S. Bach Cantata para la Ascensión BWV 11 N. Harnoncourt
+    channel: Alekep Didatad
+    performer: Harnoncourt
+    place: Leipzig
+    year: ''
+    duration: '54:33'
+    thumbnail: https://img.youtube.com/vi/eeROQeYDpos/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=eeROQeYDpos
+  - id: knpbAR-E-1s
+    title: 'Corus "Lobet Gott in seinen Reichen"BWV 11 1.: chorus : "Lobet Gott in seinen Reichen"'
+    channel: The Amsterdam Baroque Orchestra and Choir - Topic
+    performer: Koopman
+    place: Amsterdam
+    year: '2007'
+    duration: '4:23'
+    thumbnail: https://img.youtube.com/vi/knpbAR-E-1s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=knpbAR-E-1s
+  - id: GdPk3Izayv8
+    title: J.S. Bach, Ascension Oratorio〈Lobet Gott in seinen Reichen〉BWV 11
+    channel: protestant7 (baroque music)
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '9:21'
+    thumbnail: https://img.youtube.com/vi/GdPk3Izayv8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GdPk3Izayv8
+  - id: mOXYhrG30WA
+    title: 'J.S.BACH - ASCENSION ORATORIO :||: ORATORIUM NA WNIEBOWSTĄPIENIE PAŃSKIE, BWV 11'
+    channel: Szczawno-Zdrój Baroque Festival
+    performer: Szczawno-Zdrój Baroque Festival
+    place: ''
+    year: ''
+    duration: '27:12'
+    thumbnail: https://img.youtube.com/vi/mOXYhrG30WA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mOXYhrG30WA
+  - id: goMtqCcdU68
+    title: Johann Sebastian Bach, Himmelfahrtsoratorium, BWV 11, 1
+    channel: Rondeau Production
+    performer: Rondeau Production
+    place: Leipzig
+    year: '2020'
+    duration: '4:54'
+    thumbnail: https://img.youtube.com/vi/goMtqCcdU68/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=goMtqCcdU68
+  - id: UlyE7wQeYUw
+    title: 'Bach: Ascension Oratorios with Sigiswald Kuijken & Sophie Karthäuser | Part 2'
+    channel: EuroArtsChannel
+    performer: Kuijken
+    place: Leipzig during Holy Week
+    year: '2004'
+    duration: '30:54'
+    thumbnail: https://img.youtube.com/vi/UlyE7wQeYUw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=UlyE7wQeYUw
+wiki:
+  summary: >-
+    Lobet Gott in seinen Reichen, BWV 11, known as the Ascension Oratorio, is an oratorio by Johann Sebastian Bach,
+    marked by him as Oratorium In Festo Ascensionis Xsti, composed for the service for Ascension and probably first
+    performed on 15 May 1738.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jelenia_G._Church_ascending.JPG/330px-Jelenia_G._Church_ascending.JPG
+  url: https://en.wikipedia.org/wiki/Lobet_Gott_in_seinen_Reichen%2C_BWV_11
+  summary_html: >-
+    <p><b><span><i lang="de">Lobet Gott in seinen Reichen</i></span></b>, <b><span class="nowrap">BWV 11</span></b>,
+    known as the <i><b>Ascension Oratorio</b></i>, is an oratorio by Johann Sebastian Bach, marked by him as <span><i
+    lang="la">Oratorium In Festo Ascensionis Xsti</i></span>, composed for the service for Ascension and probably first
+    performed on 15 May 1738.</p>

@@ -1,0 +1,261 @@
+bwv: '29'
+title: Wir danken dir, Gott, wir danken dir
+cycle: LATE
+occasion: Ratswahl
+date: '1731-08-27'
+url: https://en.wikipedia.org/wiki/BWV_29
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Organo, Continuo
+    de: ''
+  - num: 2
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wir danken dir, Gott, wir danken dir
+      und verkündigen deine Wunder.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino solo, Continuo
+    de: |-
+      Halleluja, Stärk und Macht
+      Sei des Allerhöchsten Namen!
+      Zion ist noch seine Stadt,
+      Da er seine Wohnung hat,
+      Da er noch bei unserm Samen
+      An der Väter Bund gedacht.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gottlob! es geht uns wohl!
+      Gott ist noch unsre Zuversicht,
+      Sein Schutz, sein Trost und Licht
+      Beschirmt die Stadt und die Paläste,
+      Sein Flügel hält die Mauern feste.
+      Er lässt uns allerorten segnen,
+      Der Treue, die den Frieden küsst,
+      Muss für und für
+      Gerechtigkeit begegnen.
+      Wo ist ein solches Volk wie wir,
+      Dem Gott so nah und gnädig ist!
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Gedenk an uns mit deiner Liebe,
+      Schleuß uns in dein Erbarmen ein!
+      Segne die, so uns regieren,
+      Die uns leiten, schützen, führen,
+      Segne, die gehorsam sein!
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Vergiß es ferner nicht, mit deiner Hand
+      Uns Gutes zu erweisen;
+      So soll
+      Dich unsre Stadt und unser Land,
+      Das deiner Ehre voll,
+      Mit Opfern und mit Danken preisen,
+      Und alles Volk soll sagen:
+      Amen!
+  - num: 7
+    type: Aria
+    voices: A
+    instruments: Organo obligato, Continuo
+    de: |-
+      Halleluja, Stärk und Macht
+      Sei des Allerhöchsten Namen!
+  - num: 8
+    type: Chorale
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Sei Lob und Preis mit Ehren
+      Gott Vater, Sohn, Heiligem Geist!
+      Der woll in uns vermehren,
+      Was er uns aus Gnaden verheißt,
+      Dass wir ihm fest vertrauen,
+      Gänzlich verlassn auf ihn,
+      Von Herzen auf ihn bauen,
+      Dass unsr Herz, Mut und Sinn
+      Ihm tröstlich solln anhangen;
+      Drauf singen wir zur Stund:
+      Amen, wir werden's erlangen,
+      Glaubn wir aus Herzens Grund.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Organo obligato, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    T: 4
+    B: 1
+    S: 1
+    A: 2
+  instrumentation_families:
+    - oboe
+    - organ
+    - timpani
+    - tromba
+    - violino_solo
+key: D major
+performances:
+  - id: Ih51HIyTW0Q
+    title: Bach - Cantata Wir danken dir... BWV 29 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: B minor
+    year: ''
+    duration: '24:55'
+    thumbnail: https://img.youtube.com/vi/Ih51HIyTW0Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ih51HIyTW0Q
+  - id: sqdXwd7FEyI
+    title: Bach - Sinfonia from Cantata BWV 29 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Groningen
+    year: ''
+    duration: '4:12'
+    thumbnail: https://img.youtube.com/vi/sqdXwd7FEyI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sqdXwd7FEyI
+  - id: tKXlzI0pKO4
+    title: J.S. Bach/M.Dupré Sinfonia Cantata 29  - Olivier Penin, Orgue Ste Clotilde Paris
+    channel: Vincent Hildebrandt
+    performer: Vincent Hildebrandt
+    place: Paris
+    year: '1971'
+    duration: '4:53'
+    thumbnail: https://img.youtube.com/vi/tKXlzI0pKO4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=tKXlzI0pKO4
+  - id: M2yPLv1js_4
+    title: J.S. Bach - Cantata BWV 29 "Wir danken dir, Gott, wir danken dir" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '25:38'
+    thumbnail: https://img.youtube.com/vi/M2yPLv1js_4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=M2yPLv1js_4
+  - id: v6f0MtvEhvA
+    title: 'Johann Sebastian Bach - Cantata: Wir danken dir, Gott, wir danken dir, BWV 29. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '24:51'
+    thumbnail: https://img.youtube.com/vi/v6f0MtvEhvA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=v6f0MtvEhvA
+  - id: RzxlW5mSX8s
+    title: 'Bach: Sinfonia BWV 29 at the Thomaskirche Leipzig, SEBASTIAN HEINDL'
+    channel: Sebastian Heindl
+    performer: Sebastian Heindl
+    place: St
+    year: December 2020
+    duration: '4:25'
+    thumbnail: https://img.youtube.com/vi/RzxlW5mSX8s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RzxlW5mSX8s
+  - id: JP1Veszj5kA
+    title: Thomas Ospital plays Johann Sebastian BACH - Sinfonia de la cantate BWV 29
+    channel: Thomas Ospital - Official
+    performer: Thomas Ospital - Official
+    place: ''
+    year: ''
+    duration: '4:25'
+    thumbnail: https://img.youtube.com/vi/JP1Veszj5kA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JP1Veszj5kA
+  - id: 1Csynke0maE
+    title: Bach | SINFONIA FROM CANTATA [BWV 29] | Diane Bish at Coral Ridge Presbyterian Church, Ft Lauderdale
+    channel: Fans of Diane Bish
+    performer: Fans of Diane Bish
+    place: ''
+    year: ''
+    duration: '5:08'
+    thumbnail: https://img.youtube.com/vi/1Csynke0maE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1Csynke0maE
+  - id: rcbG7kDoWBc
+    title: J.S. Bach  Sinfonia Cantata BWV 29  tr. André Isoir Julien Lucquiaud - St Dominique Paris
+    channel: Vincent Hildebrandt
+    performer: Vincent Hildebrandt
+    place: Paris
+    year: ''
+    duration: '4:30'
+    thumbnail: https://img.youtube.com/vi/rcbG7kDoWBc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rcbG7kDoWBc
+  - id: ozOnS6hC9hE
+    title: J. S. Bach - Cantatas BWV 29, 119 & 120 - Ph. Herreweghe (Remastered 2023)
+    channel: Miguel Zampedri
+    performer: Herreweghe
+    place: Duddeck
+    year: '2023'
+    duration: '1:04:39'
+    thumbnail: https://img.youtube.com/vi/ozOnS6hC9hE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ozOnS6hC9hE
+  - id: 9tkzxkluSuk
+    title: J.S. BACH - SINFONIA CANTATE BWV 29  -  J.F. PAILLARD
+    channel: Jean-Pierre DAZURO
+    performer: Jean-Pierre DAZURO
+    place: ''
+    year: '1977'
+    duration: '4:03'
+    thumbnail: https://img.youtube.com/vi/9tkzxkluSuk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9tkzxkluSuk
+  - id: uceI6WMdK2I
+    title: Johann Sebastian Bach Sinfonia BWV 29   www.luteduo.com
+    channel: LUTEDUO
+    performer: LUTEDUO
+    place: ''
+    year: ''
+    duration: '4:56'
+    thumbnail: https://img.youtube.com/vi/uceI6WMdK2I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uceI6WMdK2I
+  - id: zBIXpsGonLM
+    title: J.S. Bach Sinfonia from Cantate 29 - Gert van Hoef - St. Bartholomeus Church Geraardsbergen
+    channel: Gert van Hoef
+    performer: Gert van Hoef
+    place: Geraardsbergen
+    year: '2017'
+    duration: '5:28'
+    thumbnail: https://img.youtube.com/vi/zBIXpsGonLM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zBIXpsGonLM
+  - id: 6JH1cvsf5c4
+    title: J.S. BACH - Sinfonia from Cantata BWV 29 (Anne-Isabelle de Parcevaux, organ)
+    channel: Anne-Isabelle de Parcevaux
+    performer: Anne-Isabelle de Parcevaux
+    place: Saint Ignace church
+    year: '1977'
+    duration: '5:24'
+    thumbnail: https://img.youtube.com/vi/6JH1cvsf5c4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6JH1cvsf5c4
+  - id: g2p7cejND70
+    title: Sinfonia de la Cantate No. 29' van Johann Sebastiaan Bach (1685-1750)
+    channel: Gert van Hoef
+    performer: Gert van Hoef
+    place: Utrecht
+    year: '2013'
+    duration: '4:17'
+    thumbnail: https://img.youtube.com/vi/g2p7cejND70/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=g2p7cejND70
+wiki:
+  summary: "Wir danken dir, Gott, wir danken dir, BWV\_29, is a sacred cantata by Johann Sebastian Bach. He composed it in Leipzig in 1731 for Ratswechsel, the annual inauguration of a new town council, and first performed it on 27 August of that year. The cantata was part of a festive service in the St. Nicholas Church. The cantata text by an unknown author includes in movement 2 the beginning of Psalm 75, and as the closing chorale the fifth stanza of Johann Gramann's \"Nun lob, mein Seel, den Herren\". Bach scored the work in eight movements for four vocal parts and a festive Baroque orchestra of three trumpets, timpani, two oboes, strings, an obbligato organ and basso continuo. The organ dominates the first movement Sinfonia which Bach derived from a Partita for violin. The full orchestra accompanies the first choral movement and plays with the voices in the closing chorale, while a sequence of three arias alternating with two recitatives is scored intimately."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BWV29-sinfonia-organ-obbligato-1.jpg/330px-BWV29-sinfonia-organ-obbligato-1.jpg
+  url: https://en.wikipedia.org/wiki/Wir_danken_dir%2C_Gott%2C_wir_danken_dir%2C_BWV_29
+  summary_html: "<p><b><span><i lang=\"de\">Wir danken dir, Gott, wir danken dir</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>29</b>, is a sacred cantata by Johann Sebastian Bach. He composed it in Leipzig in 1731 for <span><i lang=\"de\">Ratswechsel</i></span>, the annual inauguration of a new town council, and first performed it on 27 August of that year. The cantata was part of a festive service in the St. Nicholas Church. The cantata text by an unknown author includes in movement 2 the beginning of Psalm 75, and as the closing chorale the fifth stanza of Johann Gramann's \"<span><span style=\"font-style:normal\">Nun lob, mein Seel, den Herren</span></span>\". Bach scored the work in eight movements for four vocal parts and a festive Baroque orchestra of three trumpets, timpani, two oboes, strings, an obbligato organ and basso continuo. The organ dominates the first movement <i>Sinfonia</i> which Bach derived from a <span><i>Partita</i> for violin</span>. The full orchestra accompanies the first choral movement and plays with the voices in the closing chorale, while a sequence of three arias alternating with two recitatives is scored intimately.</p>"

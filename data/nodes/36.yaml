@@ -1,0 +1,251 @@
+bwv: '36'
+title: Schwingt freudig euch empor
+cycle: LATE
+occasion: Advent I
+date: '1731-11-27'
+url: https://en.wikipedia.org/wiki/BWV_36
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II all' unisono, Violino I/II, Viola, Continuo
+    de: |-
+      Schwingt freudig euch empor zu den erhabnen Sternen,
+      Ihr Zungen, die ihr itzt in Zion fröhlich seid!
+      Doch haltet ein! Der Schall darf sich nicht weit entfernen,
+      Es naht sich selbst zu euch der Herr der Herrlichkeit.
+  - num: 2
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I col Soprano, Oboe d'amore II coll' Alto, Continuo
+    de: |-
+      Nun komm, der Heiden Heiland,
+      Der Jungfrauen Kind erkannt,
+      Des sich wundert alle Welt,
+      Gott solch Geburt ihm bestellt.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore solo, Continuo
+    de: |-
+      Die Liebe zieht mit sanften Schritten
+      Sein Treugeliebtes allgemach.
+      Gleichwie es eine Braut entzücket,
+      Wenn sie den Bräutigam erblicket,
+      So folgt ein Herz auch Jesu nach.
+  - num: 4
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I e Violino I col Soprano, Oboe d'amore II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Zwingt die Saiten in Cythara
+      Und lasst die süße Musica
+      Ganz freudenreich erschallen,
+      Dass ich möge mit Jesulein,
+      Dem wunderschönen Bräutgam mein,
+      In steter Liebe wallen!
+      Singet,
+      Springet,
+      Jubilieret, triumphieret, dankt dem Herren!
+      Groß ist der König der Ehren.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Willkommen, werter Schatz!
+      Die Lieb und Glaube machet Platz
+      Vor dich in meinem Herzen rein,
+      Zieh bei mir ein!
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Der du bist dem Vater gleich,
+      Führ hinaus den Sieg im Fleisch,
+      Dass dein ewig Gott'sgewalt
+      In uns das krank Fleisch enthalt.
+  - num: 7
+    type: Aria
+    voices: S
+    instruments: Violino solo con sordino, Continuo
+    de: |-
+      Auch mit gedämpften, schwachen Stimmen
+      Wird Gottes Majestät verehrt.
+      Denn schallet nur der Geist darbei,
+      So ist ihm solches ein Geschrei,
+      Das er im Himmel selber hört.
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I e Violino I col Soprano, Oboe d'amore II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Lob sei Gott, dem Vater, g'ton,
+      Lob sei Gott, sein'm eingen Sohn,
+      Lob sei Gott, dem Heilgen Geist,
+      Immer und in Ewigkeit!
+scoring: 'Soli: S T B, Coro: S A T B, Oboe d''amore solo, Oboe d''amore I/II, Violino solo, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 4
+    T: 2
+    B: 1
+    S: 1
+  instrumentation_families:
+    - oboe_damore
+    - violino_solo
+key: C major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Schwingt freudig euch empor, BWV\_36, in Leipzig in 1731 for the first Sunday in Advent. He drew on material from previous congratulatory cantatas, beginning with Schwingt freudig euch empor, BWV 36.1 (1725). The Gospel for the Sunday was the Entry into Jerusalem, thus the mood of the secular work matched \"the people's jubilant shouts of Hosanna\". In a unique structure in Bach's cantatas, he interpolated four movements derived from the former works with four stanzas from two important Advent hymns, to add liturgical focus, three from Luther's \"Nun komm, der Heiden Heiland\" and one from Nicolai's \"Wie schön leuchtet der Morgenstern\". He first performed the cantata in its final form of two parts, eight movements, on 2 December 1731."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Schwingt_freudig_euch_empor%2C_BWV_36
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Schwingt freudig euch empor</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>36</b>, in Leipzig in 1731 for the first Sunday in Advent. He drew on material from previous congratulatory cantatas, beginning with <span><i>Schwingt freudig euch empor</i>, BWV 36.1</span> (1725). The Gospel for the Sunday was the Entry into Jerusalem, thus the mood of the secular work matched \"the people's jubilant shouts of Hosanna\". In a unique structure in Bach's cantatas, he interpolated four movements derived from the former works with four stanzas from two important Advent hymns, to add liturgical focus, three from Luther's \"<span><span style=\"font-style:normal\">Nun komm, der Heiden Heiland</span></span>\" and one from Nicolai's \"<span><span style=\"font-style:normal\">Wie schön leuchtet der Morgenstern</span></span>\". He first performed the cantata in its final form of two parts, eight movements, on 2 December 1731.</p>"
+performances:
+  - id: nCwXlEcnXKI
+    title: Bach - Cantata Schwingt freudig euch empor BWV 36 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: ''
+    year: ''
+    duration: '30:53'
+    thumbnail: https://img.youtube.com/vi/nCwXlEcnXKI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=nCwXlEcnXKI
+  - id: InMFDUIqxRk
+    title: J. S. Bach - Cantata BWV 36 "Schwingt freudig euch empor" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '32:44'
+    thumbnail: https://img.youtube.com/vi/InMFDUIqxRk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=InMFDUIqxRk
+  - id: Zb-naYbI8nk
+    title: Bach - Cantate BWV 36b - Die Freude reget sich
+    channel: MusicArt61
+    performer: MusicArt61
+    place: ''
+    year: ''
+    duration: '28:03'
+    thumbnail: https://img.youtube.com/vi/Zb-naYbI8nk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Zb-naYbI8nk
+  - id: CTBYYDWPBXo
+    title: J. S. Bach - Aria "Auch mit gedämpften, schwachen Stimmen" Cantata BWV 36 (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '8:25'
+    thumbnail: https://img.youtube.com/vi/CTBYYDWPBXo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CTBYYDWPBXo
+  - id: MLR5Yvwrfy8
+    title: J.S. Bach - BWV 36 (Raise yourself up joyfully)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '30:25'
+    thumbnail: https://img.youtube.com/vi/MLR5Yvwrfy8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MLR5Yvwrfy8
+  - id: Ij8un7SjDH0
+    title: J. S. Bach - "Schwingt freudig euch empor" Cantata BWV 36 - Mailänder Kantorei
+    channel: Edoardo Lambertenghi
+    performer: Edoardo Lambertenghi
+    place: ''
+    year: ''
+    duration: '23:07'
+    thumbnail: https://img.youtube.com/vi/Ij8un7SjDH0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ij8un7SjDH0
+  - id: siO4UUPAUXY
+    title: 'Bach: Schwingt freudig euch empor, BWV 36 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Boston
+    year: ''
+    duration: '30:57'
+    thumbnail: https://img.youtube.com/vi/siO4UUPAUXY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=siO4UUPAUXY
+  - id: 1L24l66Hqwk
+    title: Bach - Cantate BWV 36c - Schwingt freudig euch empor
+    channel: MusicArt61
+    performer: MusicArt61
+    place: ''
+    year: ''
+    duration: '25:44'
+    thumbnail: https://img.youtube.com/vi/1L24l66Hqwk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1L24l66Hqwk
+  - id: utgpz9oIPEQ
+    title: J. S. Bach - Advent Cantatas 01/03  (BWV 36) - Ph. Herreweghe
+    channel: Miguel Zampedri
+    performer: Herreweghe
+    place: ''
+    year: ''
+    duration: '29:34'
+    thumbnail: https://img.youtube.com/vi/utgpz9oIPEQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=utgpz9oIPEQ
+  - id: Us-xPqWUqUk
+    title: 'Bach: Cantata BWV 36. Argenta, Lang, Rolfe Johnson, Bär, Gardiner'
+    channel: Muzikay
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '28:39'
+    thumbnail: https://img.youtube.com/vi/Us-xPqWUqUk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Us-xPqWUqUk
+  - id: Bc3j29llMQk
+    title: 'Schwingt freudig euch empor, BWV 36: No. 2, Choral. "Nun komm, der Heiden Heiland" (1731 Version)'
+    channel: "Concentus Musicus Wien |\_Concentus Musicus Vienna"
+    performer: "Concentus Musicus Wien |\_Concentus Musicus Vienna"
+    place: ''
+    year: ''
+    duration: '3:47'
+    thumbnail: https://img.youtube.com/vi/Bc3j29llMQk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Bc3j29llMQk
+  - id: fBap532Nr3k
+    title: J. S. Bach. Coral de la Cantata BWV 36
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '0:40'
+    thumbnail: https://img.youtube.com/vi/fBap532Nr3k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fBap532Nr3k
+  - id: yw4RNYWsyy8
+    title: “Auch mit gedämpften” from Schwingt freudig euch empor, BWV 36 by J. S. Bach
+    channel: Kentucky Bach Choir
+    performer: Kentucky Bach Choir
+    place: ''
+    year: ''
+    duration: '10:38'
+    thumbnail: https://img.youtube.com/vi/yw4RNYWsyy8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yw4RNYWsyy8
+  - id: epMdItpy0f8
+    title: J.S. Bach feat. Rudolf - Cantata BWV 36
+    channel: Julie
+    performer: Julie
+    place: ''
+    year: ''
+    duration: '1:13'
+    thumbnail: https://img.youtube.com/vi/epMdItpy0f8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=epMdItpy0f8
+  - id: msFS1M3Mq3Q
+    title: Johann Sebastian Bach - Cantata BWV 36, Schwingt freudig euch empor
+    channel: Classical Music in America on the Road
+    performer: Classical Music in America on the Road
+    place: ''
+    year: ''
+    duration: '28:49'
+    thumbnail: https://img.youtube.com/vi/msFS1M3Mq3Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=msFS1M3Mq3Q

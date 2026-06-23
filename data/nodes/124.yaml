@@ -1,0 +1,97 @@
+bwv: '124'
+title: Meinen Jesum lass ich nicht
+cycle: C2
+occasion: Epiphany I
+date: '1725-01-07'
+url: https://en.wikipedia.org/wiki/BWV_124
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno col Soprano, Oboe d'amore concertante, Violino I/II, Viola, Continuo
+    de: |-
+      Meinen Jesum lass ich nicht,
+      Weil er sich für mich gegeben,
+      So erfordert meine Pflicht,
+      Klettenweis an ihm zu kleben.
+      Er ist meines Lebens Licht,
+      Meinen Jesum lass ich nicht.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Solange sich ein Tropfen Blut
+      In Herz und Adern reget,
+      Soll Jesus nur allein
+      Mein Leben und mein alles sein.
+      Mein Jesus, der an mir so große Dinge tut:
+      Ich kann ja nichts als meinen Leib und Leben
+      Ihm zum Geschenke geben.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore, Violino I/II, Viola, Continuo
+    de: |-
+      Und wenn der harte Todesschlag
+      Die Sinnen schwächt, die Glieder rühret,
+      Wenn der dem Fleisch verhasste Tag
+      Nur Furcht und Schrecken mit sich führet,
+      Doch tröstet sich die Zuversicht:
+      Ich lasse meinen Jesum nicht.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Doch ach!
+      Welch schweres Ungemach
+      Empfindet noch allhier die Seele?
+      Wird nicht die hart gekränkte Brust
+      Zu einer Wüstenei und Marterhöhle
+      Bei Jesu schmerzlichstem Verlust?
+      Allein mein Geist sieht gläubig auf
+      Und an den Ort, wo Glaub und Hoffnung prangen,
+      Allwo ich nach vollbrachtem Lauf
+      Dich, Jesu, ewig soll umfangen.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Entziehe dich eilends, mein Herze, der Welt,
+      Du findest im Himmel dein wahres Vergnügen.
+      Wenn künftig dein Auge den Heiland erblickt,
+      So wird erst dein sehnendes Herze erquickt,
+      So wird es in Jesu zufriedengestellt.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno e Oboe d'amore e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Jesum lass ich nicht von mir,
+      Geh ihm ewig an der Seiten;
+      Christus lässt mich für und für
+      Zu den Lebensbächlein leiten.
+      Selig, der mit mir so spricht:
+      Meinen Jesum lass ich nicht.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    B: 1
+  instrumentation_families:
+    - corno
+    - oboe_damore
+key: E major

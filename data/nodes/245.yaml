@@ -1,0 +1,676 @@
+bwv: '245'
+title: Johannespassion
+occasion: Good Friday
+cycle: C1
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Herr, unser Herrscher, dessen Ruhm
+      In allen Landen herrlich ist!
+      Zeig uns durch deine Passion,
+      Dass du, der wahre Gottessohn,
+      Zu aller Zeit,
+      Auch in der größten Niedrigkeit,
+      Verherrlicht worden bist!
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      O große Lieb, o Lieb ohn alle Maße,
+      Die dich gebracht auf diese Marterstraße
+      Ich lebte mit der Welt in Lust und Freuden,
+      Und du musst leiden.
+  - num: 4
+    type: Recitative
+    voices: T, B
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B)
+      Evangelist
+      Auf dass das Wort erfüllet würde,
+      welches er sagte: Ich habe der keine verloren, die du mir gegeben
+      hast. Da hatte Simon Petrus ein Schwert und zog es aus und schlug
+      nach des Hohenpriesters Knecht und hieb ihm sein recht Ohr ab; und
+      der Knecht hieß Malchus. Da sprach Jesus zu Petro:
+      Jesus
+      Stecke dein Schwert in die Scheide!
+      Soll ich den Kelch nicht trinken,
+      den mir mein Vater gegeben hat?
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Dein Will gescheh, Herr Gott, zugleich
+      Auf Erden wie im Himmelreich.
+      Gib uns Geduld in Leidenszeit,
+      Gehorsam sein in Lieb und Leid;
+      Wehr und steur allem Fleisch und Blut,
+      Das wider deinen Willen tut!
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist
+      Die Schar aber und der Oberhauptmann
+      und die Diener der Jüden nahmen Jesum und bunden ihn und
+      führeten ihn aufs erste zu Hannas, der war Kaiphas Schwäher,
+      welcher des Jahres Hoherpriester war. Es war aber Kaiphas, der den
+      Jüden riet, es wäre gut, dass ein Mensch würde umbracht
+      für das Volk.
+  - num: 7
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Organo, Continuo
+    de: |-
+      Von den Stricken meiner Sünden
+      Mich zu entbinden,
+      Wird mein Heil gebunden.
+      Mich von allen Lasterbeulen
+      Völlig zu heilen,
+      Läßt er sich verwunden.
+  - num: 8
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist
+      Simon Petrus aber folgete Jesu nach
+      und ein ander Jünger.
+  - num: 9
+    type: Aria
+    voices: S
+    instruments: Flauto traverso I/II, Organo, Continuo
+    de: |-
+      Ich folge dir gleichfalls mit freudigen Schritten
+      Und lasse dich nicht,
+      Mein Leben, mein Licht.
+      Befördre den Lauf
+      Und höre nicht auf,
+      Selbst an mir zu ziehen, zu schieben, zu bitten.
+  - num: 10
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist (T.I), Magd (S), Petrus (B.I), Jesus (B.II), Diener (T.II)
+      Evangelist
+      Derselbige Jünger war dem Hohenpriester bekannt
+      und ging mit Jesu hinein in des Hohenpriesters Palast. Petrus
+      aber stund draußen für der Tür. Da ging der andere
+      Jünger, der dem Hohenpriester bekannt war, hinaus und redete mit
+      der Türhüterin und führete Petrum hinein. Da sprach
+      die Magd, die Türhüterin, zu Petro:
+      Sopran
+      Bist du nicht dieses Menschen Jünger einer?
+      Evangelist
+      Er sprach:
+      Petrus I
+      Ich bin's nicht.
+      Evangelist
+      Es stunden aber die Knechte und Diener
+      und hatten ein Kohlfeu'r gemacht (denn es war kalt) und wärmeten
+      sich. Petrus aber stund bei ihnen und wärmete sich. Aber
+      der Hohepriester fragte Jesum um seine Jünger und um seine
+      Lehre. Jesus antwortete ihm:
+      Jesus
+      Ich habe frei, öffentlich geredet für der Welt.
+      Ich habe allezeit gelehret in der Schule und in dem Tempel, da alle
+      Jüden zusammenkommen, und habe nichts im Verborgnen geredt. Was
+      fragest du mich darum? Frage die darum, die gehöret haben,
+      was ich zu ihnen geredet habe! Siehe, dieselbigen wissen, was ich
+      gesaget habe.
+      Evangelist
+      Als er aber solches redete, gab der Diener einer,
+      die dabeistunden, Jesu einen Backenstreich und sprach:
+      Diener
+      Solltest du dem Hohenpriester also antworten?
+      Evangelist
+      Jesus aber antwortete:
+      Jesus
+      Hab ich übel geredt, so beweise es,
+      dass es böse sei, hab ich aber recht geredt, was
+      schlägest du mich?
+  - num: 11
+    type: Chorale
+    voices: SATB
+    instruments: Flauto traverso I/II e Oboe I/II e Violino col Soprano, Violino II coll' Alto, Viola col Tenore, Organo, Continuo
+    de: |-
+      Wer hat dich so geschlagen,
+      Mein Heil, und dich mit Plagen
+      So übel zugericht'?
+      Du bist ja nicht ein Sünder
+      Wie wir und unsre Kinder,
+      Von Missetaten weißt du nicht.
+      Ich, ich und meine Sünden,
+      Die sich wie Körnlein finden
+      Des Sandes an dem Meer,
+      Die haben dir erreget
+      Das Elend, das dich schläget,
+      Und das betrübte Marterheer.
+  - num: 13
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Ach, mein Sinn,
+      Wo willt du endlich hin,
+      Wo soll ich mich erquicken?
+      Bleib ich hier,
+      Oder wünsch ich mir
+      Berg und Hügel auf den Rücken?
+      Bei der Welt ist gar kein Rat,
+      Und im Herzen
+      Stehn die Schmerzen
+      Meiner Missetat,
+      Weil der Knecht den Herrn verleugnet hat.
+  - num: 14
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Petrus, der nicht denkt zurück,
+      Seinen Gott verneinet,
+      Der doch auf ein' ernsten Blick
+      Bitterlichen weinet.
+      Jesu, blicke mich auch an,
+      Wenn ich nicht will büßen;
+      Wenn ich Böses hab getan,
+      Rühre mein Gewissen!
+  - num: 15
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Christus, der uns selig macht,
+      Kein Bös' hat begangen,
+      Der ward für uns in der Nacht
+      Als ein Dieb gefangen,
+      Geführt für gottlose Leut
+      Und fälschlich verklaget,
+      Verlacht, verhöhnt und verspeit,
+      Wie denn die Schrift saget.
+  - num: 17
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Ach großer König, groß zu allen Zeiten,
+      Wie kann ich gnugsam diese Treu ausbreiten?
+      Keins Menschen Herze mag indes ausdenken,
+      Was dir zu schenken.
+      Ich kann's mit meinen Sinnen nicht erreichen,
+      Womit doch dein Erbarmen zu vergleichen.
+      Wie kann ich dir denn deine Liebestaten
+      Im Werk erstatten?
+  - num: 19
+    type: Aria
+    voices: B
+    instruments: Viola d'amore I/II, Liuto, Organo, Continuo
+    de: |-
+      Betrachte, meine Seel, mit ängstlichem Vergnügen,
+      Mit bittrer Lust und halb beklemmtem Herzen
+      Dein höchstes Gut in Jesu Schmerzen,
+      Wie dir auf Dornen, so ihn stechen,
+      Die Himmelsschlüsselblumen blühn!
+      Du kannst viel süße Frucht von seiner Wermut brechen
+      Drum sieh ohn Unterlass auf ihn!
+  - num: 20
+    type: Aria
+    voices: T
+    instruments: Viola d'amore I/II, Organo, Continuo
+    de: |-
+      Erwäge, wie sein blutgefärbter Rücken
+      In allen Stücken
+      Dem Himmel gleiche geht,
+      Daran, nachdem die Wasserwogen
+      Von unsrer Sündflut sich verzogen,
+      Der allerschönste Regenbogen
+      Als Gottes Gnadenzeichen steht!
+  - num: 22
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Durch dein Gefängnis, Gottes Sohn,
+      Muss uns die Freiheit kommen;
+      Dein Kerker ist der Gnadenthron,
+      Die Freistatt aller Frommen;
+      Denn gingst du nicht die Knechtschaft ein,
+      Müßt unsre Knechtschaft ewig sein.
+  - num: 24
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Eilt, ihr angefochtnen Seelen,
+      Geht aus euren Marterhöhlen,
+      Eilt - Wohin? - nach Golgatha!
+      Nehmet an des Glaubens Flügel,
+      Flieht - Wohin? - zum Kreuzeshügel,
+      Eure Wohlfahrt blüht allda!
+  - num: 26
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      In meines Herzens Grunde
+      Dein Nam und Kreuz allein
+      Funkelt all Zeit und Stunde,
+      Drauf kann ich fröhlich sein.
+      Erschein mir in dem Bilde
+      Zu Trost in meiner Not,
+      Wie du, Herr Christ, so milde
+      Dich hast geblut' zu Tod!
+  - num: 28
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      Er nahm alles wohl in acht
+      In der letzten Stunde,
+      Seine Mutter noch bedacht,
+      Setzt ihr ein' Vormunde.
+      O Mensch, mache Richtigkeit,
+      Gott und Menschen liebe,
+      Stirb darauf ohn alles Leid,
+      Und dich nicht betrübe!
+  - num: 29
+    type: Recitative
+    voices: T, B
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist (T), Jesus (B)
+      Evangelist
+      Und von Stund an nahm sie der Jünger zu sich.
+      Darnach, als Jesus wusste, dass schon alles vollbracht war,
+      dass die Schrift erfüllet würde, spricht er:
+      Jesus
+      Mich dürstet!
+      Evangelist
+      Da stund ein Gefäße voll Essigs.
+      Sie fülleten aber einen Schwamm mit Essig und legten ihn um
+      einen Isopen, und hielten es ihm dar zum Munde. Da nun Jesus den
+      Essig genommen hatte, sprach er:
+      Jesus
+      Es ist vollbracht!
+  - num: 30
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Viola da gamba, Organo, Continuo
+    de: |-
+      Es ist vollbracht!
+      O Trost vor die gekränkten Seelen!
+      Die Trauernacht
+      Läßt nun die letzte Stunde zählen.
+      Der Held aus Juda siegt mit Macht
+      Und schließt den Kampf.
+      Es ist vollbracht!
+  - num: 31
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist
+      Und neiget das Haupt und verschied.
+  - num: 32
+    type: Aria
+    voices: B
+    instruments: Organo, Continuo
+    de: |-
+      Mein teurer Heiland, lass dich fragen,
+      Jesu, der du warest tot,
+      Da du nunmehr ans Kreuz geschlagen
+      Und selbst gesagt: Es ist vollbracht,
+      Lebest nun ohn Ende,
+      Bin ich vom Sterben frei gemacht?
+      In der letzten Todesnot
+      Nirgend mich hinwende
+      Kann ich durch deine Pein und Sterben
+      Das Himmelreich ererben?
+      Ist aller Welt Erlösung da?
+      Als zu dir, der mich versühnt,
+      O du lieber Herre!
+      Du kannst vor Schmerzen zwar nichts sagen;
+      Gib mir nur, was du verdient,
+      Doch neigest du das Haupt
+      Und sprichst stillschweigend: ja.
+      Mehr ich nicht begehre!
+  - num: 33
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist
+      Und siehe da, der Vorhang im Tempel zerriss
+      in zwei Stück von oben an bis unten aus. Und die Erde erbebete,
+      und die Felsen zerrissen, und die Gräber täten sich auf,
+      und stunden auf viel Leiber der Heiligen.
+  - num: 34
+    type: Aria
+    voices: T
+    instruments: Flauto traverso I/II, Oboe da caccia I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Mein Herz, in dem die ganze Welt
+      Bei Jesu Leiden gleichfalls leidet,
+      Die Sonne sich in Trauer kleidet,
+      Der Vorhang reißt, der Fels zerfällt,
+      Die Erde bebt, die Gräber spalten,
+      Weil sie den Schöpfer sehn erkalten,
+      Was willst du deines Ortes tun?
+  - num: 35
+    type: Aria
+    voices: S
+    instruments: Flauto traverso I/II, Oboe da caccia I/II, Organo, Continuo
+    de: |-
+      Zerfließe, mein Herze, in Fluten der Zähren
+      Dem Höchsten zu Ehren!
+      Erzähle der Welt und dem Himmel die Not:
+      Dein Jesus ist tot!
+  - num: 36
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist
+      Die Jüden aber, dieweil es der Rüsttag war,
+      dass nicht die Leichname am Kreuze blieben den Sabbat über
+      (denn desselbigen Sabbats Tag war sehr groß), baten sie Pilatum,
+      dass ihre Beine gebrochen und sie abgenommen würden. Da kamen
+      die Kriegsknechte und brachen dem ersten die Beine und dem andern,
+      der mit ihm gekreuziget war. Als sie aber zu Jesu kamen, da sie sahen,
+      dass er schon gestorben war, brachen sie ihm die Beine nicht;
+      sondern der Kriegsknechte einer eröffnete seine Seite mit einem
+      Speer, und alsobald ging Blut und Wasser heraus. Und der das gesehen
+      hat, der hat es bezeuget, und sein Zeugnis ist wahr, und derselbige
+      weiß, dass er die Wahrheit saget, auf dass ihr
+      gläubet. Denn solches ist geschehen, auf dass die Schrift
+      erfüllet würde: "Ihr sollet ihm kein Bein zerbrechen". Und
+      abermal spricht eine andere Schrift: "Sie werden sehen, in welchen
+      sie gestochen haben".
+  - num: 37
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Organo,
+      Continuo
+    de: |-
+      O hilf, Christe, Gottes Sohn,
+      Durch dein bitter Leiden,
+      Dass wir dir stets untertan
+      All Untugend meiden,
+      Deinen Tod und sein Ursach
+      Fruchtbarlich bedenken,
+      Dafür, wiewohl arm und schwach,
+      Dir Dankopfer schenken!
+  - num: 38
+    type: Recitative
+    voices: T
+    instruments: Organo, Continuo
+    de: |-
+      Evangelist
+      Darnach bat Pilatum Joseph von Arimathia,
+      der ein Jünger Jesu war (doch heimlich aus Furcht vor den
+      Jüden), dass er möchte abnehmen den Leichnam Jesu. Und
+      Pilatus erlaubete es. Derowegen kam er und nahm den Leichnam Jesu
+      herab. Es kam aber auch Nikodemus, der vormals bei der Nacht zu Jesu
+      kommen war, und brachte Myrrhen und Aloen untereinander, bei hundert
+      Pfunden. Da nahmen sie den Leichnam Jesu und bunden ihn in leinen
+      Tücher mit Spezereien, wie die Jüden pflegen zu begraben.
+      Es war aber an der Stätte, da er gekreuziget ward, ein Garten, und
+      im Garten ein neu Grab, in welches niemand je geleget war. Daselbst
+      hin legten sie Jesum, um des Rüsttags willen der Jüden,
+      dieweil das Grab nahe war.
+  - num: 39
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Ruht wohl, ihr heiligen Gebeine,
+      Die ich nun weiter nicht beweine,
+      Ruht wohl und bringt auch mich zur Ruh!
+      Das Grab, so euch bestimmet ist
+      Und ferner keine Not umschließt,
+      Macht mir den Himmel auf und schließt die Hölle zu.
+  - num: 40
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I e Oboe I e Violino I col Soprano, Flauto traverso II e Oboe II e Violino II coll' Alto, Viola
+      col Tenore, Organo, Continuo
+    de: |-
+      Ach Herr, lass dein lieb Engelein
+      Am letzten End die Seele mein
+      In Abrahams Schoß tragen,
+      Den Leib in seim Schlafkämmerlein
+      Gar sanft ohn einge Qual und Pein
+      Ruhn bis am jüngsten Tage!
+      Alsdenn vom Tod erwecke mich,
+      Dass meine Augen sehen dich
+      In aller Freud, o Gottes Sohn,
+      Mein Heiland und Genadenthron!
+      Herr Jesu Christ, erhöre mich,
+      Ich will dich preisen ewiglich!
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Flauto traverso I/II, Oboe I/II, Oboe d'amore, Oboe da caccia I/II, Violino I/II, Viola
+  d'amore I/II, Viola, Viola da gamba, Liuto, Organo, Continuo
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Recitative
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+    - Chorale
+    - Chorale
+    - Chorale
+    - Aria
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Aria
+    - Recitative
+    - Chorale
+    - Recitative
+    - Chorus
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 13
+    T, B: 2
+    T: 10
+    A: 2
+    S: 2
+    B: 3
+  instrumentation_families:
+    - flauto_traverso
+    - lute
+    - oboe
+    - oboe_da_caccia
+    - organ
+    - viola_da_gamba
+    - viola_damore
+wiki:
+  summary: >-
+    The Passio secundum Joannem or St John Passion, BWV 245, is a Passion or oratorio by Johann Sebastian Bach, the
+    earliest of the surviving Passions by Bach. It was written during his first year as director of church music in
+    Leipzig and was first performed on 7 April 1724, at Good Friday Vespers at the St. Nicholas Church.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Johannespassion.jpg/330px-Johannespassion.jpg
+  url: https://en.wikipedia.org/wiki/St_John_Passion
+  summary_html: >-
+    <p>The <i><b>Passio secundum Joannem</b></i> or <i><b>St John Passion</b></i>, BWV 245, is a Passion or oratorio by
+    Johann Sebastian Bach, the earliest of the surviving Passions by Bach. It was written during his first year as
+    director of church music in Leipzig and was first performed on 7 April 1724, at Good Friday Vespers at the St.
+    Nicholas Church.</p>
+performances:
+  - id: zMf9XDQBAaI
+    title: Bach - St John Passion BWV 245 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Leipzig
+    year: '2017'
+    duration: '1:53:12'
+    thumbnail: https://img.youtube.com/vi/zMf9XDQBAaI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zMf9XDQBAaI
+  - id: h3pRYk8tE_I
+    title: La Petite Bande  - J.S. Bach - Johannes Passion BWV 245.mp4
+    channel: Lapetitebande
+    performer: Kuijken
+    place: Will gescheh
+    year: ''
+    duration: '1:50:45'
+    thumbnail: https://img.youtube.com/vi/h3pRYk8tE_I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=h3pRYk8tE_I
+  - id: QbVTxRicMGM
+    title: Johannes Passion BWV 245 - Harnoncourt
+    channel: Thanasis Baltas
+    performer: Harnoncourt
+    place: ''
+    year: 30 June 1985
+    duration: '1:53:40'
+    thumbnail: https://img.youtube.com/vi/QbVTxRicMGM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=QbVTxRicMGM
+  - id: OZxghOxfN_c
+    title: Bach - Cantata Es ist dir gesagt, Mensch, was gut ist BWV 45 - Rademann | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Rademann
+    place: Grote Kerk
+    year: '2023'
+    duration: '18:18'
+    thumbnail: https://img.youtube.com/vi/OZxghOxfN_c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OZxghOxfN_c
+  - id: BVhoJ5TK5u0
+    title: J. S. Bach - Johannes-Passion - St John Passion - BWV 245 - Karl Richter - 1970 - Restored 2025 - 4K
+    channel: TEMPUS Collection - Multimedia - Record Label
+    performer: Richter
+    place: Will gescheh
+    year: September 1970
+    duration: '2:08:38'
+    thumbnail: https://img.youtube.com/vi/BVhoJ5TK5u0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BVhoJ5TK5u0
+  - id: SiKgrevzT-g
+    title: 'J.S. Bach: St John Passion, BWV 245 - Bach Collegium Japan, Masaaki Suzuki (HD 1080p)'
+    channel: Ifikratis Vlahos
+    performer: Masaaki
+    place: Blaze
+    year: '2000'
+    duration: '1:55:32'
+    thumbnail: https://img.youtube.com/vi/SiKgrevzT-g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SiKgrevzT-g
+  - id: X0JvzgLtipk
+    title: 'Johann Sebastian Bach: Johannes-Passion BWV 245'
+    channel: Münchener Konzertverein
+    performer: Münchener Konzertverein
+    place: Leipzig
+    year: '2016'
+    duration: '1:56:28'
+    thumbnail: https://img.youtube.com/vi/X0JvzgLtipk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=X0JvzgLtipk
+  - id: i7HtIJjlJSc
+    title: 'Le Concert Étranger: J.S. Bach - BWV 245 "St. John Passion"'
+    channel: Total Baroque
+    performer: Total Baroque
+    place: Will gescheh
+    year: '2014'
+    duration: '1:51:45'
+    thumbnail: https://img.youtube.com/vi/i7HtIJjlJSc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=i7HtIJjlJSc
+  - id: w2LakofZAhw
+    title: 'J.S.Bach : St John Passion BWV 245 (Johannes Passion) Collegium Vocale Ghent - Herreweghe (バッハ 巴赫)'
+    channel: Bachology
+    performer: Herreweghe
+    place: Concertgebouw Bruges
+    year: March 2020
+    duration: '1:45:20'
+    thumbnail: https://img.youtube.com/vi/w2LakofZAhw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=w2LakofZAhw
+  - id: s0NZJhVuQwY
+    title: 'La Passion selon Saint Jean, BWV 245 : Choeur final'
+    channel: Choeurs de la Chapelle New Schola Cantorum - Topic
+    performer: Choeurs de la Chapelle New Schola Cantorum - Topic
+    place: ''
+    year: '2008'
+    duration: '7:29'
+    thumbnail: https://img.youtube.com/vi/s0NZJhVuQwY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=s0NZJhVuQwY
+  - id: 1tm27tmfEAY
+    title: Bach Johannes Passion St John Passion BWV 245 John Eliot Gardiner
+    channel: Ticket_old
+    performer: Gardiner
+    place: Blaze
+    year: ''
+    duration: '1:57:08'
+    thumbnail: https://img.youtube.com/vi/1tm27tmfEAY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1tm27tmfEAY
+  - id: aKwgWTOo85c
+    title: Johann Sebastian Bach | St John Passion (BWV 245)
+    channel: Südtirol in concert
+    performer: Lutz
+    place: BRIXNER INITIATIVE MUSIK UND KIRCHE
+    year: '2016'
+    duration: '1:51:18'
+    thumbnail: https://img.youtube.com/vi/aKwgWTOo85c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=aKwgWTOo85c
+  - id: apWYzBxtT9M
+    title: Bach - Ach Herr, laß dein lieb Engelein from St John Passion BWV 245 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: van Veldhoven
+    place: Leipzig
+    year: '2017'
+    duration: '2:39'
+    thumbnail: https://img.youtube.com/vi/apWYzBxtT9M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=apWYzBxtT9M
+  - id: AuWDRmyawNk
+    title: J. S. Bach - Johannes-Passion, BWV 245 -  M. Corboz
+    channel: Miguel Zampedri
+    performer: Miguel Zampedri
+    place: Herz
+    year: '2022'
+    duration: '2:02:07'
+    thumbnail: https://img.youtube.com/vi/AuWDRmyawNk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AuWDRmyawNk
+  - id: MgnEiB4R750
+    title: Bach Johannes passion, sacred oratório, BWV 245   Raphaël Pichon & Ensemble Pygmalion
+    channel: Eugene Beeren
+    performer: Eugene Beeren
+    place: ''
+    year: ''
+    duration: '2:35:17'
+    thumbnail: https://img.youtube.com/vi/MgnEiB4R750/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MgnEiB4R750

@@ -1,0 +1,127 @@
+bwv: 70a
+title: Wachet! betet! betet! wachet!
+cycle: EARLY
+occasion: Advent II
+date: 1716 (**Non-Extant**)
+url: https://en.wikipedia.org/wiki/BWV_70a
+edges: {}
+movements:
+  - num: 2
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Wenn kömmt der Tag, an dem wir ziehen
+      Aus dem Ägypten dieser Welt?
+      Ach! lasst uns bald aus Sodom fliehen,
+      Eh uns das Feuer überfällt!
+      Wacht Seelen auf von Sicherheit,
+      Und glaubt, es ist die letzte Zeit!
+  - num: 3
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Lass't der Spötter Zungen schmäh,
+      Es wird doch und muss geschehen
+      Dass wir JEsum werden sehen
+      Auf den Wolcken, in den Höhen.
+      Welt und Himmel mag vergehen,
+      Christi Wort muss fest bestehen.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Hebt euer Haupt empor,
+      Und seyd getrost ihr Frommen!
+      Der jüngste Tag wird kommen
+      Zu eurer Seelen-Flor!
+      Ihr sollt in Eden grünen,
+      GOtt ewiglich zu dienen.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: ''
+    de: |-
+      Seeligster Erquickungs-Tag,
+      Führe mich zum Friedens-Zimmern!
+      Schalle, knalle, letzter Schlag,
+      Welt und Himmel, geht zutrümmern!
+      JESUS führet mich zur Stille
+      An den Ohrt, da Lust die Fülle.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Nicht nach Welt, nach Himmel nicht
+      Meine Seele wünscht und sehnet,
+      JEsum wünsch ich und sein Licht,
+      Der mich hat mit GOtt versöhnet,
+      Der mich freiet vom Gericht,
+      Meinen JEsum lass ich nicht.
+features:
+  structure:
+    - Aria
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    SATB: 1
+  instrumentation_families: []
+wiki:
+  summary: "Wachet! betet! betet! wachet! is the title of two church cantatas by Johann Sebastian Bach. He composed a first version, BWV\_70a, in Weimar for the second Sunday in Advent of 1716 and expanded it in 1723 in Leipzig to BWV 70, a cantata in two parts for the 26th Sunday after Trinity."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Wachet!_betet!_betet!_wachet!_BWV_70
+  summary_html: "<p><b><span><i lang=\"de\">Wachet! betet! betet! wachet!</i></span></b> is the title of two church cantatas by Johann Sebastian Bach. He composed a first version, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>70a</b>, in Weimar for the second Sunday in Advent of 1716 and expanded it in 1723 in Leipzig to <b><span class=\"nowrap\">BWV 70</span></b>, a cantata in two parts for the 26th Sunday after Trinity.</p>"
+performances:
+  - id: PXaeE0J4pxg
+    title: J.S. Bach - Cantata BWV 70 "Wachet! betet! betet! wachet!" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2013'
+    duration: '25:57'
+    thumbnail: https://img.youtube.com/vi/PXaeE0J4pxg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PXaeE0J4pxg
+  - id: 985kidsK61c
+    title: Cantata Wachet! betet! betet! wachet!, BWV 70a
+    channel: Roberto Kles
+    performer: Gardiner
+    place: ''
+    year: '2018'
+    duration: '22:48'
+    thumbnail: https://img.youtube.com/vi/985kidsK61c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=985kidsK61c
+  - id: fviHfUg4P3E
+    title: 'J.S Bach - Cantata: Wachet! betet! betet! wachet! BWV 70'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '25:17'
+    thumbnail: https://img.youtube.com/vi/fviHfUg4P3E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fviHfUg4P3E
+  - id: NV6JGaUJGwE
+    title: J.S. Bach - Chorus "Wachet! Betet! Betet! Wachet!" from Cantata BWV 70
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '4:02'
+    thumbnail: https://img.youtube.com/vi/NV6JGaUJGwE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NV6JGaUJGwE
+  - id: lyuHEVodYXs
+    title: J.S. Bach, Kantate BWV 70 „Wachet! betet! betet! wachet!“ | Kay Johannsen
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2017'
+    duration: '24:06'
+    thumbnail: https://img.youtube.com/vi/lyuHEVodYXs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lyuHEVodYXs

@@ -1,0 +1,91 @@
+bwv: '59'
+title: Wer mich liebet, der wird mein Wort...
+cycle: C1
+occasion: Pentecost
+date: '1724-05-28'
+url: https://en.wikipedia.org/wiki/BWV_59
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: ''
+    instruments: Tromba I/II, Tamburi, Violino I/II, Viola, Continuo
+    de: |-
+      Wer mich liebet, der wird mein Wort halten,
+      und mein Vater wird ihn lieben,
+      und wir werden zu ihm kommen und Wohnung bei ihm machen.
+  - num: 2
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      O, was sind das vor Ehren,
+      Worzu uns Jesus setzt?
+      Der uns so würdig schätzt,
+      Dass er verheißt,
+      Samt Vater und dem heilgen Geist
+      In unsern Herzen einzukehren.
+      O, was sind das vor Ehren?
+      Der Mensch ist Staub,
+      Der Eitelkeit ihr Raub,
+      Der Müh und Arbeit Trauerspiel
+      Und alles Elends Zweck und Ziel.
+      Wie nun? Der Allerhöchste spricht,
+      Er will in unsern Seelen
+      Die Wohnung sich erwählen.
+      Ach, was tut Gottes Liebe nicht?
+      Ach, dass doch, wie er wollte,
+      Ihn auch ein jeder lieben sollte.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Komm, Heiliger Geist, Herre Gott,
+      Erfüll mit deiner Gnaden Gut
+      Deiner Gläubigen Herz, Mut und Sinn.
+      Dein brünstig Lieb entzünd in ihn'n.
+      O Herr, durch deines Lichtes Glanz
+      Zu dem Glauben versammlet hast
+      Das Volk aus aller Welt Zungen;
+      Das sei dir, Herr, zu Lob gesungen.
+      Alleluja, alleluja.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino solo, Continuo
+    de: |-
+      Die Welt mit allen Königreichen,
+      Die Welt mit aller Herrlichkeit
+      Kann dieser Herrlichkeit nicht gleichen,
+      Womit uns unser Gott erfreut:
+      Dass er in unsern Herzen thronet
+      Und wie in einem Himmel wohnet.
+      Ach Gott, wie selig sind wir doch,
+      Wie selig werden wir erst noch,
+      Wenn wir nach dieser Zeit der Erden
+      Bei dir im Himmel wohnen werden.
+scoring: 'Soli: S B, Coro: S A T B, Tromba I/II, Tamburi, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+  opening: Aria
+  closing: Aria
+  voice_profile:
+    S: 1
+    SATB: 1
+    B: 1
+  instrumentation_families:
+    - timpani
+    - tromba
+    - violino_solo
+key: C major
+wiki:
+  summary: "Wer mich liebet, der wird mein Wort halten, BWV\_59, is a church cantata by Johann Sebastian Bach. He composed the cantata for Pentecost and probably first performed it in Leipzig on 28 May 1724, but an earlier performance on 16 May 1723 at the Paulinerkirche, the University Church of Leipzig, is possible."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Leipzig_Universit%C3%A4tskirche.JPG/330px-Leipzig_Universit%C3%A4tskirche.JPG
+  url: https://en.wikipedia.org/wiki/Wer_mich_liebet%2C_der_wird_mein_Wort_halten%2C_BWV_59
+  summary_html: "<p><b><span><i lang=\"de\">Wer mich liebet, der wird mein Wort halten</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>59</b>, is a church cantata by Johann Sebastian Bach. He composed the cantata for Pentecost and probably first performed it in Leipzig on 28 May 1724, but an earlier performance on 16 May 1723 at the <span><span style=\"font-style:normal\">Paulinerkirche</span></span>, the University Church of Leipzig, is possible.</p>"

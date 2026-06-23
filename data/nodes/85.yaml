@@ -1,0 +1,98 @@
+bwv: '85'
+title: Ich bin ein guter Hirt
+cycle: C2
+occasion: Easter II
+date: '1725-04-15'
+url: https://en.wikipedia.org/wiki/BWV_85
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Ich bin ein guter Hirt,
+      ein guter Hirt lässt sein Leben für die Schafe.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Violoncello piccolo, Continuo
+    de: |-
+      Jesus ist ein guter Hirt;
+      Denn er hat bereits sein Leben
+      Für die Schafe hingegeben,
+      Die ihm niemand rauben wird.
+      Jesus ist ein guter Hirt.
+  - num: 3
+    type: Chorale
+    voices: S
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Der Herr ist mein getreuer Hirt,
+      Dem ich mich ganz vertraue,
+      Zur Weid er mich, sein Schäflein, führt
+      Auf schöner grünen Aue,
+      Zum frischen Wasser leit er mich,
+      Mein Seel zu laben kräftiglich
+      Durch selig Wort der Gnaden.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wenn die Mietlinge schlafen,
+      Da wachtet dieser Hirt bei seinen Schafen,
+      So dass ein jedes in gewünschter Ruh
+      Die Trift und Weide kann genießen,
+      In welcher Lebensströme fließen.
+      Denn sucht der Höllenwolf gleich einzudringen,
+      Die Schafe zu verschlingen,
+      So hält ihm dieser Hirt doch seinen Rachen zu.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Seht, was die Liebe tut.
+      Mein Jesus hält in guter Hut
+      Die Seinen feste eingeschlossen
+      Und hat am Kreuzesstamm vergossen
+      Für sie sein teures Blut.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Ist Gott mein Schutz und treuer Hirt,
+      Kein Unglück mich berühren wird:
+      Weicht, alle meine Feinde,
+      Die ihr mir stiftet Angst und Pein,
+      Es wird zu eurem Schaden sein,
+      Ich habe Gott zum Freunde.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Violino I/II, Viola, Violoncello piccolo, Continuo'
+features:
+  structure:
+    - Aria
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 1
+    A: 1
+    S: 1
+    T: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - violoncello_piccolo
+key: A minor
+wiki:
+  summary: "Ich bin ein guter Hirt, BWV\_85, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the second Sunday after Easter and first performed it on 15 April 1725. He wrote the cantata in the second calendar year of his tenure as Thomaskantor that began in May 1723, but he assigned it to his third cantata cycle."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/A_page_from_Ich_bin_ein_guter_Hirt_BWV_85_by_J.S._Bach_%281%29.jpg/330px-A_page_from_Ich_bin_ein_guter_Hirt_BWV_85_by_J.S._Bach_%281%29.jpg
+  url: https://en.wikipedia.org/wiki/Ich_bin_ein_guter_Hirt%2C_BWV_85
+  summary_html: "<p><b><span><i lang=\"de\">Ich bin ein guter Hirt</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>85</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the second Sunday after Easter and first performed it on 15 April 1725. He wrote the cantata in the second calendar year of his tenure as Thomaskantor that began in May 1723, but he assigned it to his third cantata cycle.</p>"

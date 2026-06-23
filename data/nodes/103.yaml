@@ -1,0 +1,106 @@
+bwv: '103'
+title: Ihr werdet weinen und heulen
+cycle: C2
+occasion: Easter III
+date: '1725-04-22'
+url: https://en.wikipedia.org/wiki/BWV_103
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto piccolo, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Chor
+      Ihr werdet weinen und heulen, aber die Welt wird sich freuen.
+      Bass
+      Ihr aber werdet traurig sein.
+      Doch eure Traurigkeit soll in Freude verkehret werden.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wer sollte nicht in Klagen untergehn,
+      Wenn uns der Liebste wird entrissen?
+      Der Seelen Heil, die Zuflucht kranker Herzen
+      Acht nicht auf unsre Schmerzen.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino concertante o Flauto traverso, Continuo
+    de: |-
+      Kein Arzt ist außer dir zu finden,
+      Ich suche durch ganz Gilead;
+      Wer heilt die Wunden meiner Sünden,
+      Weil man hier keinen Balsam hat?
+      Verbirgst du dich, so muss ich sterben.
+      Erbarme dich, ach, höre doch!
+      Du suchest ja nicht mein Verderben,
+      Wohlan, so hofft mein Herze noch.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Du wirst mich nach der Angst auch wiederum erquicken;
+      So will ich mich zu deiner Ankunft schicken,
+      Ich traue dem Verheißungswort,
+      Dass meine Traurigkeit
+      In Freude soll verkehret werden.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Tromba, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Erholet euch, betrübte Sinnen,
+      Ihr tut euch selber allzu weh.
+      Lasst von dem traurigen Beginnen,
+      Eh ich in Tränen untergeh,
+      Mein Jesus lässt sich wieder sehen,
+      O Freude, der nichts gleichen kann!
+      Wie wohl ist mir dadurch geschehen,
+      Nimm, nimm mein Herz zum Opfer an!
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: >-
+      Tromba e Flauto traverso e Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Ich hab dich einen Augenblick,
+      O liebes Kind, verlassen;
+      Sieh aber, sieh, mit großem Glück
+      Und Trost ohn alle Maßen
+      Will ich dir schon die Freudenkron
+      Aufsetzen und verehren;
+      Dein kurzes Leid soll sich in Freud
+      Und ewig Wohl verkehren.
+scoring: 'Soli: A T, Coro: S A T B, Tromba, Flauto piccolo, Flauto traverso, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 1
+    T: 3
+    A: 2
+  instrumentation_families:
+    - flauto_piccolo
+    - flauto_traverso
+    - oboe_damore
+    - tromba
+    - violino_solo
+key: B minor
+wiki:
+  summary: "Ihr werdet weinen und heulen, BWV\_103, is a cantata by Johann Sebastian Bach, a church cantata for the third Sunday after Easter, called Jubilate."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Christiana_Mariana_von_Ziegler.jpg/330px-Christiana_Mariana_von_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Ihr_werdet_weinen_und_heulen%2C_BWV_103
+  summary_html: "<p><b><span><i lang=\"de\">Ihr werdet weinen und heulen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>103</b>, is a cantata by Johann Sebastian Bach, a church cantata for the third Sunday after Easter, called Jubilate.</p>"

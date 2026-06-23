@@ -1,0 +1,103 @@
+bwv: '79'
+title: Gott der Herr ist Sonn und Schild
+cycle: C3
+occasion: Reformation
+date: '1725-10-31'
+url: https://en.wikipedia.org/wiki/BWV_79
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Tamburi, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Gott der Herr ist Sonn und Schild.
+      Der Herr gibt Gnade und Ehre, er wird
+      kein Gutes mangeln lassen den Frommen.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe solo (o, Flauto traverso solo), Continuo
+    de: |-
+      Gott ist unsre Sonn und Schild!
+      Darum rühmet dessen Güte
+      Unser dankbares Gemüte,
+      Die er für sein Häuflein hegt.
+      Denn er will uns ferner schützen,
+      Ob die Feinde Pfeile schnitzen
+      Und ein Lästerhund gleich billt.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Corno I/II, Tamburi, Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col
+      Tenore, Continuo
+    de: |-
+      Nun danket alle Gott
+      Mit Herzen, Mund und Händen,
+      Der große Dinge tut
+      An uns und allen Enden,
+      Der uns von Mutterleib
+      Und Kindesbeinen an
+      Unzählig viel zugut
+      Und noch itzund getan.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gottlob, wir wissen
+      Den rechten Weg zur Seligkeit;
+      Denn, Jesu, du hast ihn uns durch dein Wort gewiesen,
+      Drum bleibt dein Name jederzeit gepriesen.
+      Weil aber viele noch
+      Zu dieser Zeit
+      An fremdem Joch
+      Aus Blindheit ziehen müssen,
+      Ach! so erbarme dich
+      Auch ihrer gnädiglich,
+      Dass sie den rechten Weg erkennen
+      Und dich bloß ihren Mittler nennen.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Continuo
+    de: |-
+      Gott, ach Gott, verlass die Deinen
+      Nimmermehr!
+      Lass dein Wort uns helle scheinen;
+      Obgleich sehr
+      Wider uns die Feinde toben,
+      So soll unser Mund dich loben.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Corno I/II, Tamburi, Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col
+      Tenore, Continuo
+    de: |-
+      Erhalt uns in der Wahrheit,
+      Gib ewigliche Freiheit,
+      Zu preisen deinen Namen
+      Durch Jesum Christum. Amen.
+scoring: 'Soli: S A B, Coro: S A T B, Corno I/II, Tamburi, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    A: 1
+    B: 1
+  instrumentation_families:
+    - corno
+    - flauto_traverso
+    - oboe
+    - timpani
+key: G major

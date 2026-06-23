@@ -1,0 +1,167 @@
+bwv: '74'
+title: Wer mich liebet...
+cycle: C2
+occasion: Pentecost
+date: '1725-05-20'
+url: https://en.wikipedia.org/wiki/BWV_74
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Oboe da caccia, Violino I/II, Viola, Continuo
+    de: |-
+      Wer mich liebet, der wird mein Wort halten,
+      und mein Vater wird ihn lieben,
+      und wir werden zu ihm kommen und Wohnung bei ihm machen.
+  - num: 2
+    type: Aria
+    voices: S
+    instruments: Oboe da caccia, Continuo
+    de: |-
+      Komm, komm, mein Herze steht dir offen,
+      Ach, lass es deine Wohnung sein!
+      Ich liebe dich, so muss ich hoffen:
+      Dein Wort trat itzo bei mir ein;
+      Denn wer dich sucht, fürcht', liebt und ehret,
+      Dem ist der Vater zugetan.
+      Ich zweifle nicht, ich bin erhöret,
+      Dass ich mich dein getrösten kann.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Die Wohnung ist bereit.
+      Du findst ein Herz, das dir allein ergeben,
+      Drum lass mich nicht erleben,
+      Dass du gedenkst, von mir zu gehn.
+      Das lass ich nimmermehr, ach, nimmermehr geschehen!
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Ich gehe hin und komme wieder zu euch.
+      Hättet ihr mich lieb, so würdet ihr euch freuen.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Kommt, eilet, stimmet Sait und Lieder
+      In muntern und erfreuten Ton.
+      Geht er gleich weg, so kömmt er wieder,
+      Der hochgelobte Gottessohn.
+      Der Satan wird indes versuchen,
+      Den Deinigen gar sehr zu fluchen.
+      Er ist mir hinderlich,
+      So glaub ich, Herr, an dich.
+  - num: 6
+    type: Recitative
+    voices: B
+    instruments: Oboe I/II, Oboe da caccia, Continuo
+    de: Es ist nichts Verdammliches an denen, die in Christo Jesu sind.
+  - num: 7
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Oboe da caccia, Violino solo, Violino I/II, Viola, Continuo
+    de: |-
+      Nichts kann mich erretten
+      Von höllischen Ketten
+      Als, Jesu, dein Blut.
+      Dein Leiden, dein Sterben
+      Macht mich ja zum Erben:
+      Ich lache der Wut.
+  - num: 8
+    type: Chorale
+    voices: T
+    instruments: >-
+      Tromba I e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Oboe da caccia e Viola col Tenore,
+      Continuo
+    de: |-
+      Kein Menschenkind hier auf der Erd
+      Ist dieser edlen Gabe wert,
+      Bei uns ist kein Verdienen;
+      Hier gilt gar nichts als Lieb und Gnad,
+      Die Christus uns verdienet hat
+      Mit Büßen und Versühnen.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I/II, Oboe da caccia, Violino solo, Violino I/II, Viola,
+  Continuo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    S: 1
+    A: 2
+    B: 2
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - timpani
+    - tromba
+    - violino_solo
+wiki:
+  summary: "Wer mich liebet, der wird mein Wort halten, BWV\_74, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Pentecost and first performed it on 20 May 1725."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Christiana_Mariana_von_Ziegler.jpg/330px-Christiana_Mariana_von_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Wer_mich_liebet%2C_der_wird_mein_Wort_halten%2C_BWV_74
+  summary_html: "<p><b><span><i lang=\"de\">Wer mich liebet, der wird mein Wort halten</i></span></b>, <b>BWV<span class=\"nowrap\">\_</span>74</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Pentecost and first performed it on 20 May 1725.</p>"
+performances:
+  - id: gg1i5UuCUI8
+    title: J. S. Bach - Cantata BWV 74 "Wer mich liebet, der wird mein Wort halten" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Wort halten
+    year: '2023'
+    duration: '25:51'
+    thumbnail: https://img.youtube.com/vi/gg1i5UuCUI8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gg1i5UuCUI8
+  - id: F8eZqU32eoo
+    title: 'J.S. Bach: Wer mich liebet, der wird mein Wort halten, BWV 74: VII. Aria. Nichts kann mich erretten'
+    channel: Anne Sofie von Otter - Topic
+    performer: Anne Sofie von Otter - Topic
+    place: Wort halten
+    year: '2009'
+    duration: '5:30'
+    thumbnail: https://img.youtube.com/vi/F8eZqU32eoo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=F8eZqU32eoo
+  - id: CkRrZIgLwQ4
+    title: Bach - Kantate BWV 74 »Wer mich liebet, der wird mein Wort halten« | Gaechinger Cantorey | Rademann
+    channel: bachakademie
+    performer: Rademann
+    place: Stuttgart
+    year: ''
+    duration: '22:56'
+    thumbnail: https://img.youtube.com/vi/CkRrZIgLwQ4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CkRrZIgLwQ4
+  - id: SoUsGdrJow0
+    title: BCA074 BWV87 Cantata for 5th Sunday after Easter Richter 1973-74
+    channel: Johann Sebastian
+    performer: Richter
+    place: ''
+    year: '1973'
+    duration: '24:11'
+    thumbnail: https://img.youtube.com/vi/SoUsGdrJow0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SoUsGdrJow0
+  - id: yTOKDbTkMM8
+    title: Thomanerchor Leipzig | "Wer mich liebet, der wird mein Wort halten" (BWV 74) | Bachfest Leipzig 2015
+    channel: CHOR GESANG - Das Musikmagazin
+    performer: CHOR GESANG - Das Musikmagazin
+    place: Leipzig
+    year: '2015'
+    duration: '23:08'
+    thumbnail: https://img.youtube.com/vi/yTOKDbTkMM8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yTOKDbTkMM8
+key: G major

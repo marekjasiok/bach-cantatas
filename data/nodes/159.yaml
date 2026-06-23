@@ -1,0 +1,259 @@
+bwv: '159'
+title: Sehet, wir gehn hinauf gen Jerusalem
+cycle: PICANDER
+occasion: Estomihi
+date: '1729-02-27'
+url: https://en.wikipedia.org/wiki/BWV_159
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Bass
+      Sehet!
+      Alt
+      Komm, schaue doch, mein Sinn,
+      Wo geht dein Jesus hin?
+      Bass
+      Wir gehn hinauf
+      Alt
+      O harter Gang! hinauf?
+      O ungeheurer Berg, den meine Sünden zeigen!
+      Wie sauer wirst du müssen steigen!
+      Bass
+      Gen Jerusalem.
+      Alt
+      Ach, gehe nicht!
+      Dein Kreuz ist dir schon zugericht',
+      Wo du dich sollst zu Tode bluten;
+      Hier sucht man Geißeln vor, dort bindt man Ruten;
+      Die Bande warten dein;
+      Ach, gehe selber nicht hinein!
+      Doch bliebest du zurücke stehen,
+      So müßt ich selbst nicht nach Jerusalem,
+      Ach, leider in die Hölle gehen.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe col Soprano, Fagotto, Continuo
+    de: |-
+      Ich folge dir nach
+      Ich will hier bei dir stehen,
+      Verachte mich doch nicht!
+      Durch Speichel und Schmach;
+      Von dir will ich nicht gehen,
+      Am Kreuz will ich dich noch umfangen,
+      Bis dir dein Herze bricht.
+      Dich lass ich nicht aus meiner Brust,
+      Wenn dein Haupt wird erblassen
+      Im letzten Todesstoß,
+      Und wenn du endlich scheiden musst,
+      Alsdenn will ich dich fassen,
+      Sollst du dein Grab in mir erlangen.
+      In meinen Arm und Schoß.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Nun will ich mich,
+      Mein Jesu, über dich
+      In meinem Winkel grämen;
+      Die Welt mag immerhin
+      Den Gift der Wollust zu sich nehmen,
+      Ich labe mich an meinen Tränen
+      Und will mich eher nicht
+      Nach einer Freude sehnen,
+      Bis dich mein Angesicht
+      Wird in der Herrlichkeit erblicken,
+      Bis ich durch dich erlöset bin;
+      Da will ich mich mit dir erquicken.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Es ist vollbracht,
+      Das Leid ist alle,
+      Wir sind von unserm Sündenfalle
+      In Gott gerecht gemacht.
+      Nun will ich eilen
+      Und meinem Jesu Dank erteilen,
+      Welt, gute Nacht!
+      Es ist vollbracht!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Oboe e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Jesu, deine Passion
+      Ist mir lauter Freude,
+      Deine Wunden, Kron und Hohn
+      Meines Herzens Weide;
+      Meine Seel auf Rosen geht,
+      Wenn ich dran gedenke,
+      In dem Himmel eine Stätt
+      Mir deswegen schenke.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe, Violino I/II, Viola, Fagotto, Continuo'
+features:
+  structure:
+    - Aria
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 2
+    A: 1
+    T: 1
+    SATB: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+wiki:
+  summary: "Sehet, wir gehn hinauf gen Jerusalem, BWV\_159, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the Sunday Estomihi, the last Sunday before Lent, and probably first performed it on 27 February 1729. The gospel reading for the Sunday, from the Gospel of Luke, includes Jesus announcing his suffering and death in Jerusalem. The cantata's theme and Bach's music foreshadow his Passion."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leipzig_Nikolaikirche_um_1850.jpg/330px-Leipzig_Nikolaikirche_um_1850.jpg
+  url: https://en.wikipedia.org/wiki/Sehet%2C_wir_gehn_hinauf_gen_Jerusalem%2C_BWV_159
+  summary_html: "<p><b><span><i lang=\"de\">Sehet, wir gehn hinauf gen Jerusalem</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>159</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the Sunday <span><span style=\"font-style:normal\">Estomihi</span></span>, the last Sunday before Lent, and probably first performed it on 27 February 1729. The gospel reading for the Sunday, from the Gospel of Luke, includes Jesus announcing his suffering and death in Jerusalem. The cantata's theme and Bach's music foreshadow his Passion.</p>"
+performances:
+  - id: OCJidUl_UXM
+    title: J.S. Bach - Cantata BWV 159 "Sehet! Wir gehn hinauf gen Jerusalem" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '19:29'
+    thumbnail: https://img.youtube.com/vi/OCJidUl_UXM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OCJidUl_UXM
+  - id: 4dYe_7MZ7jY
+    title: Bach - Cantata Sehet, wir gehn hinauf BWV 159 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: 22 October 2016
+    duration: '14:34'
+    thumbnail: https://img.youtube.com/vi/4dYe_7MZ7jY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4dYe_7MZ7jY
+  - id: g37yyToAgC4
+    title: Bach - Motet Ich lasse dich nicht BWV anh. 159 - MacLeod | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk
+    year: '2016'
+    duration: '5:10'
+    thumbnail: https://img.youtube.com/vi/g37yyToAgC4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=g37yyToAgC4
+  - id: mtBq0m6-_3w
+    title: J.S Bach - Sehet, wir gehn hinauf gen Jerusalem, BWV 159
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '13:41'
+    thumbnail: https://img.youtube.com/vi/mtBq0m6-_3w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mtBq0m6-_3w
+  - id: xsq2_5z2xDM
+    title: Hin und weg! mit Hans-Christoph Rademann | Kantate BWV 159 »Sehet! Wir gehn hinauf gen Jerusalem«
+    channel: bachakademie
+    performer: Rademann
+    place: Estomihi
+    year: ''
+    duration: '48:00'
+    thumbnail: https://img.youtube.com/vi/xsq2_5z2xDM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xsq2_5z2xDM
+  - id: rziaQH3XcNk
+    title: 'J.S. Bach: Cantata BWV 159 ''Seht wir geh''n hinauf gen Jerusalem'''
+    channel: AVROTROS Klassiek
+    performer: AVROTROS Klassiek
+    place: Salzburg
+    year: ''
+    duration: '14:20'
+    thumbnail: https://img.youtube.com/vi/rziaQH3XcNk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rziaQH3XcNk
+  - id: DPI8QKWxkNs
+    title: Derek Welton - Bach Cantata BWV 159 - 4 Aria - Es ist vollbracht!
+    channel: Derek Welton
+    performer: Derek Welton
+    place: ''
+    year: 5 May 2009
+    duration: '5:14'
+    thumbnail: https://img.youtube.com/vi/DPI8QKWxkNs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DPI8QKWxkNs
+  - id: olE-9Hd_NrE
+    title: 'J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. Ólafsson for Piano)'
+    channel: Víkingur Ólafsson
+    performer: Víkingur Ólafsson
+    place: Berlin
+    year: '2024'
+    duration: '4:29'
+    thumbnail: https://img.youtube.com/vi/olE-9Hd_NrE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=olE-9Hd_NrE
+  - id: b4VBH4KYB2Q
+    title: J.S. Bach - Motet BWV 159 & Concerto from Cantata BWV 35 (RIAS Kammerchor, Akademie für Alte Musik)
+    channel: EuroArtsChannel
+    performer: Rademann
+    place: Berlin
+    year: '2008'
+    duration: '10:40'
+    thumbnail: https://img.youtube.com/vi/b4VBH4KYB2Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=b4VBH4KYB2Q
+  - id: AAF7yHzE5Lo
+    title: MacLeod and Baker on Bach Motet Ich lasse dich nicht BWV anh. 159 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk
+    year: '2016'
+    duration: '3:58'
+    thumbnail: https://img.youtube.com/vi/AAF7yHzE5Lo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AAF7yHzE5Lo
+  - id: cobbg7ncPy4
+    title: Bach – Kantate BWV 159 »Sehet! Wir gehn hinauf... « | Gaechinger Cantorey | Hans-Christoph Rademann
+    channel: bachakademie
+    performer: Rademann
+    place: Sinn
+    year: ''
+    duration: '16:19'
+    thumbnail: https://img.youtube.com/vi/cobbg7ncPy4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=cobbg7ncPy4
+  - id: RtlNkqldt_w
+    title: 'Sehet, wir geh''n hinauf gen Jerusalem, BWV 159: IV. Es ist vollbracht'
+    channel: Benjamin Appl - Topic
+    performer: Benjamin Appl - Topic
+    place: ''
+    year: '2018'
+    duration: '6:17'
+    thumbnail: https://img.youtube.com/vi/RtlNkqldt_w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RtlNkqldt_w
+  - id: qApd2Ww5NdY
+    title: 'Sehet, wir geh''n hinauf gen Jerusalem, BWV 159: No. 4, Aria. "Es ist vollbracht"'
+    channel: Dietrich Fischer-Dieskau - Topic
+    performer: Dietrich Fischer-Dieskau - Topic
+    place: Berlin
+    year: '1958'
+    duration: '7:56'
+    thumbnail: https://img.youtube.com/vi/qApd2Ww5NdY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qApd2Ww5NdY
+  - id: _m3LGMtPMTw
+    title: 'Sehet, wir geh''n hinauf gen Jerusalem, BWV 159: No. 4, Es ist vollbracht (Live)'
+    channel: Monteverdi Choir - Topic
+    performer: Gardiner
+    place: ''
+    year: '2000'
+    duration: '7:24'
+    thumbnail: https://img.youtube.com/vi/_m3LGMtPMTw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_m3LGMtPMTw
+  - id: lMe7FB4D5YY
+    title: BACH cantata BWV 159 (aria “Es ist vollbracht”) - LES AMBASSADEURS
+    channel: Les Ambassadeurs - La Grande Ecurie / Kossenko
+    performer: Les Ambassadeurs - La Grande Ecurie / Kossenko
+    place: In God restored to right
+    year: ''
+    duration: '7:44'
+    thumbnail: https://img.youtube.com/vi/lMe7FB4D5YY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lMe7FB4D5YY
+key: G minor

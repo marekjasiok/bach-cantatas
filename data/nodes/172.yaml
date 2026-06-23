@@ -1,0 +1,271 @@
+bwv: '172'
+title: Erschallet, ihr Lieder
+cycle: EARLY
+occasion: Pentecost
+date: '1714-05-20'
+url: https://en.wikipedia.org/wiki/BWV_172
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Violino I/II, Viola I/II, Fagotto, Continuo
+    de: |-
+      Erschallet, ihr Lieder, erklinget, ihr Saiten!
+      O seligste Zeiten!
+      Gott will sich die Seelen zu Tempeln bereiten.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wer mich liebet, der wird mein Wort halten,
+      und mein Vater wird ihn lieben, und wir werden zu ihm kommen und
+      Wohnung bei ihm machen.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Tromba I-III, Tamburi, Fagotto, Continuo
+    de: |-
+      Heiligste Dreieinigkeit,
+      Großer Gott der Ehren,
+      Komm doch, in der Gnadenzeit
+      Bei uns einzukehren,
+      Komm doch in die Herzenshütten,
+      Sind sie gleich gering und klein,
+      Komm und lass dich doch erbitten,
+      Komm und ziehe bei uns ein!
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola I/II, Continuo
+    de: |-
+      O Seelenparadies,
+      Das Gottes Geist durchwehet,
+      Der bei der Schöpfung blies,
+      Der Geist, der nie vergehet;
+      Auf, auf, bereite dich,
+      Der Tröster nahet sich.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Oboe, Violoncello obligato
+    de: |-
+      Seele (S), Heiliger Geist (A)
+      Sopran
+      Komm, lass mich nicht länger warten,
+      Komm, du sanfter Himmelswind,
+      Wehe durch den Herzensgarten!
+      Alt
+      Ich erquicke dich, mein Kind.
+      Sopran
+      Liebste Liebe, die so süße,
+      Aller Wollust Überfluss,
+      Ich vergeh, wenn ich dich misse.
+      Alt
+      Nimm von mir den Gnadenkuss.
+      Sopran
+      Sei im Glauben mir willkommen,
+      Höchste Liebe, komm herein!
+      Du hast mir das Herz genommen.
+      Alt
+      Ich bin dein, und du bist mein!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Violino I/II, Viola I/II, Fagotto, Continuo
+    de: |-
+      Von Gott kömmt mir ein Freudenschein,
+      Wenn du mit deinen Äugelein
+      Mich freundlich tust anblicken.
+      O Herr Jesu, mein trautes Gut,
+      Dein Wort, dein Geist, dein Leib und Blut
+      Mich innerlich erquicken.
+      Nimm mich
+      Freundlich
+      In dein Arme, dass ich warme werd von Gnaden:
+      Auf dein Wort komm ich geladen.
+  - num: 7
+    type: Chorus
+    voices: SATB
+    instruments: ''
+    de: |-
+      Erschallet, ihr Lieder, erklinget, ihr Saiten!
+      O seligste Zeiten!
+      Gott will sich die Seelen zu Templen bereiten.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe, Violino I/II, Viola I/II, Fagotto, Fagotto, Violoncello,
+  Organo obligato, Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    T: 2
+    B: 2
+    SATB: 2
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - timpani
+    - tromba
+    - violoncello
+key: C major
+wiki:
+  summary: >-
+    Erschallet, ihr Lieder, erklinget, ihr Saiten!, BWV 172, is a church cantata by Johann Sebastian Bach, composed in
+    Weimar for Pentecost Sunday in 1714. Bach led the first performance on 20 May 1714 in the Schlosskirche, the court
+    chapel in the ducal Schloss. Erschallet, ihr Lieder is an early work in a genre to which he later contributed
+    complete cantata cycles for all occasions of the liturgical year.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Erschallet%2C_ihr_Lieder%2C_erklinget%2C_ihr_Saiten!_BWV_172
+  summary_html: >-
+    <p><b><span><i lang="de">Erschallet, ihr Lieder, erklinget, ihr Saiten!</i></span></b>, <b><span class="nowrap">BWV
+    172</span></b>, is a church cantata by Johann Sebastian Bach, composed in Weimar for Pentecost Sunday in 1714. Bach
+    led the first performance on 20 May 1714 in the <span><span style="font-style:normal">Schlosskirche</span></span>,
+    the court chapel in the ducal Schloss. <i>Erschallet, ihr Lieder</i> is an early work in a genre to which he later
+    contributed complete cantata cycles for all occasions of the liturgical year.</p>
+performances:
+  - id: OVpkgUL_1YY
+    title: J.S. Bach - Cantata BWV 172 "Erschallet, ihr Lieder, erklinget, ihr Saiten!" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2007'
+    duration: '19:49'
+    thumbnail: https://img.youtube.com/vi/OVpkgUL_1YY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OVpkgUL_1YY
+  - id: DLEPfRxzX_s
+    title: Bach - Cantata Erschallet, ihr Lieder BWV 172 - René Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '18:32'
+    thumbnail: https://img.youtube.com/vi/DLEPfRxzX_s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DLEPfRxzX_s
+  - id: SLot19EqhDo
+    title: Bach - Kantate BWV 172 »Erschallet, ihr Lieder« (Fassung in D-Dur) | Gaechinger Cantorey | Rademann
+    channel: bachakademie
+    performer: Rademann
+    place: Leipzig
+    year: ''
+    duration: '22:02'
+    thumbnail: https://img.youtube.com/vi/SLot19EqhDo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SLot19EqhDo
+  - id: NCJP8wLr1Rs
+    title: Bach Collegium San Diego | Erschallet, ihr lieder (from BWV 172) J.S. Bach
+    channel: bachcollegiumsd
+    performer: bachcollegiumsd
+    place: ''
+    year: '2016'
+    duration: '4:12'
+    thumbnail: https://img.youtube.com/vi/NCJP8wLr1Rs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NCJP8wLr1Rs
+  - id: dIaLrdOm3G0
+    title: J.S. Bach / Erschallet, ihr Lieder, erklinget, ihr Saiten, BWV 172 (Rifkin)
+    channel: scrymgeour34
+    performer: scrymgeour34
+    place: Weimar
+    year: '1995'
+    duration: '22:07'
+    thumbnail: https://img.youtube.com/vi/dIaLrdOm3G0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dIaLrdOm3G0
+  - id: Rq5oWEBesC8
+    title: Cantata BWV 172 "Erschallet, ihr Lieder, erklinget, ihr Saiten"
+    channel: Diego Schuck Biasibetti
+    performer: Diego Schuck Biasibetti
+    place: ''
+    year: ''
+    duration: '20:53'
+    thumbnail: https://img.youtube.com/vi/Rq5oWEBesC8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Rq5oWEBesC8
+  - id: t29zj_VibTk
+    title: Bach in Leipzig with John Butt - BWV 172 Erschallet, ihr Lieder, erklinget, ihr Saiten! (mvt 1)
+    channel: Royal Academy of Music
+    performer: Royal Academy of Music
+    place: Leipzig series
+    year: 3 July 2022
+    duration: '3:50'
+    thumbnail: https://img.youtube.com/vi/t29zj_VibTk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=t29zj_VibTk
+  - id: rfikvrITXNI
+    title: 'J.S. Bach: Erschallet, ihr Lieder - BWV 172 {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Schlosskirche
+    year: ''
+    duration: '19:45'
+    thumbnail: https://img.youtube.com/vi/rfikvrITXNI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rfikvrITXNI
+  - id: v9EHoVs0raw
+    title: BACH Cantata BWV 172 - Elias MÄDLER & Lionel WUNSCH - Duet "Komm, laß mich nicht länger warten"
+    channel: parisBbg
+    performer: parisBbg
+    place: ''
+    year: December 2017
+    duration: '4:13'
+    thumbnail: https://img.youtube.com/vi/v9EHoVs0raw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=v9EHoVs0raw
+  - id: 5IcINoPp1EA
+    title: 'J.S.Bach: Kantate „Erschallet, ihr Lieder“ BWV 172 | Concentus Musicus Wien | Melk 2017'
+    channel: "Concentus Musicus Wien |\_Concentus Musicus Vienna"
+    performer: Harnoncourt
+    place: Wort halten
+    year: '2017'
+    duration: '21:08'
+    thumbnail: https://img.youtube.com/vi/5IcINoPp1EA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5IcINoPp1EA
+  - id: zQVPf51ExrA
+    title: BWV 172 "Erschallet, ihr Lieder, erklinget, ihr Saiten!"
+    channel: toknfan
+    performer: toknfan
+    place: Altenberger Dom
+    year: May 2011
+    duration: '3:44'
+    thumbnail: https://img.youtube.com/vi/zQVPf51ExrA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zQVPf51ExrA
+  - id: I5X89TsW4To
+    title: BWV 172 - Erschallet, ihr Lieder, erklinget, ihr Saiten! (Scrolling)
+    channel: gerubach
+    performer: gerubach
+    place: ''
+    year: ''
+    duration: '17:48'
+    thumbnail: https://img.youtube.com/vi/I5X89TsW4To/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=I5X89TsW4To
+  - id: 2Y5yOiSEbYo
+    title: Workshop on BWV 172 "Erschallet, ihr Lieder, erklinget, ihr Saiten" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: ''
+    duration: '45:27'
+    thumbnail: https://img.youtube.com/vi/2Y5yOiSEbYo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2Y5yOiSEbYo
+  - id: jGlntpJ2YiE
+    title: J.S.Bach "Erschallet ihr Lieder" BWV 172  - Eingangs Chor
+    channel: UniChor & UniOrchester Mainz
+    performer: UniChor & UniOrchester Mainz
+    place: Leipzig
+    year: '2022'
+    duration: '4:04'
+    thumbnail: https://img.youtube.com/vi/jGlntpJ2YiE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jGlntpJ2YiE
+  - id: bQnl8iJOXwE
+    title: 'Bach: Cantata No. 172 - Koopman'
+    channel: pannonia77
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '19:51'
+    thumbnail: https://img.youtube.com/vi/bQnl8iJOXwE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bQnl8iJOXwE

@@ -1,0 +1,177 @@
+bwv: '43'
+title: Gott fähret auf mit Jauchzen
+cycle: C3
+occasion: Ascension
+date: '1726-05-30'
+url: https://en.wikipedia.org/wiki/BWV_43
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Gott fähret auf mit Jauchzen
+      und der Herr mit heller Posaunen.
+      Lobsinget, lobsinget Gott,
+      lobsinget, lobsinget unserm Könige.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Es will der Höchste sich ein Siegsgepräng bereiten,
+      Da die Gefängnisse er selbst gefangen führt.
+      Wer jauchzt ihm zu? Wer ists, der die Posaunen rührt?
+      Wer gehet ihm zur Seiten?
+      Ist es nicht Gottes Heer,
+      Das seines Namens Ehr,
+      Heil, Preis, Reich, Kraft und Macht mit lauter Stimme singet
+      Und ihm nun ewiglich ein Halleluja bringet.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II all' unisono, Continuo
+    de: |-
+      Ja tausend mal tausend begleiten den Wagen,
+      Dem König der Kön'ge lobsingend zu sagen,
+      Dass Erde und Himmel sich unter ihm schmiegt
+      Und was er bezwungen, nun gänzlich erliegt.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Und der Herr, nachdem er mit ihnen geredet hatte,
+      ward er aufgehaben gen Himmel und sitzet zur rechten Hand Gottes.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Mein Jesus hat nunmehr
+      Das Heilandwerk vollendet
+      Und nimmt die Wiederkehr
+      Zu dem, der ihn gesendet.
+      Er schließt der Erde Lauf,
+      Ihr Himmel, öffnet euch
+      Und nehmt ihn wieder auf!
+  - num: 6
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Es kommt der Helden Held,
+      Des Satans Fürst und Schrecken,
+      Der selbst den Tod gefällt,
+      Getilgt der Sünden Flecken,
+      Zerstreut der Feinde Hauf;
+      Ihr Kräfte, eilt herbei
+      Und holt den Sieger auf.
+  - num: 7
+    type: Aria
+    voices: B
+    instruments: Tromba, Continuo
+    de: |-
+      Er ists, der ganz allein
+      Die Kelter hat getreten
+      Voll Schmerzen, Qual und Pein,
+      Verlorne zu erretten
+      Durch einen teuren Kauf.
+      Ihr Thronen, mühet euch
+      Und setzt ihm Kränze auf!
+  - num: 8
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Der Vater hat ihm ja
+      Ein ewig Reich bestimmet:
+      Nun ist die Stunde nah,
+      Da er die Krone nimmet
+      Vor tausend Ungemach.
+      Ich stehe hier am Weg
+      Und schau ihm freudig nach.
+  - num: 9
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Ich sehe schon im Geist,
+      Wie er zu Gottes Rechten
+      Auf seine Feinde schmeißt,
+      Zu helfen seinen Knechten
+      Aus Jammer, Not und Schmach.
+      Ich stehe hier am Weg
+      Und schau ihm sehnlich nach.
+  - num: 10
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Er will mir neben sich
+      Die Wohnung zubereiten,
+      Damit ich ewiglich
+      Ihm stehe an der Seiten,
+      Befreit von Weh und Ach!
+      Ich stehe hier am Weg
+      Und ruf ihm dankbar nach.
+  - num: 11
+    type: Chorale
+    voices: T
+    instruments: Tromba I/II e Oboe I/II e Violino I col Soprano, Tromba III e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Du Lebensfürst, Herr Jesu Christ,
+      Der du bist aufgenommen
+      Gen Himmel, da dein Vater ist
+      Und die Gemein der Frommen,
+      Wie soll ich deinen großen Sieg,
+      Den du durch einen schweren Krieg
+      Erworben hast, recht preisen
+      Und dir g'nug Ehr erweisen?
+      Zieh uns dir nach, so laufen wir,
+      Gib uns des Glaubens Flügel!
+      Hilf, dass wir fliehen weit von hier
+      Auf Israelis Hügel!
+      Mein Gott! wenn fahr ich doch dahin,
+      Woselbst ich ewig fröhlich bin?
+      Wenn werd ich vor dir stehen,
+      Dein Angesicht zu sehen?
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 4
+    S: 3
+    B: 2
+    A: 2
+  instrumentation_families:
+    - oboe
+    - timpani
+    - tromba
+wiki:
+  summary: >-
+    Gott fähret auf mit Jauchzen, BWV 43, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for
+    the Feast of the Ascension, and led the first performance on 30 May 1726. The work is part of Bach's third cantata
+    cycle.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gott_f%C3%A4hret_auf_mit_Jauchzen%2C_BWV_43_by_J.S._Bach_%281%29.png/330px-Gott_f%C3%A4hret_auf_mit_Jauchzen%2C_BWV_43_by_J.S._Bach_%281%29.png
+  url: https://en.wikipedia.org/wiki/Gott_f%C3%A4hret_auf_mit_Jauchzen%2C_BWV_43
+  summary_html: >-
+    <p><b><span><i lang="de">Gott fähret auf mit Jauchzen</i></span></b>, <b><span class="nowrap">BWV 43</span></b>, is
+    a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the Feast of the Ascension, and led the
+    first performance on 30 May 1726. The work is part of Bach's third cantata cycle.</p>
+key: C major

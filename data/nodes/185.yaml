@@ -1,0 +1,166 @@
+bwv: '185'
+title: Barmherziges Herze der ewigen Liebe
+cycle: EARLY
+occasion: Trinity IV
+date: '1715-07-14'
+url: https://en.wikipedia.org/wiki/BWV_185
+movements:
+  - num: 1
+    type: Aria
+    voices: S, T
+    instruments: Oboe (o, Tromba), Continuo
+    de: |-
+      Barmherziges Herze der ewigen Liebe,
+      Errege, bewege mein Herze durch dich;
+      Damit ich Erbarmen und Gütigkeit übe,
+      O Flamme der Liebe, zerschmelze du mich!
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Ihr Herzen, die ihr euch
+      In Stein und Fels verkehret,
+      Zerfließt und werdet weich,
+      Erwägt, was euch der Heiland lehret,
+      Übt, übt Barmherzigkeit
+      Und sucht noch auf der Erden
+      Dem Vater gleich zu werden!
+      Ach! greifet nicht durch das verbotne Richten
+      Dem Allerhöchsten ins Gericht,
+      Sonst wird sein Eifer euch zernichten.
+      Vergebt, so wird euch auch vergeben;
+      Gebt, gebt in diesem Leben;
+      Macht euch ein Kapital,
+      Das dort einmal
+      Gott wiederzahlt mit reichen Interessen;
+      Denn wie ihr messt, wird man euch wieder messen.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Sei bemüht in dieser Zeit,
+      Seele, reichlich auszustreuen,
+      Soll die Ernte dich erfreuen
+      In der reichen Ewigkeit,
+      Wo, wer Gutes ausgesäet,
+      Fröhlich nach den Garben gehet.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Fagotto, Continuo
+    de: |-
+      Die Eigenliebe schmeichelt sich!
+      Bestrebe dich,
+      Erst deinen Balken auszuziehen,
+      Denn magst du dich um Splitter auch bemühen,
+      Die in des Nächsten Augen sein.
+      Ist gleich dein Nächster nicht vollkommen rein,
+      So wisse, dass auch du kein Engel,
+      Verbessre deine Mängel!
+      Wie kann ein Blinder mit dem andern
+      Doch recht und richtig wandern?
+      Wie, fallen sie zu ihrem Leide
+      Nicht in die Gruben alle beide?
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Fagotto, Continuo
+    de: |-
+      Das ist der Christen Kunst:
+      Nur Gott und sich erkennen,
+      Von wahrer Liebe brennen,
+      Nicht unzulässig richten,
+      Noch fremdes Tun vernichten,
+      Des Nächsten nicht vergessen,
+      Mit reichem Maße messen:
+      Das macht bei Gott und Menschen Gunst,
+      Das ist der Christen Kunst.
+  - num: 6
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Oboe (Tromba) col Soprano, Violino II coll'Alto, Viola col Tenore, Fagotto col Basso, Violino I, Continuo
+    de: |-
+      Ich ruf zu dir, Herr Jesu Christ,
+      Ich bitt, erhör mein Klagen,
+      Verleih mir Gnad zu dieser Frist,
+      Laß mich doch nicht verzagen;
+      Den rechten Weg, o Herr, ich mein,
+      Den wollest du mir geben,
+      Dir zu leben,
+      Mein'm Nächsten nütz zu sein,
+      Dein Wort zu halten eben.
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    S, T: 1
+    A: 2
+    B: 2
+    S, A, T, B: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - tromba
+edges: {}
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Barmherziges Herze der ewigen Liebe, BWV\_185 in Weimar for the fourth Sunday after Trinity and first performed it on 14 July 1715."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Barmherziges_Herze_der_ewigen_Liebe%2C_BWV_185
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Barmherziges Herze der ewigen Liebe</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>185</b> in Weimar for the fourth Sunday after Trinity and first performed it on 14 July 1715.</p>"
+performances:
+  - id: gvK3bcnoCrk
+    title: Bach - Cantata Barmherziges Herze der ewigen Liebe BWV 185 - Bernardini | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Walloon Church
+    year: '2014'
+    duration: '14:05'
+    thumbnail: https://img.youtube.com/vi/gvK3bcnoCrk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gvK3bcnoCrk
+  - id: YP3m_8nzOVc
+    title: J.S. Bach - Cantata BWV 185 "Barmherziges Herze der ewigen Liebe" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '16:54'
+    thumbnail: https://img.youtube.com/vi/YP3m_8nzOVc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YP3m_8nzOVc
+  - id: r5iCP6KNXpg
+    title: 'J.S. Bach: Barmherziges Herze der ewigen Liebe, BWV 185 {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Weimar
+    year: ''
+    duration: '14:32'
+    thumbnail: https://img.youtube.com/vi/r5iCP6KNXpg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=r5iCP6KNXpg
+  - id: 5jqyb2cq2aY
+    title: 'J. S. Bach: Barmherziges Herze der ewigen Liebe (BWV 185) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Stein und Fels verkehret
+    year: ''
+    duration: '14:41'
+    thumbnail: https://img.youtube.com/vi/5jqyb2cq2aY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5jqyb2cq2aY
+  - id: cO4P755v6I4
+    title: J. S. Bach - Aria "Barmherziges Herze der ewigen Liebe" from Cantata BWV 185 (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '4:14'
+    thumbnail: https://img.youtube.com/vi/cO4P755v6I4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=cO4P755v6I4
+key: A minor

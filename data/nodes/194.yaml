@@ -1,0 +1,375 @@
+bwv: '194'
+title: Höchsterwünschtes Freudenfest
+cycle: C1
+occasion: Trinity
+date: '1724-06-04'
+url: https://en.wikipedia.org/wiki/BWV_194
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I-III, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Höchsterwünschtes Freudenfest,
+      Das der Herr zu seinem Ruhme
+      Im erbauten Heiligtume
+      Uns vergnügt begehen lässt.
+      Höchsterwünschtes Freudenfest!
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Unendlich großer Gott, ach wende dich
+      Zu uns, zu dem erwähleten Geschlechte,
+      Und zum Gebete deiner Knechte!
+      Ach, lass vor dich
+      Durch ein inbrünstig Singen
+      Der Lippen Opfer bringen!
+      Wir weihen unsre Brust dir offenbar
+      Zum Dankaltar.
+      Du, den kein Haus, kein Tempel fasst,
+      Da du kein Ziel noch Grenzen hast,
+      Lass dir dies Haus gefällig sein, es sei dein Angesicht
+      Ein wahrer Gnadenstuhl, ein Freudenlicht.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Oboe I, Violino I/II, Viola, Continuo
+    de: |-
+      Was des Höchsten Glanz erfüllt,
+      Wird in keine Nacht verhüllt,
+      Was des Höchsten heilges Wesen
+      Sich zur Wohnung auserlesen,
+      Wird in keine Nacht verhüllt,
+      Was des Höchsten Glanz erfüllt.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Wie könnte dir, du höchstes Angesicht,
+      Da dein unendlich helles Licht
+      Bis in verborgne Gründe siehet,
+      Ein Haus gefällig sein?
+      Es schleicht sich Eitelkeit allhie an allen Enden ein.
+      Wo deine Herrlichkeit einziehet,
+      Da muss die Wohnung rein
+      Und dieses Gastes würdig sein.
+      Hier wirkt nichts Menschenkraft,
+      Drum lass dein Auge offenstehen
+      Und gnädig auf uns gehen;
+      So legen wir in heilger Freude dir
+      Die Farren und die Opfer unsrer Lieder
+      Vor deinem Throne nieder
+      Und tragen dir den Wunsch in Andacht für.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Hilf, Gott, dass es uns gelingt,
+      Und dein Feuer in uns dringt,
+      Dass es auch in dieser Stunde
+      Wie in Esaiae Munde
+      Seiner Wirkung Kraft erhält
+      Und uns heilig vor dich stellt.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Heilger Geist ins Himmels Throne,
+      Gleicher Gott von Ewigkeit
+      Mit dem Vater und dem Sohne,
+      Der Betrübten Trost und Freud!
+      Allen Glauben, den ich find,
+      Hast du in mir angezündt,
+      Über mir in Gnaden walte,
+      Ferner deine Gnad erhalte.
+      Deine Hilfe zu mir sende,
+      O du edler Herzensgast!
+      Und das gute Werk vollende,
+      Das du angefangen hast.
+      Blas in mir das Fünklein auf,
+      Bis dass nach vollbrachtem Lauf
+      Ich den Auserwählten gleiche
+      Und des Glaubens Ziel erreiche.
+  - num: 7
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ihr Heiligen, erfreuet euch,
+      Eilt, eilet, euren Gott zu loben:
+      Das Herze sei erhoben
+      Zu Gottes Ehrenreich,
+      Von dannen er auf dich,
+      Du heilge Wohnung, siehet
+      Und ein gereinigt Herz zu sich
+      Von dieser eitlen Erde ziehet.
+      Ein Stand, so billig selig heißt,
+      Man schaut hier Vater, Sohn und Geist.
+      Wohlan, ihr gotterfüllte Seelen!
+      Ihr werdet nun das beste Teil erwählen;
+      Die Welt kann euch kein Labsal geben,
+      Ihr könnt in Gott allein vergnügt und selig leben.
+  - num: 8
+    type: Aria
+    voices: T
+    instruments: Continuo
+    de: |-
+      Des Höchsten Gegenwart allein
+      Kann unsrer Freuden Ursprung sein.
+      Vergehe, Welt, mit deiner Pracht,
+      In Gott ist, was uns glücklich macht!
+  - num: 9
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Bass
+      Kann wohl ein Mensch zu Gott im Himmel steigen?
+      Sopran
+      Der Glaube kann den Schöpfer zu ihm neigen.
+      Bass
+      Er ist oft ein zu schwaches Band.
+      Sopran
+      Gott führet selbst und stärkt des Glaubens Hand,
+      Den Fürsatz zu erreichen.
+      Bass
+      Wie aber, wenn des Fleisches Schwachheit wollte weichen?
+      Sopran
+      Des Höchsten Kraft wird mächtig in den Schwachen.
+      Bass
+      Die Welt wird sie verlachen.
+      Sopran
+      Wer Gottes Huld besitzt, verachtet solchen Spott.
+      Bass
+      Was wird ihr außer diesen fehlen!
+      Sopran
+      Ihr einzger Wunsch, ihr alles ist in Gott.
+      Bass
+      Gott ist unsichtbar und entfernet:
+      Sopran
+      Wohl uns, dass unser Glaube lernet,
+      Im Geiste seinen Gott zu schauen.
+      Bass
+      Ihr Leib hält sie gefangen.
+      Sopran
+      Des Höchsten Huld befördert ihr Verlangen,
+      Denn er erbaut den Ort, da man ihn herrlich schaut.
+      beide
+      Da er den Glauben nun belohnt
+      Und bei uns wohnt,
+      Bei uns als seinen Kindern,
+      So kann die Welt und Sterblichkeit die Freude nicht vermindern.
+  - num: 10
+    type: Aria
+    voices: ''
+    instruments: Oboe I/II, Continuo
+    de: |-
+      O wie wohl ist uns geschehn,
+      Dass sich Gott ein Haus ersehn!
+      Schmeckt und sehet doch zugleich,
+      Gott sei freundlich gegen euch.
+      Schüttet eure Herzen aus
+      Hier vor Gottes Thron und Haus!
+  - num: 11
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wohlan demnach, du heilige Gemeine,
+      Bereite dich zur heilgen Lust!
+      Gott wohnt nicht nur in einer jeden Brust,
+      Er baut sich hier ein Haus.
+      Wohlan, so rüstet euch mit Geist und Gaben aus,
+      Dass ihm sowohl dein Herz als auch dies Haus gefalle!
+  - num: 12
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Sprich Ja zu meinen Taten,
+      Hilf selbst das Beste raten;
+      Den Anfang, Mittl und Ende,
+      Ach, Herr, zum besten wende!
+      Mit Segen mich beschütte,
+      Mein Herz sei deine Hütte,
+      Dein Wort sei meine Speise,
+      Bis ich gen Himmel reise!
+scoring: 'Soli: S T B, Coro: S A T B, Oboe I-III, Violino I/II, Viola, Fagotto, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    B: 3
+    S: 2
+    T: 2
+  instrumentation_families:
+    - fagotto
+    - oboe
+key: B♭ major
+wiki:
+  summary: >-
+    Höchsterwünschtes Freudenfest, BWV 194, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for
+    dedication of the church and organ at Störmthal on 2 November 1723.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hildebrandt-Orgel_St%C3%B6rmthal.jpg/330px-Hildebrandt-Orgel_St%C3%B6rmthal.jpg
+  url: https://en.wikipedia.org/wiki/H%C3%B6chsterw%C3%BCnschtes_Freudenfest%2C_BWV_194
+  summary_html: >-
+    <p><b><span><i lang="de">Höchsterwünschtes Freudenfest</i></span></b>, <b><span class="nowrap">BWV 194</span></b>,
+    is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for dedication of the church and organ at
+    Störmthal on 2 November 1723.</p>
+performances:
+  - id: rN_6VqK-6hc
+    title: 'Bach: Höchsterwünschtes Freudenfest, BWV 194 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Halle
+    year: '2023'
+    duration: '38:40'
+    thumbnail: https://img.youtube.com/vi/rN_6VqK-6hc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rN_6VqK-6hc
+  - id: 2Ji30aKatgE
+    title: Bach - Cantate BWV 194 - Höchsterwünschtes Freudenfest
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Mensch
+    year: '1987'
+    duration: '39:13'
+    thumbnail: https://img.youtube.com/vi/2Ji30aKatgE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2Ji30aKatgE
+  - id: dPOQeQtfK9g
+    title: BACH CANTATA BWV 194 Höchsterwünschtes Freudenfest
+    channel: COLLEGIUM MUSICUM
+    performer: COLLEGIUM MUSICUM
+    place: ''
+    year: ''
+    duration: '39:34'
+    thumbnail: https://img.youtube.com/vi/dPOQeQtfK9g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dPOQeQtfK9g
+  - id: nvAoLeRR8To
+    title: Johann Sebastian Bach - BWV 194 Cantata 'Höchsterwünschtes Freudenfest' in B-flat major
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Gewandhaus
+    year: ''
+    duration: '38:13'
+    thumbnail: https://img.youtube.com/vi/nvAoLeRR8To/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=nvAoLeRR8To
+  - id: Mqah_RxpdRU
+    title: Bach - Höchsterwünschtes Freudenfest - BWV 194
+    channel: BEST OF CLASSICAL MUSIC
+    performer: BEST OF CLASSICAL MUSIC
+    place: ''
+    year: ''
+    duration: '18:37'
+    thumbnail: https://img.youtube.com/vi/Mqah_RxpdRU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Mqah_RxpdRU
+  - id: EJoxRfNH5no
+    title: J.S. Bach - BWV 194 (O greatly longed-for feast of joy)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '47:22'
+    thumbnail: https://img.youtube.com/vi/EJoxRfNH5no/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=EJoxRfNH5no
+  - id: gkYmKtxOf40
+    title: 'JSBach : Kantate BWV 194 : Höchsterwünschtes Freuedenfest : L''Harmonie des saisons : March 2023'
+    channel: Eric Milnes
+    performer: Eric Milnes
+    place: ''
+    year: March 2023
+    duration: '34:20'
+    thumbnail: https://img.youtube.com/vi/gkYmKtxOf40/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gkYmKtxOf40
+  - id: F5mM3agXzDk
+    title: 'J.S. Bach: Höchsterwünschtes Freudenfest, BWV 194 {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Herz
+    year: ''
+    duration: '36:44'
+    thumbnail: https://img.youtube.com/vi/F5mM3agXzDk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=F5mM3agXzDk
+  - id: 14C8h93wrIE
+    title: J.S. Bach - cantate BWV 194 'Höchsterwünschtes Freudenfest' Stichting Rondom de Cantates Amersfoort
+    channel: Rondom de Cantates Amersfoort
+    performer: Rondom de Cantates Amersfoort
+    place: ''
+    year: '2019'
+    duration: '8:20'
+    thumbnail: https://img.youtube.com/vi/14C8h93wrIE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=14C8h93wrIE
+  - id: k0-pnypEibc
+    title: J. S. Bach - The First Cantata Year, Vol. 5 (BWV 194.2, 60, 90, 70.2, 61, 63) – H.- Ch. Rademann
+    channel: Miguel Zampedri
+    performer: Rademann
+    place: 'No'
+    year: ''
+    duration: '2:09:06'
+    thumbnail: https://img.youtube.com/vi/k0-pnypEibc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=k0-pnypEibc
+  - id: Qo5Ry2fU2vE
+    title: Bach's Cantata BWV 194 - Maastricht
+    channel: Larry's Drone Zone
+    performer: Larry's Drone Zone
+    place: Stormthal
+    year: '2023'
+    duration: '39:18'
+    thumbnail: https://img.youtube.com/vi/Qo5Ry2fU2vE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Qo5Ry2fU2vE
+  - id: rMmxEs2MVuQ
+    title: Johann Sebastian Bach - Höchsterwünschtes Freudenfest, BWV 194
+    channel: Adolf Fredriks församling
+    performer: Adolf Fredriks församling
+    place: Leipzig
+    year: '1966'
+    duration: '40:36'
+    thumbnail: https://img.youtube.com/vi/rMmxEs2MVuQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rMmxEs2MVuQ
+  - id: uoz8u7R-aQs
+    title: Glenn Gould - Bach, Fugue en mi bémol majeur & Cantate « Widerstehe doch der Sünde » (OFFICIEL)
+    channel: Glenn Gould
+    performer: Glenn Gould
+    place: berlin
+    year: ''
+    duration: '23:25'
+    thumbnail: https://img.youtube.com/vi/uoz8u7R-aQs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uoz8u7R-aQs
+  - id: 6dbOLMTw3sc
+    title: J.S. Bach - cantate BWV 194 'Höchsterwünschtes Freudenfest'  Stichting Rondom de Cantates Amersoort
+    channel: Rondom de Cantates Amersfoort
+    performer: Rondom de Cantates Amersfoort
+    place: ''
+    year: '2019'
+    duration: '8:21'
+    thumbnail: https://img.youtube.com/vi/6dbOLMTw3sc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6dbOLMTw3sc
+  - id: m4Mtb3yEm48
+    title: J.S. Bach - cantate BWV 194 Höchsterwünschtes Freudenfest' Stichting Rondom de Cantates Amersfoort.
+    channel: Rondom de Cantates Amersfoort
+    performer: Rondom de Cantates Amersfoort
+    place: ''
+    year: '2019'
+    duration: '11:24'
+    thumbnail: https://img.youtube.com/vi/m4Mtb3yEm48/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=m4Mtb3yEm48

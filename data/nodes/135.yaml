@@ -1,0 +1,157 @@
+bwv: '135'
+title: Ach Herr, mich armen Sünder
+cycle: C2
+occasion: Trinity III
+date: '1724-06-25'
+url: https://en.wikipedia.org/wiki/BWV_135
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Trombone, Continuo
+    de: |-
+      Ach Herr, mich armen Sünder
+      Straf nicht in deinem Zorn,
+      Dein' ernsten Grimm doch linder,
+      Sonst ist's mit mir verlorn.
+      Ach Herr, wollst mir vergeben
+      Mein Sünd und gnädig sein,
+      Dass ich mag ewig leben,
+      Entfliehn der Höllenpein.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ach heile mich, du Arzt der Seelen,
+      Ich bin sehr krank und schwach;
+      Man möchte die Gebeine zählen,
+      So jämmerlich hat mich mein Ungemach,
+      Mein Kreuz und Leiden zugericht;
+      Das Angesicht Ist ganz von Tränen aufgeschwollen,
+      Die, schnellen Fluten gleich, von Wangen abwärts rollen.
+      Der Seele ist von Schrecken angst und bange;
+      Ach, du Herr, wie so lange?
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Tröste mir, Jesu, mein Gemüte,
+      Sonst versink ich in den Tod,
+      Hilf mir, hilf mir durch deine Güte
+      Aus der großen Seelennot!
+      Denn im Tod ist alles stille,
+      Da gedenkt man deiner nicht.
+      Liebster Jesu, ist's dein Wille,
+      So erfreu mein Angesicht!
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ich bin von Seufzen müde,
+      Mein Geist hat weder Kraft noch Macht,
+      Weil ich die ganze Nacht
+      Oft ohne Seelenruh und Friede
+      In großem Schweiß und Tränen liege.
+      Ich gräme mich fast tot und bin vor Trauern alt,
+      Denn meine Angst ist mannigfalt.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Weicht, all ihr Übeltäter,
+      Mein Jesus tröstet mich!
+      Er lässt nach Tränen und nach Weinen
+      Die Freudensonne wieder scheinen;
+      Das Trübsalswetter ändert sich,
+      Die Feinde müssen plötzlich fallen
+      Und ihre Pfeile rückwärts prallen.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Cornetto e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Ehr sei ins Himmels Throne
+      Mit hohem Ruhm und Preis
+      Dem Vater und dem Sohne
+      Und auch zu gleicher Weis
+      Dem Heilgen Geist mit Ehren
+      In alle Ewigkeit,
+      Der woll uns all'n bescheren
+      Die ewge Seligkeit.
+scoring: 'Soli: A T B, Coro: S A T B, Cornetto, Trombone, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    A: 1
+    B: 1
+  instrumentation_families:
+    - cornetto
+    - oboe
+    - trombone
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ach Herr, mich armen Sünder, BWV\_135 in Leipzig for the third Sunday after Trinity and first performed it on 25 June 1724. It is the fourth chorale cantata from his second annual cycle, and is based on the hymn by Cyriakus Schneegass."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Ach_Herr%2C_mich_armen_S%C3%BCnder%2C_BWV_135
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ach Herr, mich armen Sünder</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>135</b> in Leipzig for the third Sunday after Trinity and first performed it on 25 June 1724. It is the fourth chorale cantata from his second annual cycle, and is based on the hymn by Cyriakus Schneegass.</p>"
+performances:
+  - id: z2DiqpeWhtA
+    title: Bach - Cantata Ach Herr, mich armen Sünder BWV 135 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: TivoliVredenburg
+    year: 22 April 2021
+    duration: '17:49'
+    thumbnail: https://img.youtube.com/vi/z2DiqpeWhtA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=z2DiqpeWhtA
+  - id: wPbEbXinYXg
+    title: J. S. Bach - Cantata BWV 135 "Ach Herr, mich armen Sünder" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: '2009'
+    duration: '18:38'
+    thumbnail: https://img.youtube.com/vi/wPbEbXinYXg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=wPbEbXinYXg
+  - id: U0ki8N1nCZ4
+    title: JS Bach Cantata Ach Herr mich armen Sünder BWV 135
+    channel: HarpsichordA6
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '14:36'
+    thumbnail: https://img.youtube.com/vi/U0ki8N1nCZ4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=U0ki8N1nCZ4
+  - id: ZAh7D3PgzSY
+    title: Bach - BWV 135, Cantata "Ach Herr, mich armen Sünder" w/ score
+    channel: vanille_chose
+    performer: Masaaki
+    place: ''
+    year: ''
+    duration: '14:21'
+    thumbnail: https://img.youtube.com/vi/ZAh7D3PgzSY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ZAh7D3PgzSY
+  - id: V9XOdWkaM2k
+    title: '"Ach Herr, mich armen Sünder" BWV 135'
+    channel: Amsterdam Baroque Orchestra - Topic
+    performer: Amsterdam Baroque Orchestra - Topic
+    place: Amsterdam
+    year: '2007'
+    duration: '5:17'
+    thumbnail: https://img.youtube.com/vi/V9XOdWkaM2k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=V9XOdWkaM2k
+key: D minor

@@ -1,0 +1,251 @@
+bwv: '169'
+title: Gott soll allein mein Herze haben
+cycle: C3
+occasion: Trinity XVIII
+date: '1726-10-20'
+url: https://en.wikipedia.org/wiki/BWV_169
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Organo obligato, Continuo
+    de: ''
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Continuo
+    de: |-
+      Gott soll allein mein Herze haben.
+      Zwar merk ich an der Welt,
+      Die ihren Kot unschätzbar hält,
+      Weil sie so freundlich mit mir tut,
+      Sie wollte gern allein
+      Das Liebste meiner Seele sein.
+      Doch nein; Gott soll allein mein Herze haben:
+      Ich find in ihm das höchste Gut.
+      Wir sehen zwar
+      Auf Erden hier und dar
+      Ein Bächlein der Zufriedenheit,
+      Das von des Höchsten Güte quillet;
+      Gott aber ist der Quell, mit Strömen angefüllet,
+      Da schöpf ich, was mich allezeit
+      Kann sattsam und wahrhaftig laben:
+      Gott soll allein mein Herze haben.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Organo obligato, Continuo
+    de: |-
+      Gott soll allein mein Herze haben,
+      Ich find in ihm das höchste Gut.
+      Er liebt mich in der bösen Zeit
+      Und will mich in der Seligkeit
+      Mit Gütern seines Hauses laben.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Was ist die Liebe Gottes?
+      Des Geistes Ruh,
+      Der Sinnen Lustgenieß,
+      Der Seele Paradies.
+      Sie schließt die Hölle zu,
+      Den Himmel aber auf;
+      Sie ist Elias Wagen,
+      Da werden wir im Himmel nauf
+      In Abrahms Schoß getragen.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Organo obligato, Continuo
+    de: |-
+      Stirb in mir,
+      Welt und alle deine Liebe,
+      Dass die Brust
+      Sich auf Erden für und für
+      In der Liebe Gottes übe;
+      Stirb in mir,
+      Hoffart, Reichtum, Augenlust,
+      Ihr verworfnen Fleischestriebe!
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Doch meint es auch dabei
+      Mit eurem Nächsten treu!
+      Denn so steht in der Schrift geschrieben:
+      Du sollst Gott und den Nächsten lieben.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Taille e Viola col Tenore, Continuo
+    de: |-
+      Du süße Liebe, schenk uns deine Gunst,
+      Lass uns empfinden der Liebe Brunst,
+      Dass wir uns von Herzen einander lieben
+      Und in Friede auf einem Sinn bleiben.
+      Kyrie eleis.
+scoring: 'Solo: A, Coro: S A T B, Oboe I/II, Taille (Oboe da caccia), Violino I/II, Viola, Organo obligato, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Aria
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    A: 5
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - organ
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Gott soll allein mein Herze haben, BWV\_169, a solo cantata for an alto soloist, in Leipzig for the 18th Sunday after Trinity, and first performed it on 20 October 1726."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Gott_soll_allein_mein_Herze_haben%2C_BWV_169
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Gott soll allein mein Herze haben</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>169</b>, a solo cantata for an alto soloist, in Leipzig for the 18th Sunday after Trinity, and first performed it on 20 October 1726.</p>"
+performances:
+  - id: urh1YM1LSmk
+    title: J.S. Bach - Cantata BWV 169 "Gott soll allein mein Herze haben" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Herze haben
+    year: ''
+    duration: '26:03'
+    thumbnail: https://img.youtube.com/vi/urh1YM1LSmk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=urh1YM1LSmk
+  - id: GjVtfMe6R9o
+    title: 'Bach - Cantata BWV 169 "Gott Soll Allein Mein Herze Haben" (Ct.rc.: Aafje Heynis / Remastered)'
+    channel: Classical Music/ /Reference Recording
+    performer: Classical Music/ /Reference Recording
+    place: Leipzig
+    year: '1958'
+    duration: '29:28'
+    thumbnail: https://img.youtube.com/vi/GjVtfMe6R9o/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GjVtfMe6R9o
+  - id: k7iIJuQo-tM
+    title: J.S. Bach - Gott soll allein mein Herze haben, BWV 169
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '23:48'
+    thumbnail: https://img.youtube.com/vi/k7iIJuQo-tM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=k7iIJuQo-tM
+  - id: 2Ax9uZcDSpk
+    title: Johann Sebastian Bach - Cantata 169
+    channel: Tom Fasano
+    performer: Rilling
+    place: Leipzig
+    year: '1983'
+    duration: '24:02'
+    thumbnail: https://img.youtube.com/vi/2Ax9uZcDSpk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2Ax9uZcDSpk
+  - id: u233UQYV89M
+    title: J.S. Bach - BWV 169 (God alone shall have my heart)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '25:32'
+    thumbnail: https://img.youtube.com/vi/u233UQYV89M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=u233UQYV89M
+  - id: 1sxtRAUdNjM
+    title: 'Gott soll allein mein Herze haben, BWV 169: V. Aria "Stirb in mir, Welt, und alle deine Liebe"'
+    channel: Bernarda Fink - Topic
+    performer: Bernarda Fink - Topic
+    place: Herze haben
+    year: '2009'
+    duration: '5:44'
+    thumbnail: https://img.youtube.com/vi/1sxtRAUdNjM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1sxtRAUdNjM
+  - id: 5V3VQSRSA_8
+    title: Bach - Cantate BWV 169 - Gott soll allein mein Herze haben
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Herze haben
+    year: '1987'
+    duration: '22:34'
+    thumbnail: https://img.youtube.com/vi/5V3VQSRSA_8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5V3VQSRSA_8
+  - id: kHEjnk-22bg
+    title: 'Janet Baker: Gott soll allein mein Herze haben (BWV 169) Bach'
+    channel: Muzikazaile
+    performer: Muzikazaile
+    place: Herze haben
+    year: '1966'
+    duration: '23:46'
+    thumbnail: https://img.youtube.com/vi/kHEjnk-22bg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=kHEjnk-22bg
+  - id: HQItcfOfxb0
+    title: J.S. Bach - Aria "Stirb in mir, Welt, und alle deine Liebe" from Cantata BWV 169
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '4:49'
+    thumbnail: https://img.youtube.com/vi/HQItcfOfxb0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HQItcfOfxb0
+  - id: cB8ear-W45I
+    title: 'Bach: Cantata No. 169 - Sinfonia'
+    channel: pannonia77
+    performer: Harnoncourt
+    place: E major
+    year: ''
+    duration: '7:36'
+    thumbnail: https://img.youtube.com/vi/cB8ear-W45I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=cB8ear-W45I
+  - id: Ih51HIyTW0Q
+    title: Bach - Cantata Wir danken dir... BWV 29 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: B minor
+    year: ''
+    duration: '24:55'
+    thumbnail: https://img.youtube.com/vi/Ih51HIyTW0Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ih51HIyTW0Q
+  - id: NrwGzfbrxFY
+    title: 'Hommage à l''orgue : BWV 169 de Bach « Gott soll allein mein Herze haben » | Usine Bach'
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: ''
+    duration: '34:34'
+    thumbnail: https://img.youtube.com/vi/NrwGzfbrxFY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NrwGzfbrxFY
+  - id: SduIKgNwH4k
+    title: J. S. Bach - Cantatas BWV 54, BWV 169, BWV 170 - R. King
+    channel: Miguel Zampedri
+    performer: Miguel Zampedri
+    place: Mein Herze Haben
+    year: ''
+    duration: '58:32'
+    thumbnail: https://img.youtube.com/vi/SduIKgNwH4k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SduIKgNwH4k
+  - id: uXApNoaQd0s
+    title: Bach - Cantata Wir müssen durch viel Trübsal... BWV 146 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Leipzig
+    year: '2013'
+    duration: '39:22'
+    thumbnail: https://img.youtube.com/vi/uXApNoaQd0s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uXApNoaQd0s
+  - id: Wh8KwrLm0hY
+    title: J. S. Bach - Cantatas BWV 19, 169, 158 & 149 - H.-Ch. Rademann
+    channel: Miguel Zampedri
+    performer: Rademann
+    place: Streit
+    year: ''
+    duration: '1:13:21'
+    thumbnail: https://img.youtube.com/vi/Wh8KwrLm0hY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Wh8KwrLm0hY
+key: D major

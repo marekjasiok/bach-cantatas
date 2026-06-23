@@ -1,0 +1,131 @@
+bwv: '65'
+title: Sie werden aus Saba alle kommen
+cycle: C1
+occasion: Epiphany
+date: '1724-01-06'
+url: https://en.wikipedia.org/wiki/BWV_65
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Flauto I/II, Oboe da caccia I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Sie werden aus Saba alle kommen,
+      Gold und Weihrauch bringen
+      und des Herren Lob verkündigen.
+  - num: 2
+    type: Chorale
+    voices: SATB
+    instruments: Flauto I/II, Oboe da caccia I/II, Continuo
+    de: |-
+      Die Kön'ge aus Saba kamen dar,
+      Gold, Weihrauch, Myrrhen brachten sie dar,
+      Alleluja!
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Was dort Jesaias vorhergesehn,
+      Das ist zu Bethlehem geschehn.
+      Hier stellen sich die Weisen
+      Bei Jesu Krippe ein
+      Und wollen ihn als ihren König preisen.
+      Gold, Weihrauch, Myrrhen sind
+      Die köstlichen Geschenke,
+      Womit sie dieses Jesuskind
+      Zu Bethlehem im Stall beehren.
+      Mein Jesu, wenn ich itzt an meine Pflicht gedenke,
+      Muss ich mich auch zu deiner Krippe kehren
+      Und gleichfalls dankbar sein:
+      Denn dieser Tag ist mir ein Tag der Freuden,
+      Da du, o Lebensfürst,
+      Das Licht der Heiden
+      Und ihr Erlöser wirst.
+      Was aber bring ich wohl, du Himmelskönig?
+      Ist dir mein Herze nicht zuwenig,
+      So nimm es gnädig an,
+      Weil ich nichts Edlers bringen kann.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Oboe da caccia I/II, Continuo
+    de: |-
+      Gold aus Ophir ist zu schlecht,
+      Weg, nur weg mit eitlen Gaben,
+      Die ihr aus der Erde brecht!
+      Jesus will das Herze haben.
+      Schenke dies, o Christenschar,
+      Jesu zu dem neuen Jahr!
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Verschmähe nicht,
+      Du, meiner Seele Licht,
+      Mein Herz, das ich in Demut zu dir bringe;
+      Es schließt ja solche Dinge
+      In sich zugleich mit ein,
+      Die deines Geistes Früchte sein.
+      Des Glaubens Gold, der Weihrauch des Gebets,
+      Die Myrrhen der Geduld sind meine Gaben,
+      Die sollst du, Jesu, für und für
+      Zum Eigentum und zum Geschenke haben.
+      Gib aber dich auch selber mir,
+      So machst du mich zum Reichsten auf der Erden;
+      Denn, hab ich dich, so muss
+      Des größten Reichtums Überfluss
+      Mir dermaleinst im Himmel werden.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Corno I/II, Flauto I/II, Oboe da caccia I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Nimm mich dir zu eigen hin,
+      Nimm mein Herze zum Geschenke.
+      Alles, alles, was ich bin,
+      Was ich rede, tu und denke,
+      Soll, mein Heiland, nur allein
+      Dir zum Dienst gewidmet sein.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Continuo, Instrumentierung nicht überliefert
+    de: |-
+      Ei nun, mein Gott, so fall ich dir
+      Getrost in deine Hände.
+      Nimm mich und mach es so mit mir
+      Bis an mein letztes Ende,
+      Wie du wohl weißt, dass meinem Geist
+      Dadurch sein Nutz entstehe,
+      Und deine Ehr je mehr und mehr
+      Sich in ihr selbst erhöhe.
+scoring: 'Soli: T B, Coro: S A T B, Corno I/II, Flauto I/II, Oboe da caccia I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    B: 2
+    T: 2
+  instrumentation_families:
+    - corno
+    - oboe_da_caccia
+    - recorder
+key: C major
+wiki:
+  summary: "Sie werden aus Saba alle kommen, BWV\_65, is a church cantata by Johann Sebastian Bach. He composed it in 1724 in Leipzig for Epiphany and first performed it on 6 January 1724 as part of his first cantata cycle."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Michael_Angelo_Immenraet_-_The_Adoration_of_the_Magi.jpg/330px-Michael_Angelo_Immenraet_-_The_Adoration_of_the_Magi.jpg
+  url: https://en.wikipedia.org/wiki/Sie_werden_aus_Saba_alle_kommen%2C_BWV_65
+  summary_html: "<p><b><span><i lang=\"de\">Sie werden aus Saba alle kommen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>65</b>, is a church cantata by Johann Sebastian Bach. He composed it in 1724 in Leipzig for Epiphany and first performed it on 6 January 1724 as part of his first cantata cycle.</p>"

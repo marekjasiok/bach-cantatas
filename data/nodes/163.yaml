@@ -1,0 +1,259 @@
+bwv: '163'
+title: Nur jedem das Seine
+cycle: EARLY
+occasion: Trinity XXIII
+date: '1715-11-24'
+url: https://en.wikipedia.org/wiki/BWV_163
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Violoncello, Continuo
+    de: |-
+      Nur jedem das Seine!
+      Muss Obrigkeit haben
+      Zoll, Steuern und Gaben,
+      Man weigre sich nicht
+      Der schuldigen Pflicht!
+      Doch bleibet das Herze dem Höchsten alleine.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Du bist, mein Gott, der Geber aller Gaben;
+      Wir haben, was wir haben,
+      Allein von deiner Hand.
+      Du, du hast uns gegeben
+      Geist, Seele, Leib und Leben
+      Und Hab und Gut und Ehr und Stand!
+      Was sollen wir
+      Denn dir
+      Zur Dankbarkeit dafür erlegen,
+      Da unser ganz Vermögen
+      Nur dein und gar nicht unser ist?
+      Doch ist noch eins, das dir, Gott, wohlgefällt:
+      Das Herze soll allein,
+      Herr, deine Zinsemünze sein.
+      Ach! aber ach! ist das nicht schlechtes Geld?
+      Der Satan hat dein Bild daran verletzet,
+      Die falsche Münz ist abgesetzet.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Violoncello obligato I/II, Continuo
+    de: |-
+      Lass mein Herz die Münze sein,
+      Die ich dir, mein Jesu, steure!
+      Ist sie gleich nicht allzu rein,
+      Ach, so komm doch und erneure,
+      Herr, den schönen Glanz bei ihr!
+      Komm, arbeite, schmelz und präge,
+      Dass dein Ebenbild bei mir
+      Ganz erneuert glänzen möge!
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Ich wollte dir,
+      O Gott, das Herze gerne geben;
+      Der Will ist zwar bei mir,
+      Doch Fleisch und Blut will immer widerstreben.
+      Dieweil die Welt
+      Das Herz gefangen hält,
+      So will sie sich den Raub nicht nehmen lassen;
+      Jedoch ich muss sie hassen,
+      Wenn ich dich lieben soll.
+      So mache doch mein Herz mit deiner Gnade voll;
+      Leer es ganz aus von Welt und allen Lüsten
+      Und mache mich zu einem rechten Christen.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Violini, Viola, Continuo
+    de: |-
+      Nimm mich mir und gib mich dir!
+      Nimm mich mir und meinem Willen,
+      Deinen Willen zu erfüllen;
+      Gib dich mir mit deiner Güte,
+      Dass mein Herz und mein Gemüte
+      In dir bleibe für und für,
+      Nimm mich mir und gib mich dir!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Führ auch mein Herz und Sinn
+      Durch deinen Geist dahin,
+      Dass ich mög alles meiden,
+      Was mich und dich kann scheiden,
+      Und ich an deinem Leibe
+      Ein Gliedmaß ewig bleibe.
+scoring: 'Soli: S A T B, Coro: S A T B, Violino I/II, Viola, Violoncello obligato I/II, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 1
+    B: 2
+    SATB: 1
+  instrumentation_families:
+    - violoncello
+wiki:
+  summary: >-
+    Nur jedem das Seine, BWV 163, is a church cantata by Johann Sebastian Bach. He composed the work in Weimar for the
+    twenty-third Sunday after Trinity and first performed it on 24 November 1715.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Nur_jedem_das_Seine%2C_BWV_163
+  summary_html: >-
+    <p><b><span><i lang="de">Nur jedem das Seine</i></span></b>, <b><span class="nowrap">BWV 163</span></b>, is a church
+    cantata by Johann Sebastian Bach. He composed the work in Weimar for the twenty-third Sunday after Trinity and first
+    performed it on 24 November 1715.</p>
+performances:
+  - id: 0QNV7nQDN9c
+    title: BWV 163 - Nur jedem das Seine!
+    channel: Bachcantates Tilburg
+    performer: Bachcantates Tilburg
+    place: Tilburg
+    year: 26 november 2017
+    duration: '16:48'
+    thumbnail: https://img.youtube.com/vi/0QNV7nQDN9c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0QNV7nQDN9c
+  - id: rYebpMjPlo8
+    title: J.S. Bach - Cantata BWV 164 "Ihr, die ihr euch von Christo nennet" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2016'
+    duration: '19:00'
+    thumbnail: https://img.youtube.com/vi/rYebpMjPlo8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rYebpMjPlo8
+  - id: GiRXxxjGGW0
+    title: J.S. Bach - BWV 163 (To each only his due!)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '18:07'
+    thumbnail: https://img.youtube.com/vi/GiRXxxjGGW0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GiRXxxjGGW0
+  - id: YqbvrvuO8dc
+    title: Bach - Cantate BWV 163 - Nur jedem das Seine
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Gott
+    year: '1985'
+    duration: '14:14'
+    thumbnail: https://img.youtube.com/vi/YqbvrvuO8dc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YqbvrvuO8dc
+  - id: JUQWN6HoM2U
+    title: 'Bach: Nur Jedem das Seine! , BWV 163 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Weimar
+    year: '2023'
+    duration: '17:19'
+    thumbnail: https://img.youtube.com/vi/JUQWN6HoM2U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JUQWN6HoM2U
+  - id: TTo_kSBiokU
+    title: 'J.S. Bach:  Nur jedem das Seine, BWV 163  {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Weimar
+    year: ''
+    duration: '16:37'
+    thumbnail: https://img.youtube.com/vi/TTo_kSBiokU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=TTo_kSBiokU
+  - id: g184umAAj4g
+    title: Bach "Ich wollte dir ... Nimm mich mir und gib mich dir!" - Susan Hamilton, Hilary Summers
+    channel: baroque and beyond
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '5:30'
+    thumbnail: https://img.youtube.com/vi/g184umAAj4g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=g184umAAj4g
+  - id: JEFCvnLJEh8
+    title: Steven Devine présente BWV 163 Nur jedem das Seine | Bach, l'Univers et tout
+    channel: Orchestra of the Age of Enlightenment
+    performer: Orchestra of the Age of Enlightenment
+    place: ''
+    year: '2025'
+    duration: '1:11'
+    thumbnail: https://img.youtube.com/vi/JEFCvnLJEh8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JEFCvnLJEh8
+  - id: ylb2bFhZKW4
+    title: Cantata, BWV 163 'Nur jedem das Seine!'
+    channel: VOX CHRISTIE
+    performer: Lutz
+    place: Evangelische Kirche
+    year: '2012'
+    duration: '17:18'
+    thumbnail: https://img.youtube.com/vi/ylb2bFhZKW4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ylb2bFhZKW4
+  - id: xXMUpqSyJJo
+    title: Bach - Cantata Gottes Zeit..., 'Actus Tragicus' BWV 106 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Oostkerk
+    year: '2015'
+    duration: '20:54'
+    thumbnail: https://img.youtube.com/vi/xXMUpqSyJJo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xXMUpqSyJJo
+  - id: K1ShGCGTLIU
+    title: Johann Sebastian Bach   BWV 163 Cantata 'Nur jedem das Seine' in B minor
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Gott
+    year: ''
+    duration: '18:28'
+    thumbnail: https://img.youtube.com/vi/K1ShGCGTLIU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=K1ShGCGTLIU
+  - id: _cSJB10S45U
+    title: Bach - Cantata Komm, du süße Todesstunde BWV 161 - Johanna Soller | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Oude Kerk Charlois
+    year: '2024'
+    duration: '19:28'
+    thumbnail: https://img.youtube.com/vi/_cSJB10S45U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_cSJB10S45U
+  - id: aTXGV1fBqgg
+    title: 'J.S. Bach, Kantate BWV 163: 6 Choral „Führ auch mein Herz und Sinn“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2020'
+    duration: '1:20'
+    thumbnail: https://img.youtube.com/vi/aTXGV1fBqgg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=aTXGV1fBqgg
+  - id: U1XfFCFW06Y
+    title: Bach Kantate BWV 163 Nur jedem das Seine, Diethard Hellmann
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Gott
+    year: '1972'
+    duration: '15:30'
+    thumbnail: https://img.youtube.com/vi/U1XfFCFW06Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=U1XfFCFW06Y
+  - id: j5AZuAAuevU
+    title: 'J.S. Bach, Kantate BWV 163: 2 Recitativo & 3 Aria „Lass mein Herz die Münze sein“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Gott
+    year: '2020'
+    duration: '5:12'
+    thumbnail: https://img.youtube.com/vi/j5AZuAAuevU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=j5AZuAAuevU
+key: D minor

@@ -1,0 +1,100 @@
+bwv: '121'
+title: Christum wir sollen loben schon
+cycle: C2
+occasion: Christmas 2
+date: '1724-12-26'
+url: https://en.wikipedia.org/wiki/BWV_121
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Cornetto e Oboe d'amore e Violino I col Soprano, Trombone I e Violino II coll' Alto, Trombone II e Viola col
+      Tenore, Trombone III col Basso, Continuo
+    de: |-
+      Christum wir sollen loben schon,
+      Der reinen Magd Marien Sohn,
+      So weit die liebe Sonne leucht
+      Und an aller Welt Ende reicht.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      O du von Gott erhöhte Kreatur,
+      Begreife nicht, nein, nein, bewundre nur:
+      Gott will durch Fleisch des Fleisches Heil erwerben.
+      Wie groß ist doch der Schöpfer aller Dinge,
+      Und wie bist du verachtet und geringe,
+      Um dich dadurch zu retten vom Verderben.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Der Gnade unermesslich's Wesen
+      Hat sich den Himmel nicht
+      Zur Wohnstatt auserlesen,
+      Weil keine Grenze sie umschließt.
+      Was Wunder, dass allhie Verstand und Witz gebricht,
+      Ein solch Geheimnis zu ergründen,
+      Wenn sie sich in ein keusches Herze gießt.
+      Gott wählet sich den reinen Leib zu einem Tempel seiner Ehren,
+      Um zu den Menschen sich mit wundervoller Art zu kehren.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Johannis freudenvolles Springen
+      Erkannte dich, mein Jesu, schon.
+      Nun da ein Glaubensarm dich hält,
+      So will mein Herze von der Welt
+      Zu deiner Krippe brünstig dringen.
+  - num: 5
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Doch wie erblickt es dich in deiner Krippe?
+      Es seufzt mein Herz: mit bebender und fast geschlossner Lippe
+      Bringt es sein dankend Opfer dar.
+      Gott, der so unermesslich war,
+      Nimmt Knechtsgestalt und Armut an.
+      Und weil er dieses uns zugutgetan,
+      So lasset mit der Engel Chören
+      Ein jauchzend Lob- und Danklied hören!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Cornetto e Oboe d'amore e Violino I col Soprano, Trombone I e Violino II coll' Alto, Trombone II e Viola col
+      Tenore, Trombone III, Continuo
+    de: |-
+      Lob, Ehr und Dank sei dir gesagt,
+      Christ, geborn von der reinen Magd,
+      Samt Vater und dem Heilgen Geist
+      Von nun an bis in Ewigkeit.
+scoring: 'Soli: S A T B, Coro: S A T B, Cornetto, Trombone I-III, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    A: 1
+    B: 1
+    S: 1
+  instrumentation_families:
+    - cornetto
+    - oboe_damore
+    - trombone
+key: C minor

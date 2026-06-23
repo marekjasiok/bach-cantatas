@@ -1,0 +1,241 @@
+bwv: '37'
+title: Wer da gläubet und getauft wird
+cycle: C1
+occasion: Ascension
+date: '1724-05-18'
+url: https://en.wikipedia.org/wiki/BWV_37
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: Wer da gläubet und getauft wird, der wird selig werden.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Violino, Continuo
+    de: |-
+      Der Glaube ist das Pfand der Liebe,
+      Die Jesus für die Seinen hegt.
+      Drum hat er bloß aus Liebestriebe,
+      Da er ins Lebensbuch mich schriebe,
+      Mir dieses Kleinod beigelegt.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Herr Gott Vater, mein starker Held!
+      Du hast mich ewig vor der Welt
+      In deinem Sohn geliebet.
+      Dein Sohn hat mich ihm selbst vertraut,
+      Er ist mein Schatz, ich bin sein Braut,
+      Sehr hoch in ihm erfreuet.
+      Eia!
+      Eia!
+      Himmlisch Leben wird er geben mir dort oben;
+      Ewig soll mein Herz ihn loben.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ihr Sterblichen, verlanget ihr,
+      Mit mir
+      Das Antlitz Gottes anzuschauen?
+      So dürft ihr nicht auf gute Werke bauen;
+      Denn ob sich wohl ein Christ
+      Muss in den guten Werken üben,
+      Weil es der ernste Wille Gottes ist,
+      So macht der Glaube doch allein,
+      Dass wir vor Gott gerecht und selig sein.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore I, Violino I/II, Viola, Continuo
+    de: |-
+      Der Glaube schafft der Seele Flügel,
+      Dass sie sich in den Himmel schwingt,
+      Die Taufe ist das Gnadensiegel,
+      Das uns den Segen Gottes bringt;
+      Und daher heißt ein selger Christ,
+      Wer gläubet und getaufet ist.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I e Violino I col Soprano, Oboe d'amore II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Den Glauben mir verleihe
+      An dein' Sohn Jesum Christ,
+      Mein Sünd mir auch verzeihe
+      Allhier zu dieser Frist.
+      Du wirst mir nicht versagen,
+      Was du verheißen hast,
+      Dass er mein Sünd tu tragen
+      Und lös mich von der Last.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    T: 1
+    B: 2
+  instrumentation_families:
+    - oboe_damore
+key: A major
+wiki:
+  summary: >-
+    Wer da gläubet und getauft wird, BWV 37, is a cantata by Johann Sebastian Bach, a church cantata for the feast of
+    the Ascension of Jesus. Bach composed it in Leipzig and first performed it on 18 May 1724.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jelenia_G._Church_ascending.JPG/330px-Jelenia_G._Church_ascending.JPG
+  url: https://en.wikipedia.org/wiki/Wer_da_gl%C3%A4ubet_und_getauft_wird%2C_BWV_37
+  summary_html: >-
+    <p><b><span><i lang="de">Wer da gläubet und getauft wird</i></span></b>, <b><span class="nowrap">BWV 37</span></b>,
+    is a cantata by Johann Sebastian Bach, a church cantata for the feast of the Ascension of Jesus. Bach composed it in
+    Leipzig and first performed it on 18 May 1724.</p>
+performances:
+  - id: bL-7fGt0JUQ
+    title: J. S. Bach - Cantata BWV 37 "Wer da gläubet und getauft wird" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '21:02'
+    thumbnail: https://img.youtube.com/vi/bL-7fGt0JUQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bL-7fGt0JUQ
+  - id: bg0blwvSpl0
+    title: 'Johann Sebastian Bach - Cantata: Wer da gläubet und getauft wird, BWV 37. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '14:50'
+    thumbnail: https://img.youtube.com/vi/bg0blwvSpl0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bg0blwvSpl0
+  - id: enhosGRodpg
+    title: 'J. S. Bach:  Wer da gläubet und getauft wird (BWV 37) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '14:55'
+    thumbnail: https://img.youtube.com/vi/enhosGRodpg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=enhosGRodpg
+  - id: BMyps1abvzQ
+    title: 'Bach: Cantatas BWV 4.2, 66.3, 37, 104 | Ton Koopman & Amsterdam Baroque Orchestra & Choir'
+    channel: DW Classical Music
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '2:21:41'
+    thumbnail: https://img.youtube.com/vi/BMyps1abvzQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BMyps1abvzQ
+  - id: _QOmLyrPDR0
+    title: J.S. Bach - BWV 37 (He that believeth and is baptized)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '16:26'
+    thumbnail: https://img.youtube.com/vi/_QOmLyrPDR0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_QOmLyrPDR0
+  - id: juZ47lhdniM
+    title: Bach - Cantate BWV 37 - Wer da gläubet und getauft wird
+    channel: MusicArt61
+    performer: MusicArt61
+    place: ''
+    year: ''
+    duration: '16:21'
+    thumbnail: https://img.youtube.com/vi/juZ47lhdniM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=juZ47lhdniM
+  - id: iOG3Lqx8wrw
+    title: J. S. Bach, “Wer da gläubet und getauft wird” BWV 37--Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: ''
+    year: ''
+    duration: '55:57'
+    thumbnail: https://img.youtube.com/vi/iOG3Lqx8wrw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=iOG3Lqx8wrw
+  - id: nTZCbQozMlM
+    title: 'Bach: Wer da gläubet und getauft wird, BWV 37 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Boston
+    year: ''
+    duration: '16:08'
+    thumbnail: https://img.youtube.com/vi/nTZCbQozMlM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=nTZCbQozMlM
+  - id: KNICBw4t8gE
+    title: 'J.S. Bach: Wer da gläubet und getauft wird, BWV 37: I. Chorus. Wer da gläubet und getauft wird'
+    channel: English Baroque Soloists - Topic
+    performer: English Baroque Soloists - Topic
+    place: ''
+    year: ''
+    duration: '2:19'
+    thumbnail: https://img.youtube.com/vi/KNICBw4t8gE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=KNICBw4t8gE
+  - id: rNAxuzyDLzs
+    title: Bach - Cantata Lobe den Herren... BWV 137 - Dijkstra | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: ''
+    year: ''
+    duration: '14:27'
+    thumbnail: https://img.youtube.com/vi/rNAxuzyDLzs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rNAxuzyDLzs
+  - id: qBUBlDOm8gk
+    title: 'Miriam Feuersinger, Jan Börner – Bach: Herr Gott Vater, mein starker Held (Duet from Cantata BWV 37)'
+    channel: Fritz Krämer
+    performer: Fritz Krämer
+    place: ''
+    year: ''
+    duration: '3:20'
+    thumbnail: https://img.youtube.com/vi/qBUBlDOm8gk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qBUBlDOm8gk
+  - id: y5zkHOuJSGs
+    title: 'Cantata No.37 Wer da gläubet und getauft wird BWV37 : I Chorus - "Wer da gläubet und getauft...'
+    channel: Nikolaus Harnoncourt - Topic
+    performer: Nikolaus Harnoncourt - Topic
+    place: ''
+    year: ''
+    duration: '2:39'
+    thumbnail: https://img.youtube.com/vi/y5zkHOuJSGs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=y5zkHOuJSGs
+  - id: hco0HE0dDbM
+    title: 'Bach: Wer da gläubet und getauft wird, BWV 37  | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Boston
+    year: ''
+    duration: '16:41'
+    thumbnail: https://img.youtube.com/vi/hco0HE0dDbM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hco0HE0dDbM
+  - id: V8zPoLLoRZg
+    title: Bach - Cantata In allen meinen Taten BWV 97 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: ''
+    year: ''
+    duration: '26:33'
+    thumbnail: https://img.youtube.com/vi/V8zPoLLoRZg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=V8zPoLLoRZg
+  - id: F7_NBr4YTYc
+    title: Herr Gott Vater, mein starker Held! BWV 37 Nº3 - Johann Sebastian Bach
+    channel: Barbara De Martiis
+    performer: Barbara De Martiis
+    place: ''
+    year: ''
+    duration: '2:59'
+    thumbnail: https://img.youtube.com/vi/F7_NBr4YTYc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=F7_NBr4YTYc

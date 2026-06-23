@@ -1,0 +1,95 @@
+bwv: '86'
+title: Wahrlich, wahrlich, ich sage euch
+cycle: C1
+occasion: Easter V
+date: '1724-05-14'
+url: https://en.wikipedia.org/wiki/BWV_86
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wahrlich, wahrlich, ich sage euch,
+      so ihr den Vater etwas bitten werdet in meinem Namen, so wird er's
+      euch geben.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Violino solo, Continuo
+    de: |-
+      Ich will doch wohl Rosen brechen,
+      Wenn mich gleich die Dornen stechen.
+      Denn ich bin der Zuversicht,
+      Dass mein Bitten und mein Flehen
+      Gott gewiss zu Herzen gehen,
+      weil es mir sein Wort verspricht.
+  - num: 3
+    type: Chorale
+    voices: S
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Und was der ewig gültig Gott
+      In seinem Wort versprochen hat,
+      Geschworn bei seinem Namen,
+      Das hält und gibt er gwiß fürwahr.
+      Der helf uns zu der Engel Schar
+      Durch Jesum Christum, amen.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Gott macht es nicht gleichwie die Welt,
+      Die viel verspricht und wenig hält;
+      Denn was er zusagt, muss geschehen,
+      Dass man daran kann seine Lust und Freude sehen.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Gott hilft gewiss;
+      Wird gleich die Hilfe aufgeschoben,
+      Wird sie doch drum nicht aufgehoben.
+      Denn Gottes Wort bezeiget dies:
+      Gott hilft gewiss!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Die Hoffnung wart' der rechten Zeit,
+      Was Gottes Wort zusaget,
+      Wenn das geschehen soll zur Freud,
+      Setzt Gott kein g'wisse Tage.
+      Er weiß wohl, wenn's am besten ist,
+      Und braucht an uns kein arge List;
+      Des solln wir ihm vertrauen.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 1
+    A: 1
+    S: 1
+    T: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe_damore
+    - violino_solo
+key: E major
+wiki:
+  summary: "Wahrlich, wahrlich, ich sage euch, BWV\_86, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Rogate, the fifth Sunday after Easter, and first performed it on 14 May 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Wahrlich%2C_wahrlich%2C_ich_sage_euch%2C_BWV_86
+  summary_html: "<p><b><span><i lang=\"de\">Wahrlich, wahrlich, ich sage euch</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>86</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Rogate, the fifth Sunday after Easter, and first performed it on 14 May 1724.</p>"

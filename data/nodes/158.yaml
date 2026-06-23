@@ -1,0 +1,139 @@
+bwv: '158'
+title: Der Friede sei mit dir
+cycle: EARLY
+occasion: Easter/Purif.
+date: c. 1708–1717 (date disputed)
+url: https://en.wikipedia.org/wiki/BWV_158
+edges: {}
+movements:
+  - num: 1
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Der Friede sei mit dir,
+      Du ängstliches Gewissen!
+      Dein Mittler stehet hier,
+      Der hat dein Schuldenbuch
+      Und des Gesetzes Fluch
+      Verglichen und zerrissen.
+      Der Friede sei mit dir,
+      Der Fürste dieser Welt,
+      Der deiner Seele nachgestellt,
+      Ist durch des Lammes Blut bezwungen und gefällt.
+      Mein Herz, was bist du so betrübt,
+      Da dich doch Gott durch Christum liebt!
+      Er selber spricht zu mir:
+      Der Friede sei mit dir!
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Violino solo, Oboe col Soprano, Continuo
+    de: |-
+      Welt, ade, ich bin dein müde,
+      Welt, ade, ich bin dein müde,
+      Salems Hütten stehn mir an,
+      Ich will nach dem Himmel zu,
+      Wo ich Gott in Ruh und Friede
+      Da wird sein der rechte Friede
+      Ewig selig schauen kann.
+      Und die ewig stolze Ruh.
+      Da bleib ich, da hab ich Vergnügen zu wohnen,
+      Welt, bei dir ist Krieg und Streit,
+      Nichts denn lauter Eitelkeit;
+      Da prang ich gezieret mit himmlischen Kronen.
+      In dem Himmel allezeit
+      Friede, Freud und Seligkeit.
+  - num: 3
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Nun, Herr, regiere meinen Sinn,
+      Damit ich auf der Welt,
+      So lang es dir, mich hier zu lassen, noch gefällt,
+      Ein Kind des Friedens bin,
+      Und lass mich zu dir aus meinen Leiden
+      Wie Simeon in Frieden scheiden!
+      Da bleib ich, da hab ich Vergnügen zu wohnen,
+      Da prang ich gezieret mit himmlischen Kronen.
+  - num: 4
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Hier ist das rechte Osterlamm,
+      Davon Gott hat geboten;
+      Das ist hoch an des Kreuzes Stamm
+      In heißer Lieb gebraten.
+      Des Blut zeichnet unsre Tür,
+      Das hält der Glaub dem Tode für;
+      Der Würger kann uns nicht rühren.
+      Alleluja!
+scoring: 'Soli: S B, Coro: S A T B, Oboe, Violino solo, Continuo'
+features:
+  structure:
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Recitative
+  closing: Chorale
+  voice_profile:
+    B: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - violino_solo
+wiki:
+  summary: "Der Friede sei mit dir, BWV\_158, is one of the shortest of the cantatas by Johann Sebastian Bach and features a bass soloist. It survives as a cantata for the third day of Easter but might be a fragment of a work originally written for Purification. Given this background, and the fact that it was copied by Christian Friedrich Penzel, one of Bach's last students, there is a confusing variety of proposed composition dates. It may date back to Bach's Weimar period, although a date as late as 1735 has been suggested."
+  image: null
+  url: https://en.wikipedia.org/wiki/Der_Friede_sei_mit_dir%2C_BWV_158
+  summary_html: "<p><b><span><i lang=\"de\">Der Friede sei mit dir</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>158</b>, is one of the shortest of the cantatas by Johann Sebastian Bach and features a bass soloist. It survives as a cantata for the third day of Easter but might be a fragment of a work originally written for Purification. Given this background, and the fact that it was copied by Christian Friedrich Penzel, one of Bach's last students, there is a confusing variety of proposed composition dates. It may date back to Bach's Weimar period, although a date as late as 1735 has been suggested.</p>"
+performances:
+  - id: HVoFRILw8os
+    title: Bach - Cantata Der Friede sei mit dir BWV 158 - Rademann | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Rademann
+    place: Grote Kerk
+    year: '2016'
+    duration: '12:15'
+    thumbnail: https://img.youtube.com/vi/HVoFRILw8os/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HVoFRILw8os
+  - id: UeDD5Lpa_DM
+    title: J.S. Bach - Cantata BWV 158 "Der Friede sei mit dir" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '17:27'
+    thumbnail: https://img.youtube.com/vi/UeDD5Lpa_DM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=UeDD5Lpa_DM
+  - id: TMhNvJqNZtU
+    title: J. S. Bach | Der Friede sei mit dir | Kantate BWV 158 | capella sollertia
+    channel: Cantate um 1715
+    performer: Cantate um 1715
+    place: St
+    year: August 2020
+    duration: '12:04'
+    thumbnail: https://img.youtube.com/vi/TMhNvJqNZtU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=TMhNvJqNZtU
+  - id: WGxh68s_oN4
+    title: 'J.S Bach - Cantata: Der Friede sei mit dir, BWV 158'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '12:06'
+    thumbnail: https://img.youtube.com/vi/WGxh68s_oN4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WGxh68s_oN4
+  - id: MzlTVaDvOFw
+    title: 'Der Friede sei mit dir, BWV 158: Recitative and Arioso. "Nun, Herr, regiere meinen Sinn"'
+    channel: Release - Topic
+    performer: Release - Topic
+    place: Berlin
+    year: '1959'
+    duration: '1:45'
+    thumbnail: https://img.youtube.com/vi/MzlTVaDvOFw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MzlTVaDvOFw
+key: D major

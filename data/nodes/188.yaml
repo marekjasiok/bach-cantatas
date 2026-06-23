@@ -1,0 +1,236 @@
+bwv: '188'
+title: Ich habe meine Zuversicht
+cycle: PICANDER
+occasion: Trinity XXI
+date: Oct 17, 1728 (**Fragment**)
+url: https://en.wikipedia.org/wiki/BWV_188
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: ''
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Ich habe meine Zuversicht
+      Auf den getreuen Gott gericht,
+      Da ruhet meine Hoffnung feste.
+      Wenn alles bricht, wenn alles fällt,
+      Wenn niemand Treu und Glauben hält,
+      So ist doch Gott der allerbeste.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gott meint es gut mit jedermann,
+      Auch in den allergrößten Nöten.
+      Verbirget er gleich seine Liebe,
+      So denkt sein Herz doch heimlich dran,
+      Das kann er niemals nicht entziehn;
+      Und wollte mich der Herr auch töten,
+      So hoff ich doch auf ihn.
+      Denn sein erzürntes Angesicht
+      Ist anders nicht
+      Als eine Wolke trübe,
+      Sie hindert nur den Sonnenschein,
+      Damit durch einen sanften Regen
+      Der Himmelssegen
+      Um so viel reicher möge sein.
+      Der Herr verwandelt sich in einen grausamen,
+      Um desto tröstlicher zu scheinen;
+      Er will, er kann's nicht böse meinen.
+      Drum lass ich ihn nicht, er segne mich denn.
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Violoncello, Organo obligato
+    de: |-
+      Unerforschlich ist die Weise,
+      Wie der Herr die Seinen führt.
+      Selber unser Kreuz und Pein
+      Muss zu unserm Besten sein
+      Und zu seines Namens Preise.
+  - num: 5
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Die Macht der Welt verlieret sich.
+      Wer kann auf Stand und Hoheit bauen?
+      Gott aber bleibet ewiglich;
+      Wohl allen, die auf ihn vertrauen!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Continuo (Instrumentierung nicht überliefert)
+    de: |-
+      Auf meinen lieben Gott
+      Trau ich in Angst und Not;
+      Er kann mich allzeit retten
+      Aus Trübsal, Angst und Nöten;
+      Mein Unglück kann er wenden,
+      Steht alls in seinen Händen.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Taille, Violino I/II, Viola, Organo obligato, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    T: 1
+    B: 1
+    A: 1
+    S: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - organ
+    - violoncello
+key: D minor
+performances:
+  - id: p0O5P1fdXVY
+    title: J. S. Bach - Cantata BWV 188 "Ich habe meine Zuversicht" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Korrodi
+    year: '2012'
+    duration: '27:22'
+    thumbnail: https://img.youtube.com/vi/p0O5P1fdXVY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=p0O5P1fdXVY
+  - id: yPiKc4lA-oo
+    title: J.S. Bach - BWV 188 (I have put my trust)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '24:56'
+    thumbnail: https://img.youtube.com/vi/yPiKc4lA-oo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yPiKc4lA-oo
+  - id: RIHkQeEf5rU
+    title: Sinfonia from Cantata BWV 188 Ich habe meine Zuversicht
+    channel: Stefano Veggetti - Topic
+    performer: Stefano Veggetti - Topic
+    place: ''
+    year: '2020'
+    duration: '7:45'
+    thumbnail: https://img.youtube.com/vi/RIHkQeEf5rU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RIHkQeEf5rU
+  - id: xjuuJHutQ8g
+    title: Bach - Cantate BWV 188 - Ich habe meine Zuversicht
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leipzig
+    year: '1989'
+    duration: '24:51'
+    thumbnail: https://img.youtube.com/vi/xjuuJHutQ8g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xjuuJHutQ8g
+  - id: dKO6d_DiXWI
+    title: 'Ich habe meine Zuversicht, BWV 188/1: Sinfonia'
+    channel: Ton Koopman - Topic
+    performer: Koopman
+    place: Amsterdam
+    year: '2016'
+    duration: '7:55'
+    thumbnail: https://img.youtube.com/vi/dKO6d_DiXWI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dKO6d_DiXWI
+  - id: 5erfFAh33eM
+    title: J. S. Bach, "Ich habe meine Zuversicht" BWV 188--Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: Jacob Burk
+    year: '2026'
+    duration: '1:16:12'
+    thumbnail: https://img.youtube.com/vi/5erfFAh33eM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5erfFAh33eM
+  - id: LoGCEjynRPs
+    title: 'Bach: Ich habe meine Zuversicht, BWV 188 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Boston
+    year: '2024'
+    duration: '26:44'
+    thumbnail: https://img.youtube.com/vi/LoGCEjynRPs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=LoGCEjynRPs
+  - id: '-v4-OtJfEdM'
+    title: '[Helmuth Rilling] Bach: Sinfonia from Cantata BWV 188 (16:9)'
+    channel: tnsnamesoralong
+    performer: Rilling
+    place: Stuttgart
+    year: ''
+    duration: '7:37'
+    thumbnail: https://img.youtube.com/vi/-v4-OtJfEdM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-v4-OtJfEdM
+  - id: RvVsB4peIoc
+    title: Johann Sebastian Bach - BWV 188 Cantata 'Ich habe meine Zuversicht' in D minor
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Stuttgart
+    year: ''
+    duration: '27:29'
+    thumbnail: https://img.youtube.com/vi/RvVsB4peIoc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RvVsB4peIoc
+  - id: CmK_vYkMyKE
+    title: Bach - Cantate BWV 188 - Ich habe meine Zuversicht
+    channel: Johannes Buhlmann
+    performer: Johannes Buhlmann
+    place: ''
+    year: ''
+    duration: '24:51'
+    thumbnail: https://img.youtube.com/vi/CmK_vYkMyKE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CmK_vYkMyKE
+  - id: qZDJxLouhz0
+    title: 'J.S. Bach: Ich habe meine Zuversicht, BWV 188 (Sinfonia)'
+    channel: Baroque Goes Nuts
+    performer: Koopman
+    place: Amsterdam
+    year: '2017'
+    duration: '7:50'
+    thumbnail: https://img.youtube.com/vi/qZDJxLouhz0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qZDJxLouhz0
+  - id: 45UiUbIxJhE
+    title: Cantata `Ich habe meine Zuversicht` BWV 188 | Johann Sebastian Bach
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: ''
+    year: ''
+    duration: '24:21'
+    thumbnail: https://img.youtube.com/vi/45UiUbIxJhE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=45UiUbIxJhE
+  - id: jC6HYoT2Lzw
+    title: J.S. Bach, Kantate BWV 188 „Ich habe meine Zuversicht" | Kay Johannsen
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2013'
+    duration: '27:49'
+    thumbnail: https://img.youtube.com/vi/jC6HYoT2Lzw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jC6HYoT2Lzw
+  - id: lVhWLCtX8nA
+    title: Bach - Ich habe meine Zuversicht, BWV 188 (score)
+    channel: Lordlouckster
+    performer: Harnoncourt
+    place: ''
+    year: ''
+    duration: '17:13'
+    thumbnail: https://img.youtube.com/vi/lVhWLCtX8nA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lVhWLCtX8nA
+  - id: lbf200bSl9s
+    title: Johann Sebastian Bach - Kantaten - (BWV 188), (BWV 190), (BWV 191), (BWV 192)
+    channel: Nicolás Nicholson
+    performer: RILLING
+    place: 'No'
+    year: ''
+    duration: '1:13:17'
+    thumbnail: https://img.youtube.com/vi/lbf200bSl9s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lbf200bSl9s

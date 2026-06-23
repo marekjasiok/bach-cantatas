@@ -1,0 +1,142 @@
+bwv: '109'
+title: Ich glaube, lieber Herr, hilf meinem...
+cycle: C1
+occasion: Trinity XXI
+date: '1723-10-17'
+url: https://en.wikipedia.org/wiki/BWV_109
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno da caccia, Oboe I/II, Violino I/II, Viola, Continuo
+    de: Ich glaube, lieber Herr, hilf meinem Unglauben!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Des Herren Hand ist ja noch nicht verkürzt,
+      Mir kann geholfen werden.
+      Ach nein, ich sinke schon zur Erden
+      Vor Sorge, dass sie mich zu Boden stürzt.
+      Der Höchste will, sein Vaterherze bricht.
+      Ach nein! er hört die Sünder nicht.
+      Er wird, er muss dir bald zu helfen eilen,
+      Um deine Not zu heilen.
+      Ach nein, es bleibet mir um Trost sehr bange;
+      Ach Herr, wie lange?
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wie zweifelhaftig ist mein Hoffen,
+      Wie wanket mein geängstigt Herz!
+      Des Glaubens Docht glimmt kaum hervor,
+      Es bricht dies fast zustoßne Rohr,
+      Die Furcht macht stetig neuen Schmerz.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      O fasse dich, du zweifelhafter Mut,
+      Weil Jesus itzt noch Wunder tut!
+      Die Glaubensaugen werden schauen
+      Das Heil des Herrn;
+      Scheint die Erfüllung allzufern,
+      So kannst du doch auf die Verheißung bauen.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Der Heiland kennet ja die Seinen,
+      Wenn ihre Hoffnung hülflos liegt.
+      Wenn Fleisch und Geist in ihnen streiten,
+      So steht er ihnen selbst zur Seiten,
+      Damit zuletzt der Glaube siegt.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno da caccia, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wer hofft in Gott und dem vertraut,
+      Der wird nimmer zuschanden;
+      Denn wer auf diesen Felsen baut,
+      Ob ihm gleich geht zuhanden
+      Viel Unfalls hie, hab ich doch nie
+      Den Menschen sehen fallen,
+      Der sich verlässt auf Gottes Trost;
+      Er hilft sein'n Gläubgen allen.
+scoring: 'Soli: A T, Coro: S A T B, Corno da caccia, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    A: 2
+  instrumentation_families:
+    - corno_da_caccia
+    - oboe
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ich glaube, lieber Herr, hilf meinem Unglauben, BWV\_109, in Leipzig for the 21st Sunday after Trinity and first performed it on 17 October 1723."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SonRoyalHeal.jpg/330px-SonRoyalHeal.jpg
+  url: https://en.wikipedia.org/wiki/Ich_glaube%2C_lieber_Herr%2C_hilf_meinem_Unglauben%2C_BWV_109
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ich glaube, lieber Herr, hilf meinem Unglauben</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>109</b>, in Leipzig for the 21st Sunday after Trinity and first performed it on 17 October 1723.</p>"
+performances:
+  - id: jgjgWDAaTbA
+    title: Bach - Cantata Ich glaube, lieber Herr, hilf meinem Unglauben BWV 109 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Amsterdam
+    year: 28 May 2021
+    duration: '23:02'
+    thumbnail: https://img.youtube.com/vi/jgjgWDAaTbA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jgjgWDAaTbA
+  - id: J0BE2k6kPOE
+    title: J. S. Bach - Cantata BWV 109 "Ich glaube, lieber Herr, hilf meinem Unglauben" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2010'
+    duration: '27:47'
+    thumbnail: https://img.youtube.com/vi/J0BE2k6kPOE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=J0BE2k6kPOE
+  - id: hAIkWnEfwc8
+    title: J. S. Bach – Cantata "Ich glaube, lieber Herr", BWV 109
+    channel: SP's score videos
+    performer: SP's score videos
+    place: ''
+    year: ''
+    duration: '25:27'
+    thumbnail: https://img.youtube.com/vi/hAIkWnEfwc8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hAIkWnEfwc8
+  - id: SgHtwSyxMsU
+    title: BCA151 BWV109 Cantata for 21st Sunday after Trinity Herreweghe 2013
+    channel: Johann Sebastian
+    performer: Herreweghe
+    place: ''
+    year: '2013'
+    duration: '22:12'
+    thumbnail: https://img.youtube.com/vi/SgHtwSyxMsU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SgHtwSyxMsU
+  - id: NM38xgbPDJc
+    title: J.S. Bach,"Ich glaube, lieber Herr, hilf meinem Unglauben!" BWV 109-Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: Eugene Chin
+    year: '2023'
+    duration: '1:06:36'
+    thumbnail: https://img.youtube.com/vi/NM38xgbPDJc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NM38xgbPDJc
+key: C minor

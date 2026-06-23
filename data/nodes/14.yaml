@@ -1,0 +1,225 @@
+bwv: '14'
+title: Wär Gott nicht with uns diese Zeit
+cycle: LATE
+occasion: Epiphany IV
+date: '1735'
+url: https://en.wikipedia.org/wiki/BWV_14
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno da caccia e Oboe I/II all' unisono, Violino I/II, Viola, Continuo
+    de: |-
+      Wär Gott nicht mit uns diese Zeit,
+      So soll Israel sagen,
+      Wär Gott nicht mit uns diese Zeit,
+      Wir hätten müssen verzagen,
+      Die so ein armes Häuflein sind,
+      Veracht' von so viel Menschenkind,
+      Die an uns setzen alle.
+  - num: 2
+    type: Aria
+    voices: S
+    instruments: Corno da caccia, Violino I/II, Viola, Continuo
+    de: |-
+      Unsre Stärke heißt zu schwach,
+      Unserm Feind zu widerstehen.
+      Stünd uns nicht der Höchste bei,
+      Würd uns ihre Tyrannei
+      Bald bis an das Leben gehen.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ja, hätt es Gott nur zugegeben,
+      Wir wären längst nicht mehr am Leben,
+      Sie rissen uns aus Rachgier hin,
+      So zornig ist auf uns ihr Sinn.
+      Es hätt uns ihre Wut
+      Wie eine wilde Flut
+      Und als beschäumte Wasser überschwemmet,
+      Und niemand hätte die Gewalt gehemmet.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Gott, bei deinem starken Schützen
+      Sind wir vor den Feinden frei.
+      Wenn sie sich als wilde Wellen
+      Uns aus Grimm entgegenstellen,
+      Stehn uns deine Hände bei.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Corno da caccia e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Gott Lob und Dank, der nicht zugab,
+      Dass ihr Schlund uns möcht fangen.
+      Wie ein Vogel des Stricks kömmt ab,
+      Ist unsre Seel entgangen:
+      Strick ist entzwei, und wir sind frei;
+      Des Herren Name steht uns bei,
+      Des Gottes Himmels und Erden.
+scoring: 'Soli: S T B, Coro: S A T B, Corno da caccia, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    S: 1
+    T: 1
+    B: 1
+  instrumentation_families:
+    - corno_da_caccia
+    - oboe
+key: G minor
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Wär Gott nicht mit uns diese Zeit, BWV\_14, in Leipzig in 1735 for the fourth Sunday after Epiphany and first performed it on 30 January 1735, a few weeks after his Christmas Oratorio. The cantata, in Bach's chorale cantata format, is based on Martin Luther's hymn \"Wär Gott nicht mit uns diese Zeit\". Its text paraphrases Psalm 124, focussing on the thought that the believers' life depends on God's help and is lost without it."
+  image: null
+  url: https://en.wikipedia.org/wiki/W%C3%A4r_Gott_nicht_mit_uns_diese_Zeit%2C_BWV_14
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Wär Gott nicht mit uns diese Zeit</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>14</b>, in Leipzig in 1735 for the fourth Sunday after Epiphany and first performed it on 30 January 1735, a few weeks after his <i>Christmas Oratorio</i>. The cantata, in Bach's chorale cantata format, is based on Martin Luther's hymn \"Wär Gott nicht mit uns diese Zeit\". Its text paraphrases Psalm 124, focussing on the thought that the believers' life depends on God's help and is lost without it.</p>"
+performances:
+  - id: JILQsEl5Yz0
+    title: J.S. Bach - Cantata BWV 14 "Wär Gott nicht mit uns diese Zeit" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Richter
+    place: Martina Bischof
+    year: '2022'
+    duration: '20:01'
+    thumbnail: https://img.youtube.com/vi/JILQsEl5Yz0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JILQsEl5Yz0
+  - id: HBQlvBs3qFs
+    title: Bach J.S. Cantata BWV 14
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '15:40'
+    thumbnail: https://img.youtube.com/vi/HBQlvBs3qFs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HBQlvBs3qFs
+  - id: ADuB6aI0a7c
+    title: 'J. S. Bach:  Wär Gott nicht mit uns diese Zeit (BWV 14) (Gardiner)'
+    channel: Edward Murray
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '14:39'
+    thumbnail: https://img.youtube.com/vi/ADuB6aI0a7c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ADuB6aI0a7c
+  - id: gTYN2nyPvF0
+    title: 'Mind-boggling Complexity: Bach’s BWV 14 Cantata Chorus (Wär Gott nicht mit uns diese Zeit)'
+    channel: Richard Atkinson
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '21:23'
+    thumbnail: https://img.youtube.com/vi/gTYN2nyPvF0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gTYN2nyPvF0
+  - id: KnIXv59_HRQ
+    title: J.S. Bach - Aria "Unsre Stärke heißt zu schwach" from Cantata BWV 14
+    channel: Bachstiftung
+    performer: Lutz
+    place: Trogen AR
+    year: 16 September 2022
+    duration: '4:28'
+    thumbnail: https://img.youtube.com/vi/KnIXv59_HRQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=KnIXv59_HRQ
+  - id: zKAse5KRsQM
+    title: Bach - Cantate BWV 14 - Wär Gott nicht mit uns diese Zeit
+    channel: MusicArt61
+    performer: Leonhardt
+    place: Leipzig
+    year: '1972'
+    duration: '17:35'
+    thumbnail: https://img.youtube.com/vi/zKAse5KRsQM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zKAse5KRsQM
+  - id: XvUjRs2oawQ
+    title: 'J. S. Bach: Cantata nº 14 BWV 14 Wär Gott nicht mit uns diese Zeit'
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '17:35'
+    thumbnail: https://img.youtube.com/vi/XvUjRs2oawQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XvUjRs2oawQ
+  - id: LiGUBLoo0PU
+    title: 'Emmanuel Music: Bach Cantata BWV 14 Discussion with Ryan Turner and John Harbison'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Leipzig
+    year: June 2022
+    duration: '16:55'
+    thumbnail: https://img.youtube.com/vi/LiGUBLoo0PU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=LiGUBLoo0PU
+  - id: iC8E41KXCCo
+    title: BWV 14 ‘Wär Gott nicht mit uns diese Zeit’, Res. Bach Ensemble olv Jos Vermunt, uit dienst 30-1-22
+    channel: Stichting Kloosterkerk
+    performer: Stichting Kloosterkerk
+    place: ''
+    year: '2022'
+    duration: '17:46'
+    thumbnail: https://img.youtube.com/vi/iC8E41KXCCo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=iC8E41KXCCo
+  - id: PooWv2IYJ9E
+    title: J.S. Bach, Kantate BWV 14 „Wär Gott nicht mit uns diese Zeit“ | Kay Johannsen
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2013'
+    duration: '16:55'
+    thumbnail: https://img.youtube.com/vi/PooWv2IYJ9E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PooWv2IYJ9E
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: pR9jZONW5SA
+    title: J. S. Bach. Coral de la Cantata BWV 14
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '1:05'
+    thumbnail: https://img.youtube.com/vi/pR9jZONW5SA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=pR9jZONW5SA
+  - id: GaZ1Q7-thW4
+    title: 'Wär Gott nicht mit uns diese Zeit, BWV 14: No. 2, Aria. "Unsre Stärke heißt zu schwach"'
+    channel: Gustav Leonhardt - Topic
+    performer: Leonhardt
+    place: ''
+    year: '1994'
+    duration: '4:46'
+    thumbnail: https://img.youtube.com/vi/GaZ1Q7-thW4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GaZ1Q7-thW4
+  - id: rs3UtfOpi1k
+    title: Hermann Baumann plays the Aria from J. S.  Bach Cantata BWV 14. Lp record.
+    channel: jorgevalencia1975
+    performer: Leonhardt
+    place: ''
+    year: '1972'
+    duration: '4:54'
+    thumbnail: https://img.youtube.com/vi/rs3UtfOpi1k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rs3UtfOpi1k
+  - id: jO3NKBczJFA
+    title: J.S.Bach.Cantata BWV 14. Coral.Partitura. Análisis Musical. Cadencias, Tonalidades y Secciones.
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '2:08'
+    thumbnail: https://img.youtube.com/vi/jO3NKBczJFA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jO3NKBczJFA

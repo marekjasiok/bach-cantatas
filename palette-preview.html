@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+body { font-family: -apple-system, sans-serif; padding: 40px; background: #f0f0f0; }
+h1 { font-size: 18px; margin-bottom: 32px; color: #333; }
+.palette { display: flex; gap: 32px; margin-bottom: 48px; }
+.option { flex: 1; }
+.option h2 { font-size: 14px; margin-bottom: 12px; color: #555; }
+.swatches { display: flex; flex-direction: column; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+.swatch { height: 64px; display: flex; align-items: center; padding: 0 16px; font-size: 11px; font-weight: 500; }
+.swatch span { margin-left: auto; opacity: 0.7; font-family: monospace; }
+.mini-preview { margin-top: 16px; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px; }
+.mini-preview h3 { font-size: 16px; margin-bottom: 4px; }
+.mini-preview p { font-size: 12px; line-height: 1.5; opacity: 0.7; }
+.mini-preview .chip { display: inline-block; padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 500; margin-top: 8px; margin-right: 4px; }
+</style>
+</head>
+<body>
+<h1>Bach Cantatas — Color Palette Options</h1>
+
+<div class="palette">
+  <div class="option">
+    <h2>A) Hymnal Indigo</h2>
+    <div class="swatches">
+      <div class="swatch" style="background:#1E3A5F;color:#fff">Primary <span>#1E3A5F</span></div>
+      <div class="swatch" style="background:#2E5C8A;color:#fff">Primary light <span>#2E5C8A</span></div>
+      <div class="swatch" style="background:#D4B863;color:#1a1a1f">Gold accent <span>#D4B863</span></div>
+      <div class="swatch" style="background:#FAF8F4;color:#1a1a1f">Surface <span>#FAF8F4</span></div>
+      <div class="swatch" style="background:#EDE8E0;color:#1a1a1f">Surface variant <span>#EDE8E0</span></div>
+      <div class="swatch" style="background:#1A1A1F;color:#fff">Text <span>#1A1A1F</span></div>
+    </div>
+    <div class="mini-preview" style="background:#FAF8F4; color:#1A1A1F;">
+      <h3 style="font-family:serif; color:#1E3A5F">Trinity XVI</h3>
+      <p>16th Sunday after Trinity — the long green season of the church year.</p>
+      <span class="chip" style="background:#E8DEF8; color:#4A3780">BWV 95</span>
+      <span class="chip" style="background:#D3E4FD; color:#1A4B8C">BWV 8</span>
+    </div>
+  </div>
+
+  <div class="option">
+    <h2>B) Thomaskirche Stone</h2>
+    <div class="swatches">
+      <div class="swatch" style="background:#3D5248;color:#fff">Primary <span>#3D5248</span></div>
+      <div class="swatch" style="background:#5A7A6B;color:#fff">Primary light <span>#5A7A6B</span></div>
+      <div class="swatch" style="background:#C4953A;color:#211e1a">Gold accent <span>#C4953A</span></div>
+      <div class="swatch" style="background:#F6F3ED;color:#211e1a">Surface <span>#F6F3ED</span></div>
+      <div class="swatch" style="background:#E8E2D8;color:#211e1a">Surface variant <span>#E8E2D8</span></div>
+      <div class="swatch" style="background:#211E1A;color:#fff">Text <span>#211E1A</span></div>
+    </div>
+    <div class="mini-preview" style="background:#F6F3ED; color:#211E1A;">
+      <h3 style="font-family:serif; color:#3D5248">Trinity XVI</h3>
+      <p>16th Sunday after Trinity — the long green season of the church year.</p>
+      <span class="chip" style="background:#E8DEF8; color:#4A3780">BWV 95</span>
+      <span class="chip" style="background:#D3E4FD; color:#1A4B8C">BWV 8</span>
+    </div>
+  </div>
+
+  <div class="option">
+    <h2>C) Manuscript Red and Black</h2>
+    <div class="swatches">
+      <div class="swatch" style="background:#8C2F2F;color:#fff">Primary <span>#8C2F2F</span></div>
+      <div class="swatch" style="background:#B54A4A;color:#fff">Primary light <span>#B54A4A</span></div>
+      <div class="swatch" style="background:#F0EAE0;color:#1f1b17">Container <span>#F0EAE0</span></div>
+      <div class="swatch" style="background:#FEFBF6;color:#1f1b17">Surface <span>#FEFBF6</span></div>
+      <div class="swatch" style="background:#F0EAE0;color:#1f1b17">Surface variant <span>#F0EAE0</span></div>
+      <div class="swatch" style="background:#1F1B17;color:#fff">Text <span>#1F1B17</span></div>
+    </div>
+    <div class="mini-preview" style="background:#FEFBF6; color:#1F1B17;">
+      <h3 style="font-family:serif; color:#8C2F2F">Trinity XVI</h3>
+      <p>16th Sunday after Trinity — the long green season of the church year.</p>
+      <span class="chip" style="background:#E8DEF8; color:#4A3780">BWV 95</span>
+      <span class="chip" style="background:#D3E4FD; color:#1A4B8C">BWV 8</span>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

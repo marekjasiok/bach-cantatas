@@ -1,0 +1,253 @@
+bwv: '165'
+title: O heilges Geist- und Wasserbad
+cycle: EARLY
+occasion: Trinity
+date: '1715-06-16'
+url: https://en.wikipedia.org/wiki/BWV_165
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      O heilges Geist- und Wasserbad,
+      Das Gottes Reich uns einverleibet
+      Und uns ins Buch des Lebens schreibet!
+      O Flut, die alle Missetat
+      Durch ihre Wunderkraft ertränket
+      Und uns das neue Leben schenket!
+      O heilges Geist- und Wasserbad!
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Die sündige Geburt verdammter Adamserben
+      Gebieret Gottes Zorn, den Tod und das Verderben.
+      Denn was vom Fleisch geboren ist,
+      Ist nichts als Fleisch, von Sünden angestecket,
+      Vergiftet und beflecket.
+      Wie selig ist ein Christ!
+      Er wird im Geist- und Wasserbade
+      Ein Kind der Seligkeit und Gnade.
+      Er ziehet Christum an
+      Und seiner Unschuld weiße Seide,
+      Er wird mit Christi Blut, der Ehren Purpurkleide,
+      Im Taufbad angetan.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Continuo
+    de: |-
+      Jesu, der aus großer Liebe
+      In der Taufe mir verschriebe
+      Leben, Heil und Seligkeit,
+      Hilf, dass ich mich dessen freue
+      Und den Gnadenbund erneue
+      In der ganzen Lebenszeit.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Ich habe ja, mein Seelenbräutigam,
+      Da du mich neu geboren,
+      Dir ewig treu zu sein geschworen,
+      Hochheilges Gotteslamm;
+      Doch hab ich, ach! den Taufbund oft gebrochen
+      Und nicht erfüllt, was ich versprochen,
+      Erbarme, Jesu, dich aus Gnaden über mich!
+      Vergib mir die begangne Sünde,
+      Du weißt, mein Gott, wie schmerzlich ich empfinde
+      Der alten Schlangen Stich;
+      Das Sündengift verderbt mir Leib und Seele,
+      Hilf, dass ich gläubig dich erwähle,
+      Blutrotes Schlangenbild,
+      Das an dem Kreuz erhöhet,
+      Das alle Schmerzen stillt
+      Und mich erquickt, wenn alle Kraft vergehet.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Continuo
+    de: |-
+      Jesu, meines Todes Tod,
+      Lass in meinem Leben
+      Und in meiner letzten Not
+      Mir für Augen schweben,
+      Dass du mein Heilschlänglein seist
+      Vor das Gift der Sünde.
+      Heile, Jesu, Seel und Geist,
+      Dass ich Leben finde!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Fagotto col Basso, Continuo
+    de: |-
+      Sein Wort, sein Tauf, sein Nachtmahl
+      Dient wider allen Unfall,
+      Der Heilge Geist im Glauben
+      Lehrt uns darauf vertrauen.
+scoring: 'Soli: S A T B, Coro: S A T B, Violino I/II, Viola, Fagotto, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    S: 1
+    B: 2
+    A: 1
+    T: 1
+    SATB: 1
+  instrumentation_families:
+    - fagotto
+wiki:
+  summary: "O heilges Geist- und Wasserbad, BWV\_165, is a church cantata by Johann Sebastian Bach. He composed it in Weimar for Trinity Sunday and led the first performance on 16 June 1715."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/O_heilges_Geist-_und_Wasserbad%2C_BWV_165
+  summary_html: "<p><b><span><i lang=\"de\">O heilges Geist- und Wasserbad</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>165</b>, is a church cantata by Johann Sebastian Bach. He composed it in Weimar for Trinity Sunday and led the first performance on 16 June 1715.</p>"
+performances:
+  - id: SqNVIF2Lkgo
+    title: J.S. Bach - Cantata BWV 165 "O heilges Geist- und Wasserbad" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Balzer
+    year: '2021'
+    duration: '16:34'
+    thumbnail: https://img.youtube.com/vi/SqNVIF2Lkgo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SqNVIF2Lkgo
+  - id: D08uGtMPYYI
+    title: 'Bach: "O heil''ges Geist- und Wasserbad", cantata BWV 165. Gardiner'
+    channel: Muzikay
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '13:01'
+    thumbnail: https://img.youtube.com/vi/D08uGtMPYYI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=D08uGtMPYYI
+  - id: CYgp3MI-Jik
+    title: 'J. S. Bach:  O heilges Geist- und Wasserbad (BWV 165) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Wort
+    year: ''
+    duration: '11:58'
+    thumbnail: https://img.youtube.com/vi/CYgp3MI-Jik/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CYgp3MI-Jik
+  - id: icMNdJhDHas
+    title: 'J.S. Bach: O heilges Geist und Wasserbad, BWV 165  {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Wort
+    year: ''
+    duration: '11:52'
+    thumbnail: https://img.youtube.com/vi/icMNdJhDHas/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=icMNdJhDHas
+  - id: k_gHc2vcvj8
+    title: 'J. S. Bach: Kantate BWV 165 "O heilges Geist- und Wasserbad" | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Wort
+    year: '2020'
+    duration: '14:19'
+    thumbnail: https://img.youtube.com/vi/k_gHc2vcvj8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=k_gHc2vcvj8
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: _JOUtjxBte8
+    title: J.S. Bach - BWV 165 (O Holy Ghost and water bath)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '11:56'
+    thumbnail: https://img.youtube.com/vi/_JOUtjxBte8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_JOUtjxBte8
+  - id: 6b0YOjfnI-I
+    title: Bach - Cantate BWV 165 - O heiliges Geist- und Wasserbad
+    channel: MusicArt61
+    performer: Herreweghe
+    place: Wort
+    year: '1987'
+    duration: '12:35'
+    thumbnail: https://img.youtube.com/vi/6b0YOjfnI-I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6b0YOjfnI-I
+  - id: E2ChnvaENXE
+    title: 'O heiliges Geist- und Wasserbad, BWV 165: Aria: O heilges Geist-und Wasserbad (Soprano)'
+    channel: Arleen Augér - Topic
+    performer: Rilling
+    place: Frankfurt
+    year: '2000'
+    duration: '3:46'
+    thumbnail: https://img.youtube.com/vi/E2ChnvaENXE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=E2ChnvaENXE
+  - id: bx_LNaazhuY
+    title: J.S. Bach - Recitative "Ich habe ja, mein Seelenbräutigam" from Cantata BWV 165
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '2:56'
+    thumbnail: https://img.youtube.com/vi/bx_LNaazhuY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bx_LNaazhuY
+  - id: amuqUQs0aFg
+    title: J.S. Bach - Cantata BWV 105 "Herr, gehe nicht ins Gericht mit deinem Knecht" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2019'
+    duration: '25:24'
+    thumbnail: https://img.youtube.com/vi/amuqUQs0aFg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=amuqUQs0aFg
+  - id: wPbEbXinYXg
+    title: J. S. Bach - Cantata BWV 135 "Ach Herr, mich armen Sünder" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: '2009'
+    duration: '18:38'
+    thumbnail: https://img.youtube.com/vi/wPbEbXinYXg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=wPbEbXinYXg
+  - id: fN8LjD4SKIA
+    title: Happy Birthday J. S. Bach - Cantata BWV 165 - 6 Chorale (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Wort
+    year: '2021'
+    duration: '1:29'
+    thumbnail: https://img.youtube.com/vi/fN8LjD4SKIA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fN8LjD4SKIA
+  - id: 8TdPe4iEYPQ
+    title: J.S. Bach - Cantata BWV 35 "Geist und Seele wird verwirret" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '28:43'
+    thumbnail: https://img.youtube.com/vi/8TdPe4iEYPQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=8TdPe4iEYPQ
+  - id: dRShIu9Mc10
+    title: J.S. Bach - Cantata BWV 175 "Er rufet seinen Schafen mit Namen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '18:28'
+    thumbnail: https://img.youtube.com/vi/dRShIu9Mc10/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dRShIu9Mc10
+key: C major

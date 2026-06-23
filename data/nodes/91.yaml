@@ -1,0 +1,101 @@
+bwv: '91'
+title: Gelobet seist du, Jesu Christ
+cycle: C2
+occasion: Christmas Day
+date: '1724-12-25'
+url: https://en.wikipedia.org/wiki/BWV_91
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Gelobet seist du, Jesu Christ,
+      Dass du Mensch geboren bist
+      Von einer Jungfrau, das ist wahr,
+      Des freuet sich der Engel Schar.
+      Kyrie eleis!
+  - num: 2
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Der Glanz der höchsten Herrlichkeit,
+      Das Ebenbild von Gottes Wesen,
+      Hat in bestimmter Zeit
+      Sich einen Wohnplatz auserlesen.
+      Des ewgen Vaters einigs Kind,
+      Das ewge Licht von Licht geboren,
+      Itzt man in der Krippe findt.
+      O Menschen, schauet an,
+      Was hier der Liebe Kraft getan!
+      In unser armes Fleisch und Blut,
+      (Und war denn dieses nicht verflucht, verdammt, verloren?)
+      Verkleidet sich das ewge Gut.
+      So wird es ja zum Segen auserkoren.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe I-III, Continuo
+    de: |-
+      Gott, dem der Erden Kreis zu klein,
+      Den weder Welt noch Himmel fassen,
+      Will in der engen Krippe sein.
+      Erscheinet uns dies ewge Licht,
+      So wird hinfüro Gott uns nicht
+      Als dieses Lichtes Kinder hassen.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      O Christenheit!
+      Wohlan, so mache die bereit,
+      Bei dir den Schöpfer zu empfangen.
+      Der grosse Gottessohn
+      Kömmt als ein Gast zu dir gegangen.
+      Ach, lass dein Herz durch diese Liebe rühren;
+      Er kömmt zu dir, um dich for seinen Thron
+      Durch dieses Jammertal zu führen.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Continuo
+    de: |-
+      Die Armut, so Gott auf sich nimmt,
+      Hat uns ein ewig Heil bestimmt,
+      Den Überfluss an Himmelsschätzen.
+      Sein menschlich Wesen machet euch
+      Den Engelsherrlichkeiten gleich,
+      Euch zu der Engel Chor zu setzen.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno I/II, Tamburi, Oboe I-III e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Das hat er alles uns getan,
+      Sein groß Lieb zu zeigen an;
+      Des freu sich alle Christenheit
+      Und dank ihm des in Ewigkeit.
+      Kyrie eleis!
+scoring: 'Soli: S A T B, Coro: S A T B, Corno I/II, Tamburi, Oboe I-III, Violino I/II, Viola, Fagotto, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    T: 1
+    B: 1
+  instrumentation_families:
+    - corno
+    - oboe
+    - timpani
+key: G major

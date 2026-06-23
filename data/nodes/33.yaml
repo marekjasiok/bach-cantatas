@@ -1,0 +1,253 @@
+bwv: '33'
+title: Allein zu dir, Herr Jesu Christ
+cycle: C2
+occasion: Trinity XIII
+date: '1724-09-03'
+url: https://en.wikipedia.org/wiki/BWV_33
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Allein zu dir, Herr Jesu Christ,
+      Mein Hoffnung steht auf Erden;
+      Ich weiß, dass du mein Tröster bist,
+      Kein Trost mag mir sonst werden.
+      Von Anbeginn ist nichts erkorn,
+      Auf Erden war kein Mensch geborn,
+      Der mir aus Nöten helfen kann.
+      Ich ruf dich an,
+      Zu dem ich mein Vertrauen hab.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Mein Gott und Richter, willt du mich aus dem Gesetze fragen,
+      So kann ich nicht,
+      Weil mein Gewissen widerspricht,
+      Auf tausend eines sagen.
+      An Seelenkräften arm und an der Liebe bloß,
+      Und meine Sünd ist schwer und übergroß;
+      Doch weil sie mich von Herzen reuen,
+      Wirst du, mein Gott und Hort,
+      Durch ein Vergebungswort
+      Mich wiederum erfreuen.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino I con sordino, Violino II, Viola, Continuo
+    de: |-
+      Wie furchtsam wankten meine Schritte,
+      Doch Jesus hört auf meine Bitte
+      Und zeigt mich seinem Vater an.
+      Mich drückten Sündenlasten nieder,
+      Doch hilft mir Jesu Trostwort wieder,
+      Dass er für mich genung getan.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Mein Gott, verwirf mich nicht,
+      Wiewohl ich dein Gebot noch täglich übertrete,
+      Von deinem Angesicht!
+      Das kleinste ist mir schon zu halten viel zu schwer;
+      Doch, wenn ich um nichts mehr
+      Als Jesu Beistand bete,
+      So wird mich kein Gewissensstreit
+      Der Zuversicht berauben;
+      Gib mir nur aus Barmherzigkeit
+      Den wahren Christenglauben!
+      So stellt er sich mit guten Früchten ein
+      Und wird durch Liebe tätig sein.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Gott, der du die Liebe heißt,
+      Ach, entzünde meinen Geist,
+      Lass zu dir vor allen Dingen
+      Meine Liebe kräftig dringen!
+      Gib, dass ich aus reinem Triebe
+      Als mich selbst den Nächsten liebe;
+      Stören Feinde meine Ruh,
+      Sende du mir Hülfe zu!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Ehr sei Gott in dem höchsten Thron,
+      Dem Vater aller Güte,
+      Und Jesu Christ, sein'm liebsten Sohn,
+      Der uns allzeit behüte,
+      Und Gott dem Heiligen Geiste,
+      Der uns sein Hülf allzeit leiste,
+      Damit wir ihm gefällig sein,
+      Hier in dieser Zeit
+      Und folgends in der Ewigkeit.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 1
+    A: 1
+    T: 1
+  instrumentation_families:
+    - oboe
+key: A minor
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Allein zu dir, Herr Jesu Christ, BWV\_33, in Leipzig in 1724 for the thirteenth Sunday after Trinity and first performed it on 3 September 1724. The chorale cantata is based on the 1540 hymn \"Allein zu dir, Herr Jesu Christ\" by Konrad Hubert."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Allein_zu_dir%2C_Herr_Jesu_Christ_%28autograph_manuscrip.jpg/330px-Allein_zu_dir%2C_Herr_Jesu_Christ_%28autograph_manuscrip.jpg
+  url: https://en.wikipedia.org/wiki/Allein_zu_dir%2C_Herr_Jesu_Christ%2C_BWV_33
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Allein zu dir, Herr Jesu Christ</i></span></b>, <span class=\"nowrap\"><b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>33</b></span>, in Leipzig in 1724 for the thirteenth Sunday after Trinity and first performed it on 3 September 1724. The chorale cantata is based on the 1540 hymn \"Allein zu dir, Herr Jesu Christ\" by Konrad Hubert.</p>"
+performances:
+  - id: GbwXyvlpcGw
+    title: J.S. Bach - Cantata BWV 33 "Allein zu dir, Herr Jesu Christ" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '24:02'
+    thumbnail: https://img.youtube.com/vi/GbwXyvlpcGw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GbwXyvlpcGw
+  - id: mYO96Rqy--s
+    title: 'J.S Bach - Cantata: Allein zu dir, Herr Jesu Christ, BWV 33'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '21:26'
+    thumbnail: https://img.youtube.com/vi/mYO96Rqy--s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mYO96Rqy--s
+  - id: 8lxnaw2GbS8
+    title: J.S. Bach - Aria "Wie furchtsam wankten meine Schritte" from Cantata BWV 33
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '9:43'
+    thumbnail: https://img.youtube.com/vi/8lxnaw2GbS8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=8lxnaw2GbS8
+  - id: kSl_nusy-Lo
+    title: J.S. Bach - Aria "Gott, der du die Liebe heißt" from Cantata BWV 33
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '4:01'
+    thumbnail: https://img.youtube.com/vi/kSl_nusy-Lo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=kSl_nusy-Lo
+  - id: 6ddNLRPrXno
+    title: J.S. Bach - BWV 33 (Alone towards you, Lord Jesus Christ)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '21:24'
+    thumbnail: https://img.youtube.com/vi/6ddNLRPrXno/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6ddNLRPrXno
+  - id: KjYyMFkwdFs
+    title: BWV 33 - Allein zu Dir, Herr Jesu Christ
+    channel: Bachcantates Tilburg
+    performer: Bachcantates Tilburg
+    place: ''
+    year: ''
+    duration: '21:48'
+    thumbnail: https://img.youtube.com/vi/KjYyMFkwdFs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=KjYyMFkwdFs
+  - id: AC7-_C_G8D4
+    title: 'Allein zu, Herr Jesu Christ, BWV 33: V. Aria: Aria'
+    channel: Sonia Wieder-Atherton - Topic
+    performer: Sonia Wieder-Atherton - Topic
+    place: ''
+    year: ''
+    duration: '6:48'
+    thumbnail: https://img.youtube.com/vi/AC7-_C_G8D4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AC7-_C_G8D4
+  - id: kNrECzthPVc
+    title: J. S. Bach, “Allein zu dir, Herr Jesu Christ” BWV 33--Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: ''
+    year: ''
+    duration: '1:16:54'
+    thumbnail: https://img.youtube.com/vi/kNrECzthPVc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=kNrECzthPVc
+  - id: 2S5bQ9jXDLg
+    title: J.S. Bach Cantata Allein zu Dir Herr Jesu Christ, BWV 33, Karl Richter
+    channel: HarpsichordA6
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '23:26'
+    thumbnail: https://img.youtube.com/vi/2S5bQ9jXDLg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2S5bQ9jXDLg
+  - id: dyrOKieeu7E
+    title: Bach - Cantate BWV 33 - Allein zu dir, Herr Jesu Christ
+    channel: MusicArt61
+    performer: MusicArt61
+    place: ''
+    year: ''
+    duration: '21:20'
+    thumbnail: https://img.youtube.com/vi/dyrOKieeu7E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dyrOKieeu7E
+  - id: M1mvUleTS4Q
+    title: 'J. S. Bach:  Allein zu dir, Herr Jesu Christ (BWV 33) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '21:02'
+    thumbnail: https://img.youtube.com/vi/M1mvUleTS4Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=M1mvUleTS4Q
+  - id: sGPZQl3TH8A
+    title: JS Bach. Aria pour cordes BWV 33/3
+    channel: TheDiasneb
+    performer: TheDiasneb
+    place: ''
+    year: ''
+    duration: '8:35'
+    thumbnail: https://img.youtube.com/vi/sGPZQl3TH8A/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sGPZQl3TH8A
+  - id: r_zL0E2B7Cw
+    title: J. S.  Bach  -  Allein zu Dir Herr Jesu Christ, BWV 33  -  1
+    channel: Joejobass
+    performer: Joejobass
+    place: ''
+    year: ''
+    duration: '4:29'
+    thumbnail: https://img.youtube.com/vi/r_zL0E2B7Cw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=r_zL0E2B7Cw
+  - id: NdzRRXBHXBc
+    title: J. S. Bach - Cantata BWV 139 "Wohl dem, der sich auf seinen Gott" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '21:35'
+    thumbnail: https://img.youtube.com/vi/NdzRRXBHXBc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NdzRRXBHXBc
+  - id: iLEfrdAb-RE
+    title: 'J S Bach, Cantata BWV 33: Aria (3) Wie furchtsam wankten meine Schritte. Gustav Leonhardt'
+    channel: Ewa Chamiec. CzarMuzyki
+    performer: Leonhardt
+    place: ''
+    year: ''
+    duration: '8:10'
+    thumbnail: https://img.youtube.com/vi/iLEfrdAb-RE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=iLEfrdAb-RE

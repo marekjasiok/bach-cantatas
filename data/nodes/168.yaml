@@ -1,0 +1,262 @@
+bwv: '168'
+title: Thue Rechnung! Donnerwort
+cycle: C3
+occasion: Trinity IX
+date: '1725-07-29'
+url: https://en.wikipedia.org/wiki/BWV_168
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Tue Rechnung! Donnerwort,
+      Das die Felsen selbst zerspaltet,
+      Wort, wovon mein Blut erkaltet!
+      Tue Rechnung! Seele, fort!
+      Ach, du musst Gott wiedergeben
+      Seine Güter, Leib und Leben.
+      Tue Rechnung! Donnerwort!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Es ist nur fremdes Gut,
+      Was ich in diesem Leben habe;
+      Geist, Leben, Mut und Blut
+      Und Amt und Stand ist meines Gottes Gabe,
+      Es ist mir zum Verwalten
+      Und treulich damit hauszuhalten
+      Von hohen Händen anvertraut.
+      Ach! aber ach! mir graut,
+      Wenn ich in mein Gewissen gehe
+      Und meine Rechnungen so voll Defekte sehe!
+      Ich habe Tag und Nacht
+      Die Güter, die mir Gott verliehen,
+      Kaltsinnig durchgebracht!
+      Wie kann ich dir, gerechter Gott, entfliehen?
+      Ich rufe flehentlich:
+      Ihr Berge fallt! ihr Hügel decket mich
+      Vor Gottes Zorngerichte
+      Und vor dem Blitz von seinem Angesichte!
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Kapital und Interessen,
+      Meine Schulden groß und klein
+      Müssen einst verrechnet sein.
+      Alles, was ich schuldig blieben,
+      Ist in Gottes Buch geschrieben
+      Als mit Stahl und Demantstein.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Jedoch, erschrocknes Herz, leb und verzage nicht!
+      Tritt freudig vor Gericht!
+      Und überführt dich dein Gewissen,
+      Du werdest hier verstummen müssen,
+      So schau den Bürgen an,
+      Der alle Schulden abgetan!
+      Es ist bezahlt und völlig abgeführt,
+      Was du, o Mensch, in Rechnung schuldig blieben;
+      Des Lammes Blut, o großes Lieben!
+      Hat deine Schuld durchstrichen
+      Und dich mit Gott verglichen.
+      Es ist bezahlt, du bist quittiert!
+      Indessen,
+      Weil du weißt,
+      Dass du Haushalter seist,
+      So sei bemüht und unvergessen,
+      Den Mammon klüglich anzuwenden,
+      Den Armen wohlzutun,
+      So wirst du, wenn sich Zeit und Leben enden,
+      In Himmelshütten sicher ruhn.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Herz, zerreiß des Mammons Kette,
+      Hände, streuet Gutes aus!
+      Machet sanft mein Sterbebette,
+      Bauet mir ein festes Haus,
+      Das im Himmel ewig bleibet,
+      Wenn der Erde Gut zerstäubet.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Stärk mich mit deinem Freudengeist,
+      Heil mich mit deinen Wunden,
+      Wasch mich mit deinem Todesschweiß
+      In meiner letzten Stunden;
+      Und nimm mich einst, wenn dirs gefällt,
+      In wahrem Glauben von der Welt
+      Zu deinen Auserwählten.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 2
+    T: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe_damore
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Tue Rechnung! Donnerwort, BWV\_168 in Leipzig for the ninth Sunday after Trinity and first performed it on 29 July 1725."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Teachings_of_Jesus_31_of_40._parable_of_the_unjust_steward._Jan_Luyken_etching._Bowyer_Bible.gif/330px-Teachings_of_Jesus_31_of_40._parable_of_the_unjust_steward._Jan_Luyken_etching._Bowyer_Bible.gif
+  url: https://en.wikipedia.org/wiki/Tue_Rechnung!_Donnerwort%2C_BWV_168
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Tue Rechnung! Donnerwort</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>168</b> in Leipzig for the ninth Sunday after Trinity and first performed it on 29 July 1725.</p>"
+performances:
+  - id: sy3rkJ7iVxE
+    title: Bach - Cantata Tue Rechnung! Donnerwort BWV 168 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Walloon Church
+    year: '2021'
+    duration: '14:27'
+    thumbnail: https://img.youtube.com/vi/sy3rkJ7iVxE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sy3rkJ7iVxE
+  - id: 2hjYcVpCZjc
+    title: J. S. Bach - Cantata BWV 168 "Tue Rechnung, Donnerwort" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '17:26'
+    thumbnail: https://img.youtube.com/vi/2hjYcVpCZjc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2hjYcVpCZjc
+  - id: zku3OaN26dI
+    title: Bach - BWV 168, Cantata "Tue Rechnung! Donnerwort"
+    channel: vanille_chose
+    performer: Masaaki
+    place: ''
+    year: ''
+    duration: '13:07'
+    thumbnail: https://img.youtube.com/vi/zku3OaN26dI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zku3OaN26dI
+  - id: WHoLb0LYH3U
+    title: J. S. Bach - Aria "Tue Rechnung! Donnerwort" from Cantata BWV 168 (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '3:22'
+    thumbnail: https://img.youtube.com/vi/WHoLb0LYH3U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WHoLb0LYH3U
+  - id: urh1YM1LSmk
+    title: J.S. Bach - Cantata BWV 169 "Gott soll allein mein Herze haben" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Herze haben
+    year: ''
+    duration: '26:03'
+    thumbnail: https://img.youtube.com/vi/urh1YM1LSmk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=urh1YM1LSmk
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: r3SB5_xcGnw
+    title: 'J.S. Bach, Kantate BWV 168: 6 Choral „Stärk mich mit deinem Freudengeist“  | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2019'
+    duration: '1:34'
+    thumbnail: https://img.youtube.com/vi/r3SB5_xcGnw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=r3SB5_xcGnw
+  - id: r6TELFuXwVE
+    title: Bach - Cantata Liebster Gott, wenn werd ich sterben BWV 8 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '18:59'
+    thumbnail: https://img.youtube.com/vi/r6TELFuXwVE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=r6TELFuXwVE
+  - id: NdzRRXBHXBc
+    title: J. S. Bach - Cantata BWV 139 "Wohl dem, der sich auf seinen Gott" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: '2008'
+    duration: '21:35'
+    thumbnail: https://img.youtube.com/vi/NdzRRXBHXBc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NdzRRXBHXBc
+  - id: LWrIIGeg94g
+    title: J. S. Bach - Aria "Tue Rechnung! Donnerwort" from Cantata BWV 168
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '3:22'
+    thumbnail: https://img.youtube.com/vi/LWrIIGeg94g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=LWrIIGeg94g
+  - id: DTPRzSV-zZg
+    title: Bach - Lass, Fürstin, lass noch einen Strahl, 'Trauerode' BWV 198 - Luks | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk
+    year: 7 March 2020
+    duration: '31:27'
+    thumbnail: https://img.youtube.com/vi/DTPRzSV-zZg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DTPRzSV-zZg
+  - id: 9yc5tAS7rrA
+    title: J.S. Bach - Andreas Scholl sings cantata BWV 170 "Vergnügte Ruh" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '26:41'
+    thumbnail: https://img.youtube.com/vi/9yc5tAS7rrA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9yc5tAS7rrA
+  - id: amuqUQs0aFg
+    title: J.S. Bach - Cantata BWV 105 "Herr, gehe nicht ins Gericht mit deinem Knecht" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2019'
+    duration: '25:24'
+    thumbnail: https://img.youtube.com/vi/amuqUQs0aFg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=amuqUQs0aFg
+  - id: jFfll9DmwrA
+    title: J.S. Bach - Cantata BWV 122 "Das neugeborne Kindelein" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Tag
+    year: '2021'
+    duration: '18:34'
+    thumbnail: https://img.youtube.com/vi/jFfll9DmwrA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jFfll9DmwrA
+  - id: zAIgsGodzxo
+    title: J. S. Bach - Cantata BWV 138 "Warum betrübst du dich, mein Herz" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Gott und Vater bist
+    year: '2010'
+    duration: '21:53'
+    thumbnail: https://img.youtube.com/vi/zAIgsGodzxo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zAIgsGodzxo
+key: D minor

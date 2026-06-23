@@ -1,0 +1,150 @@
+bwv: '150'
+title: Nach dir, Herr, verlanget mich
+cycle: EARLY
+occasion: Unknown
+date: c. 1704–1707 (Arnstadt) [^1]
+url: https://en.wikipedia.org/wiki/BWV_150
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Fagotto, Violino I/II, Continuo
+    de: ''
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: Fagotto, Violino I/II, Continuo
+    de: |-
+      Nach dir, Herr, verlanget mich.
+      Mein Gott, ich hoffe auf dich. Lass mich nicht zuschanden werden,
+      dass sich meine Feinde nicht freuen über mich.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Continuo
+    de: |-
+      Doch bin und bleibe ich vergnügt,
+      Obgleich hier zeitlich toben
+      Kreuz, Sturm und andre Proben,
+      Tod, Höll und was sich fügt.
+      Ob Unfall schlägt den treuen Knecht,
+      Recht ist und bleibet ewig Recht.
+  - num: 4
+    type: Chorus
+    voices: SATB
+    instruments: Fagotto, Violino I/II, Continuo
+    de: |-
+      Leite mich in deiner Wahrheit und lehre mich;
+      denn du bist der Gott, der mir hilft, täglich harre ich dein.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Fagotto, Continuo
+    de: |-
+      Zedern müssen von den Winden
+      Oft viel Ungemach empfinden,
+      Oftmals werden sie verkehrt.
+      Rat und Tat auf Gott gestellet,
+      Achtet nicht, was widerbellet,
+      Denn sein Wort ganz anders lehrt.
+  - num: 6
+    type: Chorus
+    voices: SATB
+    instruments: Fagotto, Violino I/II, Continuo
+    de: |-
+      Meine Augen sehen stets zu dem Herrn;
+      denn er wird meinen Fuß aus dem Netze ziehen.
+  - num: 7
+    type: Chorus
+    voices: SATB
+    instruments: Fagotto, Violino I/II, Continuo
+    de: |-
+      Meine Tage in dem Leide
+      Endet Gott dennoch zur Freude;
+      Christen auf den Dornenwegen
+      Führen Himmels Kraft und Segen.
+      Bleibet Gott mein treuer Schutz,
+      Achte ich nicht Menschentrutz,
+      Christus, der uns steht zur Seiten,
+      Hilft mir täglich sieghaft streiten.
+scoring: 'Soli: S A T B, Coro: S A T B, Fagotto, Violino I/II, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Chorus
+    - Aria
+    - Chorus
+    - Aria
+    - Chorus
+    - Chorus
+  opening: Sinfonia
+  closing: Chorus
+  voice_profile:
+    SATB: 4
+    S: 1
+  instrumentation_families:
+    - fagotto
+wiki:
+  summary: >-
+    Nach dir, Herr, verlanget mich, BWV 150, is an early church cantata by Johann Sebastian Bach composed for an unknown
+    occasion. It is unique among Bach's cantatas in its sparse orchestration and in the independence and prominence of
+    the chorus, which is featured in four out of seven movements. The text alternates verses from Psalm 25 and poetry by
+    an unknown librettist. Bach scored the work for four vocal parts and a small Baroque instrumental ensemble of two
+    violins, bassoon and basso continuo.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Young_Bach2.jpg/330px-Young_Bach2.jpg
+  url: https://en.wikipedia.org/wiki/Nach_dir%2C_Herr%2C_verlanget_mich%2C_BWV_150
+  summary_html: >-
+    <p><i><b><span><i lang="de">Nach dir, Herr, verlanget mich</i></span></b></i>, <b><span class="nowrap">BWV
+    150</span></b>, is an early church cantata by Johann Sebastian Bach composed for an unknown occasion. It is unique
+    among Bach's cantatas in its sparse orchestration and in the independence and prominence of the chorus, which is
+    featured in four out of seven movements. The text alternates verses from Psalm 25 and poetry by an unknown
+    librettist. Bach scored the work for four vocal parts and a small Baroque instrumental ensemble of two violins,
+    bassoon and basso continuo.</p>
+performances:
+  - id: lC8UErdK_XE
+    title: Bach - Cantata Nach dir, Herr, verlanget mich BWV 150 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Groote Kerk
+    year: '2019'
+    duration: '14:03'
+    thumbnail: https://img.youtube.com/vi/lC8UErdK_XE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lC8UErdK_XE
+  - id: d7Wt02gTwg8
+    title: 'Academy of Ancient Music - Bach: Nach dir, Herr, verlanget mich, BWV 150'
+    channel: VOCES8
+    performer: VOCES8
+    place: ''
+    year: '2020'
+    duration: '14:39'
+    thumbnail: https://img.youtube.com/vi/d7Wt02gTwg8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=d7Wt02gTwg8
+  - id: apVqiJrUw5I
+    title: 'J.S. Bach : Cantate 150 "Nach dir Herr, verlanget mich"'
+    channel: Chœur & Ensemble Poséidon
+    performer: Chœur & Ensemble Poséidon
+    place: ''
+    year: '2025'
+    duration: '13:54'
+    thumbnail: https://img.youtube.com/vi/apVqiJrUw5I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=apVqiJrUw5I
+  - id: n3VvqEMqv5I
+    title: 'J.S. Bach:  Nach dir, Herr, verlanget mich, BWV 150 {Vocal score}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: ''
+    year: ''
+    duration: '15:29'
+    thumbnail: https://img.youtube.com/vi/n3VvqEMqv5I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=n3VvqEMqv5I
+  - id: gTO03xRoCaU
+    title: Bach   Cantata BWV 150 Nach dir, Herr -  Pierlot
+    channel: kedem berger
+    performer: kedem berger
+    place: ''
+    year: ''
+    duration: '14:41'
+    thumbnail: https://img.youtube.com/vi/gTO03xRoCaU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gTO03xRoCaU
+key: B minor

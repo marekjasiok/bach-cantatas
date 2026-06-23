@@ -1,0 +1,99 @@
+# Instrument classification for filter/discovery
+# Deliberately granular — every distinctive instrument gets its own entry.
+# Ubiquitous forces (Violino I/II, Viola, Continuo) are excluded since
+# they appear in nearly all cantatas and are useless as filters.
+#
+# pattern: regex tested against individual per-movement instrument tokens
+# label: display name in UI
+
+families:
+  # --- Woodwinds ---
+  oboe:
+    label: Oboe
+    pattern: 'oboe(?!\s+d)'
+  oboe_damore:
+    label: Oboe d'amore
+    pattern: 'oboe d.amore'
+  oboe_da_caccia:
+    label: Oboe da caccia
+    pattern: 'oboe da caccia|taille'
+  flauto_traverso:
+    label: Flauto traverso
+    pattern: 'flauto traverso|traverso'
+  recorder:
+    label: Recorder
+    pattern: 'flauto dolce|flauto(?!\s*(traverso|piccolo|dolce))|blockfl'
+  flauto_piccolo:
+    label: Flauto piccolo
+    pattern: 'flauto piccolo'
+  fagotto:
+    label: Bassoon
+    pattern: 'fagotto|bassoon'
+
+  # --- Brass ---
+  tromba:
+    label: Trumpet
+    pattern: 'tromba(?!\s+da)|clarino|trumpet'
+  tromba_da_tirarsi:
+    label: Tromba da tirarsi
+    pattern: 'tromba da tirarsi'
+  corno:
+    label: Horn
+    pattern: 'corno(?!\s+da)'
+  corno_da_caccia:
+    label: Corno da caccia
+    pattern: 'corno da caccia'
+  corno_da_tirarsi:
+    label: Corno da tirarsi
+    pattern: 'corno da tirarsi'
+  cornetto:
+    label: Cornetto
+    pattern: 'cornett|zink'
+  trombone:
+    label: Trombone
+    pattern: 'trombone|trombon'
+  lituus:
+    label: Lituus
+    pattern: 'lituus'
+
+  # --- Percussion ---
+  timpani:
+    label: Timpani
+    pattern: 'timpani|tamburi'
+
+  # --- Strings (solo/distinctive only) ---
+  violino_solo:
+    label: Solo violin
+    pattern: 'violino solo|violino concertan'
+  violino_piccolo:
+    label: Violino piccolo
+    pattern: 'violino piccolo'
+  viola_damore:
+    label: Viola d'amore
+    pattern: 'viola d.amore'
+  viola_da_gamba:
+    label: Viola da gamba
+    pattern: 'viola da gamba|viole da gamba'
+  violoncello_piccolo:
+    label: Violoncello piccolo
+    pattern: 'violoncello piccolo'
+  violoncello:
+    label: Violoncello
+    pattern: 'violoncello(?!\s+piccolo)'
+  violone:
+    label: Violone
+    pattern: 'violone'
+  violetta:
+    label: Violetta
+    pattern: 'violetta'
+  lute:
+    label: Lute
+    pattern: 'liuto|lute'
+
+  # --- Keyboard ---
+  organ:
+    label: Organ
+    pattern: 'organo|organ'
+  cembalo:
+    label: Cembalo
+    pattern: 'cembalo'

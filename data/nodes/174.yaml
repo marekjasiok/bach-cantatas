@@ -1,0 +1,144 @@
+bwv: '174'
+title: Ich liebe den Höchsten von ganzem Gemüte
+cycle: PICANDER
+occasion: Pentecost 2
+date: '1729-06-06'
+url: https://en.wikipedia.org/wiki/BWV_174
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Corno da caccia I/II, Oboe I/II, Taille, Violino I-III, Viola I-III, Violoncello I-III, Fagotto, Violone, Continuo
+    de: ''
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Ich liebe den Höchsten von ganzem Gemüte,
+      Er hat mich auch am höchsten lieb.
+      Gott allein
+      Soll der Schatz der Seelen sein,
+      Da hab ich die ewige Quelle der Güte.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Violino I-III, Viola I-III, Continuo
+    de: |-
+      O Liebe, welcher keine gleich!
+      O unschätzbares Lösegeld!
+      Der Vater hat des Kindes Leben
+      Vor Sünder in den Tod gegeben
+      Und alle, die das Himmelreich
+      Verscherzet und verloren,
+      Zur Seligkeit erkoren.
+      Also hat Gott die Welt geliebt!
+      Mein Herz, das merke dir
+      Und stärke dich mit diesen Worten;
+      Vor diesem mächtigen Panier
+      Erzittern selbst die Höllenpforten.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violini, Viole, Continuo
+    de: |-
+      Greifet zu,
+      Fasst das Heil, ihr Glaubenshände!
+      Jesus gibt sein Himmelreich
+      Und verlangt nur das von euch:
+      Gläubt getreu bis an das Ende!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I e Violino I/II col Soprano, Oboe II e Violino III coll' Alto, Taille e Viola I-III col Tenore, Continuo
+    de: |-
+      Herzlich lieb hab ich dich, o Herr.
+      Ich bitt, wollst sein von mir nicht fern
+      Mit deiner Hülf und Gnaden.
+      Die ganze Welt erfreut mich nicht,
+      Nach Himml und Erden frag ich nicht,
+      Wenn ich dich nur kann haben.
+      Und wenn mir gleich mein Herz zerbricht,
+      So bist du doch mein Zuversicht,
+      Mein Heil und meines Herzens Trost,
+      Der mich durch sein Blut hat erlöst.
+      Herr Jesu Christ,
+      Mein Gott und Herr, mein Gott und Herr,
+      In Schanden lass mich nimmermehr!
+scoring: >-
+  Soli: A T B, Coro: S A T B, Corno da caccia I/II, Oboe I/II, Taille, Violino ripieno I/II, Viola di ripieno, Violino
+  concertante I-III, Viola concertante I-III, Violoncello concertante I-III, Fagotto, Violone, Organo, Continuo
+features:
+  structure:
+    - Sinfonia
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    A: 1
+    T: 1
+    B: 1
+    SATB: 1
+  instrumentation_families:
+    - corno_da_caccia
+    - fagotto
+    - oboe
+    - oboe_da_caccia
+    - violoncello
+    - violone
+wiki:
+  summary: "Ich liebe den Höchsten von ganzem Gemüte, BWV\_174, is a church cantata by Johann Sebastian Bach. He composed the cantata in Leipzig for the second day of Pentecost and first performed it on 6 June 1729."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomaskirche_Interior.jpg/330px-Thomaskirche_Interior.jpg
+  url: https://en.wikipedia.org/wiki/Ich_liebe_den_H%C3%B6chsten_von_ganzem_Gem%C3%BCte%2C_BWV_174
+  summary_html: "<p><b><span><i lang=\"de\">Ich liebe den Höchsten von ganzem Gemüte</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>174</b>, is a church cantata by Johann Sebastian Bach. He composed the cantata in Leipzig for the second day of Pentecost and first performed it on 6 June 1729.</p>"
+performances:
+  - id: 61AJExe6xCA
+    title: Johann Sebastian Bach - "Ich liebe den Höchsten von ganzem Gemüte", Kantate BWV 174
+    channel: Bach Bewegt
+    performer: Bach Bewegt
+    place: Karlshorst
+    year: August 2021
+    duration: '22:16'
+    thumbnail: https://img.youtube.com/vi/61AJExe6xCA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=61AJExe6xCA
+  - id: AYF32KdCjRs
+    title: 'J. S. Bach:  Ich liebe den Höchsten von ganzem Gemüte (BWV 174) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '19:20'
+    thumbnail: https://img.youtube.com/vi/AYF32KdCjRs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AYF32KdCjRs
+  - id: IYQ5Co3SFXg
+    title: "Johann Sebastian Bach - \"Ich liebe den Höchsten von ganzem Gemüte\" BWV\_174 (audio + sheet music)"
+    channel: thenameisgsarci
+    performer: Gardiner
+    place: "Leipzig for\_Pentecost Monday"
+    year: '2007'
+    duration: '19:26'
+    thumbnail: https://img.youtube.com/vi/IYQ5Co3SFXg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IYQ5Co3SFXg
+  - id: Sg1m3Efv5xY
+    title: J.S. Bach - BWV 174 (I love the Almighty with all my heart)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '22:19'
+    thumbnail: https://img.youtube.com/vi/Sg1m3Efv5xY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Sg1m3Efv5xY
+  - id: FawVOsPv8pE
+    title: Bach - Cantate BWV 174 - Ich liebe den Höchsten von ganzem Gemüte
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leipzig
+    year: '1987'
+    duration: '20:35'
+    thumbnail: https://img.youtube.com/vi/FawVOsPv8pE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=FawVOsPv8pE
+key: G major

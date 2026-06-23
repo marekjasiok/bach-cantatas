@@ -1,0 +1,171 @@
+bwv: '10'
+title: Meine Seel erhebt den Herren
+cycle: C2
+occasion: Visitation
+date: '1724-07-02'
+url: https://en.wikipedia.org/wiki/BWV_10
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Meine Seel erhebt den Herren,
+      Und mein Geist freuet sich Gottes, meines Heilandes;
+      Denn er hat seine elende Magd angesehen.
+      Siehe, von nun an werden mich selig preisen alle Kindeskind.
+  - num: 2
+    type: Aria
+    voices: S
+    instruments: Oboe I/II all' unisono, Violino I/II, Viola, Continuo
+    de: |-
+      Herr, der du stark und mächtig bist,
+      Gott, dessen Name heilig ist,
+      Wie wunderbar sind deine Werke!
+      Du siehest mich Elenden an,
+      Du hast an mir so viel getan,
+      Dass ich nicht alles zähl und merke.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Des Höchsten Güt und Treu
+      Wird alle Morgen neu
+      Und währet immer für und für
+      Bei denen, die allhier
+      Auf seine Hilfe schaun
+      Und ihm in wahrer Furcht vertraun.
+      Hingegen übt er auch Gewalt
+      Mit seinem Arm
+      An denen, welche weder kalt
+      Noch warm
+      Im Glauben und im Lieben sein;
+      Die nacket, bloß und blind,
+      Die voller Stolz und Hoffart sind,
+      Will seine Hand wie Spreu zerstreun.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gewaltige stößt Gott vom Stuhl
+      Hinunter in den Schwefelpfuhl;
+      Die Niedern pflegt Gott zu erhöhen,
+      Dass sie wie Stern am Himmel stehen.
+      Die Reichen lässt Gott bloß und leer,
+      Die Hungrigen füllt er mit Gaben,
+      Dass sie auf seinem Gnadenmeer
+      Stets Reichtum und die Fülle haben.
+  - num: 5
+    type: Duet
+    voices: ''
+    instruments: Tromba e Oboe I/II, Continuo
+    de: |-
+      Er denket der Barmherzigkeit
+      Und hilft seinem Diener Israel auf.
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Was Gott den Vätern alter Zeiten
+      Geredet und verheißen hat,
+      Erfüllt er auch im Werk und in der Tat.
+      Was Gott dem Abraham,
+      Als er zu ihm in seine Hütten kam,
+      Versprochen und geschworen,
+      Ist, da die Zeit erfüllet war, geschehen.
+      Sein Same musste sich so sehr
+      Wie Sand am Meer
+      Und Stern am Firmament ausbreiten,
+      Der Heiland ward geboren,
+      Das ewge Wort ließ sich im Fleische sehen,
+      Das menschliche Geschlecht von Tod und allem Bösen
+      Und von des Satans Sklaverei
+      Aus lauter Liebe zu erlösen;
+      Drum bleibt's darbei,
+      Dass Gottes Wort voll Gnad und Wahrheit sei.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Violino I e Oboe I/II e Tromba col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Lob und Preis sei Gott dem Vater und dem Sohn
+      Und dem Heiligen Geiste,
+      Wie es war im Anfang, itzt und immerdar
+      Und von Ewigkeit zu Ewigkeit. Amen
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Duet
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    S: 1
+    B: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - tromba
+wiki:
+  summary: "In 1724 Johann Sebastian Bach composed the church cantata Meine Seel erhebt den Herren, BWV\_10, as part of his second cantata cycle. Taken from Martin Luther's German translation of the Magnificat canticle, the title translates as \"My soul magnifies the Lord\". Also known as Bach's German Magnificat, the work follows his chorale cantata format."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Heimsuchung%2C_Unionskirche.jpg/330px-Heimsuchung%2C_Unionskirche.jpg
+  url: https://en.wikipedia.org/wiki/Meine_Seel_erhebt_den_Herren%2C_BWV_10
+  summary_html: "<p>In 1724 Johann Sebastian Bach composed the church cantata <i><b>Meine Seel erhebt den Herren</b></i>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>10</b>, as part of his second cantata cycle. Taken from Martin Luther's German translation of the Magnificat canticle, the title translates as \"My soul magnifies the Lord\". Also known as Bach's <i>German Magnificat</i>, the work follows his chorale cantata format.</p>"
+performances:
+  - id: MrSAMOojQ08
+    title: Bach - Cantata Meine Seel erhebt den Herren BWV 10 - Creed | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Leipzig
+    year: '2018'
+    duration: '19:28'
+    thumbnail: https://img.youtube.com/vi/MrSAMOojQ08/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MrSAMOojQ08
+  - id: NlrsPW9jap8
+    title: Bach J.S. Cantata BWV 10
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '22:00'
+    thumbnail: https://img.youtube.com/vi/NlrsPW9jap8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NlrsPW9jap8
+  - id: K9snvEthcRg
+    title: 'Johann Sebastian Bach - Cantata: Meine Seel erhebt den Herren, BWV 10. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '21:53'
+    thumbnail: https://img.youtube.com/vi/K9snvEthcRg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=K9snvEthcRg
+  - id: Hrd-RP1K3lI
+    title: Bach - Cantate BWV 10 - Meine Seel erhebt den Herren
+    channel: MusicArt61
+    performer: Leonhardt
+    place: Leipzig
+    year: '1971'
+    duration: '21:49'
+    thumbnail: https://img.youtube.com/vi/Hrd-RP1K3lI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Hrd-RP1K3lI
+  - id: 4BoysATH27g
+    title: 'Meine Seel erhebt den Herren, BWV 10: No. 2, Aria. "Herr, der du stark und mächtig bist"'
+    channel: Gustav Leonhardt - Topic
+    performer: Leonhardt
+    place: ''
+    year: '1994'
+    duration: '7:28'
+    thumbnail: https://img.youtube.com/vi/4BoysATH27g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4BoysATH27g
+key: D minor

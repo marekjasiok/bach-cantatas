@@ -1,0 +1,149 @@
+bwv: '170'
+title: Vergnügte Ruh, beliebte Seelenlust
+cycle: C3
+occasion: Trinity VI
+date: '1726-07-28'
+url: https://en.wikipedia.org/wiki/BWV_170
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Violino I/II, Viola, Continuo
+    de: |-
+      Vergnügte Ruh, beliebte Seelenlust,
+      Dich kann man nicht bei Höllensünden,
+      Wohl aber Himmelseintracht finden;
+      Du stärkst allein die schwache Brust.
+      Drum sollen lauter Tugendgaben
+      In meinem Herzen Wohnung haben.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Die Welt, das Sündenhaus,
+      Bricht nur in Höllenlieder aus
+      Und sucht durch Hass und Neid
+      Des Satans Bild an sich zu tragen.
+      Ihr Mund ist voller Ottergift,
+      Der oft die Unschuld tödlich trifft,
+      Und will allein von Racha sagen.
+      Gerechter Gott, wie weit
+      Ist doch der Mensch von dir entfernet;
+      Du liebst, jedoch sein Mund
+      Macht Fluch und Feindschaft kund
+      Und will den Nächsten nur mit Füßen treten.
+      Ach! diese Schuld ist schwerlich zu verbeten.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Organo obligato a 2 claviature, Violino I/II, Viola
+    de: |-
+      Wie jammern mich doch die verkehrten Herzen,
+      Die dir, mein Gott, so sehr zuwider sein;
+      Ich zittre recht und fühle tausend Schmerzen,
+      Wenn sie sich nur an Rach und Hass erfreun.
+      Gerechter Gott, was magst du doch gedenken,
+      Wenn sie allein mit rechten Satansränken
+      Dein scharfes Strafgebot so frech verlacht.
+      Ach! ohne Zweifel hast du so gedacht:
+      Wie jammern mich doch die verkehrten Herzen!
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wer sollte sich demnach
+      Wohl hier zu leben wünschen,
+      Wenn man nur Hass und Ungemach
+      Vor seine Liebe sieht?
+      Doch, weil ich auch den Feind
+      Wie meinen besten Freund
+      Nach Gottes Vorschrift lieben soll,
+      So flieht
+      Mein Herze Zorn und Groll
+      Und wünscht allein bei Gott zu leben,
+      Der selbst die Liebe heißt.
+      Ach, eintrachtsvoller Geist,
+      Wenn wird er dir doch nur sein Himmelszion geben?
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Organo obligato, Oboe d'amore, Violino I/II, Viola, Continuo
+    de: |-
+      Mir ekelt mehr zu leben,
+      Drum nimm mich, Jesu, hin!
+      Mir graut vor allen Sünden,
+      Lass mich dies Wohnhaus finden,
+      Wo selbst ich ruhig bin.
+scoring: 'Solo: A, Oboe d''amore, Organo obligato, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+  opening: Aria
+  closing: Aria
+  voice_profile:
+    A: 5
+  instrumentation_families:
+    - oboe_damore
+    - organ
+wiki:
+  summary: "Johann Sebastian Bach composed Vergnügte Ruh, beliebte Seelenlust, BWV\_170, a church cantata for the sixth Sunday after Trinity in Leipzig. It is a solo cantata for alto that he first performed on 28 July 1726."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Galante_Poetinnen_0001.png/330px-Galante_Poetinnen_0001.png
+  url: https://en.wikipedia.org/wiki/Vergn%C3%BCgte_Ruh%2C_beliebte_Seelenlust%2C_BWV_170
+  summary_html: "<p>Johann Sebastian Bach composed <b><span><i lang=\"de\">Vergnügte Ruh, beliebte Seelenlust</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>170</b>, a church cantata for the sixth Sunday after Trinity in Leipzig. It is a solo cantata for alto that he first performed on 28 July 1726.</p>"
+performances:
+  - id: zQgOMClbGfc
+    title: Bach - Cantata Vergnügte Ruh, beliebte Seelenlust BWV 170 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2016'
+    duration: '22:39'
+    thumbnail: https://img.youtube.com/vi/zQgOMClbGfc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zQgOMClbGfc
+  - id: NZSGMpQMXH0
+    title: J.S Bach, BWV 170 1. 'Vergnügte Ruh, beliebte Seelenlust'
+    channel: Rebecca Leggett
+    performer: Rebecca Leggett
+    place: |-
+      I
+      Julia Bishop
+    year: ''
+    duration: '7:01'
+    thumbnail: https://img.youtube.com/vi/NZSGMpQMXH0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NZSGMpQMXH0
+  - id: 9yc5tAS7rrA
+    title: J.S. Bach - Andreas Scholl sings cantata BWV 170 "Vergnügte Ruh" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '26:41'
+    thumbnail: https://img.youtube.com/vi/9yc5tAS7rrA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9yc5tAS7rrA
+  - id: BKbNhtXdgpQ
+    title: Cantate BWV 170, Jean-Sébastien Bach
+    channel: Sébastien Ventura
+    performer: Sébastien Ventura
+    place: Montréal
+    year: '2011'
+    duration: '6:55'
+    thumbnail: https://img.youtube.com/vi/BKbNhtXdgpQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BKbNhtXdgpQ
+  - id: u828pS1wMCk
+    title: 'J.S Bach - Cantata: Vergnügte Ruh, beliebte Seelenlust, BWV 170 {Soloist: Andreas Scholl}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '23:14'
+    thumbnail: https://img.youtube.com/vi/u828pS1wMCk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=u828pS1wMCk
+key: A minor

@@ -1,0 +1,91 @@
+bwv: '181'
+title: Leichtgesinnte Flattergeister
+cycle: C1
+occasion: Sexagesima
+date: '1724-02-13'
+url: https://en.wikipedia.org/wiki/BWV_181
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Flauto traverso, Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Leichtgesinnte Flattergeister
+      Rauben sich des Wortes Kraft.
+      Belial mit seinen Kindern
+      Suchet ohnedem zu hindern,
+      Dass es keinen Nutzen schafft.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      O unglückselger Stand verkehrter Seelen,
+      So gleichsam an dem Wege sind;
+      Und wer will doch des Satans List erzählen,
+      Wenn er das Wort dem Herzen raubt,
+      Das, am Verstande blind,
+      Den Schaden nicht versteht noch glaubt.
+      Es werden Felsenherzen,
+      So boshaft widerstehn,
+      Ihr eigen Heil verscherzen
+      Und einst zugrunde gehn.
+      Es wirkt ja Christi letztes Wort,
+      Dass Felsen selbst zerspringen;
+      Des Engels Hand bewegt des Grabes Stein,
+      Ja, Mosis Stab kann dort
+      Aus einem Berge Wasser bringen.
+      Willst du, o Herz, noch härter sein?
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Continuo
+    de: |-
+      Der schädlichen Dornen unendliche Zahl,
+      Die Sorgen der Wollust, die Schätze zu mehren,
+      Die werden das Feuer der höllischen Qual
+      In Ewigkeit nähren.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Von diesen wird die Kraft erstickt,
+      Der edle Same liegt vergebens.
+      Wer sich nicht recht im Geiste schickt,
+      Sein Herz beizeiten
+      Zum guten Lande zu bereiten,
+      Dass unser Herz die Süßigkeiten schmecket,
+      So uns dies Wort entdecket,
+      Die Kräfte dieses und des künftgen Lebens.
+  - num: 5
+    type: Chorus
+    voices: T
+    instruments: Tromba, Flauto traverso, Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Lass, Höchster, uns zu allen Zeiten
+      Des Herzens Trost, dein heilig Wort.
+      Du kannst nach deiner Allmachtshand
+      Allein ein fruchtbar gutes Land
+      In unsern Herzen zubereiten.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba, Flauto traverso, Oboe, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Aria
+  closing: Chorus
+  voice_profile:
+    B: 1
+    A: 1
+    T: 2
+    S: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - tromba
+key: D major

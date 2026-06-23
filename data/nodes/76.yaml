@@ -1,0 +1,199 @@
+bwv: '76'
+title: Die Himmel erzählen die Ehre Gottes
+cycle: C1
+occasion: Trinity II
+date: '1723-06-06'
+url: https://en.wikipedia.org/wiki/BWV_76
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Die Himmel erzählen die Ehre Gottes,
+      und die Feste verkündiget seiner Hände Werk.
+      Es ist keine Sprache noch Rede, da man nicht ihre Stimme höre.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      So lässt sich Gott nicht unbezeuget!
+      Natur und Gnade redt alle Menschen an:
+      Dies alles hat ja Gott getan,
+      Dass sich die Himmel regen
+      Und Geist und Körper sich bewegen.
+      Gott selbst hat sich zu euch geneiget
+      Und ruft durch Boten ohne Zahl:
+      Auf, kommt zu meinem Liebesmahl!
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Violino solo, Continuo
+    de: |-
+      Hört, ihr Völker, Gottes Stimme,
+      Eilt zu seinem Gnadenthron!
+      Aller Dinge Grund und Ende
+      Ist sein eingeborner Sohn:
+      Dass sich alles zu ihm wende.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wer aber hört,
+      Da sich der größte Haufen
+      Zu andern Göttern kehrt?
+      Der ältste Götze eigner Lust
+      Beherrscht der Menschen Brust.
+      Die Weisen brüten Torheit aus,
+      Und Belial sitzt wohl in Gottes Haus,
+      Weil auch die Christen selbst von Christo laufen.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Fahr hin, abgöttische Zunft!
+      Sollt sich die Welt gleich verkehren,
+      Will ich doch Christum verehren,
+      Er ist das Licht der Vernunft.
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Du hast uns, Herr, von allen Straßen
+      Zu dir geruft
+      Als wir im Finsternis der Heiden saßen,
+      Und, wie das Licht die Luft
+      Belebet und erquickt,
+      Uns auch erleuchtet und belebet,
+      Ja mit dir selbst gespeiset und getränket
+      Und deinen Geist geschenket,
+      Der stets in unserm Geiste schwebet.
+      Drum sei dir dies Gebet demütigst zugeschickt:
+  - num: 7
+    type: Chorale
+    voices: T
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Es woll uns Gott genädig sein
+      Und seinen Segen geben;
+      Sein Antlitz uns mit hellem Schein
+      Erleucht zum ewgen Leben,
+      Dass wir erkennen seine Werk,
+      Und was ihm lieb auf Erden,
+      Und Jesus Christus' Heil und Stärk
+      Bekannt den Heiden werden
+      Und sie zu Gott bekehren!
+  - num: 8
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe d'amore, Viola da gamba, Continuo
+    de: ''
+  - num: 9
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Viola da gamba, Continuo
+    de: |-
+      Gott segne noch die treue Schar,
+      Damit sie seine Ehre
+      Durch Glauben, Liebe, Heiligkeit
+      Erweise und vermehre.
+      Sie ist der Himmel auf der Erden
+      Und muss durch steten Streit
+      Mit Hass und mit Gefahr
+      In dieser Welt gereinigt werden.
+  - num: 10
+    type: Aria
+    voices: T
+    instruments: Viola da gamba, Continuo
+    de: |-
+      Hasse nur, hasse mich recht,
+      Feindlichs Geschlecht!
+      Christum gläubig zu umfassen,
+      Will ich alle Freude lassen.
+  - num: 11
+    type: Recitative
+    voices: A
+    instruments: Viola da gamba, Continuo
+    de: |-
+      Ich fühle schon im Geist,
+      Wie Christus mir
+      Der Liebe Süßigkeit erweist
+      Und mich mit Manna speist,
+      Damit sich unter uns allhier
+      Die brüderliche Treue
+      Stets stärke und verneue.
+  - num: 12
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Viola da gamba, Continuo
+    de: |-
+      Liebt, ihr Christen, in der Tat!
+      Jesus stirbet für die Brüder,
+      Und sie sterben für sich wieder,
+      Weil er sich verbunden hat.
+  - num: 13
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      So soll die Christenheit
+      Die Liebe Gottes preisen
+      Und sie an sich erweisen:
+      Bis in die Ewigkeit
+      Die Himmel frommer Seelen
+      Gott und sein Lob erzählen.
+  - num: 14
+    type: Chorale
+    voices: T
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Es danke, Gott, und lobe dich
+      Das Volk in guten Taten;
+      Das Land bringt Frucht und bessert sich,
+      Dein Wort ist wohlgeraten.
+      Uns segne Vater und der Sohn,
+      Uns segne Gott, der Heilge Geist,
+      Dem alle Welt die Ehre tu,
+      Für ihm sich fürchte allermeist
+      Und sprech von Herzen: Amen.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba, Oboe I/II, Oboe d''amore, Violino I/II, Violino solo, Viola da gamba, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Sinfonia
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 6
+    S: 1
+    B: 3
+    A: 3
+  instrumentation_families:
+    - oboe
+    - oboe_damore
+    - tromba
+    - viola_da_gamba
+    - violino_solo
+key: C major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Die Himmel erzählen die Ehre Gottes, BWV\_76 in Leipzig for the second Sunday after Trinity of the liturgical year and first performed it on 6 June 1723."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomaskirche_Interior.jpg/330px-Thomaskirche_Interior.jpg
+  url: https://en.wikipedia.org/wiki/Die_Himmel_erz%C3%A4hlen_die_Ehre_Gottes%2C_BWV_76
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Die Himmel erzählen die Ehre Gottes</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>76</b> in Leipzig for the second Sunday after Trinity of the liturgical year and first performed it on 6 June 1723.</p>"

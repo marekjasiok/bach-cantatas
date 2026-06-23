@@ -1,0 +1,138 @@
+bwv: '1'
+title: Wie schön leuchtet der Morgenstern
+cycle: C2
+occasion: Annunciation
+date: '1725-03-25'
+url: https://en.wikipedia.org/wiki/BWV_1
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Oboe da caccia I/II, Violino concertante I/II, Violino ripieno I/II, Viola, Continuo
+    de: |-
+      Wie schön leuchtet der Morgenstern
+      Voll Gnad und Wahrheit von dem Herrn,
+      Die süße Wurzel Jesse!
+      Du Sohn David aus Jakobs Stamm,
+      Mein König und mein Bräutigam,
+      Hast mir mein Herz besessen,
+      Lieblich,
+      Freundlich,
+      Schön und herrlich, groß und ehrlich, reich von Gaben,
+      Hoch und sehr prächtig erhaben.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Du wahrer Gottes und Marien Sohn,
+      Du König derer Auserwählten,
+      Wie süß ist uns dies Lebenswort,
+      Nach dem die ersten Väter schon
+      So Jahr' als Tage zählten,
+      Das Gabriel mit Freuden dort
+      In Bethlehem verheißen!
+      O Süßigkeit, o Himmelsbrot!
+      Das weder Grab, Gefahr, noch Tod
+      Aus unsern Herzen reißen.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Oboe da caccia, Continuo
+    de: |-
+      Erfüllet, ihr himmlischen göttlichen Flammen,
+      Die nach euch verlangende gläubige Brust!
+      Die Seelen empfinden die kräftigsten Triebe
+      Der brünstigsten Liebe
+      Und schmecken auf Erden die himmlische Lust.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Ein irdscher Glanz, ein leiblich Licht
+      Rührt meine Seele nicht;
+      Ein Freudenschein ist mir von Gott entstanden,
+      Denn ein vollkommnes Gut,
+      Des Heilands Leib und Blut,
+      Ist zur Erquickung da.
+      So muss uns ja
+      Der überreiche Segen,
+      Der uns von Ewigkeit bestimmt
+      Und unser Glaube zu sich nimmt,
+      Zum Dank und Preis bewegen.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Violino concertante I/II, Violino ripieno I/II, Viola, Continuo
+    de: |-
+      Unser Mund und Ton der Saiten
+      Sollen dir
+      Für und für
+      Dank und Opfer zubereiten.
+      Herz und Sinnen sind erhoben,
+      Lebenslang
+      Mit Gesang,
+      Großer König, dich zu loben.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno I e Violino I col Soprano, Corno II, Oboe I e Violino II coll' Alto, Oboe II e Viola col Tenore, Continuo
+    de: |-
+      Wie bin ich doch so herzlich froh,
+      Dass mein Schatz ist das A und O,
+      Der Anfang und das Ende;
+      Er wird mich doch zu seinem Preis
+      Aufnehmen in das Paradeis,
+      Des klopf ich in die Hände.
+      Amen!
+      Amen!
+      Komm, du schöne Freudenkrone, bleib nicht lange,
+      Deiner wart ich mit Verlangen.
+scoring: >-
+  Soli: S T B, Coro: S A T B, Corno I/II, Oboe da caccia I/II, Violino concertante I/II, Violino ripieno I/II, Viola,
+  Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    S: 1
+    B: 1
+  instrumentation_families:
+    - corno
+    - oboe
+    - oboe_da_caccia
+    - violino_solo
+wiki:
+  summary: >-
+    Wie schön leuchtet der Morgenstern, BWV 1, is a church cantata for Annunciation by Johann Sebastian Bach. In 1725,
+    when the cantata was composed, the feast of the Annunciation coincided with Palm Sunday. Based on Philipp Nicolai's
+    hymn "Wie schön leuchtet der Morgenstern" (1599), it is one of Bach's chorale cantatas. Bach composed it in his
+    second year as Thomaskantor in Leipzig, where the Marian feast was the only occasion during Lent when music of this
+    kind was permitted. The theme of the hymn suits both the Annunciation and Palm Sunday occasions, in a spirit of
+    longing expectation of an arrival. As usual for Bach's chorale cantata cycle, the hymn was paraphrased by a
+    contemporary poet who retained the hymn's first and last stanzas unchanged, but transformed the themes of the inner
+    stanzas into a sequence of alternating recitatives and arias.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BWV_1.jpg/330px-BWV_1.jpg
+  url: https://en.wikipedia.org/wiki/Wie_sch%C3%B6n_leuchtet_der_Morgenstern%2C_BWV_1
+  summary_html: >-
+    <p><b><span><i lang="de">Wie schön leuchtet der Morgenstern</i></span></b>, <b><abbr>BWV</abbr> 1</b>, is a church
+    cantata for Annunciation by Johann Sebastian Bach. In 1725, when the cantata was composed, the feast of the
+    Annunciation coincided with Palm Sunday. Based on Philipp Nicolai's hymn "Wie schön leuchtet der Morgenstern"
+    (1599), it is one of Bach's chorale cantatas. Bach composed it in his second year as Thomaskantor in Leipzig, where
+    the Marian feast was the only occasion during Lent when music of this kind was permitted. The theme of the hymn
+    suits both the Annunciation and Palm Sunday occasions, in a spirit of longing expectation of an arrival. As usual
+    for Bach's chorale cantata cycle, the hymn was paraphrased by a contemporary poet who retained the hymn's first and
+    last stanzas unchanged, but transformed the themes of the inner stanzas into a sequence of alternating recitatives
+    and arias.</p>
+key: F major

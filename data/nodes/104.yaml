@@ -1,0 +1,98 @@
+bwv: '104'
+title: Du Hirte Israel, höre
+cycle: C1
+occasion: Easter II
+date: '1724-04-23'
+url: https://en.wikipedia.org/wiki/BWV_104
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Du Hirte Israel,
+      höre der du Joseph hütest wie der Schafe,
+      erscheine, der du sitzest über Cherubim.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Der höchste Hirte sorgt vor mich,
+      Was nützen meine Sorgen?
+      Es wird ja alle Morgen
+      Des Hirten Güte neu.
+      Mein Herz, so fasse dich,
+      Gott ist getreu.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Verbirgt mein Hirte sich zu lange,
+      Macht mir die Wüste allzu bange,
+      Mein schwacher Schritt eilt dennoch fort.
+      Mein Mund schreit nach dir,
+      Und du, mein Hirte, wirkst in mir
+      Ein gläubig Abba durch dein Wort.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Ja, dieses Wort ist meiner Seelen Speise,
+      Ein Labsal meiner Brust,
+      Die Weide, die ich meine Lust,
+      Des Himmels Vorschmack, ja mein alles heiße.
+      Ach! sammle nur, o guter Hirte,
+      Uns Arme und Verirrte;
+      Ach lass den Weg nur bald geendet sein
+      Und führe uns in deinen Schafstall ein!
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore I, Violino I/II, Viola, Continuo
+    de: |-
+      Beglückte Herde, Jesu Schafe,
+      Die Welt ist euch ein Himmelreich.
+      Hier schmeckt ihr Jesu Güte schon
+      Und hoffet noch des Glaubens Lohn
+      Nach einem sanften Todesschlafe.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Taille e Viola col Tenore, Continuo
+    de: |-
+      Der Herr ist mein getreuer Hirt,
+      dem ich mich ganz vertraue,
+      Zu Weid er mich, sein Schäflein, führt,
+      Auf schöner grünen Aue,
+      Zum frischen Wasser leit' er mich,
+      Mein Seel zu laben kräftliglich
+      Durchs selig Wort der Gnaden.
+scoring: 'Soli: T B, Coro: S A T B, Oboe I/II, Taille (Oboe da caccia), Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    B: 2
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+key: G major
+wiki:
+  summary: "Du Hirte Israel, höre, BWV\_104, is a church cantata by Johann Sebastian Bach for the second Sunday after Easter. Bach composed the work as part of his first cantata cycle for Leipzig and first performed it on 23 April 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Champaigne_shepherd.jpg/330px-Champaigne_shepherd.jpg
+  url: https://en.wikipedia.org/wiki/Du_Hirte_Israel%2C_h%C3%B6re%2C_BWV_104
+  summary_html: "<p><b><span><i lang=\"de\">Du Hirte Israel, höre</i></span></b>, <span><abbr>BWV</abbr></span><span class=\"nowrap\">\_</span>104, is a church cantata by Johann Sebastian Bach for the second Sunday after Easter. Bach composed the work as part of his first cantata cycle for Leipzig and first performed it on 23 April 1724.</p>"

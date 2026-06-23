@@ -1,0 +1,248 @@
+bwv: '27'
+title: Wer weiß, wie nahe mir mein Ende?
+cycle: C3
+occasion: Trinity XVI
+date: '1726-10-06'
+url: https://en.wikipedia.org/wiki/BWV_27
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wer weiß, wie nahe mir mein Ende?
+      Sopran
+      Das weiß der liebe Gott allein,
+      Ob meine Wallfahrt auf der Erden
+      Kurz oder länger möge sein.
+      Hin geht die Zeit, her kommt der Tod,
+      Alt
+      Und endlich kommt es doch so weit,
+      Dass sie zusammentreffen werden.
+      Ach, wie geschwinde und behände
+      Kann kommen meine Todesnot!
+      Tenor
+      Wer weiß, ob heute nicht
+      Mein Mund die letzten Worte spricht.
+      Drum bet ich alle Zeit:
+      Mein Gott, ich bitt durch Christi Blut,
+      Machs nur mit meinem Ende gut!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Mein Leben hat kein ander Ziel,
+      Als dass ich möge selig sterben
+      Und meines Glaubens Anteil erben;
+      Drum leb ich allezeit
+      Zum Grabe fertig und bereit,
+      Und was das Werk der Hände tut,
+      Ist gleichsam, ob ich sicher wüsste,
+      Dass ich noch heute sterben müßte:
+      Denn Ende gut, macht alles gut!
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe da caccia, Organo obligato, Continuo
+    de: |-
+      Willkommen! will ich sagen,
+      Wenn der Tod ans Bette tritt.
+      Fröhlich will ich folgen, wenn er ruft,
+      In die Gruft,
+      Alle meine Plagen
+      Nehm ich mit.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ach, wer doch schon im Himmel wär!
+      Ich habe Lust zu scheiden
+      Und mit dem Lamm,
+      Das aller Frommen Bräutigam,
+      Mich in der Seligkeit zu weiden.
+      Flügel her!
+      Ach, wer doch schon im Himmel wär!
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Gute Nacht, du Weltgetümmel!
+      Jetzt mach ich mit dir Beschluss;
+      Ich steh schon mit einem Fuß
+      Bei dem lieben Gott im Himmel.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno e Oboe col Soprano I, Violino I col Soprano II, Violino II coll' Alto, Viola col Tenore, Continuo col Basso
+    de: |-
+      Welt, ade! ich bin dein müde,
+      Ich will nach dem Himmel zu,
+      Da wird sein der rechte Friede
+      Und die ewge, stolze Ruh.
+      Welt, bei dir ist Krieg und Streit,
+      Nichts denn lauter Eitelkeit,
+      In dem Himmel allezeit
+      Friede, Freud und Seligkeit.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Oboe I/II, Oboe da caccia, Organo obligato, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    A: 1
+    S: 1
+    B: 1
+  instrumentation_families:
+    - corno
+    - oboe
+    - oboe_da_caccia
+    - organ
+key: C minor
+performances:
+  - id: Ocm2z3BVkic
+    title: J.S. Bach - Cantata BWV 27 "Wer weiß, wie nahe mir mein Ende" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Leben hat kein ander Ziel
+    year: '2021'
+    duration: '19:09'
+    thumbnail: https://img.youtube.com/vi/Ocm2z3BVkic/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ocm2z3BVkic
+  - id: DeckHaO27Is
+    title: J. S. Bach – Cantata "Wer weiß, wie nahe mir mein Ende", BWV 27
+    channel: SP's score videos
+    performer: SP's score videos
+    place: ''
+    year: ''
+    duration: '15:44'
+    thumbnail: https://img.youtube.com/vi/DeckHaO27Is/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DeckHaO27Is
+  - id: k5SeYSI2ql4
+    title: J.S. Bach Cantata Wer weiss, wie nahe mir mein Ende! BWV 27
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: ''
+    year: ''
+    duration: '17:19'
+    thumbnail: https://img.youtube.com/vi/k5SeYSI2ql4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=k5SeYSI2ql4
+  - id: o151o-oY8uE
+    title: J. S. Bach - Christus, der ist mein Leben (Cantatas BWV 27, 84, 95 & 161)- Ph. Herreweghe
+    channel: Miguel Zampedri
+    performer: Herreweghe
+    place: ''
+    year: ''
+    duration: '1:02:33'
+    thumbnail: https://img.youtube.com/vi/o151o-oY8uE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=o151o-oY8uE
+  - id: o9gUF5m6Jjk
+    title: Bach - Cantate BWV 27 - Wer weiß, wie nahe mir mein Ende?
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leben hat kein ander Ziel
+    year: '1972'
+    duration: '15:30'
+    thumbnail: https://img.youtube.com/vi/o9gUF5m6Jjk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=o9gUF5m6Jjk
+  - id: zA68Bn94rME
+    title: BCA138 BWV27 Cantata for 16th Sunday after Trinity Herreweghe 2007
+    channel: Johann Sebastian
+    performer: Herreweghe
+    place: ''
+    year: '2007'
+    duration: '13:36'
+    thumbnail: https://img.youtube.com/vi/zA68Bn94rME/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zA68Bn94rME
+  - id: hNHWSSnw0L8
+    title: Bach - Cantata Der Himmel lacht! Die Erde jubilieret BWV 31 - René Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '19:48'
+    thumbnail: https://img.youtube.com/vi/hNHWSSnw0L8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hNHWSSnw0L8
+  - id: YoIV8ouBb2E
+    title: J.S. Bach - Cantata BWV 11 "Lobet Gott in seinen Reichen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Parli
+    year: '2022'
+    duration: '32:18'
+    thumbnail: https://img.youtube.com/vi/YoIV8ouBb2E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YoIV8ouBb2E
+  - id: qVYKaos3Ht8
+    title: J. S. Bach - Motet BWV 227 "Jesu, meine Freude" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: ''
+    duration: '24:37'
+    thumbnail: https://img.youtube.com/vi/qVYKaos3Ht8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qVYKaos3Ht8
+  - id: ufReNkKqzaY
+    title: J.S. Bach / Wer weiß, wie nahe mir mein Ende? BWV 27 (Harnoncourt)
+    channel: scrymgeour34
+    performer: Harnoncourt
+    place: Nain
+    year: '1973'
+    duration: '15:41'
+    thumbnail: https://img.youtube.com/vi/ufReNkKqzaY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ufReNkKqzaY
+  - id: WyNN9qsCYZM
+    title: 'JS Bach : Kantate BWV 27 : Wer weiss wie nahe : Ensemble L''Harmonie des saisons : Eric Milnes'
+    channel: Eric Milnes
+    performer: Eric Milnes
+    place: ''
+    year: ''
+    duration: '14:07'
+    thumbnail: https://img.youtube.com/vi/WyNN9qsCYZM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WyNN9qsCYZM
+  - id: U8f7g0a0u5U
+    title: Bach - Cantata Ach wie flüchtig, ach wie nichtig BWV 26 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '16:04'
+    thumbnail: https://img.youtube.com/vi/U8f7g0a0u5U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=U8f7g0a0u5U
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: tdWijHyKanw
+    title: 'J.S. Bach, Kantate BWV 27: 6 Choral „Welt ade! ich bin dein müde“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2015'
+    duration: '1:34'
+    thumbnail: https://img.youtube.com/vi/tdWijHyKanw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=tdWijHyKanw
+  - id: Bv_aeQLnmJ8
+    title: Wilkommen! Will ich sagen (Cantata BWV 27) Wer weiss, wie nahe mir mein Ende
+    channel: Karen Knudsen Stanley
+    performer: Karen Knudsen Stanley
+    place: ''
+    year: ''
+    duration: '4:28'
+    thumbnail: https://img.youtube.com/vi/Bv_aeQLnmJ8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Bv_aeQLnmJ8

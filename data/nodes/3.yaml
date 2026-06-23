@@ -1,0 +1,112 @@
+bwv: '3'
+title: Ach Gott, wie manches Herzeleid
+cycle: C2
+occasion: Epiphany II
+date: '1725-01-14'
+url: https://en.wikipedia.org/wiki/BWV_3
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II e Trombone col Basso, Violino I/II, Viola, Continuo
+    de: |-
+      Ach Gott, wie manches Herzeleid
+      Begegnet mir zu dieser Zeit!
+      Der schmale Weg ist trübsalvoll,
+      Den ich zum Himmel wandern soll.
+  - num: 2
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Wie schwerlich lässt sich Fleisch und Blut
+      Tenor
+      So nur nach Irdischem und Eitlem trachtet
+      Und weder Gott noch Himmel achtet,
+      Zwingen zu dem ewigen Gut!
+      Alt
+      Da du, o Jesu, nun mein alles bist,
+      Und doch mein Fleisch so widerspenstig ist.
+      Wo soll ich mich denn wenden hin?
+      Sopran
+      Das Fleisch ist schwach, doch will der Geist;
+      So hilf du mir, der du mein Herze weißt.
+      Zu dir, o Jesu, steht mein Sinn.
+      Bass
+      Wer deinem Rat und deiner Hilfe traut,
+      Der hat wohl nie auf falschen Grund gebaut,
+      Da du der ganzen Welt zum Trost gekommen,
+      Und unser Fleisch an dich genommen,
+      So rettet uns dein Sterben
+      Vom endlichen Verderben.
+      Drum schmecke doch ein gläubiges Gemüte
+      Des Heilands Freundlichkeit und Güte.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Empfind ich Höllenangst und Pein,
+      Doch muss beständig in dem Herzen
+      Ein rechter Freudenhimmel sein.
+      Ich darf nur Jesu Namen nennen,
+      Der kann auch unermessne Schmerzen
+      Als einen leichten Nebel trennen.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Es mag mir Leib und Geist verschmachten,
+      Bist du, o Jesu, mein
+      Und ich bin dein,
+      Will ichs nicht achten.
+      Dein treuer Mund
+      Und dein unendlich Lieben,
+      Das unverändert stets geblieben,
+      Erhält mir noch den ersten Bund,
+      Der meine Brust mit Freudigkeit erfüllet
+      Und auch des Todes Furcht, des Grabes Schrecken stillet.
+      Fällt Not und Mangel gleich von allen Seiten ein,
+      Mein Jesus wird mein Schatz und Reichtum sein.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Oboe d'amore I/II e Violino I all' unisono, Continuo
+    de: |-
+      Wenn Sorgen auf mich dringen,
+      Will ich in Freudigkeit
+      Zu meinem Jesu singen.
+      Mein Kreuz hilft Jesus tragen,
+      Drum will ich gläubig sagen:
+      Es dient zum besten allezeit.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Violino I e Corno e Oboe d'amore I/II col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Erhalt mein Herz im Glauben rein,
+      So leb und sterb ich dir allein.
+      Jesu, mein Trost, hör mein Begier,
+      O mein Heiland, wär ich bei dir.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Trombone, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 1
+    T: 1
+  instrumentation_families:
+    - corno
+    - oboe_damore
+    - trombone
+key: A minor

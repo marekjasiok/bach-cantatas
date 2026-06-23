@@ -1,0 +1,300 @@
+bwv: '153'
+title: Schau, lieber Gott, wie meine Feind
+cycle: C1
+occasion: New Year I
+date: '1724-01-02'
+url: https://en.wikipedia.org/wiki/BWV_153
+edges: {}
+movements:
+  - num: 1
+    type: Chorale
+    voices: SATB
+    instruments: Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Schau, lieber Gott, wie meine Feind,
+      Damit ich stets muss kämpfen,
+      So listig und so mächtig seind,
+      Dass sie mich leichtlich dämpfen!
+      Herr, wo mich deine Gnad nicht hält,
+      So kann der Teufel, Fleisch und Welt
+      Mich leicht in Unglück stürzen.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Mein liebster Gott, ach lass dichs doch erbarmen,
+      Ach hilf doch, hilf mir Armen!
+      Ich wohne hier bei lauter Löwen und bei Drachen,
+      Und diese wollen mir durch Wut und Grimmigkeit
+      In kurzer Zeit
+      Den Garaus völlig machen.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Fürchte dich nicht, ich bin mit dir.
+      Weiche nicht, ich bin dein Gott;
+      ich stärke dich,
+      ich helfe dir auch durch die rechte Hand meiner Gerechtigkeit.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Du sprichst zwar, lieber Gott, zu meiner Seelen Ruh
+      Mir einen Trost in meinen Leiden zu.
+      Ach, aber meine Plage
+      Vergrößert sich von Tag zu Tage,
+      Denn meiner Feinde sind so viel,
+      Mein Leben ist ihr Ziel,
+      Ihr Bogen wird auf mich gespannt,
+      Sie richten ihre Pfeile zum Verderben,
+      Ich soll von ihren Händen sterben;
+      Gott! meine Not ist dir bekannt,
+      Die ganze Welt wird mir zur Marterhöhle;
+      Hilf, Helfer, hilf! errette meine Seele!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Und ob gleich alle Teufel
+      Dir wollten widerstehn,
+      So wird doch ohne Zweifel
+      Gott nicht zurücke gehn;
+      Was er ihm fürgenommen
+      Und was er haben will,
+      Das muss doch endlich kommen
+      Zu seinem Zweck und Ziel.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Stürmt nur, stürmt, ihr Trübsalswetter,
+      Wallt, ihr Fluten, auf mich los!
+      Schlagt, ihr Unglücksflammen,
+      Über mich zusammen,
+      Stört, ihr Feinde, meine Ruh,
+      Spricht mir doch Gott tröstlich zu:
+      Ich bin dein Hort und Erretter.
+  - num: 7
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Getrost! mein Herz,
+      Erdulde deinen Schmerz,
+      Lass dich dein Kreuz nicht unterdrücken!
+      Gott wird dich schon
+      Zu rechter Zeit erquicken;
+      Muss doch sein lieber Sohn,
+      Dein Jesus, in noch zarten Jahren
+      Viel größre Not erfahren,
+      Da ihm der Wüterich Herodes
+      Die äußerste Gefahr des Todes
+      Mit mörderischen Fäusten droht!
+      Kaum kömmt er auf die Erden,
+      So muss er schon ein Flüchtling werden!
+      Wohlan, mit Jesu tröste dich
+      Und glaube festiglich:
+      Denjenigen, die hier mit Christo leiden,
+      Will er das Himmelreich bescheiden.
+  - num: 8
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Soll ich meinen Lebenslauf
+      Unter Kreuz und Trübsal führen,
+      Hört es doch im Himmel auf.
+      Da ist lauter Jubilieren,
+      Daselbsten verwechselt mein Jesus das Leiden
+      Mit seliger Wonne, mit ewigen Freuden.
+  - num: 9
+    type: Chorale
+    voices: SATB
+    instruments: Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Drum will ich, weil ich lebe noch,
+      Das Kreuz dir fröhlich tragen nach;
+      Mein Gott, mach mich darzu bereit,
+      Es dient zum Besten allezeit!
+      Hilf mir mein Sach recht greifen an,
+      Dass ich mein' Lauf vollenden kann,
+      Hilf mir auch zwingen Fleisch und Blut,
+      Für Sünd und Schanden mich behüt!
+      Erhalt mein Herz im Glauben rein,
+      So leb und sterb ich dir allein;
+      Jesu, mein Trost, hör mein Begier,
+      O mein Heiland, wär ich bei dir!
+scoring: 'Soli: A T B, Coro: S A T B, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorale
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    A: 2
+    B: 2
+    T: 2
+  instrumentation_families: []
+wiki:
+  summary: >-
+    Schau, lieber Gott, wie meine Feind, BWV 153, is a church cantata by Johann Sebastian Bach. He composed it in
+    Leipzig for the Sunday after New Year's Day and first performed it on 2 January 1724.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rembrandt_Harmensz._van_Rijn_052.jpg/330px-Rembrandt_Harmensz._van_Rijn_052.jpg
+  url: https://en.wikipedia.org/wiki/Schau%2C_lieber_Gott%2C_wie_meine_Feind%2C_BWV_153
+  summary_html: >-
+    <p><b><span><i lang="de">Schau, lieber Gott, wie meine Feind</i></span></b>, <span class="nowrap">BWV 153</span>, is
+    a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the Sunday after New Year's Day and first
+    performed it on 2 January 1724.</p>
+performances:
+  - id: Du9sdms51W8
+    title: J. S. Bach - Cantata BWV 153 "Schau, lieber Gott, wie meine Feind" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Herz
+    year: '2023'
+    duration: '17:33'
+    thumbnail: https://img.youtube.com/vi/Du9sdms51W8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Du9sdms51W8
+  - id: zcZMRhLXMvk
+    title: 'J.S. Bach: Cantate Schau, lieber Gott, wie meine Feind - BWV 153 - Live Concert - HD'
+    channel: AVROTROS Klassiek
+    performer: AVROTROS Klassiek
+    place: Amsterdam
+    year: '2013'
+    duration: '14:10'
+    thumbnail: https://img.youtube.com/vi/zcZMRhLXMvk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zcZMRhLXMvk
+  - id: qKCwJFWQXHY
+    title: Johann Sebastian Bach - Schau, lieber Gott, wie meine Feind (BWV 153) (score video)
+    channel: Joshua Gawley
+    performer: Joshua Gawley
+    place: Amsterdam
+    year: ''
+    duration: '13:20'
+    thumbnail: https://img.youtube.com/vi/qKCwJFWQXHY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qKCwJFWQXHY
+  - id: qniVeF3aJfw
+    title: 'J. S. Bach – Cantatas: BWV 37, BWV 153, BWV 166, BWV 86, BWV 70 – T. Koopman (Vol.9 CD 2)'
+    channel: Miguel Zampedri
+    performer: Koopman
+    place: Amsterdam
+    year: '1998'
+    duration: '1:18:05'
+    thumbnail: https://img.youtube.com/vi/qniVeF3aJfw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qniVeF3aJfw
+  - id: TuAqhuHl0so
+    title: Bach - Cantate BWV 153 - Schau lieber Gott, wie meine Feind
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Herz
+    year: '1985'
+    duration: '15:05'
+    thumbnail: https://img.youtube.com/vi/TuAqhuHl0so/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=TuAqhuHl0so
+  - id: D52U5VRvNxQ
+    title: J. S. Bach - Cantatas BWV 153, BWV 58 - J. E. Gardiner (Vol17 CD2)
+    channel: Miguel Zampedri
+    performer: Gardiner
+    place: Gethsemanekirche in Prenzlauer Berg
+    year: ''
+    duration: '26:20'
+    thumbnail: https://img.youtube.com/vi/D52U5VRvNxQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=D52U5VRvNxQ
+  - id: S8PqMgL2Sj8
+    title: Bach Chorale Cantata, Ach Gott, wie manches Herzeleid,  BWV 153-9 (harmonic analysis)
+    channel: Fotis Mousoulides
+    performer: Fotis Mousoulides
+    place: ''
+    year: ''
+    duration: '1:19'
+    thumbnail: https://img.youtube.com/vi/S8PqMgL2Sj8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=S8PqMgL2Sj8
+  - id: uoz8u7R-aQs
+    title: Glenn Gould - Bach, Fugue en mi bémol majeur & Cantate « Widerstehe doch der Sünde » (OFFICIEL)
+    channel: Glenn Gould
+    performer: Glenn Gould
+    place: berlin
+    year: ''
+    duration: '23:25'
+    thumbnail: https://img.youtube.com/vi/uoz8u7R-aQs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uoz8u7R-aQs
+  - id: TUHPCvwNj9s
+    title: Johann Sebastian Bach - BWV 153 Cantata 'Schau, lieber Gott, wie meine Feind' in A minor
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Herz
+    year: ''
+    duration: '16:28'
+    thumbnail: https://img.youtube.com/vi/TUHPCvwNj9s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=TUHPCvwNj9s
+  - id: qlw4BA20h6w
+    title: 'J.S. Bach, Kantate BWV 153: Nr. 1 Choral, Nr. 2 Rec. & Nr. 3 Arioso | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2014'
+    duration: '3:47'
+    thumbnail: https://img.youtube.com/vi/qlw4BA20h6w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qlw4BA20h6w
+  - id: A8GtBt3Gv38
+    title: 'Cantate, Schau, lieber Gott, wie meiner Feind, BWV 153: Fürchte dich nicht'
+    channel: Musica Amphion - Topic
+    performer: Musica Amphion - Topic
+    place: ''
+    year: '2015'
+    duration: '1:40'
+    thumbnail: https://img.youtube.com/vi/A8GtBt3Gv38/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=A8GtBt3Gv38
+  - id: FAxGmE9SIVg
+    title: J.S. Bach - BWV 153 (Behold, dear God, how my enemies)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '15:07'
+    thumbnail: https://img.youtube.com/vi/FAxGmE9SIVg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=FAxGmE9SIVg
+  - id: BeivSezSWKw
+    title: 'Conductor in Quarantine: Bach Chorale, Cantata 153 "Schau, lieber Gott, wie meine Feind''"'
+    channel: Grant Harville
+    performer: Harnoncourt
+    place: ''
+    year: ''
+    duration: '17:26'
+    thumbnail: https://img.youtube.com/vi/BeivSezSWKw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BeivSezSWKw
+  - id: MHhXTeoISNY
+    title: (Revised version)Bach chorale BWV 153-1 harmonic analysis -Ach Gott, vom Himmel sieh' darein-
+    channel: Tomotomo
+    performer: Tomotomo
+    place: ''
+    year: ''
+    duration: '1:30'
+    thumbnail: https://img.youtube.com/vi/MHhXTeoISNY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MHhXTeoISNY
+  - id: mBGd_MQApgo
+    title: 'Schau, lieber Gott, wie meine Feind, BWV 153: Arioso: Furchte dich nicht, ich bin mit dir (Bass)'
+    channel: Ann Murray - Topic
+    performer: Rilling
+    place: Stuttgart
+    year: '2000'
+    duration: '2:00'
+    thumbnail: https://img.youtube.com/vi/mBGd_MQApgo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mBGd_MQApgo
+key: A minor

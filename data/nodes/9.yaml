@@ -1,0 +1,184 @@
+bwv: '9'
+title: Es ist das Heil uns kommen her
+cycle: LATE
+occasion: Trinity VI
+date: '1732'
+url: https://en.wikipedia.org/wiki/BWV_9
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso, Oboe d'amore, Violino I/II, Viola, Continuo
+    de: |-
+      Es ist das Heil uns kommen her
+      Von Gnad und lauter Güte.
+      Die Werk, die helfen nimmermehr,
+      Sie mögen nicht behüten.
+      Der Glaub sieht Jesum Christum an,
+      Der hat g'nug für uns all getan,
+      Er ist der Mittler worden.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gott gab uns ein Gesetz, doch waren wir zu schwach,
+      Dass wir es hätten halten können.
+      Wir gingen nur den Sünden nach,
+      Kein Mensch war fromm zu nennen;
+      Der Geist blieb an dem Fleische kleben
+      Und wagte nicht zu widerstreben.
+      Wir sollten im Gesetze gehn
+      Und dort als wie in einem Spiegel sehn,
+      Wie unsere Natur unartig sei;
+      Und dennoch blieben wir dabei.
+      Aus eigner Kraft war niemand fähig,
+      Der Sünden Unart zu verlassen,
+      Er mocht auch alle Kraft zusammenfassen.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino solo, Continuo
+    de: |-
+      Wir waren schon zu tief gesunken,
+      Der Abgrund schluckt uns völlig ein,
+      Die Tiefe drohte schon den Tod,
+      Und dennoch konnt in solcher Not
+      Uns keine Hand behülflich sein.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Doch musste das Gesetz erfüllet werden;
+      Deswegen kam das Heil der Erden,
+      Des Höchsten Sohn, der hat es selbst erfüllt
+      Und seines Vaters Zorn gestillt.
+      Durch sein unschuldig Sterben
+      Ließ er uns Hülf erwerben.
+      Wer nun demselben traut,
+      Wer auf sein Leiden baut,
+      Der gehet nicht verloren.
+      Der Himmel ist für den erkoren,
+      Der wahren Glauben mit sich bringt
+      Und fest um Jesu Arme schlingt.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Flauto traverso, Oboe d'amore, Continuo
+    de: |-
+      Herr, du siehst statt guter Werke
+      Auf des Herzens Glaubensstärke,
+      Nur den Glauben nimmst du an.
+      Nur der Glaube macht gerecht,
+      Alles andre scheint zu schlecht,
+      Als dass es uns helfen kann.
+  - num: 6
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wenn wir die Sünd aus dem Gesetz erkennen,
+      So schlägt es das Gewissen nieder;
+      Doch ist das unser Trost zu nennen,
+      Dass wir im Evangelio
+      Gleich wieder froh
+      Und freudig werden:
+      Dies stärket unsern Glauben wieder.
+      Drauf hoffen wir der Zeit,
+      Die Gottes Gütigkeit
+      Uns zugesaget hat,
+      Doch aber auch aus weisem Rat
+      Die Stunden uns verschwiegen.
+      Jedoch, wir lassen uns begnügen,
+      Er weiß es, wenn es nötig ist,
+      Und brauchet keine List
+      An uns; wir dürfen auf ihn bauen
+      Und ihm allein vertrauen.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Violino I e Flauto traverso in octava e Oboe d'amore col Soprano, Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Ob sichs anließ, als wollt er nicht,
+      Lass dich es nicht erschrecken;
+      Denn wo er ist am besten mit,
+      Da will ers nicht entdecken.
+      Sein Wort lass dir gewisser sein,
+      Und ob dein Herz spräch lauter Nein,
+      So lass doch dir nicht grauen.
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto traverso, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 3
+    T: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe_damore
+    - violino_solo
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Es ist das Heil uns kommen her, BWV\_9 in Leipzig for the sixth Sunday after Trinity and first performed it on 1 August 1734. It is a chorale cantata, based on the hymn \"Es ist das Heil uns kommen her\" by Paul Speratus. Bach composed the cantata to fill a gap in his chorale cantata cycle written for performances in Leipzig from 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Paul_Speratus.jpg/330px-Paul_Speratus.jpg
+  url: https://en.wikipedia.org/wiki/Es_ist_das_Heil_uns_kommen_her%2C_BWV_9
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Es ist das Heil uns kommen her</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>9</b> in Leipzig for the sixth Sunday after Trinity and first performed it on 1 August 1734. It is a chorale cantata, based on the hymn \"<span><span style=\"font-style:normal\">Es ist das Heil uns kommen her</span></span>\" by Paul Speratus. Bach composed the cantata to fill a gap in his chorale cantata cycle written for performances in Leipzig from 1724.</p>"
+performances:
+  - id: zq1IAR_J0NI
+    title: J.S. Bach - Cantata BWV 9 "Es ist das Heil uns kommen her" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2014'
+    duration: '24:10'
+    thumbnail: https://img.youtube.com/vi/zq1IAR_J0NI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zq1IAR_J0NI
+  - id: UbameTbMQ7E
+    title: 'Johann Sebastian Bach - Cantata: Es ist das Heil uns kommen her, BWV 9. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '20:37'
+    thumbnail: https://img.youtube.com/vi/UbameTbMQ7E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=UbameTbMQ7E
+  - id: QXyNmy3CgLQ
+    title: Bach J.S. Cantata BWV 9
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '20:43'
+    thumbnail: https://img.youtube.com/vi/QXyNmy3CgLQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=QXyNmy3CgLQ
+  - id: qNE5MFfb38Y
+    title: Bach - Cantate BWV 9 - Es ist das Heil uns kommen her
+    channel: MusicArt61
+    performer: Leonhardt
+    place: Gesetz
+    year: '1971'
+    duration: '24:45'
+    thumbnail: https://img.youtube.com/vi/qNE5MFfb38Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qNE5MFfb38Y
+  - id: pNpoDKBq1Ew
+    title: BACH - Die Seele ruht - BWV 9 -122 -126 -127
+    channel: Gli Angeli Genève
+    performer: Gli Angeli Genève
+    place: ''
+    year: ''
+    duration: '1:55:37'
+    thumbnail: https://img.youtube.com/vi/pNpoDKBq1Ew/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=pNpoDKBq1Ew
+key: E minor

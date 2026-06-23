@@ -1,0 +1,90 @@
+bwv: '84'
+title: Ich bin vergnügt mit meinem Glücke
+cycle: C3
+occasion: Septuagesima
+date: '1727-02-09'
+url: https://en.wikipedia.org/wiki/BWV_84
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Ich bin vergnügt mit meinem Glücke,
+      Das mir der liebe Gott beschert.
+      Soll ich nicht reiche Fülle haben,
+      So dank ich ihm vor kleine Gaben
+      Und bin auch nicht derselben wert.
+  - num: 2
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Gott ist mir ja nichts schuldig,
+      Und wenn er mir was gibt,
+      So zeigt er mir, dass er mich liebt;
+      Ich kann mir nichts bei ihm verdienen,
+      Denn was ich tu, ist meine Pflicht.
+      Ja! wenn mein Tun gleich noch so gut geschienen,
+      So hab ich doch nichts Rechtes ausgericht'.
+      Doch ist der Mensch so ungeduldig,
+      Dass er sich oft betrübt,
+      Wenn ihm der liebe Gott nicht überflüssig gibt.
+      Hat er uns nicht so lange Zeit
+      Umsonst ernähret und gekleidt
+      Und will uns einsten seliglich
+      In seine Herrlichkeit erhöhn?
+      Es ist genug vor mich,
+      Dass ich nicht hungrig darf zu Bette gehn.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino, Continuo
+    de: |-
+      Ich esse mit Freuden mein weniges Brot
+      Und gönne dem Nächsten von Herzen das Seine.
+      Ein ruhig Gewissen, ein fröhlicher Geist,
+      Ein dankbares Herze, das lobet und preist,
+      vermehret den Segen, verzuckert die Not.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Im Schweiße meines Angesichts
+      Will ich indes mein Brot genießen,
+      Und wenn mein Lebenslauf,
+      Mein Lebensabend wird beschließen,
+      So teilt mir Gott den Groschen aus,
+      Da steht der Himmel drauf.
+      O! wenn ich diese Gabe
+      zu meinem Gnadenlohne habe,
+      So brauch ich weiter nichts.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Oboe e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Ich leb indes in dir vergnüget
+      Und sterb ohn alle Kümmernis,
+      Mir genüget, wie es mein Gott füget,
+      Ich glaub und bin es ganz gewiss:
+      Durch deine Gnad und Christi Blut
+      Machst du's mit meinem Ende gut.
+scoring: 'Solo: S, Coro: S A T B, Oboe, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    S: 4
+    SATB: 1
+  instrumentation_families:
+    - oboe
+key: E major

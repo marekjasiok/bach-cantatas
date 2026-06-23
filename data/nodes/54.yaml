@@ -1,0 +1,201 @@
+bwv: '54'
+title: Widerstehe doch der Sünde
+cycle: EARLY
+occasion: Trinity VII
+date: '1714-07-15'
+url: https://en.wikipedia.org/wiki/BWV_54
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola I/II, Continuo
+    de: |-
+      Widerstehe doch der Sünde,
+      Sonst ergreifet dich ihr Gift.
+      Lass dich nicht den Satan blenden;
+      Denn die Gottes Ehre schänden,
+      Trifft ein Fluch, der tödlich ist.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Die Art verruchter Sünden
+      Ist zwar von außen wunderschön;
+      Allein man muss
+      Hernach mit Kummer und Verdruss
+      Viel Ungemach empfinden.
+      Von außen ist sie Gold;
+      Doch, will man weiter gehn,
+      So zeigt sich nur ein leerer Schatten
+      Und übertünchtes Grab.
+      Sie ist den Sodomsäpfeln gleich,
+      Und die sich mit derselben gatten,
+      Gelangen nicht in Gottes Reich.
+      Sie ist als wie ein scharfes Schwert,
+      Das uns durch Leib und Seele fährt.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola I/II, Continuo
+    de: |-
+      Wer Sünde tut, der ist vom Teufel,
+      Denn dieser hat sie aufgebracht.
+      Doch wenn man ihren schnöden Banden
+      Mit rechter Andacht widerstanden,
+      Hat sie sich gleich davongemacht.
+scoring: 'Solo: A, Violino I/II, Viola I/II, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+  opening: Aria
+  closing: Aria
+  voice_profile:
+    A: 3
+  instrumentation_families: []
+wiki:
+  summary: "Widerstehe doch der Sünde, BWV\_54, is a church cantata by Johann Sebastian Bach. He composed the solo cantata for alto in Weimar between 1711 and 1714, and probably performed it on the seventh Sunday after Trinity, 15 July 1714. It is Bach's first extant church cantata for a solo voice."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Widerstehe_doch_der_S%C3%BCnde%2C_BWV_54
+  summary_html: "<p><b><span><i lang=\"de\">Widerstehe doch der Sünde</i></span></b>, <b>BWV\_54</b>, is a church cantata by Johann Sebastian Bach. He composed the solo cantata for alto in Weimar between 1711 and 1714, and probably performed it on the seventh Sunday after Trinity, 15 July 1714. It is Bach's first extant church cantata for a solo voice.</p>"
+performances:
+  - id: tBwjv-QJhIk
+    title: Bach - Cantata Widerstehe doch der Sünde BWV 54 - Mortensen | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Geertekerk
+    year: '2014'
+    duration: '10:19'
+    thumbnail: https://img.youtube.com/vi/tBwjv-QJhIk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=tBwjv-QJhIk
+  - id: PqO4Npbo_WM
+    title: J.S. Bach - Cantata BWV 54 "Widerstehe doch der Sünde" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2008'
+    duration: '14:31'
+    thumbnail: https://img.youtube.com/vi/PqO4Npbo_WM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PqO4Npbo_WM
+  - id: Z9nNHSU3Icw
+    title: 'Bach: Cantata BWV 54, "Widerstehe doch der Sünde" A Scholl'
+    channel: civileso
+    performer: civileso
+    place: Fluch
+    year: ''
+    duration: '7:09'
+    thumbnail: https://img.youtube.com/vi/Z9nNHSU3Icw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Z9nNHSU3Icw
+  - id: nGXBudB_reM
+    title: 'Víkingur Ólafsson – Bach: Widerstehe doch der Sünde, BWV 54 (Transcr. by Víkingur Ólafsson)'
+    channel: Deutsche Grammophon - DG et Víkingur Ólafsson
+    performer: Deutsche Grammophon - DG et Víkingur Ólafsson
+    place: Harpa
+    year: ''
+    duration: '5:14'
+    thumbnail: https://img.youtube.com/vi/nGXBudB_reM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=nGXBudB_reM
+  - id: BMOKvwFyThs
+    title: Bach - Cantata   Widerstehe doch der Sünde BWV 54 - Croatian Baroque Ensemble  & Sonja Runje
+    channel: Croatian Baroque Ensemble
+    performer: Croatian Baroque Ensemble
+    place: ''
+    year: ''
+    duration: '11:51'
+    thumbnail: https://img.youtube.com/vi/BMOKvwFyThs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BMOKvwFyThs
+  - id: Rv9kO3JFM24
+    title: JS  BACH |  Widerstehe doch der Sünde |  BWV 54, 1. Aria
+    channel: Arne Van Handenhoven
+    performer: Arne Van Handenhoven
+    place: ''
+    year: '2022'
+    duration: '6:33'
+    thumbnail: https://img.youtube.com/vi/Rv9kO3JFM24/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Rv9kO3JFM24
+  - id: w5Ne1waZImI
+    title: 'Helen Watts: Widerstehe doch der Sünde (Cantata BWV 54) by Bach'
+    channel: Muzikazaile
+    performer: Muzikazaile
+    place: London
+    year: '1958'
+    duration: '17:24'
+    thumbnail: https://img.youtube.com/vi/w5Ne1waZImI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=w5Ne1waZImI
+  - id: POoBxfsipcY
+    title: 'Widerstehe doch der Sünde, BWV 54: I. Aria "Widerstehe doch der Sünde"'
+    channel: Andreas Scholl
+    performer: Herreweghe
+    place: ''
+    year: '1998'
+    duration: '6:59'
+    thumbnail: https://img.youtube.com/vi/POoBxfsipcY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=POoBxfsipcY
+  - id: XZBNKjZKJVw
+    title: J. S. Bach - Cantatas for Alto 2/3 BWV 54 - Scholl, Herreweghe
+    channel: Miguel Zampedri
+    performer: Herreweghe
+    place: ''
+    year: '1997'
+    duration: '11:13'
+    thumbnail: https://img.youtube.com/vi/XZBNKjZKJVw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XZBNKjZKJVw
+  - id: a6ZOPzqsADw
+    title: J.S. Bach Widerstehe doch der Sünde BWV 54
+    channel: Ensemble Continuum Wien
+    performer: Ensemble Continuum Wien
+    place: ''
+    year: '2022'
+    duration: '12:01'
+    thumbnail: https://img.youtube.com/vi/a6ZOPzqsADw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=a6ZOPzqsADw
+  - id: Ph_NXhlmbjE
+    title: 'Johann Sebastian Bach - Cantata: Widerstehe doch der Sünde, BWV 54. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Leonhardt
+    place: ''
+    year: ''
+    duration: '12:32'
+    thumbnail: https://img.youtube.com/vi/Ph_NXhlmbjE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ph_NXhlmbjE
+  - id: LQpNrlWggvA
+    title: Marga Höffgen   "Widerstehe doch der Sünde BWV 54" für Agnes
+    channel: Addiobelpassato
+    performer: Addiobelpassato
+    place: Gewandhaus
+    year: '1961'
+    duration: '13:36'
+    thumbnail: https://img.youtube.com/vi/LQpNrlWggvA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=LQpNrlWggvA
+  - id: L6dWSooq07M
+    title: Cantata No. 54, BWV 54
+    channel: Maureen Forrester - Topic
+    performer: Maureen Forrester - Topic
+    place: ''
+    year: '2015'
+    duration: '9:04'
+    thumbnail: https://img.youtube.com/vi/L6dWSooq07M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=L6dWSooq07M
+  - id: il5IPe0kTqc
+    title: 'Widerstehe doch der Sünde, BWV 54: I. Aria. Wiederstehe doch der Sunde…'
+    channel: Bach Collegium Japan - Topic
+    performer: Masaaki
+    place: ''
+    year: '1998'
+    duration: '6:06'
+    thumbnail: https://img.youtube.com/vi/il5IPe0kTqc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=il5IPe0kTqc
+  - id: 7Y-SnYKvvQw
+    title: 'Yoshikazu Mera - Bach : Widerstehe doch der Sünde, BWV 54, I. Aria'
+    channel: CLASSICsungtaek
+    performer: Masaaki
+    place: ''
+    year: ''
+    duration: '6:06'
+    thumbnail: https://img.youtube.com/vi/7Y-SnYKvvQw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7Y-SnYKvvQw
+key: E♭ major

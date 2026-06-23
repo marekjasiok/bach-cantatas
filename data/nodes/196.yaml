@@ -1,0 +1,84 @@
+bwv: '196'
+title: Der Herr denket an uns
+cycle: EARLY
+occasion: Wedding
+date: '1708-06-05'
+url: https://en.wikipedia.org/wiki/BWV_196
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Violino I/II, Viola, Violoncello, Organo, Continuo
+    de: ''
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: Violino I/II, Viola, Violoncello, Organo, Continuo
+    de: |-
+      Der Herr denket an uns und segnet uns.
+      Er segnet das Haus Israel, er segnet das Haus Aaron.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Organo, Continuo
+    de: |-
+      Er segnet, die den Herrn fürchten,
+      beide, Kleine und Große.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Der Herr segne euch je mehr und mehr,
+      euch und eure Kinder.
+  - num: 5
+    type: Chorus
+    voices: SATB
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Ihr seid die Gesegneten des Herrn,
+      der Himmel und Erde gemacht hat. Amen.
+scoring: 'Soli: S T B, Coro: S A T B, Violino I/II, Viola, Violone, Violone, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Chorus
+    - Aria
+    - Aria
+    - Chorus
+  opening: Sinfonia
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+    S: 1
+  instrumentation_families:
+    - organ
+    - violoncello
+wiki:
+  summary: >-
+    Der Herr denket an uns, BWV 196, is a cantata by Johann Sebastian Bach. The early church cantata, possibly for a
+    wedding, is difficult to date, but is generally considered to be an early work on stylistic grounds. The text is a
+    passage from Psalm 115, assuring of God's blessing, especially for children. Scholars have suggested the work may
+    have been written for the wedding of Johann Lorenz Stauber, the minister in Dornheim who had married Bach and his
+    first wife there in 1707, and Regina Wedemann, an aunt of Bach's wife, on 5 June 1708.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kirche_Dornheim.JPG/330px-Kirche_Dornheim.JPG
+  url: https://en.wikipedia.org/wiki/Der_Herr_denket_an_uns%2C_BWV_196
+  summary_html: >-
+    <p><i><b><span><i lang="de">Der Herr denket an uns</i></span></b></i>, <b><span class="nowrap">BWV 196</span></b>,
+    is a cantata by Johann Sebastian Bach. The early church cantata, possibly for a wedding, is difficult to date, but
+    is generally considered to be an early work on stylistic grounds. The text is a passage from Psalm 115, assuring of
+    God's blessing, especially for children. Scholars have suggested the work may have been written for the wedding of
+    Johann Lorenz Stauber, the minister in Dornheim who had married Bach and his first wife there in 1707, and Regina
+    Wedemann, an aunt of Bach's wife, on 5 June 1708.</p>
+key: F major
+performances:
+  - id: YNjAHgMMsFs
+    title: Bach - Cantata Der Herr denket an uns BWV 196 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Dornheim
+    year: '2015'
+    duration: '11:52'
+    thumbnail: https://img.youtube.com/vi/YNjAHgMMsFs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YNjAHgMMsFs

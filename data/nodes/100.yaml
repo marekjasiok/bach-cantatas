@@ -1,0 +1,125 @@
+bwv: '100'
+title: Was Gott tut, das ist wohlgetan
+cycle: LATE
+occasion: Unknown
+date: c. 1734
+url: https://en.wikipedia.org/wiki/BWV_100
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Tamburi, Flauto traverso, Oboe d'amore, Violino I/II, Viola, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Es bleibt gerecht sein Wille;
+      Wie er fängt meine Sachen an,
+      Will ich ihm halten stille.
+      Er ist mein Gott,
+      Der in der Not
+      Mich wohl weiß zu erhalten;
+      Drum lass ich ihn nur walten.
+  - num: 2
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Er wird mich nicht betrügen;
+      Er führet mich auf rechter Bahn,
+      So lass ich mich begnügen
+      An seiner Huld
+      Und hab Geduld,
+      Er wird mein Unglück wenden,
+      Es steht in seinen Händen.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Flauto traverso solo, Violoncello, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Er wird mich wohl bedenken;
+      Er, als mein Arzt und Wundermann,
+      Wird mir nicht Gift einschenken
+      Vor Arzenei.
+      Gott ist getreu,
+      Drum will ich auf ihn bauen
+      Und seiner Gnade trauen.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Er ist mein Licht, mein Leben,
+      Der mir nichts Böses gönnen kann,
+      Ich will mich ihm ergeben
+      In Freud und Leid!
+      Es kommt die Zeit,
+      Da öffentlich erscheinet,
+      Wie treulich er es meinet.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Violoncello, Violone, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Muss ich den Kelch gleich schmecken,
+      Der bitter ist nach meinem Wahn,
+      Lass ich mich doch nicht schrecken,
+      Weil doch zuletzt
+      Ich werd ergötzt
+      Mit süßem Trost im Herzen;
+      Da weichen alle Schmerzen.
+  - num: 6
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Tamburi, Flauto traverso, Oboe d'amore, Violino I/II, Viola, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Derbei will ich verbleiben.
+      Es mag mich auf die rauhe Bahn
+      Not, Tod und Elend treiben,
+      So wird Gott mich
+      Ganz väterlich
+      In seinen Armen halten;
+      Drum lass ich ihn nur walten.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Corno I/II, Tamburi, Flauto traverso, Oboe d'amore, Violino I/II, Viola, Violoncello,
+  Violone, Continuo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Aria
+    - Aria
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+    S: 1
+    B: 1
+    A: 1
+  instrumentation_families:
+    - corno
+    - flauto_traverso
+    - oboe_damore
+    - timpani
+    - violoncello
+    - violone
+key: G major
+wiki:
+  summary: >-
+    Was Gott tut, das ist wohlgetan, BWV 100, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig
+    between 1732 and 1735. The chorale cantata is based on the hymn "Was Gott tut, das ist wohlgetan" Samuel Rodigast
+    (1674).
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BWV100-autograph-manuscript.jpeg/330px-BWV100-autograph-manuscript.jpeg
+  url: https://en.wikipedia.org/wiki/Was_Gott_tut%2C_das_ist_wohlgetan%2C_BWV_100
+  summary_html: >-
+    <p><b><span><i lang="de">Was Gott tut, das ist wohlgetan</i></span></b>, <b><span class="nowrap">BWV 100</span></b>,
+    is a church cantata by Johann Sebastian Bach. He composed it in Leipzig between 1732 and 1735. The chorale cantata
+    is based on the hymn "<span><span style="font-style:normal">Was Gott tut, das ist wohlgetan</span></span>" Samuel
+    Rodigast (1674).</p>

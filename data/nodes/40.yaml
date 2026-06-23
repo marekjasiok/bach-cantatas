@@ -1,0 +1,179 @@
+bwv: '40'
+title: Darzu ist erschienen der Sohn Gottes
+cycle: C1
+occasion: Christmas 2
+date: '1723-12-26'
+url: https://en.wikipedia.org/wiki/BWV_40
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Darzu ist erschienen der Sohn Gottes,
+      dass er die Werke des Teufels zerstöre.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Das Wort ward Fleisch und wohnet in der Welt,
+      Das Licht der Welt bestrahlt den Kreis der Erden,
+      Der große Gottessohn
+      Verlässt des Himmels Thron,
+      Und seiner Majestät gefällt,
+      Ein kleines Menschenkind zu werden.
+      Bedenkt doch diesen Tausch, wer nur gedenken kann;
+      Der König wird ein Untertan,
+      Der Herr erscheinet als ein Knecht
+      Und wird dem menschlichen Geschlecht
+      - O süßes Wort in aller Ohren! -
+      Zu Trost und Heil geboren.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: Corno I e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Die Sünd macht Leid;
+      Christus bringt Freud,
+      Weil er zu Trost in diese Welt ist kommen.
+      Mit uns ist Gott
+      Nun in der Not:
+      Wer ist, der uns als Christen kann verdammen?
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Höllische Schlange,
+      Wird dir nicht bange?
+      Der dir den Kopf als ein Sieger zerknickt,
+      Ist nun geboren,
+      Und die verloren,
+      Werden mit ewigem Frieden beglückt.
+  - num: 5
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Die Schlange, so im Paradies
+      Auf alle Adamskinder
+      Das Gift der Seelen fallen ließ,
+      Bringt uns nicht mehr Gefahr;
+      Des Weibes Samen stellt sich dar,
+      Der Heiland ist ins Fleisch gekommen
+      Und hat ihr allen Gift benommen.
+      Drum sei getrost! betrübter Sünder.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno I e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Schüttle deinen Kopf und sprich:
+      Fleuch, du alte Schlange!
+      Was erneurst du deinen Stich,
+      Machst mir angst und bange?
+      Ist dir doch der Kopf zerknickt,
+      Und ich bin durchs Leiden
+      Meines Heilands dir entrückt
+      In den Saal der Freuden.
+  - num: 7
+    type: Aria
+    voices: T
+    instruments: Corno I/II, Oboe I/II, Continuo
+    de: |-
+      Christenkinder, freuet euch!
+      Wütet schon das Höllenreich,
+      Will euch Satans Grimm erschrecken:
+      Jesus, der erretten kann,
+      Nimmt sich seiner Küchlein an
+      Und will sie mit Flügeln decken.
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: Corno I e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Jesu, nimm dich deiner Glieder
+      Ferner in Genaden an;
+      Schenke, was man bitten kann,
+      Zu erquicken deine Brüder:
+      Gib der ganzen Christenschar
+      Frieden und ein selges Jahr!
+      Freude, Freude über Freude!
+      Christus wehret allem Leide.
+      Wonne, Wonne über Wonne!
+      Er ist die Genadensonne.
+scoring: 'Soli: A T B, Coro: S A T B, Corno I/II, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Chorale
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 4
+    T: 2
+    B: 1
+    A: 1
+  instrumentation_families:
+    - corno
+    - oboe
+wiki:
+  summary: "Darzu ist erschienen der Sohn Gottes, BWV\_40, is a church cantata by Johann Sebastian Bach. He composed it in 1723, his first year in Leipzig, for the Second Day of Christmas, and first performed it on 26 December that year in both main churches, Thomaskirche and Nikolaikirche. It was the first Christmas cantata Bach composed for Leipzig. The title of the cantata also appears in more modern German as Dazu ist erschienen der Sohn Gottes."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomaskirche_Interior.jpg/330px-Thomaskirche_Interior.jpg
+  url: https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes%2C_BWV_40
+  summary_html: "<p><b><span><i lang=\"de\">Darzu ist erschienen der Sohn Gottes</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>40</b>, is a church cantata by Johann Sebastian Bach. He composed it in 1723, his first year in Leipzig, for the Second Day of Christmas, and first performed it on 26 December that year in both main churches, Thomaskirche and Nikolaikirche. It was the first Christmas cantata Bach composed for Leipzig. The title of the cantata also appears in more modern German as <span><i lang=\"de\">Dazu ist erschienen der Sohn Gottes</i></span>.</p>"
+performances:
+  - id: vLDTvI1RrgI
+    title: Bach - Cantata Darzu ist erschienen der Sohn Gottes BWV 40 - Rademann | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Rademann
+    place: Grote Kerk
+    year: '2016'
+    duration: '15:47'
+    thumbnail: https://img.youtube.com/vi/vLDTvI1RrgI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vLDTvI1RrgI
+  - id: hiirbwa79r0
+    title: 'Johann Sebastian Bach - Cantata: Darzu ist erschienen der Sohn Gottes, BWV 40. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '15:38'
+    thumbnail: https://img.youtube.com/vi/hiirbwa79r0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hiirbwa79r0
+  - id: i06fKBIrfow
+    title: J. S. Bach, "Darzu ist erschienen der Sohn Gottes" BWV 40--Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: Breana McCullough
+    year: '2020'
+    duration: '46:35'
+    thumbnail: https://img.youtube.com/vi/i06fKBIrfow/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=i06fKBIrfow
+  - id: bLglQU6Pqks
+    title: ✥ BACH - Dazu ist erschienen der Sohn Gottes, BWV 40 ✥
+    channel: Retour du Christ
+    performer: Retour du Christ
+    place: ''
+    year: ''
+    duration: '16:24'
+    thumbnail: https://img.youtube.com/vi/bLglQU6Pqks/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bLglQU6Pqks
+  - id: 9KlUz6n17lA
+    title: J.S. Bach - BWV 40 (For this purpose the Son of God was manifested)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '17:56'
+    thumbnail: https://img.youtube.com/vi/9KlUz6n17lA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9KlUz6n17lA
+key: F major

@@ -1,0 +1,104 @@
+bwv: '77'
+title: Du sollt Gott, deinen Herren, lieben
+cycle: C1
+occasion: Trinity XIII
+date: '1723-08-22'
+url: https://en.wikipedia.org/wiki/BWV_77
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba da tirarsi, Violino I/II, Viola, Continuo
+    de: |-
+      Du sollt Gott, deinen Herren, lieben
+      von ganzem Herzen, von ganzer Seele, von allen Kräften und von
+      ganzem Gemüte und deinen Nächsten als dich selbst.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      So muss es sein!
+      Gott will das Herz vor sich alleine haben.
+      Man muss den Herrn von ganzer Seelen
+      Zu seiner Lust erwählen
+      Und sich nicht mehr erfreun,
+      Als wenn er das Gemüte
+      Durch seinen Geist entzündt,
+      Weil wir nur seiner Huld und Güte
+      Alsdenn erst recht versichert sind.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Mein Gott, ich liebe dich von Herzen,
+      Mein ganzes Leben hangt dir an.
+      Lass mich doch dein Gebot erkennen
+      Und in Liebe so entbrennen,
+      Dass ich dich ewig lieben kann.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Gib mir dabei, mein Gott! ein Samariterherz,
+      Dass ich zugleich den Nächsten liebe
+      Und mich bei seinem Schmerz
+      Auch über ihn betrübe,
+      Damit ich nicht bei ihm vorübergeh
+      Und ihn in seiner Not nicht lasse.
+      Gib, dass ich Eigenliebe hasse,
+      So wirst du mir dereinst das Freudenleben
+      Nach meinem Wunsch, jedoch aus Gnaden geben
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Tromba, Continuo
+    de: |-
+      Ach, es bleibt in meiner Liebe
+      Lauter Unvollkommenheit!
+      Hab ich oftmals gleich den Willen,
+      Was Gott saget, zu erfüllen,
+      Fehlt mir's doch an Möglichkeit.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Herr, durch den Glauben wohn in mir,
+      Lass ihn sich immer stärken,
+      Dass er sei fruchtbar für und für
+      Und reich in guten Werken;
+      Dass er sei tätig durch die Lieb,
+      Mit Freuden und Geduld sich üb,
+      Dem Nächsten fort zu dienen.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba, Tromba da tirarsi, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 2
+    B: 1
+    S: 1
+    A: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - tromba
+    - tromba_da_tirarsi
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Du sollt Gott, deinen Herren, lieben, BWV\_77 in Leipzig for the thirteenth Sunday after Trinity and first performed it on 22 August 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cantata_Du_sollt_Gott%2C_deinen_Herren%2C_lieben_BWV_77_Chorale_autograph_manuscript-.jpg/330px-Cantata_Du_sollt_Gott%2C_deinen_Herren%2C_lieben_BWV_77_Chorale_autograph_manuscript-.jpg
+  url: https://en.wikipedia.org/wiki/Du_sollt_Gott%2C_deinen_Herren%2C_lieben%2C_BWV_77
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Du sollt Gott, deinen Herren, lieben</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>77</b> in Leipzig for the thirteenth Sunday after Trinity and first performed it on 22 August 1723.</p>"
+key: D minor

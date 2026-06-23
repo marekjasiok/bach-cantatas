@@ -1,0 +1,245 @@
+bwv: '52'
+title: Falsche Welt, dir trau ich nicht
+cycle: C3
+occasion: Trinity XXIII
+date: '1726-11-24'
+url: https://en.wikipedia.org/wiki/BWV_52
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Corno I/II, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo
+    de: ''
+  - num: 2
+    type: Recitative
+    voices: S
+    instruments: Fagotto, Continuo
+    de: |-
+      Falsche Welt, dir trau ich nicht!
+      Hier muss ich unter Skorpionen
+      Und unter falschen Schlangen wohnen.
+      Dein Angesicht,
+      Das noch so freundlich ist,
+      Sinnt auf ein heimliches Verderben:
+      Wenn Joab küsst,
+      So muss ein frommer Abner sterben.
+      Die Redlichkeit ist aus der Welt verbannt,
+      Die Falschheit hat sie fortgetrieben,
+      Nun ist die Heuchelei
+      An ihrer Stelle blieben.
+      Der beste Freund ist ungetreu,
+      O jämmerlicher Stand!
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Fagotto, Continuo
+    de: |-
+      Immerhin, immerhin,
+      Wenn ich gleich verstoßen bin!
+      Ist die falsche Welt mein Feind,
+      O so bleibt doch Gott mein Freund,
+      Der es redlich mit mir meint.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Fagotto, Continuo
+    de: |-
+      Gott ist getreu!
+      Er wird, er kann mich nicht verlassen;
+      Will mich die Welt und ihre Raserei
+      In ihre Schlingen fassen,
+      So steht mir seine Hilfe bei.
+      Auf seine Freundschaft will ich bauen
+      Und meine Seele, Geist und Sinn
+      Und alles, was ich bin,
+      Ihm anvertrauen.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe I-III, Fagotto, Continuo
+    de: |-
+      Ich halt es mit dem lieben Gott,
+      Die Welt mag nur alleine bleiben.
+      Gott mit mir, und ich mit Gott,
+      Also kann ich selber Spott
+      Mit den falschen Zungen treiben.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Corno I/II, Oboe I/II e Violino I col Soprano, Oboe III e Violino II coll' Alto, Viola col Tenore, Fagotto,
+      Continuo
+    de: |-
+      In dich hab ich gehoffet, Herr,
+      Hilf, dass ich nicht zuschanden werd,
+      Noch ewiglich zu Spotte!
+      Das bitt ich dich,
+      Erhalte mich
+      In deiner Treu, Herr Gotte!
+scoring: 'Solo: S, Coro: S A T B, Corno I/II, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    S: 4
+    SATB: 1
+  instrumentation_families:
+    - corno
+    - fagotto
+    - oboe
+wiki:
+  summary: >-
+    Johann Sebastian Bach composed the church cantata Falsche Welt, dir trau ich nicht, BWV 52, in Leipzig for the 23rd
+    Sunday after Trinity. He led the first performance of the solo cantata for soprano on 24 November 1726.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Tribute_Money_%281516%29_-_Tizian_%28Gem%C3%A4ldegalerie_Alte_Meister%2C_Dresden%29.jpg/330px-The_Tribute_Money_%281516%29_-_Tizian_%28Gem%C3%A4ldegalerie_Alte_Meister%2C_Dresden%29.jpg
+  url: https://en.wikipedia.org/wiki/Falsche_Welt%2C_dir_trau_ich_nicht%2C_BWV_52
+  summary_html: >-
+    <p>Johann Sebastian Bach composed the church cantata <i><b><span><i lang="de">Falsche Welt, dir trau ich
+    nicht</i></span></b></i>, <b><span class="nowrap">BWV 52</span></b>, in Leipzig for the 23rd Sunday after Trinity.
+    He led the first performance of the solo cantata for soprano on 24 November 1726.</p>
+performances:
+  - id: M-Yhp9T8G3s
+    title: J.S. Bach - Cantata BWV 52 "Falsche Welt, dir trau ich nicht" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '17:55'
+    thumbnail: https://img.youtube.com/vi/M-Yhp9T8G3s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=M-Yhp9T8G3s
+  - id: s-wotzawgvI
+    title: 'Johann Sebastian Bach - Cantata: Falsche Welt, dir trau ich nicht, BWV 52. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '15:39'
+    thumbnail: https://img.youtube.com/vi/s-wotzawgvI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=s-wotzawgvI
+  - id: 12B909evn1g
+    title: Bach - Cantate BWV 52 - Falsche Welt, dir trau ich nicht!
+    channel: MusicArt61
+    performer: MusicArt61
+    place: ''
+    year: ''
+    duration: '16:33'
+    thumbnail: https://img.youtube.com/vi/12B909evn1g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=12B909evn1g
+  - id: F4eKluZCAfs
+    title: BWV 52 - Falsche Welt, dir trau ich nicht!
+    channel: Bachcantates Tilburg
+    performer: Bachcantates Tilburg
+    place: ''
+    year: ''
+    duration: '16:29'
+    thumbnail: https://img.youtube.com/vi/F4eKluZCAfs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=F4eKluZCAfs
+  - id: VToSuZRPNsQ
+    title: J. S. Bach. Coral de la Cantata BWV 52
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '0:43'
+    thumbnail: https://img.youtube.com/vi/VToSuZRPNsQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=VToSuZRPNsQ
+  - id: p4ME_21_CNU
+    title: 'Falsche Welt, dir trau ich nicht, BWV 52: Aria: Immerhin, immerhin, wenn ich gleich verstossen...'
+    channel: Arleen Augér - Topic
+    performer: Arleen Augér - Topic
+    place: ''
+    year: ''
+    duration: '3:20'
+    thumbnail: https://img.youtube.com/vi/p4ME_21_CNU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=p4ME_21_CNU
+  - id: k9NGaSXjU3g
+    title: J.S. Bach - BWV 52 (False world, I trust you not)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '16:39'
+    thumbnail: https://img.youtube.com/vi/k9NGaSXjU3g/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=k9NGaSXjU3g
+  - id: YfoVCKkSiew
+    title: Bach - Cantata Jauchzet Gott in allen Landen BWV 51 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: ''
+    year: ''
+    duration: '17:29'
+    thumbnail: https://img.youtube.com/vi/YfoVCKkSiew/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YfoVCKkSiew
+  - id: n8EuPVT_Ps8
+    title: Johann Sebastian Bach - BWV 52 Cantata 'Falsche Welt, dir trau ich nicht' in F major
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: ''
+    year: ''
+    duration: '16:35'
+    thumbnail: https://img.youtube.com/vi/n8EuPVT_Ps8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=n8EuPVT_Ps8
+  - id: Q_5DG9BD-SU
+    title: Bach - Cantata Ich habe genung BWV 82 - Mortensen | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: ''
+    year: ''
+    duration: '21:10'
+    thumbnail: https://img.youtube.com/vi/Q_5DG9BD-SU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Q_5DG9BD-SU
+  - id: dc8nT_dHCjk
+    title: J. S. Bach - Cantata BWV 182 "Himmelskönig, sei willkommen" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '30:03'
+    thumbnail: https://img.youtube.com/vi/dc8nT_dHCjk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dc8nT_dHCjk
+  - id: 77PM-wQ02Sg
+    title: J.S. Bach - Cantata BWV 82 "Ich habe genung" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '24:59'
+    thumbnail: https://img.youtube.com/vi/77PM-wQ02Sg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=77PM-wQ02Sg
+  - id: owDoNEXM75I
+    title: Bach Kantate BWV 52 Falsche Welt dir trau ich nicht, Kurt Redel vor 1970
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: ''
+    year: '1970'
+    duration: '17:51'
+    thumbnail: https://img.youtube.com/vi/owDoNEXM75I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=owDoNEXM75I
+  - id: jFfll9DmwrA
+    title: J.S. Bach - Cantata BWV 122 "Das neugeborne Kindelein" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '18:34'
+    thumbnail: https://img.youtube.com/vi/jFfll9DmwrA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jFfll9DmwrA
+  - id: prAcMjvuQQM
+    title: J.S. Bach - Cantata BWV 3 "Ach Gott, wie manches Herzeleid" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '24:05'
+    thumbnail: https://img.youtube.com/vi/prAcMjvuQQM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=prAcMjvuQQM
+key: F major

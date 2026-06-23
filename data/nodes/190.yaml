@@ -1,0 +1,163 @@
+bwv: '190'
+title: Singet dem Herrn ein neues Lied
+cycle: C1
+occasion: New Year
+date: Jan 1, 1724 (**Fragment**)
+url: https://en.wikipedia.org/wiki/BWV_190
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Singet dem Herrn ein neues Lied!
+      Die Gemeine der Heiligen soll ihn loben!
+      Lobet ihn mit Pauken und Reigen, lobet ihn mit Saiten und Pfeifen!
+      Herr Gott, dich loben wir!
+      Alles, was Odem hat, lobe den Herrn!
+      Herr Gott, wir danken dir!
+      Alleluja!
+  - num: 2
+    type: Chorale
+    voices: SATB
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Herr Gott, dich loben wir,
+      Bass
+      Dass du mit diesem neuen Jahr
+      Uns neues Glück und neuen Segen schenkest
+      Und noch in Gnaden an uns denkest.
+      Herr Gott, wir danken dir,
+      Tenor
+      Dass deine Gütigkeit
+      In der vergangnen Zeit
+      Das ganze Land und unsre werte Stadt
+      Vor Teurung, Pestilenz und Krieg behütet hat.
+      Herr Gott, dich loben wir,
+      Alt
+      Denn deine Vatertreu
+      Hat noch kein Ende,
+      Sie wird bei uns noch alle Morgen neu.
+      Drum falten wir,
+      Barmherzger Gott, dafür
+      In Demut unsre Hände
+      Und sagen lebenslang
+      Mit Mund und Herzen Lob und Dank.
+      Herr Gott, wir danken dir!
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Lobe, Zion, deinen Gott,
+      Lobe deinen Gott mit Freuden,
+      Auf! erzähle dessen Ruhm,
+      Der in seinem Heiligtum
+      Fernerhin dich als dein Hirt
+      Will auf grüner Auen weiden.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Es wünsche sich die Welt,
+      Was Fleisch und Blute wohlgefällt;
+      Nur eins, eins bitt ich von dem Herrn,
+      Dies eine hätt ich gern,
+      Dass Jesus, meine Freude,
+      Mein treuer Hirt, mein Trost und Heil
+      Und meiner Seelen bestes Teil,
+      Mich als ein Schäflein seiner Weide
+      Auch dieses Jahr mit seinem Schutz umfasse
+      Und nimmermehr aus seinen Armen lasse.
+      Sein guter Geist,
+      Der mir den Weg zum Leben weist,
+      Regier und führe mich auf ebner Bahn,
+      So fang ich dieses Jahr in Jesu Namen an.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      Jesus soll mein alles sein,
+      Jesus soll mein Anfang bleiben,
+      Jesus ist mein Freudenschein,
+      Jesu will ich mich verschreiben.
+      Jesus hilft mir durch sein Blut,
+      Jesus macht mein Ende gut.
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Nun, Jesus gebe,
+      Dass mit dem neuen Jahr auch sein Gesalbter lebe;
+      Er segne beides, Stamm und Zweige,
+      Auf dass ihr Glück bis an die Wolken steige.
+      Es segne Jesus Kirch und Schul,
+      Er segne alle treue Lehrer,
+      Er segne seines Wortes Hörer;
+      Er segne Rat und Richterstuhl;
+      Er gieß auch über jedes Haus
+      In unsrer Stadt die Segensquellen aus;
+      Er gebe, dass aufs neu
+      Sich Fried und Treu
+      In unsern Grenzen küssen mögen.
+      So leben wir dies ganze Jahr im Segen.
+  - num: 7
+    type: Chorale
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Lass uns das Jahr vollbringen
+      Zu Lob dem Namen dein,
+      Dass wir demselben singen
+      In der Christen Gemein;
+      Wollst uns das Leben fristen
+      Durch dein allmächtig Hand,
+      Erhalt deine lieben Christen
+      Und unser Vaterland.
+      Dein Segen zu uns wende,
+      Gib Fried an allem Ende;
+      Gib unverfälscht im Lande
+      Dein seligmachend Wort.
+      Die Heuchler mach zuschanden
+      Hier und an allem Ort.
+scoring: 'Soli: A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I-III, Oboe d''amore, Fagotto, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    SATB: 1
+    A: 1
+    B: 1
+  instrumentation_families:
+    - oboe
+    - oboe_damore
+    - timpani
+    - tromba
+key: D major
+wiki:
+  summary: >-
+    Singet dem Herrn ein neues Lied, BWV 190, is a church cantata by Johann Sebastian Bach. He wrote it in Leipzig for
+    the New Year's Day and first performed it on 1 January 1724 as part of his first cantata cycle. He adapted it in
+    1730 to Singet dem Herrn ein neues Lied, BWV 190a, for the celebration of the bicentennial of the Augsburg
+    Confession.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomaskirche_Interior.jpg/330px-Thomaskirche_Interior.jpg
+  url: https://en.wikipedia.org/wiki/Singet_dem_Herrn_ein_neues_Lied%2C_BWV_190
+  summary_html: >-
+    <p><b><span><i lang="de">Singet dem Herrn ein neues Lied</i></span></b>, <b><span class="nowrap">BWV 190</span></b>,
+    is a church cantata by Johann Sebastian Bach. He wrote it in Leipzig for the New Year's Day and first performed it
+    on 1 January 1724 as part of his first cantata cycle. He adapted it in 1730 to <span><span><span><i>Singet dem Herrn
+    ein neues Lied</i>, BWV 190a</span></span></span>, for the celebration of the bicentennial of the Augsburg
+    Confession.</p>

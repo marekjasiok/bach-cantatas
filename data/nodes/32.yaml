@@ -1,0 +1,267 @@
+bwv: '32'
+title: Liebster Jesu, mein Verlangen
+cycle: C3
+occasion: Epiphany I
+date: '1726-01-13'
+url: https://en.wikipedia.org/wiki/BWV_32
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Liebster Jesu, mein Verlangen,
+      Sage mir, wo find ich dich?
+      Soll ich dich so bald verlieren
+      Und nicht ferner bei mir spüren?
+      Ach! mein Hort, erfreue mich,
+      Lass dich höchst vergnügt umfangen.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Was ists, dass du mich gesuchet?
+      Weißt du nicht, dass ich sein muss in dem,
+      das meines Vaters ist?
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Violino solo, Continuo
+    de: |-
+      Hier, in meines Vaters Stätte,
+      Findt mich ein betrübter Geist.
+      Da kannst du mich sicher finden
+      Und dein Herz mit mir verbinden,
+      Weil dies meine Wohnung heißt.
+  - num: 4
+    type: Recitative
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Seele (S), Jesus (B)
+      Sopran
+      Ach! heiliger und großer Gott,
+      So will ich mir
+      Denn hier bei dir
+      Beständig Trost und Hülfe suchen.
+      Bass
+      Wirst du den Erdentand verfluchen
+      Und nur in diese Wohnung gehn,
+      So kannst du hier und dort bestehn.
+      Sopran
+      Wie lieblich ist doch deine Wohnung,
+      Herr, starker Zebaoth;
+      Mein Geist verlangt
+      Nach dem, was nur in deinem Hofe prangt.
+      Mein Leib und Seele freuet sich
+      In dem lebendgen Gott:
+      Ach! Jesu, meine Brust liebt dich nur ewiglich.
+      Bass
+      So kannst du glücklich sein,
+      Wenn Herz und Geist
+      Aus Liebe gegen mich entzündet heißt.
+      Sopran
+      Ach! dieses Wort, das itzo schon
+      Mein Herz aus Babels Grenzen reißt,
+      Fass' ich mir andachtsvoll in meiner Seele ein.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      beide
+      Nun verschwinden alle Plagen,
+      Nun verschwindet Ach und Schmerz.
+      Sopran
+      Nun will ich nicht von dir lassen,
+      Bass
+      Und ich dich auch stets umfassen.
+      Sopran
+      Nun vergnüget sich mein Herz
+      Bass
+      Und kann voller Freude sagen:
+      beide
+      Nun verschwinden alle Plagen,
+      Nun verschwindet Ach und Schmerz!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Mein Gott, öffne mir die Pforten
+      Solcher Gnad und Gütigkeit,
+      Lass mich allzeit allerorten
+      Schmecken deine Süßigkeit!
+      Liebe mich und treib mich an,
+      Dass ich dich, so gut ich kann,
+      Wiederum umfang und liebe
+      Und ja nun nicht mehr betrübe.
+scoring: 'Soli: S B, Coro: S A T B, Oboe, Violino solo, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    S: 1
+    B: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - violino_solo
+wiki:
+  summary: >-
+    Liebster Jesu, mein Verlangen, BWV 32, is a church cantata by Johann Sebastian Bach. He composed the dialogue
+    cantata in Leipzig for the first Sunday after Epiphany and first performed it on 13 January 1726 as part of his
+    third cantata cycle.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Galante_Poetinnen_0001.png/330px-Galante_Poetinnen_0001.png
+  url: https://en.wikipedia.org/wiki/Liebster_Jesu%2C_mein_Verlangen%2C_BWV_32
+  summary_html: >-
+    <p><b><span><i lang="de">Liebster Jesu, mein Verlangen</i></span></b>, <b><span class="nowrap">BWV 32</span></b>, is
+    a church cantata by Johann Sebastian Bach. He composed the dialogue cantata in Leipzig for the first Sunday after
+    Epiphany and first performed it on 13 January 1726 as part of his third cantata cycle.</p>
+key: E minor
+performances:
+  - id: rsW74UWjKZQ
+    title: Bach - Cantata Liebster Jesu, mein Verlangen BWV 32 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: ''
+    year: ''
+    duration: '22:04'
+    thumbnail: https://img.youtube.com/vi/rsW74UWjKZQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rsW74UWjKZQ
+  - id: 9Zt27z1ZbN4
+    title: J.S. Bach - Cantata BWV 32 "Liebster Jesu, mein Verlangen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '25:24'
+    thumbnail: https://img.youtube.com/vi/9Zt27z1ZbN4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9Zt27z1ZbN4
+  - id: T7QPa6Ap4tw
+    title: BACH Cantata BWV 32 "Liebster Jesu, mein Verlangen" - I. Aria / TMC Fellows
+    channel: Tanglewood Music Center
+    performer: Tanglewood Music Center
+    place: ''
+    year: ''
+    duration: '4:55'
+    thumbnail: https://img.youtube.com/vi/T7QPa6Ap4tw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=T7QPa6Ap4tw
+  - id: Y1K_v7vAZrs
+    title: J. S. Bach – Cantata "Liebster Jesu, mein Verlangen", BWV 32
+    channel: SP's score videos
+    performer: SP's score videos
+    place: ''
+    year: ''
+    duration: '23:52'
+    thumbnail: https://img.youtube.com/vi/Y1K_v7vAZrs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Y1K_v7vAZrs
+  - id: Mq6OBWbGwQs
+    title: J. S. Bach | Liebster Jesu, mein Verlangen | Kantate BWV 32 | capella sollertia
+    channel: Cantate um 1715
+    performer: Cantate um 1715
+    place: ''
+    year: ''
+    duration: '23:31'
+    thumbnail: https://img.youtube.com/vi/Mq6OBWbGwQs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Mq6OBWbGwQs
+  - id: PVpsmSI5Ch8
+    title: J. S. Bach - Cantatas BWV 32, 82 & 106 - J. Butt
+    channel: Miguel Zampedri
+    performer: Miguel Zampedri
+    place: ''
+    year: ''
+    duration: '1:06:21'
+    thumbnail: https://img.youtube.com/vi/PVpsmSI5Ch8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PVpsmSI5Ch8
+  - id: WKwR0PkWF6Y
+    title: J.S. Bach - BWV 32 (Beloved Jesus, my desire)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '24:39'
+    thumbnail: https://img.youtube.com/vi/WKwR0PkWF6Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WKwR0PkWF6Y
+  - id: Xm6QjByaqtc
+    title: Bach - Cantate BWV 32 - Liebster Jesu, mein Verlangen
+    channel: MusicArt61
+    performer: MusicArt61
+    place: ''
+    year: ''
+    duration: '23:45'
+    thumbnail: https://img.youtube.com/vi/Xm6QjByaqtc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Xm6QjByaqtc
+  - id: PEOP0aD98o0
+    title: Bach Kantate BWV 32, Liebster Jesu mein Verlangen, Gönnenwein 1965
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: ''
+    year: '1965'
+    duration: '23:53'
+    thumbnail: https://img.youtube.com/vi/PEOP0aD98o0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PEOP0aD98o0
+  - id: fr03JGD73e4
+    title: J.S. Bach - Cantata BWV 30 "Freue dich, erlöste Schar" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '37:22'
+    thumbnail: https://img.youtube.com/vi/fr03JGD73e4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fr03JGD73e4
+  - id: IQyP_olF-zk
+    title: 'J.S. Bach: Liebster Jesu, mein Verlangen  Cantata, BWV 32: III. Aria: Hier, in meines Vaters...'
+    channel: Matthias Goerne
+    performer: Matthias Goerne
+    place: ''
+    year: ''
+    duration: '7:10'
+    thumbnail: https://img.youtube.com/vi/IQyP_olF-zk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IQyP_olF-zk
+  - id: Q4MMZqIAm1w
+    title: J. S. Bach. Coral de la Cantata BWV 32
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '1:08'
+    thumbnail: https://img.youtube.com/vi/Q4MMZqIAm1w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Q4MMZqIAm1w
+  - id: u5A-NFGxtcI
+    title: Johann Sebastian Bach Cantata BWV 32 Liebster Jesu, mein Verlangen
+    channel: Classical Music in America on the Road
+    performer: Classical Music in America on the Road
+    place: ''
+    year: ''
+    duration: '22:54'
+    thumbnail: https://img.youtube.com/vi/u5A-NFGxtcI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=u5A-NFGxtcI
+  - id: kccLxLaAxqU
+    title: Bach Cantate 32
+    channel: RICHARD DI NIZZA (RIRRATTO)
+    performer: RICHARD DI NIZZA (RIRRATTO)
+    place: ''
+    year: ''
+    duration: '6:08'
+    thumbnail: https://img.youtube.com/vi/kccLxLaAxqU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=kccLxLaAxqU
+  - id: q7DF68NAmFc
+    title: Bach Kantate BWV 32 Liebster Jesu mein Verlangen, Karl Ristenpart 1961
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: ''
+    year: '1961'
+    duration: '21:12'
+    thumbnail: https://img.youtube.com/vi/q7DF68NAmFc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=q7DF68NAmFc

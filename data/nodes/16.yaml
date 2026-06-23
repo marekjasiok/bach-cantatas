@@ -1,0 +1,285 @@
+bwv: '16'
+title: Herr Gott, dich loben wir
+cycle: C3
+occasion: New Year
+date: '1726-01-01'
+url: https://en.wikipedia.org/wiki/BWV_16
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno da caccia col Soprano, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Herr Gott, dich loben wir,
+      Herr Gott, wir danken dir.
+      Dich, Gott Vater in Ewigkeit,
+      Ehret die Welt weit und breit.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      So stimmen wir
+      Bei dieser frohen Zeit
+      Mit heißer Andacht an
+      Und legen dir,
+      O Gott, auf dieses neue Jahr
+      Das erste Herzensopfer dar.
+      Was hast du nicht von Ewigkeit
+      Vor Heil an uns getan,
+      Und was muss unsre Brust
+      Noch jetzt vor Lieb und Treu verspüren!
+      Dein Zion sieht vollkommne Ruh,
+      Es fällt ihm Glück und Segen zu;
+      Der Tempel schallt
+      Von Psaltern und von Harfen,
+      Und unsre Seele wallt,
+      Wenn wir nur Andachtsglut in Herz und Munde führen.
+      O, sollte darum nicht ein neues Lied erklingen
+      Und wir in heißer Liebe singen?
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Corno da caccia, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Chor
+      Lasst uns jauchzen, lasst uns freuen:
+      Gottes Güt und Treu
+      Bleibet alle Morgen neu.
+      Bass
+      Krönt und segnet seine Hand,
+      Ach so glaubt, dass unser Stand
+      Ewig, ewig glücklich sei.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ach treuer Hort,
+      Beschütz auch fernerhin dein wertes Wort,
+      Beschütze Kirch und Schule,
+      So wird dein Reich vermehrt
+      Und Satans arge List gestört;
+      Erhalte nur den Frieden
+      Und die beliebte Ruh,
+      So ist uns schon genug beschieden,
+      Und uns fällt lauter Wohlsein zu.
+      Ach! Gott, du wirst das Land
+      Noch ferner wässern,
+      Du wirst es stets verbessern,
+      Du wirst es selbst mit deiner Hand
+      Und deinem Segen bauen.
+      Wohl uns, wenn wir
+      Dir für und für,
+      Mein Jesus und mein Heil, vertrauen.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Oboe da caccia o Violetta, Continuo
+    de: |-
+      Geliebter Jesu, du allein
+      Sollst meiner Seelen Reichtum sein.
+      Wir wollen dich vor allen Schätzen
+      In unser treues Herze setzen,
+      Ja, wenn das Lebensband zerreißt,
+      Stimmt unser gottvergnügter Geist
+      Noch mit den Lippen sehnlich ein:
+      Geliebter Jesu, du allein
+      Sollst meiner Seelen Reichtum sein.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno da caccia e Oboe I e Violino I col Soprano, Oboe II e Violino II e Viola coll' Alto
+    de: |-
+      All solch dein Güt wir preisen,
+      Vater ins Himmels Thron,
+      Die du uns tust beweisen
+      Durch Christum, deinen Sohn,
+      Und bitten ferner dich,
+      Gib uns ein friedlich Jahre,
+      Vor allem Leid bewahre
+      Und nähr uns mildiglich.
+scoring: 'Soli: A T B, Coro: S A T B, Corno da caccia, Oboe I/II, Oboe da caccia, Violino I/II, Viola, Violetta, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 2
+    A: 1
+    T: 1
+  instrumentation_families:
+    - corno_da_caccia
+    - oboe
+    - oboe_da_caccia
+    - violetta
+key: G major
+wiki:
+  summary: >-
+    Herr Gott, dich loben wir, BWV 16, is a church cantata for New Year's Day by Johann Sebastian Bach. It was first
+    performed on 1 January 1726 in Leipzig, as part of the composer's third cantata cycle. Its libretto is by Georg
+    Christian Lehms, as for three other of Bach's cantatas for the Christmas season that started with Unser Mund sei
+    voll Lachens, BWV 110 on Christmas Day. He opened his text with the beginning of "Herr Gott, dich loben wir",
+    Luther's German Te Deum, and continued with expressing thanks for the completed year and prayers for future
+    blessing. The cantata is closed with a stanza from Paul Eber's "Helft mir Gotts Güte preisen" for the closing
+    chorale. Bach structured the work in six movements and scored it for three vocal soloists, a four-part choir, corno
+    da caccia, oboes, strings and basso continuo. The work features an unusual aria performed by a soloist with the
+    choir.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Galante_Poetinnen_0001.png/330px-Galante_Poetinnen_0001.png
+  url: https://en.wikipedia.org/wiki/Herr_Gott%2C_dich_loben_wir%2C_BWV_16
+  summary_html: >-
+    <p><b><span><i lang="de">Herr Gott, dich loben wir</i></span></b>, <span class="nowrap">BWV 16</span>, is a church
+    cantata for New Year's Day by Johann Sebastian Bach. It was first performed on 1 January 1726 in Leipzig, as part of
+    the composer's third cantata cycle. Its libretto is by Georg Christian Lehms, as for three other of Bach's cantatas
+    for the Christmas season that started with <span><span><span><i>Unser Mund sei voll Lachens</i>, BWV
+    110</span></span></span> on Christmas Day. He opened his text with the beginning of "Herr Gott, dich loben wir",
+    Luther's German Te Deum, and continued with expressing thanks for the completed year and prayers for future
+    blessing. The cantata is closed with a stanza from Paul Eber's "Helft mir Gotts Güte preisen" for the closing
+    chorale. Bach structured the work in six movements and scored it for three vocal soloists, a four-part choir, corno
+    da caccia, oboes, strings and basso continuo. The work features an unusual aria performed by a soloist with the
+    choir.</p>
+performances:
+  - id: '-aTEsoVz_HY'
+    title: Bach J.S. Cantata BWV 16
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '17:52'
+    thumbnail: https://img.youtube.com/vi/-aTEsoVz_HY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-aTEsoVz_HY
+  - id: 5CSU0Z9CC6U
+    title: Johann Sebastian Bach “Herr Gott, dich loben wir, BWV 16” (John Eliot Gardiner)
+    channel: Emily Brontë
+    performer: Gardiner
+    place: Prenzlauer Berg
+    year: 1 January 2000
+    duration: '15:41'
+    thumbnail: https://img.youtube.com/vi/5CSU0Z9CC6U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5CSU0Z9CC6U
+  - id: 7v0OlBiADJo
+    title: J.S. Bach - Cantata BWV 17 "Wer Dank opfert, der preiset mich" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2019'
+    duration: '20:04'
+    thumbnail: https://img.youtube.com/vi/7v0OlBiADJo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7v0OlBiADJo
+  - id: OGexPEEhG88
+    title: Bach - Cantate BWV 16 - Herr Gott, dich loben wir
+    channel: MusicArt61
+    performer: Leonhardt
+    place: Leipzig
+    year: '1972'
+    duration: '18:04'
+    thumbnail: https://img.youtube.com/vi/OGexPEEhG88/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OGexPEEhG88
+  - id: a2PpbniNWzM
+    title: Johann Sebastian Bach - "Herr Gott, dich loben wir". Cantata (BWV 16) 🎻🎹🎺
+    channel: Mundo Sinfonico
+    performer: Mundo Sinfonico
+    place: Leipzig
+    year: ''
+    duration: '15:54'
+    thumbnail: https://img.youtube.com/vi/a2PpbniNWzM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=a2PpbniNWzM
+  - id: XcowK0MpQmA
+    title: 'Herr Gott, dich loben wir BWV 16: Aria: Geliebter Jesu, du allein'
+    channel: Ton Koopman - Topic
+    performer: Koopman
+    place: Amsterdam
+    year: '2007'
+    duration: '7:58'
+    thumbnail: https://img.youtube.com/vi/XcowK0MpQmA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XcowK0MpQmA
+  - id: v59EHrPqdGg
+    title: 'Bach: Cantata No. 16 -  Koopman'
+    channel: pannonia77
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '16:25'
+    thumbnail: https://img.youtube.com/vi/v59EHrPqdGg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=v59EHrPqdGg
+  - id: Dx3rGoMm8ww
+    title: 'Herr Gott, dich loben wir, BWV 16: Aria. Geliebter Jesu, du allein (Tenor)'
+    channel: Charles Humphries - Topic
+    performer: Gardiner
+    place: Luther
+    year: '2008'
+    duration: '7:13'
+    thumbnail: https://img.youtube.com/vi/Dx3rGoMm8ww/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Dx3rGoMm8ww
+  - id: gBeST1c7iFU
+    title: Cantata `Herr Gott, dich loben wir` BWV 16 | Johann Sebastian Bach
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: ''
+    year: ''
+    duration: '16:22'
+    thumbnail: https://img.youtube.com/vi/gBeST1c7iFU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gBeST1c7iFU
+  - id: EBFkGzusFXM
+    title: J.S. Bach - BWV 16 (Lord God, we give Thee praise)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '18:10'
+    thumbnail: https://img.youtube.com/vi/EBFkGzusFXM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=EBFkGzusFXM
+  - id: '-EwuuvsSMS0'
+    title: J.S. Bach - Cantata BWV 116 "Du Friedefürst, Herr Jesu Christ" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Richter
+    place: Switzerland
+    year: ''
+    duration: '19:55'
+    thumbnail: https://img.youtube.com/vi/-EwuuvsSMS0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-EwuuvsSMS0
+  - id: fHpGUJ2iwqA
+    title: Bach - CANTATA `HERR GOTT, DICH LOBEN WIR` BWV 16
+    channel: BEST OF CLASSICAL MUSIC
+    performer: BEST OF CLASSICAL MUSIC
+    place: ''
+    year: ''
+    duration: '15:56'
+    thumbnail: https://img.youtube.com/vi/fHpGUJ2iwqA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fHpGUJ2iwqA
+  - id: DKsNGUZrO9U
+    title: Bach - Trio E-Moll (Cantata Transcription) 'Herr Gott, dich loben wir', BWV 16 - Hauptwerk
+    channel: Ralph Looij
+    performer: Ralph Looij
+    place: groningen
+    year: ''
+    duration: '1:50'
+    thumbnail: https://img.youtube.com/vi/DKsNGUZrO9U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DKsNGUZrO9U
+  - id: rAz99Jg9xQk
+    title: Bach - Cantata Herr Gott, dich loben alle wir BWV 130 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Hulett
+    year: '2013'
+    duration: '16:27'
+    thumbnail: https://img.youtube.com/vi/rAz99Jg9xQk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rAz99Jg9xQk
+  - id: vyiRHhoZEtg
+    title: Bach ‐ 12 Cantata, BWV 16 “Herr Gott, dich loben wir”∶ I Chorus “Herr Gott, dich loben wir”
+    channel: Classical Composers
+    performer: Classical Composers
+    place: ''
+    year: ''
+    duration: '1:42'
+    thumbnail: https://img.youtube.com/vi/vyiRHhoZEtg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vyiRHhoZEtg

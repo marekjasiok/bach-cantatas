@@ -1,0 +1,123 @@
+bwv: '69'
+title: Lobe den Herrn, meine Seele
+cycle: LATE
+occasion: Ratswahl
+date: '1748-08-26'
+url: https://en.wikipedia.org/wiki/BWV_69
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Lobe den Herrn, meine Seele,
+      und vergiss nicht, was er dir Gutes getan hat!
+  - num: 2
+    type: Recitative
+    voices: S
+    instruments: Fagotto, Continuo
+    de: |-
+      Wie groß ist Gottes Güte doch!
+      Er bracht uns an das Licht,
+      Und er erhält uns noch.
+      Wo findet man nur eine Kreatur,
+      Der es an Unterhalt gebricht?
+      Betrachte doch, mein Geist,
+      Der Allmacht unverdeckte Spur,
+      Die auch im kleinen sich recht groß erweist.
+      Ach! möcht es mir, o Höchster, doch gelingen,
+      Ein würdig Danklied dir zu bringen!
+      Doch, sollt es mir hierbei an Kräften fehlen,
+      So will ich doch, Herr, deinen Ruhm erzählen.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe, Violino I, Continuo
+    de: |-
+      Meine Seele,
+      Auf! erzähle,
+      Was dir Gott erwiesen hat!
+      Rühme seine Wundertat,
+      Lass, dem Höchsten zu gefallen,
+      Ihm ein frohes Danklied schallen!
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Der Herr hat große Ding an uns getan.
+      Denn er versorget und erhält,
+      Beschützet und regiert die Welt.
+      Er tut mehr, als man sagen kann.
+      Jedoch, nur eines zu gedenken:
+      Was könnt uns Gott wohl Bessres schenken,
+      Als dass er unsrer Obrigkeit
+      Den Geist der Weisheit gibet,
+      Die denn zu jeder Zeit
+      Das Böse straft, das Gute liebet?
+      Ja, die bei Tag und Nacht
+      Vor unsre Wohlfahrt wacht?
+      Lasst uns dafür den Höchsten preisen;
+      Auf! ruft ihn an,
+      Dass er sich auch noch fernerhin so gnädig woll erweisen
+      Was unserm Lande schaden kann,
+      Wirst du, o Höchster, von uns wenden
+      Und uns erwünschte Hilfe senden.
+      Ja, ja, du wirst in Kreuz und Nöten
+      Uns züchtigen, jedoch nicht töten.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Mein Erlöser und Erhalter,
+      Nimm mich stets in Hut und Wacht!
+      Steh mir bei in Kreuz und Leiden,
+      Alsdenn singt mein Mund mit Freuden:
+      Gott hat alles wohlgemacht.
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: >-
+      Tromba I-III, Tamburi, Oboe I-III e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Fagotto,
+      Continuo
+    de: |-
+      Es danke, Gott, und lobe dich
+      Das Volk in guten Taten.
+      Das Land bringt Frucht und bessert sich,
+      Dein Wort ist wohl geraten.
+      Uns segne Vater und der Sohn,
+      Uns segne Gott, der Heilge Geist,
+      Dem alle Welt die Ehre tut,
+      Für ihm sich fürchten allermeist,
+      Und sprecht von Herzen: Amen!
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I-III, Oboe d''amore, Violino I/II, Viola, Fagotto, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    S: 1
+    A: 1
+    B: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - oboe_damore
+    - timpani
+    - tromba
+key: D major
+wiki:
+  summary: "Lobe den Herrn, meine Seele, BWV\_69, also BWV\_69.2, is a cantata by Johann Sebastian Bach."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/330px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
+  url: https://en.wikipedia.org/wiki/Lobe_den_Herrn%2C_meine_Seele%2C_BWV_69
+  summary_html: "<p><b><span><i lang=\"de\">Lobe den Herrn, meine Seele</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>69</b>, also BWV<span class=\"nowrap\">\_</span>69.2, is a cantata by Johann Sebastian Bach.</p>"

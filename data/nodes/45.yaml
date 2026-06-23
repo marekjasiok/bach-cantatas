@@ -1,0 +1,110 @@
+bwv: '45'
+title: Es ist dir gesagt, Mensch, was gut ist
+cycle: C3
+occasion: Trinity VIII
+date: '1726-08-11'
+url: https://en.wikipedia.org/wiki/BWV_45
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Es ist dir gesagt, Mensch, was gut ist
+      und was der Herr von dir fordert, nämlich: Gottes Wort halten
+      und Liebe üben und demütig sein vor deinem Gott.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Der Höchste lässt mich seinen Willen wissen
+      Und was ihm wohlgefällt;
+      Er hat sein Wort zur Richtschnur dargestellt,
+      Wornach mein Fuß soll sein geflissen
+      Allzeit einherzugehn
+      Mit Furcht, mit Demut und mit Liebe
+      Als Proben des Gehorsams, den ich übe,
+      Um als ein treuer Knecht dereinsten zu bestehn.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Weiß ich Gottes Rechte,
+      Was ist's, das mir helfen kann,
+      Wenn er mir als seinem Knechte
+      Fordert scharfe Rechnung an.
+      Seele, denke dich zu retten,
+      Auf Gehorsam folget Lohn;
+      Qual und Hohn
+      Drohet deinem Übertreten!
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Es werden viele zu mir sagen an jenem Tage: Herr, Herr, haben wir
+      nicht in deinem Namen geweissaget, haben wir nicht in deinem Namen
+      Teufel ausgetrieben, haben wir nicht in deinem Namen viel Taten getan?
+      Denn werde ich ihnen bekennen: Ich habe euch noch nie erkannt, weichet
+      alle von mir, ihr Übeltäter!
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Flauto traverso I, Continuo
+    de: |-
+      Wer Gott bekennt
+      Aus wahrem Herzensgrund,
+      Den will er auch bekennen.
+      Denn der muss ewig brennen,
+      Der einzig mit dem Mund
+      Ihn Herren nennt.
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      So wird denn Herz und Mund selbst von mir Richter sein,
+      Und Gott will mir den Lohn nach meinem Sinn erteilen:
+      Trifft nun mein Wandel nicht nach seinen Worten ein,
+      Wer will hernach der Seelen Schaden heilen?
+      Was mach ich mir denn selber Hindernis?
+      Des Herren Wille muss geschehen,
+      Doch ist sein Beistand auch gewiss,
+      Dass er sein Werk durch mich mög wohl vollendet sehen.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Flauto traverso I/II e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Gib, dass ich tu mit Fleiß,
+      Was mir zu tun gebühret,
+      Worzu mich dein Befehl
+      In meinem Stande führet!
+      Gib, dass ichs tue bald,
+      Zu der Zeit, da ich soll;
+      Und wenn ich's tu, so gib,
+      Dass es gerate wohl!
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto traverso I/II, Oboe I, Oboe d''amore II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    B: 1
+    A: 2
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+key: E major

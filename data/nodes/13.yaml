@@ -1,0 +1,110 @@
+bwv: '13'
+title: Meine Seufzer, meine Tränen
+cycle: C3
+occasion: Epiphany II
+date: '1726-01-20'
+url: https://en.wikipedia.org/wiki/BWV_13
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T
+    instruments: Flauto dolce I/II, Oboe da caccia, Continuo
+    de: |-
+      Meine Seufzer, meine Tränen
+      Können nicht zu zählen sein.
+      Wenn sich täglich Wehmut findet
+      Und der Jammer nicht verschwindet,
+      Ach! so muss uns diese Pein
+      Schon den Weg zum Tode bahnen.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Mein liebster Gott lässt mich annoch
+      Vergebens rufen und mir in meinem Weinen
+      Noch keinen Trost erscheinen.
+      Die Stunde lässet sich zwar wohl von ferne sehen,
+      Allein ich muss doch noch vergebens flehen.
+  - num: 3
+    type: Chorale
+    voices: A
+    instruments: Flauto dolce I/II e Oboe da caccia coll' Alto, Violino I/II, Viola, Continuo
+    de: |-
+      Der Gott, der mir hat versprochen
+      Seinen Beistand jederzeit,
+      Der lässt sich vergebens suchen
+      Jetzt in meiner Traurigkeit.
+      Ach! Will er denn für und für
+      Grausam zürnen über mir,
+      Kann und will er sich der Armen
+      Itzt nicht wie vorhin erbarmen?
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Mein Kummer nimmet zu
+      Und raubt mir alle Ruh,
+      Mein Jammerkrug ist ganz mit Tränen angefüllet,
+      Und diese Not wird nicht gestillet,
+      So mich ganz unempfindlich macht.
+      Der Sorgen Kummernacht
+      Drückt mein beklemmtes Herz darnieder,
+      Drum sing ich lauter Jammerlieder.
+      Doch, Seele, nein,
+      Sei nur getrost in deiner Pein:
+      Gott kann den Wermutsaft gar leicht in Freudenwein verkehren
+      Und dir alsdenn viel tausend Lust gewähren.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Violino solo, Flauto dolce I/II, Continuo
+    de: |-
+      Ächzen und erbärmlich Weinen
+      Hilft der Sorgen Krankheit nicht;
+      Aber wer gen Himmel siehet
+      Und sich da um Trost bemühet,
+      Dem kann leicht ein Freudenlicht
+      In der Trauerbrust erscheinen.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Flauto dolce I/II e Oboe e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      So sei nun, Seele, deine
+      Und traue dem alleine,
+      Der dich erschaffen hat;
+      Es gehe, wie es gehe,
+      Dein Vater in der Höhe,
+      Der weiß zu allen Sachen Rat.
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto dolce I/II, Oboe da caccia, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 1
+    A: 2
+    S: 1
+    B: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - recorder
+    - violino_solo
+wiki:
+  summary: "Meine Seufzer, meine Tränen, BWV\_13, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the second Sunday after Epiphany and first performed it on 20 January 1726 as part of his third cantata cycle."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Galante_Poetinnen_0001.png/330px-Galante_Poetinnen_0001.png
+  url: https://en.wikipedia.org/wiki/Meine_Seufzer%2C_meine_Tr%C3%A4nen%2C_BWV_13
+  summary_html: "<p><b><span><i lang=\"de\">Meine Seufzer, meine Tränen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>13</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the second Sunday after Epiphany and first performed it on 20 January 1726 as part of his third cantata cycle.</p>"
+key: E♭ major

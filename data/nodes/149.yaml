@@ -1,0 +1,119 @@
+bwv: '149'
+title: Man singet mit Freuden vom Sieg
+cycle: PICANDER
+occasion: St. Michael's
+date: '1728-09-29'
+url: https://en.wikipedia.org/wiki/BWV_149
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Man singet mit Freuden vom Sieg
+      in den Hütten der Gerechten:
+      Die Rechte des Herrn behält den Sieg,
+      die Rechte des Herrn ist erhöhet,
+      die Rechte des Herrn behält den Sieg!
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Violone, Continuo
+    de: |-
+      Kraft und Stärke sei gesungen
+      Gott, dem Lamme, das bezwungen
+      Und den Satanas verjagt,
+      Der uns Tag und Nacht verklagt.
+      Ehr und Sieg ist auf die Frommen
+      Durch des Lammes Blut gekommen.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ich fürchte mich
+      Vor tausend Feinden nicht,
+      Denn Gottes Engel lagern sich
+      Um meine Seiten her;
+      Wenn alles fällt, wenn alles bricht,
+      So bin ich doch in Ruhe.
+      Wie wär es möglich zu verzagen?
+      Gott schickt mir ferner Roß und Wagen
+      Und ganze Herden Engel zu.
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Gottes Engel weichen nie,
+      Sie sind bei mir allerenden.
+      Wenn ich schlafe, wachen sie,
+      Wenn ich gehe,
+      Wenn ich stehe,
+      Tragen sie mich auf den Händen.
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ich danke dir,
+      Mein lieber Gott, dafür;
+      Dabei verleihe mir,
+      Dass ich mein sündlich Tun bereue,
+      Dass sich mein Engel drüber freue,
+      Damit er mich an meinem Sterbetage
+      In deinen Schoß zum Himmel trage.
+  - num: 6
+    type: Aria
+    voices: ''
+    instruments: Fagotto, Continuo
+    de: |-
+      Seid wachsam, ihr heiligen Wächter,
+      Die Nacht ist schier dahin.
+      Ich sehne mich und ruhe nicht,
+      Bis ich vor dem Angesicht
+      Meines lieben Vaters bin.
+  - num: 7
+    type: Chorale
+    voices: T
+    instruments: >-
+      Tromba I-III, Tamburi, Violino I e Oboe I col Soprano, Violino II e Oboe II/III coll' Alto, Viola col Tenore,
+      Fagotto col Basso, Continuo
+    de: |-
+      Ach Herr, lass dein lieb Engelein
+      Am letzten End die Seele mein
+      In Abrahams Schoß tragen,
+      Den Leib in seim Schlafkämmerlein
+      Gar sanft ohn einge Qual und Pein
+      Ruhn bis am jüngsten Tage!
+      Alsdenn vom Tod erwecke mich,
+      Dass meine Augen sehen dich
+      In aller Freud, o Gottes Sohn,
+      Mein Heiland und Genadenthron!
+      Herr Jesu Christ, erhöre mich, erhöre mich,
+      Ich will dich preisen ewiglich!
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I-III, Fagotto, Violino I/II, Fagotto, Violone, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    B: 1
+    A: 1
+    S: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - timpani
+    - tromba
+    - violone
+key: D major

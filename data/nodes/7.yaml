@@ -1,0 +1,266 @@
+bwv: '7'
+title: Christ unser Herr zum Jordan kam
+cycle: C2
+occasion: St. John's
+date: '1724-06-24'
+url: https://en.wikipedia.org/wiki/BWV_7
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino concertante, Violino I/II, Viola, Continuo
+    de: |-
+      Christ unser Herr zum Jordan kam
+      Nach seines Vaters Willen,
+      Von Sankt Johanns die Taufe nahm,
+      Sein Werk und Amt zu erfüllen;
+      Da wollt er stiften uns ein Bad,
+      Zu waschen uns von Sünden,
+      Ersäufen auch den bittern Tod
+      Durch sein selbst Blut und Wunden;
+      Es galt ein neues Leben.
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Merkt und hört, ihr Menschenkinder,
+      Was Gott selbst die Taufe heißt.
+      Es muss zwar hier Wasser sein,
+      Doch schlecht Wasser nicht allein.
+      Gottes Wort und Gottes Geist
+      Tauft und reiniget die Sünder.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Dies hat Gott klar
+      Mit Worten und mit Bildern dargetan,
+      Am Jordan ließ der Vater offenbar
+      Die Stimme bei der Taufe Christi hören;
+      Er sprach: Dies ist mein lieber Sohn,
+      An diesem hab ich Wohlgefallen,
+      Er ist vom hohen Himmelsthron
+      Der Welt zugut
+      In niedriger Gestalt gekommen
+      Und hat das Fleisch und Blut
+      Der Menschenkinder angenommen;
+      Den nehmet nun als euren Heiland an
+      Und höret seine teuren Lehren!
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violino concertante I/II, Continuo
+    de: |-
+      Des Vaters Stimme ließ sich hören,
+      Der Sohn, der uns mit Blut erkauft,
+      Ward als ein wahrer Mensch getauft.
+      Der Geist erschien im Bild der Tauben,
+      Damit wir ohne Zweifel glauben,
+      Es habe die Dreifaltigkeit
+      Uns selbst die Taufe zubereit'.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Als Jesus dort nach seinen Leiden
+      Und nach dem Auferstehn
+      Aus dieser Welt zum Vater wollte gehn,
+      Sprach er zu seinen Jüngern:
+      Geht hin in alle Welt und lehret alle Heiden,
+      Wer glaubet und getaufet wird auf Erden,
+      Der soll gerecht und selig werden.
+  - num: 6
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore I/II e Violino I all' unisono, Violino II, Viola, Continuo
+    de: |-
+      Menschen, glaubt doch dieser Gnade,
+      Dass ihr nicht in Sünden sterbt,
+      Noch im Höllenpfuhl verderbt!
+      Menschenwerk und -heiligkeit
+      Gilt vor Gott zu keiner Zeit.
+      Sünden sind uns angeboren,
+      Wir sind von Natur verloren;
+      Glaub und Taufe macht sie rein,
+      Dass sie nicht verdammlich sein.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Das Aug allein das Wasser sieht,
+      Wie Menschen Wasser gießen,
+      Der Glaub allein die Kraft versteht
+      Des Blutes Jesu Christi,
+      Und ist für ihm ein rote Flut
+      Von Christi Blut gefärbet,
+      Die allen Schaden heilet gut
+      Von Adam her geerbet,
+      Auch von uns selbst begangen.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe d''amore I/II, Violino concertante I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 2
+    T: 2
+    A: 1
+  instrumentation_families:
+    - oboe_damore
+    - violino_solo
+wiki:
+  summary: "Christ unser Herr zum Jordan kam, BWV\_7, is one of several church cantatas which Johann Sebastian Bach composed\nfor the Feast of St. John the Baptist. He wrote it in Leipzig and led its first performance on 24 June 1724."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jos%C3%A9_de_Ribera_063.jpg/330px-Jos%C3%A9_de_Ribera_063.jpg
+  url: https://en.wikipedia.org/wiki/Christ_unser_Herr_zum_Jordan_kam%2C_BWV_7
+  summary_html: "<p><b><span><i lang=\"de\">Christ unser Herr zum Jordan kam</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>7</b>, is one of several church cantatas which Johann Sebastian Bach composed\nfor the Feast of St. John the Baptist. He wrote it in Leipzig and led its first performance on 24 June 1724.</p>"
+performances:
+  - id: 06PQgj_K8dI
+    title: J.S. Bach - Cantata BWV 7 "Christ unser Herr zum Jordan kam" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2012'
+    duration: '23:33'
+    thumbnail: https://img.youtube.com/vi/06PQgj_K8dI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=06PQgj_K8dI
+  - id: sidLZxl_2EQ
+    title: Bach J.S. Cantata BWV 7
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '22:24'
+    thumbnail: https://img.youtube.com/vi/sidLZxl_2EQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sidLZxl_2EQ
+  - id: CVigm_9XHj0
+    title: Bach - Cantata Die Elenden sollen essen BWV 75 - Kuijken | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Kuijken
+    place: Walloon Church
+    year: '2016'
+    duration: '29:41'
+    thumbnail: https://img.youtube.com/vi/CVigm_9XHj0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CVigm_9XHj0
+  - id: RopDsw3weGQ
+    title: 'J.S Bach - Cantata: Christ unser Herr zum Jordan kam, BWV 7'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '21:21'
+    thumbnail: https://img.youtube.com/vi/RopDsw3weGQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RopDsw3weGQ
+  - id: 4qzhn9kXnZ0
+    title: Johann Sebastian Bach, Kantate BWV 7 "Christ unser Herr zum Jordan kam"
+    channel: Bach Bewegt
+    performer: Bach Bewegt
+    place: Karlshorst
+    year: August 2021
+    duration: '27:30'
+    thumbnail: https://img.youtube.com/vi/4qzhn9kXnZ0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4qzhn9kXnZ0
+  - id: Lqy36hliTnQ
+    title: 'J. S.Bach -  Cantata BWV 7:  Christ unser Herr zum Jordan kam - G. Leonhardt'
+    channel: Miguel Zampedri
+    performer: Leonhardt
+    place: ''
+    year: ''
+    duration: '26:08'
+    thumbnail: https://img.youtube.com/vi/Lqy36hliTnQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Lqy36hliTnQ
+  - id: aLJv2bE5E74
+    title: Bach - Cantate BWV 7 - Christ unser Herr zum Jordan kam
+    channel: MusicArt61
+    performer: Leonhardt
+    place: Gott klar mit Worten
+    year: '1971'
+    duration: '25:54'
+    thumbnail: https://img.youtube.com/vi/aLJv2bE5E74/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=aLJv2bE5E74
+  - id: zqaWVU9A7AI
+    title: Bach - Christ, unser Herr, zum Jordan kam BWV 684 - Smits | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Jordan by St John
+    year: '2013'
+    duration: '4:47'
+    thumbnail: https://img.youtube.com/vi/zqaWVU9A7AI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zqaWVU9A7AI
+  - id: gl5IbBv0BNM
+    title: J.S. Bach, Kantate BWV 7 „Christ unser Herr zum Jordan kam“ | Kay Johannsen
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2013'
+    duration: '22:23'
+    thumbnail: https://img.youtube.com/vi/gl5IbBv0BNM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gl5IbBv0BNM
+  - id: JAlt2NAfaYA
+    title: Bach - Cantata Jesu, der du meine Seele BWV 78 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '24:33'
+    thumbnail: https://img.youtube.com/vi/JAlt2NAfaYA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JAlt2NAfaYA
+  - id: Cz0HMy0BYZw
+    title: 'J. S. Bach - Cantata BWV 7: Christ unser Herr zum Jordan kam - BWV 7 - M. Suzuki'
+    channel: Miguel Zampedri
+    performer: Suzuki
+    place: Blaze
+    year: ''
+    duration: '21:07'
+    thumbnail: https://img.youtube.com/vi/Cz0HMy0BYZw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Cz0HMy0BYZw
+  - id: PXaeE0J4pxg
+    title: J.S. Bach - Cantata BWV 70 "Wachet! betet! betet! wachet!" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2013'
+    duration: '25:57'
+    thumbnail: https://img.youtube.com/vi/PXaeE0J4pxg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PXaeE0J4pxg
+  - id: V8zPoLLoRZg
+    title: Bach - Cantata In allen meinen Taten BWV 97 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Philharmonie Haarlem
+    year: 20 June 2022
+    duration: '26:33'
+    thumbnail: https://img.youtube.com/vi/V8zPoLLoRZg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=V8zPoLLoRZg
+  - id: eBwl1g5Hxqk
+    title: 'J.S. Bach : Cantata BWV 7 ''''Christ unser Herr zum Jordan kam'''''
+    channel: Stefano Sauli
+    performer: Stefano Sauli
+    place: Gott klar mit Worten
+    year: ''
+    duration: '23:12'
+    thumbnail: https://img.youtube.com/vi/eBwl1g5Hxqk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=eBwl1g5Hxqk
+  - id: YBNTVL2rHXM
+    title: Cantata BWV 7 - Christ unser Herr zum Jordan kam
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: Gott klar mit Worten
+    year: ''
+    duration: '26:01'
+    thumbnail: https://img.youtube.com/vi/YBNTVL2rHXM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YBNTVL2rHXM
+key: E minor

@@ -1,0 +1,153 @@
+bwv: '182'
+title: Himmelskönig, sei willkommen
+cycle: EARLY
+occasion: Palm Sun.
+date: '1714-03-25'
+url: https://en.wikipedia.org/wiki/BWV_182
+edges: {}
+movements:
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: Flauto, Violino, Viola I/II, Violoncello, Continuo
+    de: |-
+      Himmelskönig, sei willkommen,
+      Lass auch uns dein Zion sein!
+      Komm herein,
+      Du hast uns das Herz genommen.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Violoncello, Continuo
+    de: |-
+      Siehe, ich komme, im Buch ist von mir geschrieben;
+      deinen Willen, mein Gott, tu ich gerne.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violino, Viola I/II, Continuo
+    de: |-
+      Starkes Lieben,
+      Das dich, großer Gottessohn,
+      Von dem Thron
+      Deiner Herrlichkeit getrieben,
+      Dass du dich zum Heil der Welt
+      Als ein Opfer vorgestellt,
+      Dass du dich mit Blut verschrieben.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Flauto solo, Continuo
+    de: |-
+      Leget euch dem Heiland unter,
+      Herzen, die ihr christlich seid!
+      Tragt ein unbeflecktes Kleid
+      Eures Glaubens ihm entgegen,
+      Leib und Leben und Vermögen
+      Sei dem König itzt geweiht.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Violoncello, Continuo
+    de: |-
+      Jesu, lass durch Wohl und Weh
+      Mich auch mit dir ziehen!
+      Schreit die Welt nur "Kreuzige!",
+      So lass mich nicht fliehen,
+      Herr, von deinem Kreuzpanier;
+      Kron und Palmen find ich hier.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Flauto, Violino, Viola I/II, Violoncello, Continuo
+    de: |-
+      Jesu, deine Passion
+      Ist mir lauter Freude,
+      Deine Wunden, Kron und Hohn
+      Meines Herzens Weide;
+      Meine Seel auf Rosen geht,
+      Wenn ich dran gedenke,
+      In dem Himmel eine Stätt
+      Uns deswegen schenke.
+  - num: 8
+    type: Chorus
+    voices: SATB
+    instruments: Flauto, Violino, Viola I/II, Violoncello, Continuo
+    de: |-
+      So lasset uns gehen in Salem der Freuden,
+      Begleitet den König in Lieben und Leiden.
+      Er gehet voran
+      Und öffnet die Bahn.
+scoring: 'Soli: A T B, Coro: S A T B, Flauto, Violino I/II, Viola I/II, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 3
+    B: 2
+    A: 1
+    T: 1
+  instrumentation_families:
+    - recorder
+    - violoncello
+wiki:
+  summary: "Himmelskönig, sei willkommen, BWV\_182, is a church cantata by Johann Sebastian Bach. He composed it in Weimar for Palm Sunday, and first performed it on 25 March 1714, which was also the feast of the Annunciation that year."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Himmelsk%C3%B6nig%2C_sei_willkommen%2C_BWV_182
+  summary_html: "<p><b><span><i lang=\"de\">Himmelskönig, sei willkommen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>182</b>, is a church cantata by Johann Sebastian Bach. He composed it in Weimar for Palm Sunday, and first performed it on 25 March 1714, which was also the feast of the Annunciation that year.</p>"
+performances:
+  - id: dc8nT_dHCjk
+    title: J. S. Bach - Cantata BWV 182 "Himmelskönig, sei willkommen" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '30:03'
+    thumbnail: https://img.youtube.com/vi/dc8nT_dHCjk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dc8nT_dHCjk
+  - id: DoHgP6G8YBU
+    title: Bach - Cantata Himmelskönig, sei willkommen BWV 182 - Soller | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Weimar
+    year: '2024'
+    duration: '26:46'
+    thumbnail: https://img.youtube.com/vi/DoHgP6G8YBU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DoHgP6G8YBU
+  - id: 0VhGlbMjm8Q
+    title: 'Bach: Sonata from Cantata 182, "Himmelskönig, sei willkommen;" Rachel Podger & Voices of Music'
+    channel: Voices of Music
+    performer: Voices of Music
+    place: Berkeley Early Music Festival
+    year: '2016'
+    duration: '2:49'
+    thumbnail: https://img.youtube.com/vi/0VhGlbMjm8Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0VhGlbMjm8Q
+  - id: s9EFYllYNgA
+    title: J.S. Bach, Kantate BWV 182 „Himmelskönig, sei willkommen“ | Kay Johannsen
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2020'
+    duration: '31:06'
+    thumbnail: https://img.youtube.com/vi/s9EFYllYNgA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=s9EFYllYNgA
+  - id: XhQO8KH6aJA
+    title: BWV 182, 'Himmelskönig, sei willkommen’, Residentie Bach Ensembles olv Jos Vermunt, 24-3-24
+    channel: Stichting Kloosterkerk
+    performer: Stichting Kloosterkerk
+    place: Gott
+    year: '2024'
+    duration: '28:46'
+    thumbnail: https://img.youtube.com/vi/XhQO8KH6aJA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XhQO8KH6aJA
+key: G major

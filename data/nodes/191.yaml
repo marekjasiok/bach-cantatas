@@ -1,0 +1,46 @@
+bwv: '191'
+title: Gloria in excelsis Deo
+cycle: LATE
+occasion: Christmas Day
+date: c. 1745 (Latin)
+url: https://en.wikipedia.org/wiki/BWV_191
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: >-
+      Tromba I-III, Tamburi, Flauto traverso I e Oboe I all' unisono, Flauto traverso II e Oboe II all' unisono, Violino
+      I/II, Viola, Continuo
+    de: |-
+      Gloria in excelsis Deo.
+      Et in terra pax hominibus
+      bonae voluntatis.
+  - num: 3
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Sicut erat in principio et nunc et semper
+      et in saecula saeculorum, amen.
+scoring: 'Soli: S T, Coro: S.I S.II A T B, Tromba I-III, Tamburi, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    T: 2
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - timpani
+    - tromba
+wiki:
+  summary: "Gloria in excelsis Deo, BWV\_191, is a church cantata written by the German Baroque composer Johann Sebastian Bach, and the only one of his church cantatas set to a Latin text. He composed the Christmas cantata in Leipzig probably in 1742, for a celebration by the university of Leipzig. The composition's three movements all derive from the Gloria of Bach's 1733 Kyrie–Gloria Mass, which the composer would later use as the Gloria of his Mass in B\_minor."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Paulinerkirche_Leipzig_%281749%29_Foto_H.-P._Haack_%28berarb.%29.jpg/330px-Paulinerkirche_Leipzig_%281749%29_Foto_H.-P._Haack_%28berarb.%29.jpg
+  url: https://en.wikipedia.org/wiki/Gloria_in_excelsis_Deo%2C_BWV_191
+  summary_html: "<p><b><span><i lang=\"la\">Gloria in excelsis Deo</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>191</b>, is a church cantata written by the German Baroque composer Johann Sebastian Bach, and the only one of his church cantatas set to a Latin text. He composed the Christmas cantata in Leipzig probably in 1742, for a celebration by the university of Leipzig. The composition's three movements all derive from the Gloria of Bach's 1733 Kyrie–Gloria Mass, which the composer would later use as the Gloria of his Mass in B\_minor.</p>"
+key: B minor

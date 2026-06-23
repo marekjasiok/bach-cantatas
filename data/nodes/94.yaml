@@ -1,0 +1,185 @@
+bwv: '94'
+title: Was frag ich nach der Welt
+cycle: C2
+occasion: Trinity IX
+date: '1724-08-06'
+url: https://en.wikipedia.org/wiki/BWV_94
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Was frag ich nach der Welt
+      Und allen ihren Schätzen
+      Wenn ich mich nur an dir,
+      Mein Jesu, kann ergötzen!
+      Dich hab ich einzig mir
+      Zur Wollust fürgestellt,
+      Du, du bist meine Ruh:
+      Was frag ich nach der Welt!
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Die Welt ist wie ein Rauch und Schatten
+      Der bald verschwindet und vergeht,
+      Weil sie nur kurze Zeit besteht.
+      Wenn aber alles fällt und bricht,
+      Bleibt Jesus meine Zuversicht,
+      An dem sich meine Seele hält.
+      Darum: was frag ich nach der Welt!
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Die Welt sucht Ehr und Ruhm
+      Bei hocherhabnen Leuten.
+      Ein Stolzer baut die prächtigsten Paläste,
+      Er sucht das höchste Ehrenamt,
+      Er kleidet sich aufs beste
+      In Purpur, Gold, in Silber, Seid und Samt.
+      Sein Name soll für allen
+      In jedem Teil der Welt erschallen.
+      Sein Hochmuts-Turm
+      Soll durch die Luft bis an die Wolken dringen,
+      Er trachtet nur nach hohen Dingen
+      Und denkt nicht einmal dran,
+      Wie bald doch diese gleiten.
+      Oft bläset eine schale Luft
+      Den stolzen Leib auf einmal in die Gruft,
+      Und da verschwindet alle Pracht,
+      Wormit der arme Erdenwurm
+      Hier in der Welt so grossen Staat gemacht.
+      Acht! solcher eitler Tand
+      Wird weit von mir aus meiner Brust verbannt.
+      Dies aber, was mein Herz
+      Vor anderm rühmlich hält,
+      Was Christen wahren Ruhm und rechte Ehre gibet,
+      Und was mein Geist,
+      Der sich der Eitelkeit entreißt,
+      Anstatt der Pracht und Hoffart liebet,
+      Ist Jesus nur allein,
+      Und dieser solls auch ewig sein.
+      Gesetzt, dass mich die Welt
+      Darum vor töricht hält:
+      Was frag ich nach der Welt!
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Flauto traverso, Continuo
+    de: |-
+      Betörte Welt, betörte Welt!
+      Auch dein Reichtum, Gut und Geld
+      Ist Betrug und falscher Schein.
+      Du magst den eitlen Mammon zählen,
+      Ich will davor mir Jesum wählen;
+      Jesus, Jesus soll allein
+      Meiner Seele Reichtum sein.
+      Betörte Welt, betörte Welt!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Die Welt bekümmert sich.
+      Was muss doch wohl der Kummer sein?
+      O Torheit! dieses macht ihr Pein:
+      Im Fall sie wird verachtet.
+      Welt, schäme dich!
+      Gott hat dich ja so sehr geliebet,
+      Dass er sein eingebornes Kind
+      Vor deine Sünd
+      Zur größten Schmach um dein Ehre gibet,
+      Und du willst nicht um Jesu willen leiden?
+      Die Traurigkeit der Welt ist niemals größer,
+      Als wenn man ihr mit List
+      Nach ihren Ehren trachtet.
+      Es ist ja besser,
+      Ich trage Christi Schmach,
+      Solang es ihm gefällt.
+      Es ist ja nur ein Leiden dieser Zeit,
+      Ich weiß gewiss, dass mich die Ewigkeit
+      Dafür mit Preis und Ehren krönet;
+      Ob mich die Welt
+      Verspottet und verhöhnet,
+      Ob sie mich gleich verächtlich hält,
+      Wenn mich mein Jesus ehrt:
+      Was frag ich nach der Welt!
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Die Welt kann ihre Lust und Freud,
+      Das Blendwerk schnöder Eitelkeit,
+      Nicht hoch genug erhöhen.
+      Sie wühlt, nur gelben Kot zu finden,
+      Gleich einem Maulwurf in den Gründen
+      Und lässt dafür den Himmel stehen.
+  - num: 7
+    type: Aria
+    voices: S
+    instruments: Oboe d'amore solo, Continuo
+    de: |-
+      Er halt es mit der blinden Welt,
+      Wer nichts auf seine Seele hält,
+      Mir ekelt vor der Erden.
+      Ich will nur meinen Jesum lieben
+      Und mich in Buß und Glauben üben,
+      So kann ich reich und selig werden.
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso in octava e Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Was frag ich nach der Welt!
+      Im Hui muss sie verschwinden,
+      Ihr Ansehn kann durchaus
+      Den blassen Tod nicht binden.
+      Die Güter müssen fort,
+      Und alle Lust verfällt;
+      Bleibt Jesus nur bei mir:
+      Was frag ich nach der Welt!
+      Was frag ich nach der Welt!
+      Mein Jesus ist mein Leben,
+      Mein Schatz, mein Eigentum,
+      Dem ich mich ganz ergeben,
+      Mein ganzes Himmelreich,
+      Und was mir sonst gefällt.
+      Drum sag ich noch einmal:
+      Was frag ich nach der Welt!
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto traverso, Oboe I/II, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 4
+    B: 1
+    A: 1
+    T: 1
+    S: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+key: D major
+wiki:
+  summary: "Was frag ich nach der Welt, BWV\_94 is one of many church cantatas composed by Johann Sebastian Bach. \nHe composed it in Leipzig, setting a text appropriate for the Ninth Sunday after Trinity Sunday, and first performed it on 6 August 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Was_frag_ich_nach_der_Welt%2C_BWV_94
+  summary_html: "<p><b><span><i lang=\"de\">Was frag ich nach der Welt</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>94</b> is one of many church cantatas composed by Johann Sebastian Bach. \nHe composed it in Leipzig, setting a text appropriate for the Ninth Sunday after Trinity Sunday, and first performed it on 6 August 1724.</p>"

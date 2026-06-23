@@ -1,0 +1,127 @@
+bwv: '114'
+title: Ach, lieben Christen, seid getrost
+cycle: C2
+occasion: Trinity XVII
+date: '1724-10-01'
+url: https://en.wikipedia.org/wiki/BWV_114
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Corno col Soprano, Continuo
+    de: |-
+      Ach, lieben Christen, seid getrost,
+      Wie tut ihr so verzagen!
+      Weil uns der Herr heimsuchen tut,
+      Lasst uns von Herzen sagen:
+      Die Straf wir wohl verdienet han,
+      Solchs muss bekennen jedermann,
+      Niemand darf sich ausschließen.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Flauto traverso solo, Continuo
+    de: |-
+      Wo wird in diesem Jammertale
+      Vor meinen Geist die Zuflucht sein?
+      Allein zu Jesu Vaterhänden
+      Will ich mich in der Schwachheit wenden;
+      Sonst weiß ich weder aus noch ein.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      O Sünder, trage mit Geduld,
+      Was du durch deine Schuld
+      Dir selber zugezogen!
+      Das Unrecht säufst du ja
+      Wie Wasser in dich ein,
+      Und diese Sündenwassersucht
+      Ist zum Verderben da
+      Und wird dir tödlich sein.
+      Der Hochmut aß vordem von der verbotnen Frucht,
+      Gott gleich zu werden;
+      Wie oft erhebst du dich mit schwülstigen Gebärden,
+      Dass du erniedrigt werden musst.
+      Wohlan, bereite deine Brust,
+      Dass sie den Tod und Grab nicht scheut,
+      So kämmst du durch ein selig Sterben
+      Aus diesem sündlichen Verderben
+      Zur Unschuld und zur Herrlichkeit.
+  - num: 4
+    type: Chorale
+    voices: S
+    instruments: Continuo
+    de: |-
+      Kein Frucht das Weizenkörnlein bringt,
+      Es fall denn in die Erden;
+      So muss auch unser irdscher Leib
+      Zu Staub und Aschen werden,
+      Eh er kömmt zu der Herrlichkeit,
+      Die du, Herr Christ, uns hast bereit'
+      Durch deinen Gang zum Vater.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Oboe I, Violino I/II, Viola, Continuo
+    de: |-
+      Du machst, o Tod, mir nun nicht ferner bange,
+      Wenn ich durch dich die Freiheit nur erlange,
+      Es muss ja so einmal gestorben sein.
+      Mit Simeon will ich in Friede fahren,
+      Mein Heiland will mich in der Gruft bewahren
+      Und ruft mich einst zu sich verklärt und rein.
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Indes bedenke deine Seele
+      Und stelle sie dem Heiland dar;
+      Gib deinen Leib und deine Glieder
+      Gott, der sie dir gegeben, wieder.
+      Er sorgt und wacht,
+      Und so wird seiner Liebe Macht
+      Im Tod und Leben offenbar.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Corno e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Wir wachen oder schlafen ein,
+      So sind wir doch des Herren;
+      Auf Christum wir getaufet sein,
+      Der kann dem Satan wehren.
+      Durch Adam auf uns kömmt der Tod,
+      Christus hilft uns aus aller Not.
+      Drum loben wir den Herren.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Flauto traverso solo, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 2
+    B: 1
+    S: 1
+    A: 1
+  instrumentation_families:
+    - corno
+    - flauto_traverso
+    - oboe
+key: G minor
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ach, lieben Christen, seid getrost, BWV\_114, in Leipzig for the 17th Sunday after Trinity and first performed it on 1 October 1724. It is based on a 1561 hymn of penitence by Johannes Gigas. Its tune is featured in three of the work's seven movements."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johannes-Gigas.jpg/330px-Johannes-Gigas.jpg
+  url: https://en.wikipedia.org/wiki/Ach%2C_lieben_Christen%2C_seid_getrost%2C_BWV_114
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ach, lieben Christen, seid getrost</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>114</b>, in Leipzig for the 17th Sunday after Trinity and first performed it on 1 October 1724. It is based on a 1561 hymn of penitence by Johannes Gigas. Its tune is featured in three of the work's seven movements.</p>"

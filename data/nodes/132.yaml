@@ -1,0 +1,126 @@
+bwv: '132'
+title: Bereitet die Wege, bereitet die Bahn!
+cycle: EARLY
+occasion: Advent IV
+date: '1715-12-22'
+url: https://en.wikipedia.org/wiki/BWV_132
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Bereitet die Wege, bereitet die Bahn!
+      Bereitet die Wege
+      Und machet die Stege
+      Im Glauben und Leben
+      Dem Höchsten ganz eben,
+      Messias kömmt an!
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Willst du dich Gottes Kind und Christi Bruder nennen,
+      So müssen Herz und Mund den Heiland frei bekennen.
+      Ja, Mensch, dein ganzes Leben
+      Muss von dem Glauben Zeugnis geben!
+      Soll Christi Wort und Lehre
+      Auch durch dein Blut versiegelt sein,
+      So gib dich willig drein!
+      Denn dieses ist der Christen Kron und Ehre.
+      Indes, mein Herz, bereite
+      Noch heute
+      Dem Herrn die Glaubensbahn
+      Und räume weg die Hügel und die Höhen,
+      Die ihm entgegen stehen!
+      Wälz ab die schweren Sündensteine,
+      Nimm deinen Heiland an,
+      Dass er mit dir im Glauben sich vereine!
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Violoncello, Continuo
+    de: |-
+      Wer bist du? Frage dein Gewissen,
+      Da wirst du sonder Heuchelei,
+      Ob du, o Mensch, falsch oder treu,
+      Dein rechtes Urteil hören müssen.
+      Wer bist du? Frage das Gesetze,
+      Das wird dir sagen, wer du bist,
+      Ein Kind des Zorns in Satans Netze,
+      Ein falsch und heuchlerischer Christ.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ich will, mein Gott, dir frei heraus bekennen,
+      Ich habe dich bisher nicht recht bekannt.
+      Ob Mund und Lippen gleich dich Herrn und Vater nennen,
+      Hat sich mein Herz doch von dir abgewandt.
+      Ich habe dich verleugnet mit dem Leben!
+      Wie kannst du mir ein gutes Zeugnis geben?
+      Als, Jesu, mich dein Geist und Wasserbad
+      Gereiniget von meiner Missetat,
+      Hab ich dir zwar stets feste Treu versprochen;
+      Ach! aber ach! der Taufbund ist gebrochen.
+      Die Untreu reuet mich!
+      Ach Gott, erbarme dich,
+      Ach hilf, dass ich mit unverwandter Treue
+      Den Gnadenbund im Glauben stets erneue!
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Violino solo, Continuo
+    de: |-
+      Christi Glieder, ach bedenket,
+      Was der Heiland euch geschenket
+      Durch der Taufe reines Bad!
+      Bei der Blut- und Wasserquelle
+      Werden eure Kleider helle,
+      Die befleckt von Missetat.
+      Christus gab zum neuen Kleide
+      Roten Purpur, weiße Seide,
+      Diese sind der Christen Staat.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Ertöt uns durch deine Güte;
+      Erweck uns durch deine Gnad;
+      Den alten Menschen kränke,
+      Dass der neu' leben mag
+      Wohl hie auf dieser Erden,
+      Den Sinn und Begehrden
+      Und G'danken habn zu dir.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe, Violino I/II, Viola, Violoncello, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    S: 1
+    T: 1
+    B: 1
+    A: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - violino_solo
+    - violoncello
+key: A major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Bereitet die Wege, bereitet die Bahn, BWV\_132, in Weimar in 1715 for the fourth Sunday of Advent and led the first performance on 22 December 1715."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Bereitet_die_Wege%2C_bereitet_die_Bahn%2C_BWV_132
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <i><b><span><i lang=\"de\">Bereitet die Wege, bereitet die Bahn</i></span></b></i>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>132</b>, in Weimar in 1715 for the fourth Sunday of Advent and led the first performance on 22 December 1715.</p>"

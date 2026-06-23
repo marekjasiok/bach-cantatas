@@ -1,0 +1,193 @@
+bwv: '101'
+title: Nimm von uns, Herr, du treuer Gott
+cycle: C2
+occasion: Trinity X
+date: '1724-08-13'
+url: https://en.wikipedia.org/wiki/BWV_101
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Corno col Soprano, Tromba I coll' Alto, Tromba II col Tenore, Tromba III col Basso, Flauto traverso o Violino
+      solo, Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Nimm von uns Herr, du treuer Gott,
+      Die schwere Straf und große Not,
+      Die wir mit Sünden ohne Zahl
+      Verdienet haben allzumal.
+      Behüt für Krieg und teurer Zeit,
+      Für Seuchen, Feur und großem Leid.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Flauto traverso o Violino solo, Continuo
+    de: |-
+      Handle nicht nach deinen Rechten
+      Mit uns bösen Sündenknechten,
+      Lass das Schwert der Feinde ruhn!
+      Höchster, höre unser Flehen,
+      Dass wir nicht durch sündlich Tun
+      Wie Jerusalem vergehen!
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Ach! Herr Gott, durch die Treue dein
+      Wird unser Land in Frieden und Ruhe sein.
+      Wenn uns ein Unglückswetter droht,
+      So rufen wir,
+      Barmherziger Gott, zu dir
+      In solcher Not:
+      Mit Trost und Rettung uns erschein!
+      Du kannst dem feindlichen Zerstören
+      Durch deine Macht und Hilfe wehren.
+      Beweis an uns deine große Gnad
+      Und straf uns nicht auf frischer Tat,
+      Wenn unsre Füsse wanken wollten
+      Und wir aus Schwachheit straucheln sollten.
+      Wohn uns mit deiner Güte bei
+      Und gib, dass wir
+      Nur nach dem Guten streben,
+      Damit allhier
+      Und auch in jenem Leben
+      Dein Zorn und Grimm fern von uns sei.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Taille, Continuo
+    de: |-
+      Warum willst du so zornig sein?
+      Es schlagen deines Eifers Flammen
+      Schon über unserm Haupt zusammen.
+      Ach, stelle doch die Strafen ein
+      Und trag aus väterlicher Huld
+      Mit unserm schwachen Fleisch Geduld!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Die Sünd hat uns verderbet sehr.
+      So müssen auch die Frömmsten sagen
+      Und mit betränten Augen klagen:
+      Der Teufel plagt uns noch viel mehr.
+      Ja, dieser böse Geist,
+      Der schon von Anbeginn ein Mörder heißt,
+      Sucht uns um unser Heil zu bringen
+      Und als ein Löwe zu verschlingen.
+      Die Welt, auch unser Fleisch und Blut
+      Uns allezeit verführen tut.
+      Wir treffen hier auf dieser schmalen Bahn
+      Sehr viel Hindernis im Guten an.
+      Solch Elend kennst du, Herr, allein:
+      Hilf, Helfer, hilf uns Schwachen,
+      Du kannst uns stärker machen!
+      Ach, lass uns dir befohlen sein.
+  - num: 6
+    type: Aria
+    voices: ''
+    instruments: Flauto traverso o Violino solo, Oboe da caccia, Continuo
+    de: |-
+      Gedenk an Jesu bittern Tod!
+      Nimm, Vater, deines Sohnes Schmerzen
+      Und seiner Wunden Pein zu Herzen,
+      Die sind ja für die ganze Welt
+      Die Zahlung und das Lösegeld;
+      Erzeig auch mir zu aller Zeit,
+      Barmherzger Gott, Barmherzigkeit!
+      Ich seufze stets in meiner Not:
+      Gedenk an Jesu bittern Tod!
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso in octava e Corno e Oboe I e Violino I col Soprano, Oboe II e Tromba I e Violino II coll' Alto,
+      Taille e Tromba II e Viola col Tenore, Tromba III col Basso, Continuo
+    de: |-
+      Leit uns mit deiner rechten Hand
+      Und segne unser Stadt und Land;
+      Gib uns allzeit dein heilges Wort,
+      Behüt für's Teufels List und Mord;
+      Verleih ein selges Stündelein,
+      Auf dass wir ewig bei dir sein.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Corno, Tromba I-III, Oboe I/II, Oboe da caccia (Taille), Flauto traverso o Violino solo,
+  Violino I/II, Viola, Continuo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 4
+    T: 1
+    B: 1
+  instrumentation_families:
+    - corno
+    - flauto_traverso
+    - oboe
+    - oboe_da_caccia
+    - tromba
+    - violino_solo
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Nimm von uns, Herr, du treuer Gott, BWV\_101, in Leipzig for the tenth Sunday after Trinity and first performed it on 13 August 1724. It is based on the seven stanzas of the hymn of the same name by Martin Moller (1584), which is sung to the tune of \"Vater unser im Himmelreich\", Luther's metred paraphrase of the Lord's Prayer. The tune is featured prominently in six of the work's seven movements."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Valentin_de_Boulogne%2C_Christ_Driving_the_Money_Changers_out_of_the_Temple.jpg/330px-Valentin_de_Boulogne%2C_Christ_Driving_the_Money_Changers_out_of_the_Temple.jpg
+  url: https://en.wikipedia.org/wiki/Nimm_von_uns%2C_Herr%2C_du_treuer_Gott%2C_BWV_101
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Nimm von uns, Herr, du treuer Gott</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>101</b>, in Leipzig for the tenth Sunday after Trinity and first performed it on 13 August 1724. It is based on the seven stanzas of the hymn of the same name by Martin Moller (1584), which is sung to the tune of \"Vater unser im Himmelreich\", Luther's metred paraphrase of the Lord's Prayer. The tune is featured prominently in six of the work's seven movements.</p>"
+performances:
+  - id: S67N9W3wP6I
+    title: J.S. Bach - Cantata BWV 101 "Nimm von uns, Herr, du treuer Gott" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: '2022'
+    duration: '30:05'
+    thumbnail: https://img.youtube.com/vi/S67N9W3wP6I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=S67N9W3wP6I
+  - id: EwKZMXIDtuA
+    title: Bach - BWV 101, Cantata "Nimm von uns, Herr, du treuer Gott"
+    channel: vanille_chose
+    performer: Masaaki
+    place: ''
+    year: ''
+    duration: '26:25'
+    thumbnail: https://img.youtube.com/vi/EwKZMXIDtuA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=EwKZMXIDtuA
+  - id: oog46OyFOSE
+    title: Bach - Cantate BWV 101 - Nimm von uns, Herr, du treuer Gott
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leipzig
+    year: '1978'
+    duration: '24:04'
+    thumbnail: https://img.youtube.com/vi/oog46OyFOSE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=oog46OyFOSE
+  - id: MRQdwWA2c3w
+    title: 'J. S. Bach:  Nimm von uns, Herr, du treuer Gott (BWV 101) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '28:31'
+    thumbnail: https://img.youtube.com/vi/MRQdwWA2c3w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MRQdwWA2c3w
+  - id: JG6-0sTK050
+    title: BCA118 BWV101 Cantata for 10th Sunday after Trinity Herreweghe 2016
+    channel: Johann Sebastian
+    performer: Herreweghe
+    place: ''
+    year: '2016'
+    duration: '26:40'
+    thumbnail: https://img.youtube.com/vi/JG6-0sTK050/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JG6-0sTK050
+key: D minor

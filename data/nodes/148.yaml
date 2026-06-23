@@ -1,0 +1,115 @@
+bwv: '148'
+title: Bringet dem Herrn Ehre seines Namens
+cycle: C1
+occasion: Trinity XVII
+date: '1723-09-19'
+url: https://en.wikipedia.org/wiki/BWV_148
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Bringet dem Herrn Ehre seines Namens,
+      betet an den Herrn im heiligen Schmuck.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Violino solo, Continuo
+    de: |-
+      Ich eile, die Lehren
+      Des Lebens zu hören
+      Und suche mit Freuden das heilige Haus.
+      Wie rufen so schöne
+      Das frohe Getöne
+      Zum Lobe des Höchsten die Seligen aus!
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      So wie der Hirsch nach frischem Wasser schreit,
+      So schrei ich, Gott, zu dir.
+      Denn alle meine Ruh
+      Ist niemand außer du.
+      Wie heilig und wie teuer
+      Ist, Höchster, deine Sabbatsfeier!
+      Da preis ich deine Macht
+      In der Gemeine der Gerechten.
+      O! wenn die Kinder dieser Nacht
+      Die Lieblichkeit bedächten,
+      Denn Gott wohnt selbst in mir.
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Oboe I-III, Continuo
+    de: |-
+      Mund und Herze steht dir offen,
+      Höchster, senke dich hinein!
+      Ich in dich, und du in mich;
+      Glaube, Liebe, Dulden, Hoffen
+      Soll mein Ruhebette sein.
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Bleib auch, mein Gott, in mir
+      Und gib mir deinen Geist,
+      Der mich nach deinem Wort regiere,
+      Dass ich so einen Wandel führe,
+      Der dir gefällig heißt,
+      Damit ich nach der Zeit
+      In deiner Herrlichkeit,
+      Mein lieber Gott, mit dir
+      Den großen Sabbat möge halten.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Version 1
+      Führ, Herr, mein Herz und Sinn
+      durch deinen Geist dahin,
+      daß ich mög alles meiden,
+      was mich und dich kann scheiden,
+      und ich an deinem Leibe
+      ein Gliedmaß ewig bleibe.
+      Version 2
+      Amen zu aller Stund
+      Sprech ich aus Herzensgrund;
+      Du wolltest uns tun leiten,
+      Herr Christ, zu allen Zeiten,
+      Auf dass wir deinen Namen
+      Ewiglich preisen. Amen.
+scoring: 'Soli: A T, Coro: S A T B, Tromba, Oboe I-III, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    A: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - tromba
+    - violino_solo
+wiki:
+  summary: >-
+    Bringet dem Herrn Ehre seines Namens, BWV 148, is a cantata by Johann Sebastian Bach, a church cantata for the 17th
+    Sunday after Trinity. Bach composed it in Leipzig in 1723 or 1725.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Bringet_dem_Herrn_Ehre_seines_Namens%2C_BWV_148
+  summary_html: >-
+    <p><b><span><i lang="de">Bringet dem Herrn Ehre seines Namens</i></span></b>, <b><abbr>BWV</abbr> 148</b>, is a
+    cantata by Johann Sebastian Bach, a church cantata for the 17th Sunday after Trinity. Bach composed it in Leipzig in
+    1723 or 1725.</p>
+key: D major

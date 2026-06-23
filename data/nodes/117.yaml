@@ -1,0 +1,146 @@
+bwv: '117'
+title: Sei Lob und Ehr dem höchsten Gut
+cycle: LATE
+occasion: Unknown
+date: c. 1728–1731
+url: https://en.wikipedia.org/wiki/BWV_117
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Sei Lob und Ehr dem höchsten Gut,
+      Dem Vater aller Güte,
+      Dem Gott, der alle Wunder tut,
+      Dem Gott, der mein Gemüte
+      Mit seinem reichen Trost erfüllt,
+      Dem Gott, der allen Jammer stillt.
+      Gebt unserm Gott die Ehre!
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Es danken dir die Himmelsheer,
+      O Herrscher aller Thronen,
+      Und die auf Erden, Luft und Meer
+      In deinem Schatten wohnen,
+      Die preisen deine Schöpfermacht,
+      Die alles also wohl bedacht.
+      Gebt unserm Gott die Ehre!
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Was unser Gott geschaffen hat,
+      Das will er auch erhalten;
+      Darüber will er früh und spat
+      Mit seiner Gnade walten.
+      In seinem ganzen Königreich
+      Ist alles recht und alles gleich.
+      Gebt unserm Gott die Ehre!
+  - num: 4
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Ich rief dem Herrn in meiner Not:
+      Ach Gott, vernimm mein Schreien!
+      Da half mein Helfer mir vom Tod
+      Und ließ mir Trost gedeihen.
+      Drum dank, ach Gott, drum dank ich dir;
+      Ach danket, danket Gott mit mir!
+      Gebt unserm Gott die Ehre!
+  - num: 5
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Der Herr ist noch und nimmer nicht
+      Von seinem Volk geschieden,
+      Er bleibet ihre Zuversicht,
+      Ihr Segen, Heil und Frieden;
+      Mit Mutterhänden leitet er
+      Die Seinen stetig hin und her.
+      Gebt unserm Gott die Ehre!
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Violino solo, Continuo
+    de: |-
+      Wenn Trost und Hülf ermangeln muss,
+      Die alle Welt erzeiget,
+      So kommt, so hilft der Überfluss,
+      Der Schöpfer selbst, und neiget
+      Die Vateraugen denen zu,
+      Die sonsten nirgend finden Ruh.
+      Gebt unserm Gott die Ehre!
+  - num: 7
+    type: Aria
+    voices: A
+    instruments: Flauto traverso I, Violino I/II, Viola, Continuo
+    de: |-
+      Ich will dich all mein Leben lang,
+      O Gott, von nun an ehren;
+      Man soll, o Gott, den Lobgesang
+      An allen Orten hören.
+      Mein ganzes Herz ermuntre sich,
+      Mein Geist und Leib erfreue sich.
+      Gebt unserm Gott die Ehre!
+  - num: 8
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ihr, die ihr Christi Namen nennt,
+      Gebt unserm Gott die Ehre!
+      Ihr, die ihr Gottes Macht bekennt,
+      Gebt unserm Gott die Ehre!
+      Die falschen Götzen macht zu Spott,
+      Der Herr ist Gott, der Herr ist Gott:
+      Gebt unserm Gott die Ehre!
+  - num: 9
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      So kommet vor sein Angesicht
+      Mit jauchzenvollem Springen;
+      Bezahlet die gelobte Pflicht
+      Und lasst uns fröhlich singen:
+      Gott hat es alles wohl bedacht
+      Und alles, alles recht gemacht.
+      Gebt unserm Gott die Ehre!
+scoring: 'Soli: A T B, Coro: S A T B, Flauto traverso I/II, Oboe I/II, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 3
+    B: 2
+    T: 2
+    A: 2
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+    - violino_solo
+key: A major
+wiki:
+  summary: "Sei Lob und Ehr dem höchsten Gut, BWV\_117, is a church cantata by Johann Sebastian Bach. He composed the chorale cantata in Leipzig between 1728 and 1731 for no specific occasion, based on the hymn by Johann Jacob Schütz."
+  image: null
+  url: https://en.wikipedia.org/wiki/Sei_Lob_und_Ehr_dem_h%C3%B6chsten_Gut%2C_BWV_117
+  summary_html: "<p><i><b><span><i lang=\"de\">Sei Lob und Ehr dem höchsten Gut</i></span></b></i>, <b>BWV\_117</b>, is a church cantata by Johann Sebastian Bach. He composed the chorale cantata in Leipzig between 1728 and 1731 for no specific occasion, based on the hymn by Johann Jacob Schütz.</p>"

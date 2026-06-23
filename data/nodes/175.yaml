@@ -1,0 +1,249 @@
+bwv: '175'
+title: Er rufet seinen Schafen mit Namen
+cycle: C2
+occasion: Pentecost 3
+date: '1725-05-22'
+url: https://en.wikipedia.org/wiki/BWV_175
+edges: {}
+movements:
+  - num: 1
+    type: Recitative
+    voices: T
+    instruments: Flauto dolce I-III, Continuo
+    de: Er rufet seinen Schafen mit Namen und führet sie hinaus.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Flauto dolce I-III, Continuo
+    de: |-
+      Komm, leite mich,
+      Es sehnet sich
+      Mein Geist auf grüner Weide!
+      Mein Herze schmacht,
+      Ächzt Tag und Nacht,
+      Mein Hirte, meine Freude.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wo find ich dich?
+      Ach, wo bist du verborgen?
+      O! Zeige dich mir bald!
+      Ich sehne mich.
+      Brich an, erwünschter Morgen!
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violoncello piccolo solo, Continuo
+    de: |-
+      Es dünket mich, ich seh dich kommen,
+      Du gehst zur rechten Türe ein.
+      Du wirst im Glauben aufgenommen
+      Und musst der wahre Hirte sein.
+      Ich kenne deine holde Stimme,
+      Die voller Lieb und Sanftmut ist,
+      Dass ich im Geist darob ergrimme,
+      Wer zweifelt, dass du Heiland seist.
+  - num: 5
+    type: Recitative
+    voices: A, B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Alt
+      Sie vernahmen aber nicht, was es war, das er zu ihnen gesaget hatte.
+      Bass
+      Ach ja! Wir Menschen sind oftmals den Tauben zu vergleichen:
+      Wenn die verblendete Vernunft nicht weiß, was er gesaget hatte.
+      O! Törin, merke doch, wenn Jesus mit dir spricht,
+      Dass es zu deinem Heil geschicht.
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Tromba I/II, Continuo
+    de: |-
+      Öffnet euch, ihr beiden Ohren,
+      Jesus hat euch zugeschworen,
+      Dass er Teufel, Tod erlegt.
+      Gnade, Gnüge, volles Leben
+      Will er allen Christen geben,
+      Wer ihm folgt, sein Kreuz nachträgt.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Flauto dolce I-III, Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Nun, werter Geist, ich folg dir;
+      Hilf, dass ich suche für und für
+      Nach deinem Wort ein ander Leben,
+      Das du mir willt aus Gnaden geben.
+      Dein Wort ist ja der Morgenstern,
+      Der herrlich leuchtet nah und fern.
+      Drum will ich, die mich anders lehren,
+      In Ewigkeit, mein Gott, nicht hören.
+      Alleluja, alleluja!
+scoring: 'Soli: A T B, Coro: S A T B, Tromba I/II, Flauto dolce I-III, Violino I/II, Viola, Violoncello piccolo solo, Continuo'
+features:
+  structure:
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Recitative
+  closing: Chorale
+  voice_profile:
+    T: 3
+    A: 1
+    A, B: 1
+    B: 1
+    SATB: 1
+  instrumentation_families:
+    - recorder
+    - tromba
+    - violoncello_piccolo
+key: D minor
+wiki:
+  summary: "Er rufet seinen Schafen mit Namen, BWV\_175, is a church cantata by Johann Sebastian Bach. He composed the cantata in Leipzig for the third day of Pentecost and first performed it on 22 May 1725."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Christiana_Mariana_von_Ziegler.jpg/330px-Christiana_Mariana_von_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Er_rufet_seinen_Schafen_mit_Namen%2C_BWV_175
+  summary_html: "<p><b><span><i lang=\"de\">Er rufet seinen Schafen mit Namen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>175</b>, is a church cantata by Johann Sebastian Bach. He composed the cantata in Leipzig for the third day of Pentecost and first performed it on 22 May 1725.</p>"
+performances:
+  - id: dRShIu9Mc10
+    title: J.S. Bach - Cantata BWV 175 "Er rufet seinen Schafen mit Namen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '18:28'
+    thumbnail: https://img.youtube.com/vi/dRShIu9Mc10/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dRShIu9Mc10
+  - id: aJedNQgHBfw
+    title: JS Bach Cantata Er rufet seinen Schafen mit Namen, BWV 175, Karl Richter
+    channel: HarpsichordA6
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '17:25'
+    thumbnail: https://img.youtube.com/vi/aJedNQgHBfw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=aJedNQgHBfw
+  - id: HjMyVX3e8MQ
+    title: 'J.S. Bach: Er rufet seinen Schafen mit Namen, BWV 175 {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Trost und Ruh
+    year: ''
+    duration: '14:26'
+    thumbnail: https://img.youtube.com/vi/HjMyVX3e8MQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HjMyVX3e8MQ
+  - id: ufC-sxl2PDg
+    title: Bach - Cantate BWV 175 - Es rufet seinen Schafen mit Namen
+    channel: MusicArt61
+    performer: Herreweghe
+    place: Leipzig
+    year: '1988'
+    duration: '16:58'
+    thumbnail: https://img.youtube.com/vi/ufC-sxl2PDg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ufC-sxl2PDg
+  - id: VRZoA3e5Ej8
+    title: 'Bach: "Er rufet seinen Schafen mit Namen", cantata BWV 175. Gardiner'
+    channel: Muzikay
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '15:51'
+    thumbnail: https://img.youtube.com/vi/VRZoA3e5Ej8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=VRZoA3e5Ej8
+  - id: XtTX7LWZys8
+    title: BWV 175 Wunderlich 1961
+    channel: Max Buskirk
+    performer: Max Buskirk
+    place: Hamburg
+    year: '1961'
+    duration: '17:11'
+    thumbnail: https://img.youtube.com/vi/XtTX7LWZys8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=XtTX7LWZys8
+  - id: GidGPbWjasA
+    title: 'J.S. Bach, Kantate BWV 175: 1 Recit. & 2 Aria „Komm, leite mich“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2018'
+    duration: '5:02'
+    thumbnail: https://img.youtube.com/vi/GidGPbWjasA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GidGPbWjasA
+  - id: y8zOnjH5RZY
+    title: J.S. Bach - Cantata BWV 85 "Ich bin ein guter Hirt" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '19:46'
+    thumbnail: https://img.youtube.com/vi/y8zOnjH5RZY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=y8zOnjH5RZY
+  - id: '-ZKVaXbUtrU'
+    title: 'Bach explained: Workshop on cantata BWV 175 "Er rufet seinen Schafen" (J. S. Bach Foundation)'
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: ''
+    duration: '47:18'
+    thumbnail: https://img.youtube.com/vi/-ZKVaXbUtrU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-ZKVaXbUtrU
+  - id: lT3A_OKtwuA
+    title: 'J.S. Bach, Kantate BWV 175: 7 Choral „Nun, werter Geist, ich folge dir“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2018'
+    duration: '2:22'
+    thumbnail: https://img.youtube.com/vi/lT3A_OKtwuA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lT3A_OKtwuA
+  - id: yzpeM8f8rYU
+    title: BCA175 BWV10 Cantata for Visitation of Mary (7/2) Richter 1974-75
+    channel: Johann Sebastian
+    performer: Richter
+    place: ''
+    year: '1974'
+    duration: '20:05'
+    thumbnail: https://img.youtube.com/vi/yzpeM8f8rYU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yzpeM8f8rYU
+  - id: 8gYvO4TNNa4
+    title: Cantata `Er rufet seinen Schafen mit Namen` BWV 175 - Johann Sebastian Bach
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: ''
+    year: ''
+    duration: '15:07'
+    thumbnail: https://img.youtube.com/vi/8gYvO4TNNa4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=8gYvO4TNNa4
+  - id: NhSqPZJh9ek
+    title: J.S. Bach - BWV 178 (If God the Lord is not on our side)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '20:25'
+    thumbnail: https://img.youtube.com/vi/NhSqPZJh9ek/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NhSqPZJh9ek
+  - id: _EyQSiU0Rrs
+    title: Johann Sebastian Bach - BWV 175 Cantata 'Er rufet seinen Schafen mit Namen' in G major
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: ''
+    year: ''
+    duration: '16:21'
+    thumbnail: https://img.youtube.com/vi/_EyQSiU0Rrs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_EyQSiU0Rrs
+  - id: OVpkgUL_1YY
+    title: J.S. Bach - Cantata BWV 172 "Erschallet, ihr Lieder, erklinget, ihr Saiten!" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2007'
+    duration: '19:49'
+    thumbnail: https://img.youtube.com/vi/OVpkgUL_1YY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OVpkgUL_1YY

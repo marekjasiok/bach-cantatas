@@ -1,0 +1,108 @@
+bwv: '81'
+title: Jesus schläft, was soll ich hoffen?
+cycle: C1
+occasion: Epiphany IV
+date: '1724-01-30'
+url: https://en.wikipedia.org/wiki/BWV_81
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: A
+    instruments: Flauto I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Jesus schläft, was soll ich hoffen?
+      Seh ich nicht
+      Mit erblasstem Angesicht
+      Schon des Todes Abgrund offen?
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Herr! warum trittest du so ferne?
+      Warum verbirgst du dich zur Zeit der Not,
+      Da alles mir ein kläglich Ende droht?
+      Ach, wird dein Auge nicht durch meine Not beweget
+      So sonsten nie zu schlummern pfleget?
+      Du wiesest ja mit einem Sterne
+      Vordem den neubekehrten Weisen,
+      Den rechten Weg zu reisen.
+      Ach leite mich durch deiner Augen Licht,
+      Weil dieser Weg nichts als Gefahr verspricht.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Die schäumenden Wellen von Belials Bächen
+      Verdoppeln die Wut.
+      Ein Christ soll zwar wie Felsen stehn,
+      Wenn Trübsalswinde um ihn gehn,
+      Doch suchet die stürmende Flut
+      Die Kräfte des Glaubens zu schwächen.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: Ihr Kleingläubigen, warum seid ihr so furchtsam?
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Schweig, aufgetürmtes Meer!
+      Verstumme, Sturm und Wind!
+      Dir sei dein Ziel gesetzet,
+      Damit mein auserwähltes Kind
+      Kein Unfall je verletzet.
+  - num: 6
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Wohl mir, mein Jesus spricht ein Wort,
+      Mein Helfer ist erwacht,
+      So muss der Wellen Sturm, des Unglücks Nacht
+      Und aller Kummer fort.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Unter deinen Schirmen
+      Bin ich für den Stürmen
+      Aller Feinde frei.
+      Lass den Satan wittern,
+      Lass den Feind erbittern,
+      Mir steht Jesus bei.
+      Ob es itzt gleich kracht und blitzt,
+      Ob gleich Sünd und Hölle schrecken,
+      Jesus will mich decken.
+scoring: 'Soli: A T B, Coro: S A T B, Flauto I/II, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    A: 2
+    T: 2
+    B: 2
+    SATB: 1
+  instrumentation_families:
+    - oboe_damore
+    - recorder
+key: D minor
+wiki:
+  summary: "Jesus schläft, was soll ich hoffen?, BWV\_81, is a church cantata by Johann Sebastian Bach. He composed it in 1724 in Leipzig for the fourth Sunday after Epiphany and first performed it on 30 January 1724."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg/330px-Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg
+  url: https://en.wikipedia.org/wiki/Jesus_schl%C3%A4ft%2C_was_soll_ich_hoffen%3F_BWV_81
+  summary_html: "<p><b><span><i lang=\"de\">Jesus schläft, was soll ich hoffen?</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>81</b>, is a church cantata by Johann Sebastian Bach. He composed it in 1724 in Leipzig for the fourth Sunday after Epiphany and first performed it on 30 January 1724.</p>"

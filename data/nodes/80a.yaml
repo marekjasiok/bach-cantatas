@@ -1,0 +1,249 @@
+bwv: 80a
+title: Alles, was von Gott geboren
+cycle: EARLY
+occasion: Oculi
+date: 1715 (**Non-Extant**)
+url: https://en.wikipedia.org/wiki/BWV_80a
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: ''
+    de: |-
+      Alles, was von Gott geboren,
+      Ist zum Siegen auserkoren.
+      Was bei Christi Blutpanier
+      In der Taufe Treu geschworen,
+      Siegt in Christo für und für.
+      Alles, was von Gott geboren,
+      Ist zum Siegen auserkoren.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: ''
+    de: |-
+      Erwäge doch,
+      Kind Gottes, die so große Liebe,
+      Da Jesus sich
+      Mit seinem Blute dir verschriebe,
+      Wormit er dich
+      Zum Kriege wider Satans Heer
+      Und wider Welt und Sünde
+      Geworben hat!
+      Gib nicht in deiner Seele
+      Dem Satan und den Lastern statt!
+      Lass nicht dein Herz,
+      Den Himmel Gottes auf der Erden,
+      Zur Wueste werden!
+      Bereue deine Schuld mit Schmerz,
+      Dass Christi Geist mit dir sich fest verbinde!
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: ''
+    de: |-
+      Komm in mein Herzenshaus,
+      Herr Jesu, mein Verlangen!
+      Treib Welt und Satan aus
+      Und lass dein Bild in mir erneuet prangen!
+      Weg! schnöder Sündengraus!
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: ''
+    de: |-
+      So stehe denn
+      Bei Christi blutbefärbten Fahne
+      O Seele, fest!
+      Und glaube, dass dein Haupt dich nicht verlässt,
+      Ja, dass sein Sieg
+      Auch dir den Weg zu deiner Krone bahne!
+      Tritt freudig an den Krieg!
+      Wirst du nur Gottes Wort
+      So hören als bewahren,
+      So wird der Feind
+      Gezwungen auszufahren.
+      Dein Heiland bleibt dein Hort!
+  - num: 5
+    type: Aria
+    voices: A, T
+    instruments: ''
+    de: |-
+      Wie selig ist der Leib, der, Jesu, dich getragen?
+      Doch selger ist das Herz, das dich im Glauben trägt!
+      Es bleibet unbesiegt und kann die Feinde schlagen
+      Und wird zuletzt gekrönt, wenn es den Tod erlegt.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Mit unser Macht ist nichts getan,
+      Wir sind gar bald verloren.
+      Es streit' vor uns der rechte Mann,
+      Den Gott selbst hat erkoren.
+      Fragst du, wer er ist?
+      Er heißt Jesus Christ,
+      Der Heffe Zebaoth,
+      Und ist kein andrer Gott,
+      Das Feld muss er behalten.
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 2
+    S: 1
+    T: 1
+    A, T: 1
+    SATB: 1
+  instrumentation_families: []
+wiki:
+  summary: "Alles, was von Gott geboren, BWV\_80.1, is a church cantata by Johann Sebastian Bach. He composed it in Weimar for Oculi, the third Sunday in Lent, and first performed it on 24 March 1715 or 15 March 1716. The music is lost, but Bach expanded on it in about 1730 to create his chorale cantata for Reformation Day, Ein feste Burg ist unser Gott, BWV\_80."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Alles%2C_was_von_Gott_geboren%2C_BWV_80a
+  summary_html: "<p><b><span><i lang=\"de\">Alles, was von Gott geboren</i></span></b>, BWV\_80.1, is a church cantata by Johann Sebastian Bach. He composed it in Weimar for Oculi, the third Sunday in Lent, and first performed it on 24 March 1715 or 15 March 1716. The music is lost, but Bach expanded on it in about 1730 to create his chorale cantata for Reformation Day, <span><i>Ein feste Burg ist unser Gott</i>, BWV\_80</span>.</p>"
+performances:
+  - id: fAt2LgpDnaA
+    title: Bach - Cantata Ein feste Burg ist unser Gott BWV 80 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Philarmonie Haarlem
+    year: '2022'
+    duration: '23:53'
+    thumbnail: https://img.youtube.com/vi/fAt2LgpDnaA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fAt2LgpDnaA
+  - id: mEwjYFhOcTs
+    title: J.S. Bach - Cantata BWV 80 "Ein feste Burg ist unser Gott" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Herzenshaus
+    year: '2016'
+    duration: '28:48'
+    thumbnail: https://img.youtube.com/vi/mEwjYFhOcTs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mEwjYFhOcTs
+  - id: MiYEp3wP33o
+    title: Bach - Cantate BWV 80a - Alles, was von Gott geboren
+    channel: MusicArt61
+    performer: MusicArt61
+    place: Herzenshaus
+    year: '2017'
+    duration: '14:58'
+    thumbnail: https://img.youtube.com/vi/MiYEp3wP33o/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MiYEp3wP33o
+  - id: VYWSswWg8LM
+    title: Johann Sebastian Bach - BWV 80a Cantata 'Alles was von Gott geboren' in D major
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: ''
+    year: ''
+    duration: '17:28'
+    thumbnail: https://img.youtube.com/vi/VYWSswWg8LM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=VYWSswWg8LM
+  - id: i9VVxAJJFwg
+    title: J.S. Bach Cantata Ein feste Burg ist unser Gott BWV 80, for The Reformation Festival
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: ''
+    year: ''
+    duration: '26:28'
+    thumbnail: https://img.youtube.com/vi/i9VVxAJJFwg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=i9VVxAJJFwg
+  - id: EosRZ4UeeLk
+    title: 'J.S. Bach: Cantata BMV 80'
+    channel: Jason Marcieski
+    performer: Masaaki
+    place: ''
+    year: '2003'
+    duration: '23:59'
+    thumbnail: https://img.youtube.com/vi/EosRZ4UeeLk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=EosRZ4UeeLk
+  - id: n5QJIGTCgIs
+    title: Bach - Cantata Jesus schläft, was soll ich hoffen BWV 81 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Walloon Church
+    year: '2017'
+    duration: '16:54'
+    thumbnail: https://img.youtube.com/vi/n5QJIGTCgIs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=n5QJIGTCgIs
+  - id: C_PinoZvY5Q
+    title: Bach Cantate BWV 4 & BWV 80 - Gesualdo Consort - Musica Amphion - Live Concert HD
+    channel: AVROTROS Klassiek
+    performer: AVROTROS Klassiek
+    place: Den Haag
+    year: '2012'
+    duration: '56:38'
+    thumbnail: https://img.youtube.com/vi/C_PinoZvY5Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=C_PinoZvY5Q
+  - id: l6dPv7W80yk
+    title: 'Cantata: Ein feste Burg ist unser Gott, BWV 80'
+    channel: Bob Jones University
+    performer: Bob Jones University
+    place: Division of Music at BJU
+    year: '2017'
+    duration: '19:25'
+    thumbnail: https://img.youtube.com/vi/l6dPv7W80yk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=l6dPv7W80yk
+  - id: pXpjbtQScOY
+    title: J. S. Bach - Ein feste Burg ist unser Gott, Cantata BWV 80 - K. Richter
+    channel: Miguel Zampedri
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '26:29'
+    thumbnail: https://img.youtube.com/vi/pXpjbtQScOY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=pXpjbtQScOY
+  - id: y8zOnjH5RZY
+    title: J.S. Bach - Cantata BWV 85 "Ich bin ein guter Hirt" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '19:46'
+    thumbnail: https://img.youtube.com/vi/y8zOnjH5RZY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=y8zOnjH5RZY
+  - id: NdzRRXBHXBc
+    title: J. S. Bach - Cantata BWV 139 "Wohl dem, der sich auf seinen Gott" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: '2008'
+    duration: '21:35'
+    thumbnail: https://img.youtube.com/vi/NdzRRXBHXBc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NdzRRXBHXBc
+  - id: B_dUzcavOOM
+    title: Bach - Cantate BWV 80 - Ein feste Burg ist unser Gott
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Herzenshaus
+    year: '1977'
+    duration: '22:58'
+    thumbnail: https://img.youtube.com/vi/B_dUzcavOOM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=B_dUzcavOOM
+  - id: ioHhbb2L0B0
+    title: J.S. Bach - Cantata BWV 24 "Ein ungefärbt Gemüte" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '19:28'
+    thumbnail: https://img.youtube.com/vi/ioHhbb2L0B0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ioHhbb2L0B0
+  - id: BzbWSdzKvC0
+    title: 'BWV #80 Ein Feste Burg ist unser Gott 8 Chorale - J.S. Bach | National Lutheran Choir'
+    channel: National Lutheran Choir
+    performer: National Lutheran Choir
+    place: Weimar
+    year: '2017'
+    duration: '1:19'
+    thumbnail: https://img.youtube.com/vi/BzbWSdzKvC0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BzbWSdzKvC0

@@ -1,0 +1,145 @@
+bwv: '60'
+title: O Ewigkeit, du Donnerwort
+cycle: C1
+occasion: Trinity XXIV
+date: '1723-11-07'
+url: https://en.wikipedia.org/wiki/BWV_60
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T
+    instruments: Corno, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      O Ewigkeit, du Donnerwort,
+      O Schwert, das durch die Seele bohrt,
+      O Anfang sonder Ende!
+      O Ewigkeit, Zeit ohne Zeit,
+      Ich weiß vor großer Traurigkeit
+      Nicht, wo ich mich hinwende;
+      Mein ganz erschrocknes Herze bebt
+      Dass mir die Zung am Gaumen klebt.
+      Herr, ich warte auf dein Heil.
+  - num: 2
+    type: Recitative
+    voices: A, T
+    instruments: Continuo
+    de: |-
+      Alt
+      O schwerer Gang zum letzten Kampf und Streite!
+      Tenor
+      Mein Beistand ist schon da,
+      Mein Heiland steht mir ja
+      Mit Trost zur Seite.
+      Alt
+      Die Todesangst, der letzte Schmerz
+      Ereilt und überfällt mein Herz
+      Und martert diese Glieder.
+      Tenor
+      Ich lege diesen Leib vor Gott zum Opfer nieder.
+      Ist gleich der Trübsal Feuer heiß,
+      Genung, es reinigt mich zu Gottes Preis.
+      Alt
+      Doch nun wird sich der Sünden große Schuld
+      vor mein Gesichte stellen.
+      Tenor
+      Gott wird deswegen doch kein Todesurteil fällen.
+      Er gibt ein Ende den Versuchungsplagen,
+      Dass man sie kann ertragen.
+  - num: 3
+    type: Aria
+    voices: ''
+    instruments: Oboe d'amore, Violino solo, Continuo
+    de: |-
+      Alt
+      Mein letztes Lager will mich schrecken,
+      Tenor
+      Mich wird des Heilands Hand bedecken,
+      Alt
+      Des Glaubens Schwachheit sinket fast,
+      Tenor
+      Mein Jesus trägt mit mir die Last.
+      Alt
+      Das offne Grab sieht greulich aus,
+      Tenor
+      Es wird mir doch ein Friedenshaus.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Alt
+      Der Tod bleibt doch der menschlichen Natur verhasst
+      Und reißet fast
+      Die Hoffnung ganz zu Boden.
+      Bass
+      Selig sind die Toten;
+      Alt
+      Ach! aber ach, wieviel Gefahr
+      Stellt sich der Seele dar,
+      Den Sterbeweg zu gehen!
+      Vielleicht wird ihr der Höllenrachen
+      Den Tod erschrecklich machen,
+      Wenn er sie zu verschlingen sucht;
+      Vielleicht ist sie bereits verflucht
+      Zum ewigen Verderben.
+      Bass
+      Selig sind die Toten, die in dem Herren sterben;
+      Alt
+      Wenn ich im Herren sterbe,
+      Ist denn die Seligkeit mein Teil und Erbe?
+      Der Leib wird ja der Würmer Speise!
+      Ja, werden meine Glieder
+      Zu Staub und Erde wieder,
+      Da ich ein Kind des Todes heiße,
+      So schein ich ja im Grabe zu verderben.
+      Bass
+      Selig sind die Toten, die in dem Herren sterben, von nun an.
+      Alt
+      Wohlan!
+      Soll ich von nun an selig sein:
+      So stelle dich, o Hoffnung, wieder ein!
+      Mein Leib mag ohne Furcht im Schlafe ruhn,
+      Der Geist kann einen Blick in jene Freude tun.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Corno e Oboe d'amore I e Violino I col Soprano, Oboe d'amore II e Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Es ist genung;
+      Herr, wenn es dir gefällt,
+      So spanne mich doch aus!
+      Mein Jesus kömmt;
+      Nun gute Nacht, o Welt!
+      Ich fahr ins Himmelshaus,
+      Ich fahre sicher hin mit Frieden,
+      Mein großer Jammer bleibt danieden.
+      Es ist genung.
+scoring: 'Soli: A T B, Coro: S A T B, Corno, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 1
+    A, T: 1
+    A: 1
+    SATB: 1
+  instrumentation_families:
+    - corno
+    - oboe_damore
+    - violino_solo
+key: D minor
+wiki:
+  summary: "O Ewigkeit, du Donnerwort, BWV\_60, is a church cantata for the 24th Sunday after Trinity composed by Johann Sebastian Bach. It was first performed in Leipzig on 7\_November 1723, and is part of Bach's first cantata cycle. It is one of Bach's dialogue cantatas: its topic, fear of death and hope of salvation, plays out mainly through a conversation between two allegorical figures, Fear and Hope."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bach_es_ist_genug_%28DYK%29.png/330px-Bach_es_ist_genug_%28DYK%29.png
+  url: https://en.wikipedia.org/wiki/O_Ewigkeit%2C_du_Donnerwort%2C_BWV_60
+  summary_html: "<p><b><span><i lang=\"de\">O Ewigkeit, du Donnerwort</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>60</b>, is a church cantata for the 24th Sunday after Trinity composed by Johann Sebastian Bach. It was first performed in Leipzig on 7\_November 1723, and is part of Bach's first cantata cycle. It is one of Bach's dialogue cantatas: its topic, fear of death and hope of salvation, plays out mainly through a conversation between two allegorical figures, Fear and Hope.</p>"

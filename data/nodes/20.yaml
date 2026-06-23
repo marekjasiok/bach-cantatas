@@ -1,0 +1,240 @@
+bwv: '20'
+title: O Ewigkeit, du Donnerwort
+cycle: C2
+occasion: Trinity I
+date: '1724-06-11'
+url: https://en.wikipedia.org/wiki/BWV_20
+movements:
+  - num: 1
+    type: Chorus
+    voices: S, A, T, B
+    instruments: Tromba da tirarsi col Soprano, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      O Ewigkeit, du Donnerwort,
+      O Schwert, das durch die Seele bohrt,
+      O Anfang sonder Ende!
+      O Ewigkeit, Zeit ohne Zeit,
+      Ich weiß vor großer Traurigkeit
+      Nicht, wo ich mich hinwende.
+      Mein ganz erschrocken Herz erbebt,
+      Dass mir die Zung am Gaumen klebt.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Kein Unglück ist in aller Welt zu finden,
+      Das ewig dauernd sei:
+      Es muss doch endlich mit der Zeit einmal verschwinden.
+      Ach! Aber ach! die Pein der Ewigkeit hat nur kein Ziel;
+      Sie treibet fort und fort ihr Marterspiel,
+      Ja, wie selbst Jesus spricht,
+      Aus ihr ist kein Erlösung nicht.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ewigkeit, du machst mir bange,
+      Ewig, ewig ist zu lange!
+      Ach, hier gilt fürwahr kein Scherz.
+      Flammen, die auf ewig brennen,
+      Ist kein Feuer gleich zu nennen;
+      Es erschrickt und bebt mein Herz,
+      Wenn ich diese Pein bedenke
+      Und den Sinn zur Höllen lenke.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gesetzt, es dau'rte der Verdammten Qual
+      So viele Jahr, als an der Zahl
+      Auf Erden Gras, am Himmel Sterne wären;
+      Gesetzt, es sei die Pein so weit hinausgestellt,
+      Als Menschen in der Welt
+      Von Anbeginn gewesen,
+      So wäre doch zuletzt
+      Derselben Ziel und Maß gesetzt:
+      Sie müßte doch einmal aufhören.
+      Nun aber, wenn du die Gefahr,
+      Verdammter! tausend Millionen Jahr
+      Mit allen Teufeln ausgestanden,
+      So ist doch nie der Schluss vorhanden;
+      Die Zeit, so niemand zählen kann,
+      Fängt jeden Augenblick
+      Zu deiner Seelen ewgem Ungelück
+      Sich stets von neuem an.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Oboe I-III, Continuo
+    de: |-
+      Gott ist gerecht in seinen Werken:
+      Auf kurze Sünden dieser Welt
+      Hat er so lange Pein bestellt;
+      Ach wollte doch die Welt dies merken!
+      Kurz ist die Zeit, der Tod geschwind,
+      Bedenke dies, o Menschenkind!
+  - num: 6
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      O Mensch, errette deine Seele,
+      Entfliehe Satans Sklaverei
+      Und mache dich von Sünden frei,
+      Damit in jener Schwefelhöhle
+      Der Tod, so die Verdammten plagt,
+      Nicht deine Seele ewig nagt.
+      O Mensch, errette deine Seele!
+  - num: 7
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Tromba da tirarsi e Oboe I/II e Violino I col Soprano, Oboe III e Violino II coll'Alto, Viola col Tenore, Continuo
+    de: |-
+      Solang ein Gott im Himmel lebt
+      Und über alle Wolken schwebt,
+      Wird solche Marter währen:
+      Es wird sie plagen Kält und Hitz,
+      Angst, Hunger, Schrecken, Feu'r und Blitz
+      Und sie doch nicht verzehren.
+      Denn wird sich enden diese Pein,
+      Wenn Gott nicht mehr wird ewig sein.
+      Zweiter Teil
+  - num: 8
+    type: Aria
+    voices: B
+    instruments: Tromba da tirarsi, Oboe I e Violino I, Oboe II e Violino II, Oboe III e Viola all' unisono, Continuo
+    de: |-
+      Wacht auf, wacht auf, verlornen Schafe,
+      Ermuntert euch vom Sündenschlafe
+      Und bessert euer Leben bald!
+      Wacht auf, eh die Posaune schallt,
+      Die euch mit Schrecken aus der Gruft
+      Zum Richter aller Welt vor das Gerichte ruft!
+  - num: 9
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Verlass, o Mensch, die Wollust dieser Welt,
+      Pracht, Hoffart, Reichtum, Ehr und Geld;
+      Bedenke doch
+      In dieser Zeit annoch,
+      Da dir der Baum des Lebens grünet,
+      Was dir zu deinem Friede dienet!
+      Vielleicht ist dies der letzte Tag,
+      Kein Mensch weiß, wenn er sterben mag.
+      Wie leicht, wie bald
+      Ist mancher tot und kalt!
+      Man kann noch diese Nacht
+      Den Sarg vor deine Türe bringen.
+      Drum sei vor allen Dingen
+      Auf deiner Seelen Heil bedacht!
+  - num: 10
+    type: Aria
+    voices: A, T
+    instruments: Continuo
+    de: |-
+      O Menschenkind,
+      Hör auf geschwind,
+      Die Sünd und Welt zu lieben,
+      Dass nicht die Pein,
+      Wo Heulen und Zähnklappen sein,
+      Dich ewig mag betrüben!
+      Ach spiegle dich am reichen Mann,
+      Der in der Qual
+      Auch nicht einmal
+      Ein Tröpflein Wasser haben kann!
+  - num: 11
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Tromba da tirarsi e Oboe I/II e Violino I col Soprano, Oboe III e Violino II coll'Alto, Viola col Tenore, Continuo
+    de: |-
+      O Ewigkeit, du Donnerwort,
+      O Schwert, das durch die Seele bohrt,
+      O Anfang sonder Ende!
+      O Ewigkeit, Zeit ohne Zeit,
+      Ich weiß vor großer Traurigkeit
+      Nicht, wo ich mich hinwende.
+      Nimm du mich, wenn es dir gefällt,
+      Herr Jesu, in dein Freudenzelt!
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Aria
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    S, A, T, B: 3
+    T: 2
+    B: 3
+    A: 2
+    A, T: 1
+  instrumentation_families:
+    - oboe
+    - tromba_da_tirarsi
+edges: {}
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata O Ewigkeit, du Donnerwort, BWV\_20, in Leipzig for the first Sunday after Trinity, which fell on 11 June in 1724. Bach composed it when beginning his second year as Thomaskantor in Leipzig. It is the first cantata he composed for his second annual cycle which was planned to contain chorale cantatas, each based on a Lutheran hymn. The cantata is focused on Johann Rist's 1642 hymn \"O Ewigkeit, du Donnerwort\", with a chorale melody by Johann Schop. The topic of death and eternity matches the Gospel for the Sunday, the parable of the Rich man and Lazarus."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leipzig_Nikolaikirche_um_1850.jpg/330px-Leipzig_Nikolaikirche_um_1850.jpg
+  url: https://en.wikipedia.org/wiki/O_Ewigkeit%2C_du_Donnerwort%2C_BWV_20
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">O Ewigkeit, du Donnerwort</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>20</b>, in Leipzig for the first Sunday after Trinity, which fell on 11 June in 1724. Bach composed it when beginning his second year as Thomaskantor in Leipzig. It is the first cantata he composed for his second annual cycle which was planned to contain chorale cantatas, each based on a Lutheran hymn. The cantata is focused on Johann Rist's 1642 hymn \"<span><span style=\"font-style:normal\">O Ewigkeit, du Donnerwort</span></span>\", with a chorale melody by Johann Schop. The topic of death and eternity matches the Gospel for the Sunday, the parable of the Rich man and Lazarus.</p>"
+performances:
+  - id: vJX8hlCZC8M
+    title: J.S. Bach - Cantata BWV 20 "O Ewigkeit, du Donnerwort" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '28:46'
+    thumbnail: https://img.youtube.com/vi/vJX8hlCZC8M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vJX8hlCZC8M
+  - id: ww7_FzjRkn8
+    title: J.S Bach - BWV 20, O Ewigkeit, du Donnerwort
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '24:01'
+    thumbnail: https://img.youtube.com/vi/ww7_FzjRkn8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ww7_FzjRkn8
+  - id: fk3zx7LpzZc
+    title: Bach - Cantata Schleicht, spielende Wellen... BWV 206 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Dresden
+    year: '2016'
+    duration: '40:23'
+    thumbnail: https://img.youtube.com/vi/fk3zx7LpzZc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fk3zx7LpzZc
+  - id: RaWkWtC6s_s
+    title: 'J. S. Bach: O Ewigkeit, du Donnerwort (BWV 20) (Kuijken)'
+    channel: Edward Murray
+    performer: Kuijken
+    place: Gott im Himmel lebt
+    year: ''
+    duration: '26:29'
+    thumbnail: https://img.youtube.com/vi/RaWkWtC6s_s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RaWkWtC6s_s
+  - id: 6YtsxlELi34
+    title: J S Bach BWV 20 Kantate O Ewigkeit du Donnerwort I, Helmut Rilling 1970
+    channel: Rainer Harald
+    performer: Rilling
+    place: Norddeutschland
+    year: '1970'
+    duration: '31:39'
+    thumbnail: https://img.youtube.com/vi/6YtsxlELi34/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6YtsxlELi34
+key: D minor

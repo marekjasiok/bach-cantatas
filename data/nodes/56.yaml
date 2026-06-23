@@ -1,0 +1,240 @@
+bwv: '56'
+title: Ich will den Kreuzstab gerne tragen
+cycle: C3
+occasion: Trinity XIX
+date: '1726-10-27'
+url: https://en.wikipedia.org/wiki/BWV_56
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Ich will den Kreuzstab gerne tragen,
+      Er kömmt von Gottes lieber Hand,
+      Der führet mich nach meinen Plagen
+      Zu Gott, in das gelobte Land.
+      Da leg ich den Kummer auf einmal ins Grab,
+      Da wischt mir die Tränen mein Heiland selbst ab.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Violoncello, Continuo
+    de: |-
+      Mein Wandel auf der Welt
+      Ist einer Schiffahrt gleich:
+      Betrübnis, Kreuz und Not
+      Sind Wellen, welche mich bedecken
+      Und auf den Tod
+      Mich täglich schrecken;
+      Mein Anker aber, der mich hält,
+      Ist die Barmherzigkeit,
+      Womit mein Gott mich oft erfreut.
+      Der rufet so zu mir:
+      Ich bin bei dir,
+      Ich will dich nicht verlassen noch versäumen!
+      Und wenn das wütenvolle Schäumen
+      Sein Ende hat,
+      So tret ich aus dem Schiff in meine Stadt,
+      Die ist das Himmelreich,
+      Wohin ich mit den Frommen
+      Aus vielem Trübsal werde kommen.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Oboe solo, Continuo
+    de: |-
+      Endlich, endlich wird mein Joch
+      Wieder von mir weichen müssen.
+      Da krieg ich in dem Herren Kraft,
+      Da hab ich Adlers Eigenschaft,
+      Da fahr ich auf von dieser Erden
+      Und laufe sonder matt zu werden.
+      O gescheh es heute noch!
+  - num: 4
+    type: Recitative
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ich stehe fertig und bereit,
+      Das Erbe meiner Seligkeit
+      Mit Sehnen und Verlangen
+      Von Jesus Händen zu empfangen.
+      Wie wohl wird mir geschehn,
+      Wenn ich den Port der Ruhe werde sehn.
+      Da leg ich den Kummer auf einmal ins Grab,
+      Da wischt mir die Tränen mein Heiland selbst ab.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Oboe II e Violino I col Soprano, Violino II coll' Alto, Taille e Viola col Tenore, Continuo
+    de: |-
+      Komm, o Tod, du Schlafes Bruder,
+      Komm und führe mich nur fort;
+      Löse meines Schiffleins Ruder,
+      Bringe mich an sichern Port!
+      Es mag, wer da will, dich scheuen,
+      Du kannst mich vielmehr erfreuen;
+      Denn durch dich komm ich herein
+      Zu dem schönsten Jesulein.
+scoring: 'Solo: B, Coro: S A T B, Oboe solo, Oboe I/II, Taille, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 3
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - violoncello
+wiki:
+  summary: "Ich will den Kreuzstab gerne tragen, BWV\_56, is a church cantata composed by Johann Sebastian Bach for the 19th Sunday after Trinity. It was first performed in Leipzig on 27\_October 1726. The composition is a solo cantata because, apart from the closing chorale, it requires only a single vocal soloist. The autograph score is one of a few cases where Bach referred to one of his compositions as a cantata. In English, the work is commonly referred to as the Kreuzstab cantata. Bach composed the cantata in his fourth year as Thomaskantor; it is regarded as part of his third cantata cycle."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BWV56-autograph-manuscript-first-page-Bach-1726.jpg/330px-BWV56-autograph-manuscript-first-page-Bach-1726.jpg
+  url: https://en.wikipedia.org/wiki/Ich_will_den_Kreuzstab_gerne_tragen%2C_BWV_56
+  summary_html: "<p><b><span><i lang=\"de\">Ich will den Kreuzstab gerne tragen</i></span></b>, <b><abbr>BWV</abbr>\_56</b>, is a church cantata composed by Johann Sebastian Bach for the 19th Sunday after Trinity. It was first performed in Leipzig on 27\_October 1726. The composition is a solo cantata because, apart from the closing chorale, it requires only a single vocal soloist. The autograph score is one of a few cases where Bach referred to one of his compositions as a cantata. In English, the work is commonly referred to as the <span><i lang=\"de\">Kreuzstab</i></span> cantata. Bach composed the cantata in his fourth year as Thomaskantor; it is regarded as part of his third cantata cycle.</p>"
+performances:
+  - id: GqtHzaPCe9I
+    title: Bach - Cantata Ich will den Kreuzstab gerne tragen BWV 56 - Bonizzoni | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: ''
+    year: ''
+    duration: '19:33'
+    thumbnail: https://img.youtube.com/vi/GqtHzaPCe9I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GqtHzaPCe9I
+  - id: 8P4pQK5dLGI
+    title: J.S. Bach - Cantata BWV 56 "Ich will den Kreuzstab gerne tragen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '22:31'
+    thumbnail: https://img.youtube.com/vi/8P4pQK5dLGI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=8P4pQK5dLGI
+  - id: 8XqEFAUecf0
+    title: J.S. Bach - Ich will den Kreuzstab gerne tragen, BWV 56 (1726) {Fischer-Dieskau}
+    channel: Bartje Bartmans
+    performer: Bartje Bartmans
+    place: ''
+    year: ''
+    duration: '21:51'
+    thumbnail: https://img.youtube.com/vi/8XqEFAUecf0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=8XqEFAUecf0
+  - id: njhLSz3xKjs
+    title: Bach BWV 56-5 Komm, Tod, du Schlafes Bruder
+    channel: VitaliyGR
+    performer: VitaliyGR
+    place: ''
+    year: ''
+    duration: '1:39'
+    thumbnail: https://img.youtube.com/vi/njhLSz3xKjs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=njhLSz3xKjs
+  - id: MsiklHj7HJY
+    title: JS Bach Cantata Ich will den Kreuzstab gerne tragen BWV 56, Kreuzstab Kantate
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: ''
+    year: ''
+    duration: '21:45'
+    thumbnail: https://img.youtube.com/vi/MsiklHj7HJY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MsiklHj7HJY
+  - id: Lgk6qUeZW2c
+    title: J S Bach - Cantata BWV 56 - Ton Koopman - part 1
+    channel: codonauta
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '6:48'
+    thumbnail: https://img.youtube.com/vi/Lgk6qUeZW2c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Lgk6qUeZW2c
+  - id: CdAg7Hp7rX8
+    title: J.S. Bach / Ich will den Kreuzstab gerne tragen, BWV 56 (Herreweghe)
+    channel: scrymgeour34
+    performer: Herreweghe
+    place: ''
+    year: ''
+    duration: '18:27'
+    thumbnail: https://img.youtube.com/vi/CdAg7Hp7rX8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CdAg7Hp7rX8
+  - id: HRGFGAb0Qfw
+    title: J. S. Bach. Coral de la Cantata BWV 56
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '1:11'
+    thumbnail: https://img.youtube.com/vi/HRGFGAb0Qfw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HRGFGAb0Qfw
+  - id: K3mway-cCeY
+    title: J.S.Bach Cantata Ich will den Kreuzstab gerne tragen, BWV 56, Hermann Prey
+    channel: Ria Brezova
+    performer: Ria Brezova
+    place: ''
+    year: ''
+    duration: '21:53'
+    thumbnail: https://img.youtube.com/vi/K3mway-cCeY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=K3mway-cCeY
+  - id: zL8xiynZVrM
+    title: 'J.S. Bach – „Ich will den Kreuzstab gerne tragen“ Kantate BWV 56 (Bearbeitung: Blockflöten & B.c.)'
+    channel: Harald Meyer
+    performer: Harald Meyer
+    place: ''
+    year: ''
+    duration: '6:48'
+    thumbnail: https://img.youtube.com/vi/zL8xiynZVrM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zL8xiynZVrM
+  - id: JDCX8VucrD0
+    title: J. S. Bach - Cantatas for Bass - Gli Angeli Genève & S. MacLeod
+    channel: Miguel Zampedri
+    performer: Miguel Zampedri
+    place: ''
+    year: ''
+    duration: '1:04:23'
+    thumbnail: https://img.youtube.com/vi/JDCX8VucrD0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JDCX8VucrD0
+  - id: qrjTjStsDNk
+    title: 'Bach explained: Workshop on cantata BWV 56 "Ich will den Kreuzstab" (J.S. Bach Foundation)'
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '46:45'
+    thumbnail: https://img.youtube.com/vi/qrjTjStsDNk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qrjTjStsDNk
+  - id: YxBcbRK8miU
+    title: Bach BWV 56-1 Ich will den Kreuzstab gerne tragen
+    channel: VitaliyGR
+    performer: VitaliyGR
+    place: ''
+    year: ''
+    duration: '8:40'
+    thumbnail: https://img.youtube.com/vi/YxBcbRK8miU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YxBcbRK8miU
+  - id: mF8CHPzCNk8
+    title: Endlich, endlich wird mein Joch (Bach) Thomas Quasthoff
+    channel: Jeffrey Stivers
+    performer: Jeffrey Stivers
+    place: ''
+    year: ''
+    duration: '5:54'
+    thumbnail: https://img.youtube.com/vi/mF8CHPzCNk8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mF8CHPzCNk8
+  - id: sNQPVfSkkHs
+    title: J. S. Bach - Cantatas BWV 56 & BWV 82 - Dietrich Fischer-Dieskau
+    channel: Miguel Zampedri
+    performer: Miguel Zampedri
+    place: ''
+    year: ''
+    duration: '42:13'
+    thumbnail: https://img.youtube.com/vi/sNQPVfSkkHs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=sNQPVfSkkHs
+key: B♭ major

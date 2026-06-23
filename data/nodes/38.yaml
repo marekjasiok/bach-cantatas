@@ -1,0 +1,107 @@
+bwv: '38'
+title: Aus tiefer Not schrei ich zu dir
+cycle: C2
+occasion: Trinity XXI
+date: '1724-10-29'
+url: https://en.wikipedia.org/wiki/BWV_38
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Oboe I/II e Violino I e Trombone I col Soprano, Violino II e Trombone II coll' Alto, Viola e Trombone III col
+      Tenore, Trombone IV col Basso, Continuo
+    de: |-
+      Aus tiefer Not schrei ich zu dir,
+      Herr Gott, erhör mein Rufen;
+      Dein gnädig Ohr neig her zu mir
+      Und meiner Bitt sie öffne!
+      Denn so du willt das sehen an,
+      Was Sünd und Unrecht ist getan,
+      Wer kann, Herr, vor dir bleiben?
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      In Jesu Gnade wird allein
+      Der Trost vor uns und die Vergebung sein,
+      Weil durch des Satans Trug und List
+      Der Menschen ganzes Leben
+      Vor Gott ein Sündengreuel ist.
+      Was könnte nun
+      Die Geistesfreudigkeit zu unserm Beten geben,
+      Wo Jesu Geist und Wort nicht neue Wunder tun?
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Ich höre mitten in den Leiden
+      Ein Trostwort, so mein Jesus spricht.
+      Drum, o geängstigtes Gemüte,
+      Vertraue deines Gottes Güte,
+      Sein Wort besteht und fehlet nicht,
+      Sein Trost wird niemals von dir scheiden!
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Ach! Dass mein Glaube noch so schwach,
+      Und dass ich mein Vertrauen
+      Auf feuchtem Grunde muss erbauen!
+      Wie ofte müssen neue Zeichen
+      Mein Herz erweichen?
+      Wie? kennst du deinen Helfer nicht,
+      Der nur ein einzig Trostwort spricht,
+      Und gleich erscheint,
+      Eh deine Schwachheit es vermeint,
+      Die Rettungsstunde.
+      Vertraue nur der Allmachtshand und seiner Wahrheit Munde!
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Wenn meine Trübsal als mit Ketten
+      Ein Unglück an dem andern hält,
+      So wird mich doch mein Heil erretten,
+      Dass alles plötzlich von mir fällt.
+      Wie bald erscheint des Trostes Morgen
+      Auf diese Nacht der Not und Sorgen!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Oboe I/II e Violino I e Trombone I col Soprano, Violino II e Trombone II coll' Alto, Viola e Trombone III col
+      Tenore, Trombone IV col Basso, Continuo
+    de: |-
+      Ob bei uns ist der Sünden viel,
+      Bei Gott ist viel mehr Gnade;
+      Sein Hand zu helfen hat kein Ziel,
+      Wie groß auch sei der Schade.
+      Er ist allein der gute Hirt,
+      Der Israel erlösen wird
+      Aus seinen Sünden allen.
+scoring: 'Soli: S A T B, Coro: S A T B, Trombone I-IV, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    T: 1
+    S: 1
+  instrumentation_families:
+    - oboe
+    - trombone
+key: A minor

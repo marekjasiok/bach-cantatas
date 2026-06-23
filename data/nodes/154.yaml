@@ -1,0 +1,275 @@
+bwv: '154'
+title: Mein liebster Jesus ist verloren
+cycle: C1
+occasion: Epiphany I
+date: '1724-01-09'
+url: https://en.wikipedia.org/wiki/BWV_154
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Mein liebster Jesus ist verloren:
+      O Wort, das mir Verzweiflung bringt,
+      O Schwert, das durch die Seele dringt,
+      O Donnerwort in meinen Ohren.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wo treff ich meinen Jesum an,
+      Wer zeiget mir die Bahn,
+      Wo meiner Seele brünstiges Verlangen,
+      Mein Heiland, hingegangen?
+      Kein Unglück kann mich so empfindlich rühren,
+      Als wenn ich Jesum soll verlieren.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Jesu, mein Hort und Erretter,
+      Jesu, meine Zuversicht,
+      Jesu, starker Schlangentreter,
+      Jesu, meines Lebens Licht!
+      Wie verlanget meinem Herzen,
+      Jesulein, nach dir mit Schmerzen!
+      Komm, ach komm, ich warte dein,
+      Komm, o liebstes Jesulein!
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Cembalo
+    de: |-
+      Jesu, lass dich finden,
+      Lass doch meine Sünden
+      Keine dicke Wolken sein,
+      Wo du dich zum Schrecken
+      Willst für mich verstecken,
+      Stelle dich bald wieder ein!
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wisset ihr nicht, dass ich sein muss in dem,
+      das meines Vaters ist?
+  - num: 6
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Dies ist die Stimme meines Freundes,
+      Gott Lob und Dank!
+      Mein Jesu, mein getreuer Hort,
+      Läßt durch sein Wort
+      Sich wieder tröstlich hören;
+      Ich war vor Schmerzen krank,
+      Der Jammer wollte mir das Mark
+      In Beinen fast verzehren;
+      Nun aber wird mein Glaube wieder stark,
+      Nun bin ich höchst erfreut;
+      Denn ich erblicke meiner Seele Wonne,
+      Den Heiland, meine Sonne,
+      Der nach betrübter Trauernacht
+      Durch seinen Glanz mein Herze fröhlich macht.
+      Auf, Seele, mache dich bereit!
+      Du musst zu ihm
+      In seines Vaters Haus, hin in den Tempel ziehn;
+      Da lässt er sich in seinem Wort erblicken,
+      Da will er dich im Sakrament erquicken;
+      Doch, willst du würdiglich sein Fleisch und Blut genießen,
+      So musst du Jesum auch in Buß und Glauben küssen.
+  - num: 7
+    type: Aria
+    voices: ''
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wohl mir, Jesus ist gefunden,
+      Nun bin ich nicht mehr betrübt.
+      Der, den meine Seele liebt,
+      Zeigt sich mir zur frohen Stunden.
+      Ich will dich, mein Jesu, nun nimmermehr lassen,
+      Ich will dich im Glauben beständig umfassen.
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Meinen Jesum lass ich nicht,
+      Geh ihm ewig an der Seiten;
+      Christus lässt mich für und für
+      Zu den Lebensbächlein leiten.
+      Selig, wer mit mir so spricht:
+      Meinen Jesum lass ich nicht.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe d''amore I/II, Oboe I/II, Violino I/II, Viola, Cembalo, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 3
+    SATB: 2
+    A: 1
+    B: 1
+  instrumentation_families:
+    - cembalo
+    - oboe_damore
+wiki:
+  summary: >-
+    Mein liebster Jesus ist verloren, BWV 154, is a church cantata by Johann Sebastian Bach. He composed it for the
+    first Sunday after Epiphany and first performed it in Leipzig on 9 January 1724.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Mein_liebster_Jesus_ist_verloren%2C_BWV_154
+  summary_html: >-
+    <p><b><span><i lang="de">Mein liebster Jesus ist verloren</i></span></b>, <b><span class="nowrap">BWV
+    154</span></b>, is a church cantata by Johann Sebastian Bach. He composed it for the first Sunday after Epiphany and
+    first performed it in Leipzig on 9 January 1724.</p>
+performances:
+  - id: aaxMgDmuqG0
+    title: J. S. Bach - Cantata BWV 154 "Mein liebster Jesus ist verloren" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Hort und Erretter
+    year: '2023'
+    duration: '20:09'
+    thumbnail: https://img.youtube.com/vi/aaxMgDmuqG0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=aaxMgDmuqG0
+  - id: J77Gyi3vhiY
+    title: Bach - Cantate BWV 154 - Mein liebster Jesus ist verloren
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Hort und Erretter
+    year: '1985'
+    duration: '15:54'
+    thumbnail: https://img.youtube.com/vi/J77Gyi3vhiY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=J77Gyi3vhiY
+  - id: _MXQUHN_5iQ
+    title: 'J. S. Bach: Mein liebster Jesus ist verloren (BWV 154) (Kuijken)'
+    channel: Edward Murray
+    performer: Kuijken
+    place: Hort und Erretter
+    year: ''
+    duration: '15:14'
+    thumbnail: https://img.youtube.com/vi/_MXQUHN_5iQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_MXQUHN_5iQ
+  - id: K9DmYJ42Dkk
+    title: 'J.S Bach - Cantata: Mein liebster Jesus ist verloren, BWV 154'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '15:41'
+    thumbnail: https://img.youtube.com/vi/K9DmYJ42Dkk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=K9DmYJ42Dkk
+  - id: lSUp4ujH-WA
+    title: Bach Cantata BWV 154 Epiphany «Mein liebster Jesus ist verloren» Collegium Musicum Oleg Ro
+    channel: Felices Cantus Bach Kirchenmusik
+    performer: Felices Cantus Bach Kirchenmusik
+    place: ''
+    year: ''
+    duration: '15:27'
+    thumbnail: https://img.youtube.com/vi/lSUp4ujH-WA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lSUp4ujH-WA
+  - id: DLEPfRxzX_s
+    title: Bach - Cantata Erschallet, ihr Lieder BWV 172 - René Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '18:32'
+    thumbnail: https://img.youtube.com/vi/DLEPfRxzX_s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DLEPfRxzX_s
+  - id: ribQbTtRpoI
+    title: Bach Kantate BWV 154, Mein Liebster Jesus ist verloren, Grischkat 1972,
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Hort und Erretter
+    year: '1972'
+    duration: '18:28'
+    thumbnail: https://img.youtube.com/vi/ribQbTtRpoI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ribQbTtRpoI
+  - id: WKCuAIfHlvE
+    title: 'Mein liebster Jesus ist verloren, BWV 154: No. 1, Mein liebster Jesus ist verloren'
+    channel: Hans-Christoph Rademann - Topic
+    performer: Rademann
+    place: Stuttgart
+    year: '2024'
+    duration: '2:46'
+    thumbnail: https://img.youtube.com/vi/WKCuAIfHlvE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WKCuAIfHlvE
+  - id: OHas-rtFfhs
+    title: Bach Cantata BWV 4 Christ lag in Todesbanden - Gardiner/Monteverdi Choir/ English Baroque Soloists
+    channel: vse vsad
+    performer: Gardiner
+    place: ''
+    year: '2021'
+    duration: '22:43'
+    thumbnail: https://img.youtube.com/vi/OHas-rtFfhs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OHas-rtFfhs
+  - id: vaIyJ-tR2lM
+    title: J.S. Bach - BWV 154 (My dearest Jesus is lost)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '15:55'
+    thumbnail: https://img.youtube.com/vi/vaIyJ-tR2lM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vaIyJ-tR2lM
+  - id: 1wrasltN6WM
+    title: 'J. S. Bach: Kantate "Mein liebster Jesus ist verloren" BWV 154 - St. Jacobi Göttingen'
+    channel: Jacobikantorei
+    performer: Jacobikantorei
+    place: St
+    year: '2025'
+    duration: '17:13'
+    thumbnail: https://img.youtube.com/vi/1wrasltN6WM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1wrasltN6WM
+  - id: aR3JuKN4ZfM
+    title: Cantata `Mein liebster Jesus ist verloren` BWV 154 - Johann Sebastian Bach
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: ''
+    year: ''
+    duration: '14:02'
+    thumbnail: https://img.youtube.com/vi/aR3JuKN4ZfM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=aR3JuKN4ZfM
+  - id: uQNBDsDdLeE
+    title: Bach - Cantata Christ lag in Todesbanden BWV 4 - Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: Todes Banden
+    year: '2023'
+    duration: '18:37'
+    thumbnail: https://img.youtube.com/vi/uQNBDsDdLeE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uQNBDsDdLeE
+  - id: HUDQWBkj9t4
+    title: J.S. Bach Cantata Christ lag in Todesbanden BWV 4, Karl Richter
+    channel: HarpsichordM
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '22:05'
+    thumbnail: https://img.youtube.com/vi/HUDQWBkj9t4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HUDQWBkj9t4
+  - id: vLx-3VNxiLE
+    title: Johann Sebastian Bach - BWV 154 Cantata 'Mein Liebster Jesus ist verloren' in B minor
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Stuttgart
+    year: ''
+    duration: '18:28'
+    thumbnail: https://img.youtube.com/vi/vLx-3VNxiLE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vLx-3VNxiLE
+key: G minor

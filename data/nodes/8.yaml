@@ -1,0 +1,251 @@
+bwv: '8'
+title: Liebster Gott, wenn werd ich sterben?
+cycle: C2
+occasion: Trinity XVI
+date: '1724-09-24'
+url: https://en.wikipedia.org/wiki/BWV_8
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno col Soprano, Flauto traverso, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Liebster Gott, wenn werd ich sterben?
+      Meine Zeit läuft immer hin,
+      Und des alten Adams Erben,
+      Unter denen ich auch bin,
+      Haben dies zum Vaterteil,
+      Dass sie eine kleine Weil
+      Arm und elend sein auf Erden
+      Und denn selber Erde werden.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      Was willst du dich, mein Geist, entsetzen,
+      Wenn meine letzte Stunde schlägt?
+      Mein Leib neigt täglich sich zur Erden,
+      Und da muss seine Ruhstatt werden,
+      Wohin man so viel tausend trägt.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Zwar fühlt mein schwaches Herz
+      Furcht, Sorge, Schmerz:
+      Wo wird mein Leib die Ruhe finden?
+      Wer wird die Seele doch
+      Vom aufgelegten Sündenjoch
+      Befreien und entbinden?
+      Das Meine wird zerstreut,
+      Und wohin werden meine Lieben
+      In ihrer Traurigkeit
+      Zertrennt, vertrieben?
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Flauto traverso, Violino I/II, Viola, Continuo
+    de: |-
+      Doch weichet, ihr tollen, vergeblichen Sorgen!
+      Mich rufet mein Jesus, wer sollte nicht gehn?
+      Nichts, was mir gefällt,
+      Besitzet die Welt.
+      Erscheine mir, seliger, fröhlicher Morgen,
+      Verkläret und herrlich vor Jesu zu stehn.
+  - num: 5
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Behalte nur, o Welt, das Meine!
+      Du nimmst ja selbst mein Fleisch und mein
+      Gebeine,
+      So nimm auch meine Armut hin;
+      Genug, dass mir aus Gottes Überfluss
+      Das höchste Gut noch werden muss,
+      Genug, dass ich dort reich und selig bin.
+      Was aber ist von mir zu erben,
+      Als meines Gottes Vatertreu?
+      Die wird ja alle Morgen neu
+      Und kann nicht sterben.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Violino I e Flauto traverso in octava e Oboe d'amore I e Corno col Soprano, Violino II e Oboe d'amore II coll'
+      Alto, Viola col Tenore, Continuo
+    de: |-
+      Herrscher über Tod und Leben,
+      Mach einmal mein Ende gut,
+      Lehre mich den Geist aufgeben
+      Mit recht wohlgefasstem Mut.
+      Hilf, dass ich ein ehrlich Grab
+      Neben frommen Christen hab
+      Und auch endlich in der Erde
+      Nimmermehr zuschanden werde!
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Flauto traverso, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    A: 1
+    B: 1
+    S: 1
+  instrumentation_families:
+    - corno
+    - flauto_traverso
+    - oboe_damore
+wiki:
+  summary: "Liebster Gott, wenn werd ich sterben?, BWV\_8, is a church cantata for the 16th Sunday after Trinity by Johann Sebastian Bach. It is a chorale cantata, part of Bach's second cantata cycle. Bach performed it for the first time on 24 September 1724 in St. Nicholas Church in Leipzig. The cantata is scored for SATB singers, four wind instruments, strings and continuo."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BWV_8_1_traverso.jpeg/330px-BWV_8_1_traverso.jpeg
+  url: https://en.wikipedia.org/wiki/Liebster_Gott%2C_wenn_werd_ich_sterben%2C_BWV_8
+  summary_html: "<p><i><b><span><i lang=\"de\">Liebster Gott, wenn werd ich sterben?</i></span></b></i>, BWV<span class=\"nowrap\">\_</span>8, is a church cantata for the 16th Sunday after Trinity by Johann Sebastian Bach. It is a chorale cantata, part of Bach's second cantata cycle. Bach performed it for the first time on 24 September 1724 in St. Nicholas Church in Leipzig. The cantata is scored for SATB singers, four wind instruments, strings and continuo.</p>"
+performances:
+  - id: r6TELFuXwVE
+    title: Bach - Cantata Liebster Gott, wenn werd ich sterben BWV 8 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk Naarden
+    year: '2023'
+    duration: '18:59'
+    thumbnail: https://img.youtube.com/vi/r6TELFuXwVE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=r6TELFuXwVE
+  - id: BiMVl4NQ0lY
+    title: 'Johann Sebastian Bach - Cantata: Liebster Gott, wenn werd ich sterben, BWV 8. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Richter
+    place: Geist
+    year: ''
+    duration: '23:50'
+    thumbnail: https://img.youtube.com/vi/BiMVl4NQ0lY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BiMVl4NQ0lY
+  - id: 8LvsUqq9FPI
+    title: Bach J.S. Cantata BWV 8
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '17:15'
+    thumbnail: https://img.youtube.com/vi/8LvsUqq9FPI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=8LvsUqq9FPI
+  - id: Hfkq-S7Vis8
+    title: J.S. Bach / Liebster Gott, wenn werd ich sterben? BWV 8 (Herreweghe)
+    channel: scrymgeour34
+    performer: Herreweghe
+    place: Geist
+    year: '1998'
+    duration: '18:41'
+    thumbnail: https://img.youtube.com/vi/Hfkq-S7Vis8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Hfkq-S7Vis8
+  - id: rmmFXEf4c6U
+    title: 'Bach - Cantata: Liebster Gott, wenn werd ich sterben. Mvt.I. {From BWV 8.} Cond: Karl Richter.'
+    channel: TheOneAndOnlyZeno
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '8:30'
+    thumbnail: https://img.youtube.com/vi/rmmFXEf4c6U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rmmFXEf4c6U
+  - id: ndB5ShUcq-Q
+    title: BCA137 BWV8 Cantata for 16th Sunday after Trinity Herreweghe 1998
+    channel: Johann Sebastian
+    performer: Herreweghe
+    place: ''
+    year: '1998'
+    duration: '18:42'
+    thumbnail: https://img.youtube.com/vi/ndB5ShUcq-Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ndB5ShUcq-Q
+  - id: vF6wxz8Z-tc
+    title: Bach Kantate BWV 8 Liebster Gott wann werde ich sterben, Diethard Hellmann
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Eicker Sopran
+    year: '1970'
+    duration: '22:06'
+    thumbnail: https://img.youtube.com/vi/vF6wxz8Z-tc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vF6wxz8Z-tc
+  - id: 29hcobQRY8c
+    title: 'J.S. Bach, Kantate BWV 8: 1 Coro „Liebster Gott, wenn werd ich sterben?“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2015'
+    duration: '6:35'
+    thumbnail: https://img.youtube.com/vi/29hcobQRY8c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=29hcobQRY8c
+  - id: AGQ2EbH6RCc
+    title: 'J. S. Bach - Cantanta: Liebster Gott, wenn werd ich sterben? - BWV 8 - M. Suzuki'
+    channel: Miguel Zampedri
+    performer: Suzuki
+    place: Geist
+    year: ''
+    duration: '17:11'
+    thumbnail: https://img.youtube.com/vi/AGQ2EbH6RCc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AGQ2EbH6RCc
+  - id: 3TP4RoGdDtI
+    title: 'J.S. Bach: Cantata BWV 8 Liebster Gott, wenn werd ich sterben/ Philippe Herreweghe　J.S.バッハ：カンタータ 8番'
+    channel: SPT
+    performer: Herreweghe
+    place: Geist
+    year: February 1998
+    duration: '18:42'
+    thumbnail: https://img.youtube.com/vi/3TP4RoGdDtI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3TP4RoGdDtI
+  - id: Rbkq1fxoWeE
+    title: 'J.S Bach - Cantata: Liebster Gott, wenn werd ich sterben, BWV 8. {Manuscript score}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: Geist
+    year: ''
+    duration: '24:02'
+    thumbnail: https://img.youtube.com/vi/Rbkq1fxoWeE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Rbkq1fxoWeE
+  - id: z6dSAjJFyM4
+    title: J.S. Bach Cantata Liebster Gott, wann werd ich sterben? BWV 8
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: Geist
+    year: ''
+    duration: '23:47'
+    thumbnail: https://img.youtube.com/vi/z6dSAjJFyM4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=z6dSAjJFyM4
+  - id: ol1Iz2KVdLA
+    title: Bach - Cantate BWV 8 - Liebster Gott, wenn werd ich sterben?
+    channel: MusicArt61
+    performer: Leonhardt
+    place: Geist
+    year: '1971'
+    duration: '19:04'
+    thumbnail: https://img.youtube.com/vi/ol1Iz2KVdLA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ol1Iz2KVdLA
+  - id: IieS09Rsv9k
+    title: 'Bach: Cantata 8 : Liebster Gott, wenn werd ich sterben* - Gardiner'
+    channel: greatclassicrecords
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '6:20'
+    thumbnail: https://img.youtube.com/vi/IieS09Rsv9k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IieS09Rsv9k
+  - id: 1a27KUfsx3U
+    title: 'J.S. Bach: Liebster Gott, wenn werd ich sterben?, Cantata BWV 8: 1. Chorus: Liebester Gott,...'
+    channel: Julianne Baird - Topic
+    performer: Julianne Baird - Topic
+    place: ''
+    year: '1989'
+    duration: '5:45'
+    thumbnail: https://img.youtube.com/vi/1a27KUfsx3U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1a27KUfsx3U
+key: E major

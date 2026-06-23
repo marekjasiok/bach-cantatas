@@ -1,0 +1,243 @@
+bwv: '30'
+title: Freue dich, erlöste Schar
+cycle: LATE
+occasion: St. John's
+date: c. 1738 (Parody)
+url: https://en.wikipedia.org/wiki/BWV_30
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Oboe I/II, Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Freue dich, erlöste Schar,
+      Freue dich in Sions Hütten!
+      Dein Gedeihen hat itzund
+      Einen rechten festen Grund,
+      Dich mit Wohl zu überschütten.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wir haben Rast,
+      Und des Gesetzes Last
+      Ist abgetan.
+      Nichts soll uns diese Ruhe stören,
+      Die unsre liebe' Väter oft
+      Gewünscht, verlanget und gehofft.
+      Wohlan,
+      Es freue sich, wer immer kann,
+      Und stimme seinem Gott zu Ehren
+      Ein Loblied an,
+      Und das im höhern Chor,
+      Ja, singt einander vor!
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Gelobet sei Gott, gelobet sein Name,
+      Der treulich gehalten Versprechen und Eid!
+      Sein treuer Diener ist geboren,
+      Der längstens darzu auserkoren,
+      Dass er den Weg dem Herrn bereit'.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Der Herold kömmt und meldt den König an,
+      Er ruft; drum säumet nicht
+      Und macht euch auf
+      Mit einem schnellen Lauf,
+      Eilt dieser Stimme nach!
+      Sie zeigt den Weg, sie zeigt das Licht,
+      Wodurch wir jene selge Auen
+      Dereinst gewisslich können schauen.
+  - num: 5
+    type: Aria
+    voices: A
+    instruments: Flauto traverso, Violino I con sordino, Violino II, Viola, Continuo
+    de: |-
+      Kommt, ihr angefochtnen Sünder,
+      Eilt und lauft, ihr Adamskinder,
+      Euer Heiland ruft und schreit!
+      Kommet, ihr verirrten Schafe,
+      Stehet auf vom Sündenschlafe,
+      Denn itzt ist die Gnadenzeit!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso I/II in octava e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Eine Stimme lässt sich hören
+      In der Wüste weit und breit,
+      Alle Menschen zu bekehren:
+      Macht dem Herrn den Weg bereit,
+      Machet Gott ein ebne Bahn,
+      Alle Welt soll heben an,
+      Alle Täler zu erhöhen,
+      Dass die Berge niedrig stehen.
+  - num: 7
+    type: Recitative
+    voices: B
+    instruments: Oboe I/II, Continuo
+    de: |-
+      So bist du denn, mein Heil, bedacht,
+      Den Bund, den du gemacht
+      Mit unsern Vätern, treu zu halten
+      Und in Genaden über uns zu walten;
+      Drum will ich mich mit allem Fleiß
+      Dahin bestreben,
+      Dir, treuer Gott, auf dein Geheiß
+      In Heiligkeit und Gottesfurcht zu leben.
+  - num: 8
+    type: Aria
+    voices: B
+    instruments: Oboe d'amore, Violino solo, Violino I/II, Viola, Continuo
+    de: |-
+      Ich will nun hassen
+      Und alles lassen,
+      Was dir, mein Gott, zuwider ist.
+      Ich will dich nicht betrüben,
+      Hingegen herzlich lieben,
+      Weil du mir so genädig bist.
+  - num: 9
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Und obwohl sonst der Unbestand
+      Den schwachen Menschen ist verwandt,
+      So sei hiermit doch zugesagt:
+      Sooft die Morgenröte tagt,
+      Solang ein Tag den andern folgen lässt,
+      So lange will ich steif und fest,
+      Mein Gott, durch deinen Geist
+      Dir ganz und gar zu Ehren leben.
+      Dich soll sowohl mein Herz als Mund
+      Nach dem mit dir gemachten Bund
+      Mit wohlverdientem Lob erheben.
+  - num: 10
+    type: Aria
+    voices: S
+    instruments: Violini all' unisono, Continuo
+    de: |-
+      Eilt, ihr Stunden, kommt herbei,
+      Bringt mich bald in jene Auen!
+      Ich will mit der heilgen Schar
+      Meinem Gott ein' Dankaltar
+      In den Hütten Kedar bauen,
+      Bis ich ewig dankbar sei.
+  - num: 11
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Geduld, der angenehme Tag
+      Kann nicht mehr weit und lange sein,
+      Da du von aller Plag
+      Der Unvollkommenheit der Erden,
+      Die dich, mein Herz, gefangen hält,
+      Vollkommen wirst befreiet werden.
+      Der Wunsch trifft endlich ein,
+      Da du mit den erlösten Seelen
+      In der Vollkommenheit
+      Von diesem Tod des Leibes bist befreit,
+      Da wird dich keine Not mehr quälen.
+  - num: 12
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Freue dich, geheilgte Schar,
+      Freue dich in Sions Auen!
+      Deiner Freude Herrlichkeit,
+      Deiner Selbstzufriedenheit
+      Wird die Zeit kein Ende schauen.
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto traverso I/II, Oboe I/II, Oboe d''amore, Violino I/II, Viola, Organo, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 3
+    B: 4
+    A: 2
+    S: 2
+    T: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+    - organ
+    - violino_solo
+wiki:
+  summary: "Freue dich, erlöste Schar, BWV\_30.2, BWV\_30, is a church cantata by Johann Sebastian Bach. It is one of his later realisations in the genre: he composed it for the Feast of John the Baptist in 1738, and based its music largely on Angenehmes Wiederau, a secular cantata which he had composed a year earlier. Christian Friedrich Henrici (Picander), the librettist of the secular model of the cantata, is likely also the author of the sacred cantata's version of the text."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/1037_Lucas_Cranach_il_vecchio.jpg/330px-1037_Lucas_Cranach_il_vecchio.jpg
+  url: https://en.wikipedia.org/wiki/Freue_dich%2C_erl%C3%B6ste_Schar%2C_BWV_30
+  summary_html: "<p><b><span><i lang=\"de\">Freue dich, erlöste Schar</i></span></b>, <span><abbr>BWV</abbr></span><span class=\"nowrap\">\_</span>30.2, <b>BWV<span class=\"nowrap\">\_</span>30</b>, is a church cantata by Johann Sebastian Bach. It is one of his later realisations in the genre: he composed it for the Feast of John the Baptist in 1738, and based its music largely on <i>Angenehmes Wiederau</i>, a secular cantata which he had composed a year earlier. Christian Friedrich Henrici (Picander), the librettist of the secular model of the cantata, is likely also the author of the sacred cantata's version of the text.</p>"
+performances:
+  - id: fr03JGD73e4
+    title: J.S. Bach - Cantata BWV 30 "Freue dich, erlöste Schar" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Name
+    year: '2015'
+    duration: '37:22'
+    thumbnail: https://img.youtube.com/vi/fr03JGD73e4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fr03JGD73e4
+  - id: Sr1mZ98RiJo
+    title: Magdalena Kozena J.S.Bach, Kommt, Ihr Angefochtnen Sunder, BWV 30, Nr. 5
+    channel: FildafromAFcz
+    performer: FildafromAFcz
+    place: ''
+    year: '1997'
+    duration: '5:11'
+    thumbnail: https://img.youtube.com/vi/Sr1mZ98RiJo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Sr1mZ98RiJo
+  - id: Zsn5gQ5vdmo
+    title: 'J.S. Bach: Freue dich, erlöste Schar, BWV 30: Aria. Kommt, ihr angefochtnen Sünder'
+    channel: Magdalena Kožená - Topic
+    performer: Magdalena Kožená - Topic
+    place: ''
+    year: '1997'
+    duration: '5:25'
+    thumbnail: https://img.youtube.com/vi/Zsn5gQ5vdmo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Zsn5gQ5vdmo
+  - id: 9ep9wONkU2c
+    title: Johann Sebastian Bach (Eisenach, 1685 -- Lipsia, 1750) _ Cantata BWV 30 _ Aria for Alto (5)
+    channel: Jainkeff
+    performer: Jainkeff
+    place: Eisenach
+    year: '1998'
+    duration: '5:32'
+    thumbnail: https://img.youtube.com/vi/9ep9wONkU2c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9ep9wONkU2c
+  - id: '-aRtgd7El-c'
+    title: Bach Choeur Cantate BWV 30 (Gustav Leonhardt).m4v
+    channel: TheLastandleast
+    performer: Leonhardt
+    place: Paris
+    year: '2007'
+    duration: '5:44'
+    thumbnail: https://img.youtube.com/vi/-aRtgd7El-c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-aRtgd7El-c
+key: A minor

@@ -1,0 +1,249 @@
+bwv: '164'
+title: Ihr, die ihr euch von Christo nennet
+cycle: C3
+occasion: Trinity XIII
+date: '1725-08-26'
+url: https://en.wikipedia.org/wiki/BWV_164
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ihr, die ihr euch von Christo nennet,
+      Wo bleibet die Barmherzigkeit,
+      Daran man Christi Glieder kennet?
+      Sie ist von euch, ach, allzu weit.
+      Die Herzen sollten liebreich sein,
+      So sind sie härter als ein Stein.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wir hören zwar, was selbst die Liebe spricht:
+      Die mit Barmherzigkeit den Nächsten hier umfangen
+      Die sollen vor Gericht
+      Barmherzigkeit erlangen.
+      Jedoch, wir achten solches nicht!
+      Wir hören noch des Nächsten Seufzer an!
+      Er klopft an unser Herz; doch wirds nicht aufgetan!
+      Wir sehen zwar sein Händeringen,
+      Sein Auge, das von Tränen fleußt;
+      Doch lässt das Herz sich nicht zur Liebe zwingen.
+      Der Priester und Levit,
+      Der hier zur Seite tritt,
+      Sind ja ein Bild liebloser Christen;
+      Sie tun, als wenn sie nichts von fremdem Elend wüssten,
+      Sie gießen weder Öl noch Wein
+      Ins Nächsten Wunden ein.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Flauto traverso I/II, Continuo
+    de: |-
+      Nur durch Lieb und durch Erbarmen
+      Werden wir Gott selber gleich.
+      Samaritergleiche Herzen
+      Lassen fremden Schmerz sich schmerzen
+      Und sind an Erbarmung reich.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ach, schmelze doch durch deinen Liebesstrahl
+      Des kalten Herzens Stahl,
+      Dass ich die wahre Christenliebe,
+      Mein Heiland, täglich übe,
+      Dass meines Nächsten Wehe,
+      Er sei auch, wer er ist,
+      Freund oder Feind, Heid oder Christ,
+      Mir als mein eignes Leid zu Herzen allzeit gehe!
+      Mein Herz sei liebreich, sanft und mild,
+      So wird in mir verklärt dein Ebenbild.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Continuo
+    de: |-
+      Händen, die sich nicht verschließen,
+      Wird der Himmel aufgetan.
+      Augen, die mitleidend fließen,
+      Sieht der Heiland gnädig an.
+      Herzen, die nach Liebe streben,
+      Will Gott selbst sein Herze geben.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Ertöt uns durch dein Güte,
+      Erweck uns durch dein Gnad!
+      Den alten Menschen kränke,
+      Dass der neu' leben mag
+      Wohl hier auf dieser Erden,
+      Den Sinn und all Begehrden
+      Und Gdanken habn zu dir.
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 2
+    B: 1
+    A: 1
+    SATB: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ihr, die ihr euch von Christo nennet, BWV\_164 in Leipzig for the 13th Sunday after Trinity and first performed it on 26 August 1725."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Ihr%2C_die_ihr_euch_von_Christo_nennet%2C_BWV_164
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ihr, die ihr euch von Christo nennet</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>164</b> in Leipzig for the 13th Sunday after Trinity and first performed it on 26 August 1725.</p>"
+performances:
+  - id: EjzvkC0FuMY
+    title: Bach - Cantata Ihr, die ihr euch von Christo nennet BWV 164 - John Butt | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Walloon Church
+    year: September 2024
+    duration: '16:25'
+    thumbnail: https://img.youtube.com/vi/EjzvkC0FuMY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=EjzvkC0FuMY
+  - id: rYebpMjPlo8
+    title: J.S. Bach - Cantata BWV 164 "Ihr, die ihr euch von Christo nennet" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2016'
+    duration: '19:00'
+    thumbnail: https://img.youtube.com/vi/rYebpMjPlo8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rYebpMjPlo8
+  - id: OihJNBdsT4o
+    title: 'J. S. Bach:  Ihr, die ihr euch von Christo nennet (BWV 164) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '15:26'
+    thumbnail: https://img.youtube.com/vi/OihJNBdsT4o/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OihJNBdsT4o
+  - id: 3Df-dt0yCTc
+    title: J.S. Bach - BWV 164 (Ye who bear the name of Christ)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '17:38'
+    thumbnail: https://img.youtube.com/vi/3Df-dt0yCTc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3Df-dt0yCTc
+  - id: 2dLrV3TfERQ
+    title: 'Ihr, die ihr euch von Christo nennet, BWV 164: Aria: Ihr, die ihr euch von Christo nennet (Tenor)'
+    channel: Edith Wiens - Topic
+    performer: Lutz
+    place: Stuttgart
+    year: '2000'
+    duration: '4:31'
+    thumbnail: https://img.youtube.com/vi/2dLrV3TfERQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=2dLrV3TfERQ
+  - id: PVJ14rRya0I
+    title: 'J.S. Bach: Ihr, die ihr euch von Christo nennet, BWV 164 {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Leipzig
+    year: ''
+    duration: '15:20'
+    thumbnail: https://img.youtube.com/vi/PVJ14rRya0I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PVJ14rRya0I
+  - id: 7-3eNkHEwbc
+    title: Bach Kantate BWV164 Ihr, die ihr euch von Christo nennet, Kurt Thomas 1960
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Leipzig
+    year: '1960'
+    duration: '16:41'
+    thumbnail: https://img.youtube.com/vi/7-3eNkHEwbc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7-3eNkHEwbc
+  - id: ApU3UOGHp6c
+    title: 'J.S. Bach, Kantate BWV 164: 6 Choral „Ertöt uns durch dein Güte“ | Kay Johannsen'
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2018'
+    duration: '1:29'
+    thumbnail: https://img.youtube.com/vi/ApU3UOGHp6c/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ApU3UOGHp6c
+  - id: OHas-rtFfhs
+    title: Bach Cantata BWV 4 Christ lag in Todesbanden - Gardiner/Monteverdi Choir/ English Baroque Soloists
+    channel: vse vsad
+    performer: Gardiner
+    place: ''
+    year: '2021'
+    duration: '22:43'
+    thumbnail: https://img.youtube.com/vi/OHas-rtFfhs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OHas-rtFfhs
+  - id: uQNBDsDdLeE
+    title: Bach - Cantata Christ lag in Todesbanden BWV 4 - Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: Todes Banden
+    year: '2023'
+    duration: '18:37'
+    thumbnail: https://img.youtube.com/vi/uQNBDsDdLeE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uQNBDsDdLeE
+  - id: 1PAZqlOjjmM
+    title: Johann Sebastian Bach   BWV 164 Cantata 'Ihr, die ihr euch von Christo nennet' in G minor
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Petzold Tenor
+    year: ''
+    duration: '15:39'
+    thumbnail: https://img.youtube.com/vi/1PAZqlOjjmM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1PAZqlOjjmM
+  - id: vWH_OwfvFjo
+    title: Bach Kantate BWV 164 Ihr die ihr euch von Christo nennet, Helmut Rilling 1981 LP Hänssler
+    channel: Rainer Harald
+    performer: Rilling
+    place: Bass
+    year: '1981'
+    duration: '17:46'
+    thumbnail: https://img.youtube.com/vi/vWH_OwfvFjo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vWH_OwfvFjo
+  - id: px0B94Jk-hQ
+    title: 'Ihr, die ihr euch von Christo nennet, BWV 164: No. 1, Aria. "Ihr, die ihr euch von Christo nennet"'
+    channel: Gustav Leonhardt - Topic
+    performer: Leonhardt
+    place: ''
+    year: '1987'
+    duration: '4:29'
+    thumbnail: https://img.youtube.com/vi/px0B94Jk-hQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=px0B94Jk-hQ
+  - id: 6nPizQIgPu8
+    title: Cantata `Ihr, die ihr euch von Christo nennet` BWV 164 | Johann Sebastian Bach
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: ''
+    year: ''
+    duration: '16:58'
+    thumbnail: https://img.youtube.com/vi/6nPizQIgPu8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6nPizQIgPu8
+  - id: dJrE8zLJOtk
+    title: 'Ihr, die ihr euch von Christo nennet, BWV 164: Aria: Handen, die sich nicht verschliessen...'
+    channel: Gerlinde Sämann - Topic
+    performer: Kuijken
+    place: ''
+    year: '2000'
+    duration: '3:15'
+    thumbnail: https://img.youtube.com/vi/dJrE8zLJOtk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dJrE8zLJOtk
+key: C major

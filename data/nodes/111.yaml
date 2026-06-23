@@ -1,0 +1,102 @@
+bwv: '111'
+title: Was mein Gott will, das g'scheh allzeit
+cycle: C2
+occasion: Epiphany III
+date: '1725-01-21'
+url: https://en.wikipedia.org/wiki/BWV_111
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Was mein Gott will, das g'scheh allzeit,
+      Sein Will, der ist der beste;
+      Zu helfen den'n er ist bereit,
+      Die an ihn gläuben feste.
+      Er hilft aus Not, der fromme Gott,
+      Und züchtiget mit Maßen:
+      Wer Gott vertraut, fest auf ihn baut,
+      Den will er nicht verlassen.
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Entsetze dich, mein Herze, nicht,
+      Gott ist dein Trost und Zuversicht
+      Und deiner Seele Leben.
+      Ja, was sein weiser Rat bedacht,
+      Dem kann die Welt und Menschenmacht
+      Unmöglich widerstreben.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      O Törichter! der sich von Gott entzieht
+      Und wie ein Jonas dort
+      Vor Gottes Angesichte flieht;
+      Auch unser Denken ist ihm offenbar,
+      Und unsers Hauptes Haar
+      Hat er gezählet.
+      Wohl dem, der diesen Schutz erwählet
+      Im gläubigen Vertrauen,
+      Auf dessen Schluss und Wort
+      Mit Hoffnung und Geduld zu schauen.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      So geh ich mit beherzten Schritten,
+      Auch wenn mich Gott zum Grabe führt.
+      Gott hat die Tage aufgeschrieben,
+      So wird, wenn seine Hand mich rührt,
+      Des Todes Bitterkeit vertrieben.
+  - num: 5
+    type: Recitative
+    voices: S
+    instruments: Oboe I/II, Continuo
+    de: |-
+      Drum wenn der Tod zuletzt den Geist
+      Noch mit Gewalt aus seinem Körper reißt,
+      So nimm ihn, Gott, in treue Vaterhände!
+      Wenn Teufel, Tod und Sünde mich bekriegt
+      Und meine Sterbekissen
+      Ein Kampfplatz werden müssen,
+      So hilf, damit in dir mein Glaube siegt!
+      O seliges, gewünschtes Ende!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Noch eins, Herr, will ich bitten dich,
+      Du wirst mir's nicht versagen:
+      Wenn mich der böse Geist anficht,
+      Lass mich doch nicht verzagen.
+      Hilf, steur und wehr, ach Gott, mein Herr,
+      Zu Ehren deinem Namen.
+      Wer das begehrt, dem wird's gewährt;
+      Drauf sprech ich fröhlich: Amen.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 1
+    A: 1
+    S: 1
+  instrumentation_families:
+    - oboe
+key: D minor

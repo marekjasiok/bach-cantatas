@@ -1,0 +1,210 @@
+bwv: '192'
+title: Nun danket alle Gott
+cycle: LATE
+occasion: Reformation
+date: 1730 (**Non-Extant/Partial**)
+url: https://en.wikipedia.org/wiki/BWV_192
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Nun danket alle Gott
+      Mit Herzen, Mund und Händen,
+      Der große Dinge tut
+      An uns und allen Enden,
+      Der uns von Mutterleib
+      Und Kindesbeinen an
+      Unzählig viel zugut
+      Und noch jetzund getan.
+  - num: 2
+    type: Aria
+    voices: ''
+    instruments: Flauto traverso I, Oboe I, Violino I/II, Viola, Continuo
+    de: |-
+      Der ewig reiche Gott
+      Woll uns bei unserm Leben
+      Ein immer fröhlich Herz
+      Und edlen Frieden geben
+      Und uns in seiner Gnad
+      Erhalten fort und fort
+      Und uns aus aller Not
+      Erlösen hier und dort.
+  - num: 3
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Lob, Ehr und Preis sei Gott,
+      Dem Vater und dem Sohne
+      Und dem, der beiden gleich
+      Im hohen Himmelsthrone,
+      Dem dreieinigen Gott,
+      Als der ursprünglich war
+      Und ist und bleiben wird
+      Jetzund und immerdar.
+scoring: 'Soli: S B, Coro: S A T B, Flauto traverso I/II, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+key: G major
+wiki:
+  summary: >-
+    Nun danket alle Gott, BWV 192, is a church cantata for Trinity Sunday composed by Johann Sebastian Bach in Leipzig
+    in 1730. It is an incomplete cantata, because its tenor part is missing. It is a chorale cantata, setting the
+    unmodified three stanzas of Martin Rinckart's "Nun danket alle Gott". It has been regarded as an expansion of Bach's
+    chorale cantata cycle.
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Martin_Rinckart.jpg/330px-Martin_Rinckart.jpg
+  url: https://en.wikipedia.org/wiki/Nun_danket_alle_Gott%2C_BWV_192
+  summary_html: >-
+    <p><b><span><i lang="de">Nun danket alle Gott</i></span></b>, BWV 192, is a church cantata for Trinity Sunday
+    composed by Johann Sebastian Bach in Leipzig in 1730. It is an incomplete cantata, because its tenor part is
+    missing. It is a chorale cantata, setting the unmodified three stanzas of Martin Rinckart's "Nun danket alle Gott".
+    It has been regarded as an expansion of Bach's chorale cantata cycle.</p>
+performances:
+  - id: quYd7qJzsAE
+    title: Bach - Cantate Nun danket alle Gott BWV 192 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Philharmonie Haarlem
+    year: 20 June 2022
+    duration: '11:07'
+    thumbnail: https://img.youtube.com/vi/quYd7qJzsAE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=quYd7qJzsAE
+  - id: 7l9rMTu-N7k
+    title: J. S. Bach - Cantata BWV 192 "Nun danket alle Gott" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Richter
+    place: Susanna Hefti
+    year: '2021'
+    duration: '13:36'
+    thumbnail: https://img.youtube.com/vi/7l9rMTu-N7k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7l9rMTu-N7k
+  - id: p2iQj57X4r8
+    title: J.S. Bach - BWV 192 (Now thank ye all our God)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '15:11'
+    thumbnail: https://img.youtube.com/vi/p2iQj57X4r8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=p2iQj57X4r8
+  - id: j3Ye3O-_FGY
+    title: 'J.S. Bach: Nun danket alle Gott, BWV 192 {Score video}'
+    channel: Bohemian Baroque
+    performer: Bohemian Baroque
+    place: Leipzig
+    year: ''
+    duration: '10:58'
+    thumbnail: https://img.youtube.com/vi/j3Ye3O-_FGY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=j3Ye3O-_FGY
+  - id: OyMTJOmnXxQ
+    title: Bach - Cantate BWV 192 - Nun danket alle Gott
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leipzig
+    year: '1987'
+    duration: '12:12'
+    thumbnail: https://img.youtube.com/vi/OyMTJOmnXxQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OyMTJOmnXxQ
+  - id: gjWst0N2y94
+    title: Cantata `Nun danket alle Gott` BWV 192 | Johann Sebastian Bach
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: ''
+    year: ''
+    duration: '13:04'
+    thumbnail: https://img.youtube.com/vi/gjWst0N2y94/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gjWst0N2y94
+  - id: rR-7DZcqkuA
+    title: 'Nun danket alle Gott, BWV 192: I. "Nun danket alle Gott"'
+    channel: Thomanerchor Leipzig - Topic
+    performer: Thomanerchor Leipzig - Topic
+    place: Rinckart
+    year: '1984'
+    duration: '6:27'
+    thumbnail: https://img.youtube.com/vi/rR-7DZcqkuA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rR-7DZcqkuA
+  - id: NUuF8wWW4U0
+    title: J. S. Bach - Chorus "Nun danket alle Gott" from Cantata BWV 192
+    channel: Bachstiftung
+    performer: Lutz
+    place: St
+    year: '2021'
+    duration: '5:42'
+    thumbnail: https://img.youtube.com/vi/NUuF8wWW4U0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NUuF8wWW4U0
+  - id: HBVLtyMT2oU
+    title: BWV 192 «Nun danket alle Gott»
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '1:30'
+    thumbnail: https://img.youtube.com/vi/HBVLtyMT2oU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HBVLtyMT2oU
+  - id: v_9p9XampjA
+    title: 'A Mysterious Cantata: J.S. Bach''s BWV 192 "Nun danket alle Gott" Explored | Bach Factory'
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: ''
+    duration: '27:47'
+    thumbnail: https://img.youtube.com/vi/v_9p9XampjA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=v_9p9XampjA
+  - id: zE3vj8u67G0
+    title: Johann Sebastian Bach - Cantata Nun danket alle Gott BWV 192
+    channel: Johannes Buhlmann
+    performer: Johannes Buhlmann
+    place: ''
+    year: ''
+    duration: '15:02'
+    thumbnail: https://img.youtube.com/vi/zE3vj8u67G0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zE3vj8u67G0
+  - id: APHztMf7YXg
+    title: 'Nun danket alle Gott, BWV 192: III. "Lob, Ehr und Preis sei Gott"'
+    channel: Thomanerchor Leipzig - Topic
+    performer: Thomanerchor Leipzig - Topic
+    place: Rinckart
+    year: '1984'
+    duration: '3:17'
+    thumbnail: https://img.youtube.com/vi/APHztMf7YXg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=APHztMf7YXg
+  - id: JeZ5aeYxODA
+    title: Nun danket alle Gott, BWV 192 - Bach, Johann Sebastian - Classical Music
+    channel: The Audio Library
+    performer: The Audio Library
+    place: B minor
+    year: ''
+    duration: '7:04'
+    thumbnail: https://img.youtube.com/vi/JeZ5aeYxODA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JeZ5aeYxODA
+  - id: 9XF_jdizWJg
+    title: J.S. Bach - Cantata BWV 102 "Herr, deine Augen sehen nach dem Glauben" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: ''
+    year: '2019'
+    duration: '24:42'
+    thumbnail: https://img.youtube.com/vi/9XF_jdizWJg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9XF_jdizWJg
+  - id: nYKASA-WZgg
+    title: 'Nun Danket Alle Gott BWV 192: Chorus : "nun danket alle Gott"'
+    channel: The Amsterdam Baroque Orchestra and Choir - Topic
+    performer: Koopman
+    place: Amsterdam
+    year: '2007'
+    duration: '5:27'
+    thumbnail: https://img.youtube.com/vi/nYKASA-WZgg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=nYKASA-WZgg

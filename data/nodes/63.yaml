@@ -1,0 +1,261 @@
+bwv: '63'
+title: Christen, ätzet diesen Tag
+cycle: EARLY
+occasion: Christmas
+date: '1714'
+url: https://en.wikipedia.org/wiki/BWV_63
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-IV, Tamburi, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Christen, ätzet diesen Tag
+      In Metall und Marmorsteine!
+      Kommt und eilt mit mir zur Krippen
+      Und erweist mit frohen Lippen
+      Euren Dank und eure Pflicht;
+      Denn der Strahl, so da einbricht,
+      Zeigt sich euch zum Gnadenscheine.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      O selger Tag! o ungemeines Heute,
+      An dem das Heil der Welt,
+      Der Schilo, den Gott schon im Paradies
+      Dem menschlichen Geschlecht verhieß,
+      Nunmehro sich vollkommen dargestellt
+      Und suchet Israel von der Gefangenschaft und Sklavenketten
+      Des Satans zu erretten.
+      Du liebster Gott, was sind wir arme doch?
+      Ein abgefallnes Volk, so dich verlassen;
+      Und dennoch willst du uns nicht hassen;
+      Denn eh wir sollen noch nach dem Verdienst zu Boden liegen,
+      Eh muss die Gottheit sich bequemen,
+      Die menschliche Natur an sich zu nehmen
+      Und auf der Erden
+      Im Hirtenstall zu einem Kinde werden.
+      O unbegreifliches, doch seliges Verfügen!
+  - num: 3
+    type: Aria
+    voices: ''
+    instruments: Oboe solo, Continuo
+    de: |-
+      Gott, du hast es wohl gefüget,
+      Was uns itzo widerfährt.
+      Drum lasst uns auf ihn stets trauen
+      Und auf seine Gnade bauen,
+      Denn er hat uns dies beschert,
+      Was uns ewig nun vergnüget.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      So kehret sich nun heut
+      Das bange Leid,
+      Mit welchem Israel geängstet und beladen,
+      In lauter Heil und Gnaden.
+      Der Löw aus Davids Stamme ist erschienen,
+      Sein Bogen ist gespannt, das Schwert ist schon gewetzt,
+      Womit er uns in vor'ge Freiheit setzt.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ruft und fleht den Himmel an,
+      Kommt, ihr Christen, kommt zum Reihen,
+      Ihr sollt euch ob dem erfreuen,
+      Was Gott hat anheut getan!
+      Da uns seine Huld verpfleget
+      Und mit so viel Heil beleget,
+      Dass man nicht g'nug danken kann.
+  - num: 6
+    type: Recitative
+    voices: B
+    instruments: Oboe I-III, Violino I/II, Viola, Fagotto, Continuo
+    de: |-
+      Verdoppelt euch demnach, ihr heißen Andachtsflammen,
+      Und schlagt in Demut brünstiglich zusammen!
+      Steigt fröhlich himmelan
+      Und danket Gott vor dies, was er getan!
+  - num: 7
+    type: Chorus
+    voices: T
+    instruments: Tromba I-IV, Tamburi, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Höchster, schau in Gnaden an
+      Diese Glut gebückter Seelen!
+      Lass den Dank, den wir dir bringen,
+      Angenehme vor dir klingen,
+      Lass uns stets in Segen gehn,
+      Aber niemals nicht geschehn,
+      Dass uns der Satan möge quälen.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-IV, Tamburi, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    T: 3
+    A: 1
+    B: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - timpani
+    - tromba
+wiki:
+  summary: "Christen, ätzet diesen Tag, BWV\_63, is a church cantata by Johann Sebastian Bach. He composed the Christmas cantata for the First Day of Christmas, possibly in 1713 for the Liebfrauenkirche in Halle. He performed it again for his first Christmas as Thomaskantor in Leipzig, on 25 December 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MarienkircheHalle_Innenraum_2.jpg/330px-MarienkircheHalle_Innenraum_2.jpg
+  url: https://en.wikipedia.org/wiki/Christen%2C_%C3%A4tzet_diesen_Tag%2C_BWV_63
+  summary_html: "<p><b><span><i lang=\"de\">Christen, ätzet diesen Tag</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>63</b>, is a church cantata by Johann Sebastian Bach. He composed the Christmas cantata for the First Day of Christmas, possibly in 1713 for the <span><span style=\"font-style:normal\">Liebfrauenkirche</span></span> in Halle. He performed it again for his first Christmas as <span><span style=\"font-style:normal\">Thomaskantor</span></span> in Leipzig, on 25 December 1723.</p>"
+key: C major
+performances:
+  - id: ugwRo3md1CM
+    title: Bach - Cantata Christen, ätzet diesen Tag BWV 63 - Creed | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Leipzig
+    year: '2018'
+    duration: '28:00'
+    thumbnail: https://img.youtube.com/vi/ugwRo3md1CM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ugwRo3md1CM
+  - id: RmqxkhYQCBU
+    title: J.S. Bach - Cantata BWV 63 "Christen, ätzet diesen Tag" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2008'
+    duration: '30:41'
+    thumbnail: https://img.youtube.com/vi/RmqxkhYQCBU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RmqxkhYQCBU
+  - id: w5n1cY--uwI
+    title: J. S. Bach, "Christen, ätzet diesen Tag!" BWV 63--Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: Wegner
+    year: '2026'
+    duration: '1:15:57'
+    thumbnail: https://img.youtube.com/vi/w5n1cY--uwI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=w5n1cY--uwI
+  - id: 61JCFyrH5kY
+    title: 'Johann Sebastian Bach - Cantata: Christen, ätzet diesen Tag, BWV 63. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '29:38'
+    thumbnail: https://img.youtube.com/vi/61JCFyrH5kY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=61JCFyrH5kY
+  - id: S_RWR-ZfsJk
+    title: J.S. Bach Cantata Christen, ätzet diesen Tag, BWV 63, Karl Richter
+    channel: HarpsichordA6
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '29:42'
+    thumbnail: https://img.youtube.com/vi/S_RWR-ZfsJk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=S_RWR-ZfsJk
+  - id: BZULwAG3yLw
+    title: 'J.S Bach - Cantata: Christen, ätzet diesen Tag, BWV 63 {Vocal score}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '29:56'
+    thumbnail: https://img.youtube.com/vi/BZULwAG3yLw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BZULwAG3yLw
+  - id: OeGHNWqa1ik
+    title: Bach – Cantata, BWV 63
+    channel: Clássicos dos Clássicos
+    performer: Rilling
+    place: Weimar
+    year: ''
+    duration: '28:13'
+    thumbnail: https://img.youtube.com/vi/OeGHNWqa1ik/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OeGHNWqa1ik
+  - id: C4jsRQf8J4M
+    title: J.S. Bach - Aria "Ruft und fleht den Himmel an" from Cantata BWV 63
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '3:55'
+    thumbnail: https://img.youtube.com/vi/C4jsRQf8J4M/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=C4jsRQf8J4M
+  - id: xdrabGW6rA0
+    title: J.S. Bach - Cantata "Christen ätzet diesen Tag" BWV 63 (Gardiner)
+    channel: DG
+    performer: Gardiner
+    place: ''
+    year: ''
+    duration: '30:00'
+    thumbnail: https://img.youtube.com/vi/xdrabGW6rA0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xdrabGW6rA0
+  - id: 4-ZeXt0KQck
+    title: 'Christen, ätzet diesen Tag, BWV 63: Chorale. Hochster, schau in Gnaden an (Chorus)'
+    channel: Claron McFadden - Topic
+    performer: Gardiner
+    place: ''
+    year: '2010'
+    duration: '6:35'
+    thumbnail: https://img.youtube.com/vi/4-ZeXt0KQck/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4-ZeXt0KQck
+  - id: ke1Cmua5nSc
+    title: BCA008 BWV63 Cantata for 1st Day of Christmas Herreweghe 2002
+    channel: Johann Sebastian
+    performer: Herreweghe
+    place: ''
+    year: '2002'
+    duration: '27:30'
+    thumbnail: https://img.youtube.com/vi/ke1Cmua5nSc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ke1Cmua5nSc
+  - id: 44Ow4_kkwzg
+    title: 'JS Bach: Christmas Cantata BWV 63 - Thomanerchor, Georg Christoph Biller (Audio video)'
+    channel: Faces of Classical Music – 11
+    performer: Faces of Classical Music – 11
+    place: Gnaden an
+    year: '2011'
+    duration: '27:19'
+    thumbnail: https://img.youtube.com/vi/44Ow4_kkwzg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=44Ow4_kkwzg
+  - id: GUH8Jov2UVc
+    title: JS. Bach, Cantata Christen ätzet diesen Tag, BWV 63. Ricercar Consort / Philippe Pierlot
+    channel: Ewa Chamiec. CzarMuzyki
+    performer: Ewa Chamiec. CzarMuzyki
+    place: ''
+    year: ''
+    duration: '5:27'
+    thumbnail: https://img.youtube.com/vi/GUH8Jov2UVc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GUH8Jov2UVc
+  - id: fBVWnu7X7II
+    title: J. S. Bach- Magnificat BWV 243a & Cantata BWV 63 - V. Tournet
+    channel: Miguel Zampedri
+    performer: Miguel Zampedri
+    place: Major
+    year: ''
+    duration: '59:12'
+    thumbnail: https://img.youtube.com/vi/fBVWnu7X7II/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=fBVWnu7X7II
+  - id: gZq0Gdetfd8
+    title: 'BWV 63: Christen, ätzet diesen Tag (Scrolling)'
+    channel: gerubach
+    performer: gerubach
+    place: ''
+    year: ''
+    duration: '29:06'
+    thumbnail: https://img.youtube.com/vi/gZq0Gdetfd8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=gZq0Gdetfd8

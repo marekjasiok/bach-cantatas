@@ -1,0 +1,95 @@
+bwv: 147a
+title: Herz und Mund und Tat und Leben
+cycle: EARLY
+occasion: Advent IV
+date: 1716 (**Non-Extant**)
+url: https://en.wikipedia.org/wiki/BWV_147
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: ''
+    de: |-
+      Herz und Mund und Tat und Leben
+      Muss von Christo Zeugnis geben
+      Ohne Furcht und Heuchelei,
+      Dass er Gott und Heiland sei.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: ''
+    de: |-
+      Schäme dich, o Seele, nicht,
+      Deinen Heiland zu bekennen,
+      Soll er seine Braut dich nennen
+      Vor des Vaters Angesicht!
+      Denn wer ihn auf dieser Erden
+      Zu verleugnen sich nicht scheut,
+      Soll von ihm verleugnet werden,
+      Wenn er kommt zur Herrlichkeit!
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: ''
+    de: |-
+      Hilf, jesu, hilf, dass ich auch dich bekenne
+      In Wohl und Weh! in Freud und Leid!
+      Dass ich dich meinen Heiland nenne
+      In Glauben mit Gelassenheit.
+      Dass stets mein Herz von deiner Liebe brenne!
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: ''
+    de: |-
+      Bereite dir, jesu, noch heute die Bahn!
+      Beziehe die Höhle
+      Des Herzens, der Seele,
+      Und blicke mit Augen der Gnade mich an.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: ''
+    de: |-
+      Lass mich der Rufer Stimme hören,
+      Die mit Johanne treulich lehren,
+      Ich soll in dieser Gnadenzeit
+      Von Finsternis und Dunkelheit
+      Zum wahren Lichte mich bekehren.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: ''
+    de: |-
+      Dein Wort lass mich bekennen
+      Für dieser argen Welt,
+      Auch mich dein'n Diener nennen,
+      Nicht fürchten Gwalt noch Geld,
+      Das mich bald mög ableiten
+      Von deiner Wahrheit klar;
+      Wollst mich auch nicht abscheiden
+      Von der christlichen Schar.
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    T: 1
+    S: 1
+    B: 1
+  instrumentation_families: []
+wiki:
+  summary: "Herz und Mund und Tat und Leben, BWV\_147.1, BWV 147a, is a cantata by Johann Sebastian Bach. He composed it in Weimar in 1716 for the fourth Sunday in Advent, 20 December. It is uncertain if the work was performed then. He later expanded the work in 1723 as Herz und Mund und Tat und Leben, BWV 147."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schlosskirche_Weimar_1660.jpg/330px-Schlosskirche_Weimar_1660.jpg
+  url: https://en.wikipedia.org/wiki/Herz_und_Mund_und_Tat_und_Leben%2C_BWV_147a
+  summary_html: "<p><i><b><span><i lang=\"de\">Herz und Mund und Tat und Leben</i></span></b></i>, BWV\_147.1, <b><span class=\"nowrap\">BWV 147a</span></b>, is a cantata by Johann Sebastian Bach. He composed it in Weimar in 1716 for the fourth Sunday in Advent, 20 December. It is uncertain if the work was performed then. He later expanded the work in 1723 as <span><i>Herz und Mund und Tat und Leben</i>, BWV 147</span>.</p>"

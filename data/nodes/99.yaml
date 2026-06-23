@@ -1,0 +1,116 @@
+bwv: '99'
+title: Was Gott tut, das ist wohlgetan
+cycle: C2
+occasion: Trinity XV
+date: '1724-09-17'
+url: https://en.wikipedia.org/wiki/BWV_99
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso, Oboe d'amore, Violino I/II, Viola, Cornetto col Soprano, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Es bleibt gerecht sein Wille;
+      Wie er fängt meine Sachen an,
+      Will ich ihm halten stille.
+      Er ist mein Gott,
+      Der in der Not
+      Mich wohl weiß zu erhalten;
+      Drum lass ich ihn nur walten.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Sein Wort der Wahrheit stehet fest
+      Und wird mich nicht betrügen,
+      Weil es die Gläubigen nicht fallen noch verderben lässt.
+      Ja, weil es mich den Weg zum Leben führet,
+      So fasst mein Herze sich und lässet sich begnügen
+      An Gottes Vatertreu und Huld
+      Und hat Geduld,
+      Wenn mich ein Unfall rühret.
+      Gott kann mit seinen Allmachtshänden
+      Mein Unglück wenden.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Flauto traverso, Continuo
+    de: |-
+      Erschüttre dich nur nicht, verzagte Seele,
+      Wenn dir der Kreuzeskelch so bitter schmeckt!
+      Gott ist dein weiser Arzt und Wundermann,
+      So dir kein tödlich Gift einschenken kann,
+      Obgleich die Süßigkeit verborgen steckt.
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Nun, der von Ewigkeit geschloss'ne Bund
+      Bleibt meines Glaubens Grund.
+      Er spricht mit Zuversicht
+      Im Tod und Leben:
+      Gott ist mein Licht,
+      Ihm will ich mich ergeben.
+      Und haben alle Tage
+      Gleich ihre eigne Plage,
+      Doch auf das überstandne Leid,
+      Wenn man genug geweinet,
+      Kommt endlich die Errettungszeit,
+      Da Gottes treuer Sinn erscheinet.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Flauto traverso, Oboe d'amore, Continuo
+    de: |-
+      Wenn des Kreuzes Bitterkeiten
+      Mit des Fleisches Schwachheit streiten,
+      Ist es dennoch wohlgetan.
+      Wer das Kreuz durch falschen Wahn
+      Sich vor unerträglich schätzet,
+      Wird auch künftig nicht ergötzet.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto traverso in octava e Oboe d'amore e Cornetto e Violino I col Soprano, Violino II coll' Alto, Viola col
+      Tenore, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Dabei will ich verbleiben.
+      Es mag mich auf die rauhe Bahn
+      Not, Tod und Elend treiben,
+      So wird Gott mich
+      Ganz väterlich
+      In seinen Armen halten;
+      Drum lass ich ihn nur walten.
+scoring: 'Soli: S A T B, Coro: S A T B, Cornetto, Flauto traverso, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    B: 1
+    T: 1
+    A: 1
+  instrumentation_families:
+    - cornetto
+    - flauto_traverso
+    - oboe_damore
+key: G major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Was Gott tut, das ist wohlgetan, BWV\_99, in Leipzig for the 15th Sunday after Trinity and first performed it on 17 September 1724. The chorale cantata is based on the hymn \"Was Gott tut, das ist wohlgetan\" by Samuel Rodigast (1674)."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leipzig_Nikolaikirche_um_1850.jpg/330px-Leipzig_Nikolaikirche_um_1850.jpg
+  url: https://en.wikipedia.org/wiki/Was_Gott_tut%2C_das_ist_wohlgetan%2C_BWV_99
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Was Gott tut, das ist wohlgetan</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>99</b>, in Leipzig for the 15th Sunday after Trinity and first performed it on 17 September 1724. The chorale cantata is based on the hymn \"Was Gott tut, das ist wohlgetan\" by Samuel Rodigast (1674).</p>"

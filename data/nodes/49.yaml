@@ -1,0 +1,124 @@
+bwv: '49'
+title: Ich geh und suche mit Verlangen
+cycle: C3
+occasion: Trinity XX
+date: '1726-11-03'
+url: https://en.wikipedia.org/wiki/BWV_49
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe d'amore, Violino I/II, Viola, Organo obligato, Continuo
+    de: ''
+  - num: 2
+    type: Aria
+    voices: B
+    instruments: Organo obligato, Continuo
+    de: |-
+      Ich geh und suche mit Verlangen
+      Dich, meine Taube, schönste Braut.
+      Sag an, wo bist du hingegangen,
+      Dass dich mein Auge nicht mehr schaut?
+  - num: 3
+    type: Recitative
+    voices: S, B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Jesus (B), Seele (S)
+      Bass
+      Mein Mahl ist zubereit'
+      Und meine Hochzeittafel fertig,
+      Nur meine Braut ist noch nicht gegenwärtig.
+      Sopran
+      Mein Jesus redt von mir;
+      O Stimme, welche mich erfreut!
+      Bass
+      Ich geh und suche mit Verlangen
+      Dich, meine Taube, schönste Braut.
+      Sopran
+      Mein Bräutigam, ich falle dir zu Füßen.
+      {Bass / Sopran}
+      Komm, {Schönste / Schönster}, komm und lass dich küssen,
+      {Du sollst mein / Lass mich dein} fettes Mahl genießen.
+      {Komm, liebe Braut, und / Mein Bräutigam! ich} eile nun,
+      beide
+      Die Hochzeitkleider anzutun.
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Oboe d'amore, Violoncello piccolo, Continuo
+    de: |-
+      Ich bin herrlich, ich bin schön,
+      Meinen Heiland zu entzünden.
+      Seines Heils Gerechtigkeit
+      Ist mein Schmuck und Ehrenkleid;
+      Und damit will ich bestehn,
+      Wenn ich werd im Himmel gehn.
+  - num: 5
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Seele (S), Jesus (B)
+      Sopran
+      Mein Glaube hat mich selbst so angezogen.
+      Bass
+      So bleibt mein Herze dir gewogen,
+      So will ich mich mit dir
+      In Ewigkeit vertrauen und verloben.
+      Sopran
+      Wie wohl ist mir!
+      Der Himmel ist mir aufgehoben:
+      Die Majestät ruft selbst und sendet ihre Knechte,
+      Dass das gefallene Geschlechte
+      Im Himmelssaal
+      Bei dem Erlösungsmahl
+      Zu Gaste möge sein,
+      Hier komm ich, Jesu, lass mich ein!
+      Bass
+      Sei bis in Tod getreu,
+      So leg ich dir die Lebenskrone bei.
+  - num: 6
+    type: Aria
+    voices: B, S
+    instruments: Oboe d'amore, Violino I/II, Viola, Organo obligato, Continuo
+    de: |-
+      Jesus (B), Seele (S)
+      Dich hab ich je und je geliebet,
+      Wie bin ich doch so herzlich froh,
+      Dass mein Schatz ist das A und O,
+      Der Anfang und das Ende.
+      Und darum zieh ich dich zu mir.
+      Er wird mich doch zu seinem Preis
+      Aufnehmen in das Paradeis;
+      Des klopf ich in die Hände.
+      Ich komme bald,
+      Amen! Amen!
+      Ich stehe vor der Tür,
+      Komm, du schöne Freudenkrone, bleib nicht lange!
+      Mach auf, mein Aufenthalt!
+      Deiner wart ich mit Verlangen.
+      Dich hab ich je und je geliebet,
+      Und darum zieh ich dich zu mir.
+scoring: 'Soli: S B, Oboe d''amore, Violoncello piccolo, Violino I/II, Viola, Organo obligato, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+  opening: Sinfonia
+  closing: Aria
+  voice_profile:
+    B: 1
+    S, B: 1
+    S: 1
+    B, S: 1
+  instrumentation_families:
+    - oboe_damore
+    - organ
+    - violoncello_piccolo
+key: E major

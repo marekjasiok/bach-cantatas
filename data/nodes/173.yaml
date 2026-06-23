@@ -1,0 +1,243 @@
+bwv: '173'
+title: Erhöhtes Fleisch und Blut
+cycle: C1
+occasion: Pentecost 2
+date: '1724-05-29'
+url: https://en.wikipedia.org/wiki/BWV_173
+edges: {}
+movements:
+  - num: 1
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Erhöhtes Fleisch und Blut,
+      Das Gott selbst an sich nimmt,
+      Dem er schon hier auf Erden
+      Ein himmlisch Heil bestimmt,
+      Des Höchsten Kind zu werden,
+      Erhöhtes Fleisch und Blut!
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Flauto traverso I/II e Violino I all' unisono, Violino II, Viola, Continuo
+    de: |-
+      Ein geheiligtes Gemüte
+      Sieht und schmecket Gottes Güte.
+      Rühmet, singet, stimmt die Saiten,
+      Gottes Treue auszubreiten!
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Gott will, o ihr Menschenkinder,
+      An euch große Dinge tun.
+      Mund und Herze, Ohr und Blicke
+      Können nicht bei diesem Glücke
+      Und so heilger Freude ruhn.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Flauto traverso I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Bass
+      So hat Gott die Welt geliebt,
+      Sein Erbarmen
+      Hilft uns Armen,
+      Dass er seinen Sohn uns gibt,
+      Gnadengaben zu genießen,
+      Die wie reiche Ströme fließen.
+      Sopran
+      Sein verneuter Gnadenbund
+      Ist geschäftig
+      Und wird kräftig
+      In der Menschen Herz und Mund,
+      Dass sein Geist zu seiner Ehre
+      Gläubig zu ihm rufen lehre.
+      beide
+      Nun wir lassen unsre Pflicht
+      Opfer bringen,
+      Dankend singen,
+      Da sein offenbartes Licht
+      Sich zu seinen Kindern neiget
+      Und sich ihnen kräftig zeiget.
+  - num: 5
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Unendlichster, den man doch Vater nennt,
+      Wir wollen dann das Herz zum Opfer bringen,
+      Aus unsrer Brust, die ganz vor Andacht brennt,
+      Soll sich der Seufzer Glut zum Himmel schwingen.
+  - num: 6
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Rühre, Höchster, unsern Geist,
+      Dass des höchsten Geistes Gaben
+      Ihre Würkung in uns haben.
+      Da dein Sohn uns beten heißt,
+      Wird es durch die Wolken dringen
+      Und Erhörung auf uns bringen.
+scoring: 'Soli: S A T B, Coro: S A T B, Flauto traverso I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Recitative
+    - Chorus
+  opening: Recitative
+  closing: Chorus
+  voice_profile:
+    T: 2
+    A: 1
+    SATB: 1
+  instrumentation_families:
+    - flauto_traverso
+key: D major
+wiki:
+  summary: "Erhöhtes Fleisch und Blut, BWV\_173, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Pentecost Monday and probably first performed it on 29 May 1724."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomaskirche_Interior.jpg/330px-Thomaskirche_Interior.jpg
+  url: https://en.wikipedia.org/wiki/Erh%C3%B6htes_Fleisch_und_Blut%2C_BWV_173
+  summary_html: "<p><b><span><i lang=\"de\">Erhöhtes Fleisch und Blut</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>173</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Pentecost Monday and probably first performed it on 29 May 1724.</p>"
+performances:
+  - id: e0m3wNp6CtA
+    title: J.S. Bach - Cantata BWV 173 "Erhöhtes Fleisch und Blut" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Gott die Welt geliebt
+    year: '2011'
+    duration: '16:07'
+    thumbnail: https://img.youtube.com/vi/e0m3wNp6CtA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=e0m3wNp6CtA
+  - id: CGu1Sd0b2iQ
+    title: J. S. Bach - Aria "Ein geheiligtes Gemüte" from Cantata BWV 173 (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '3:46'
+    thumbnail: https://img.youtube.com/vi/CGu1Sd0b2iQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CGu1Sd0b2iQ
+  - id: OVpkgUL_1YY
+    title: J.S. Bach - Cantata BWV 172 "Erschallet, ihr Lieder, erklinget, ihr Saiten!" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2007'
+    duration: '19:49'
+    thumbnail: https://img.youtube.com/vi/OVpkgUL_1YY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OVpkgUL_1YY
+  - id: hmwC4Na9MKI
+    title: 'J. S. Bach: Erhöhtes Fleisch und Blut (BWV 173) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Gott die Welt geliebt
+    year: ''
+    duration: '13:44'
+    thumbnail: https://img.youtube.com/vi/hmwC4Na9MKI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hmwC4Na9MKI
+  - id: jJK_wqjvCLY
+    title: Erhöhtes Fleisch und Blut BWV 173 By Johann Sebastian Bach (with Score)
+    channel: 思修在線中 Sissel Online
+    performer: 思修在線中 Sissel Online
+    place: ''
+    year: ''
+    duration: '14:32'
+    thumbnail: https://img.youtube.com/vi/jJK_wqjvCLY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jJK_wqjvCLY
+  - id: UtZB_YfokuY
+    title: 'Durchlauchtster Leopold, BWV 173a: Aria: Leopolds Vortrefflichkeiten (Bass)'
+    channel: Dorothea Röschmann - Topic
+    performer: Dorothea Röschmann - Topic
+    place: McMillan
+    year: '1994'
+    duration: '1:34'
+    thumbnail: https://img.youtube.com/vi/UtZB_YfokuY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=UtZB_YfokuY
+  - id: ic_uh-O-LNQ
+    title: JS Bach　Cantata　BWV173　Erhöhtes Fleisch und Blut
+    channel: Miruko Yume
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '15:54'
+    thumbnail: https://img.youtube.com/vi/ic_uh-O-LNQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ic_uh-O-LNQ
+  - id: BpbsXFSsoa4
+    title: Bach - Cantate BWV 173a - Durchlauchtster Leopold
+    channel: MusicArt61
+    performer: Koopman
+    place: Name gleich der Sonnen geh
+    year: '1998'
+    duration: '18:37'
+    thumbnail: https://img.youtube.com/vi/BpbsXFSsoa4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=BpbsXFSsoa4
+  - id: AOj1iFa-nA4
+    title: J.S. Bach, Kantate BWV 173 „Erhöhtes Fleisch und Blut“ | Kay Johannsen
+    channel: Kay Johannsen
+    performer: Kay Johannsen
+    place: Stuttgart
+    year: '2020'
+    duration: '14:40'
+    thumbnail: https://img.youtube.com/vi/AOj1iFa-nA4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=AOj1iFa-nA4
+  - id: E2LZ9C6lj7E
+    title: Johann Sebastian Bach - BWV 173 Cantata 'Erhöhtes Fleisch und Blut' in D major
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Stuttgart
+    year: ''
+    duration: '14:55'
+    thumbnail: https://img.youtube.com/vi/E2LZ9C6lj7E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=E2LZ9C6lj7E
+  - id: oqoC80rKW2Q
+    title: Bach - Cantate BWV 173 - Erhöhtes Fleisch und Blut
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Gott die Welt geliebt
+    year: '1987'
+    duration: '13:54'
+    thumbnail: https://img.youtube.com/vi/oqoC80rKW2Q/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=oqoC80rKW2Q
+  - id: 6m746rllv2U
+    title: J.S. Bach - BWV 173 (Exalted flesh and blood)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '15:52'
+    thumbnail: https://img.youtube.com/vi/6m746rllv2U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=6m746rllv2U
+  - id: 1Y1Lrlgi-oI
+    title: J.S. Bach - Cantata BWV 72 "Alles nur nach Gottes Willen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2020'
+    duration: '18:29'
+    thumbnail: https://img.youtube.com/vi/1Y1Lrlgi-oI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1Y1Lrlgi-oI
+  - id: dRShIu9Mc10
+    title: J.S. Bach - Cantata BWV 175 "Er rufet seinen Schafen mit Namen" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '18:28'
+    thumbnail: https://img.youtube.com/vi/dRShIu9Mc10/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dRShIu9Mc10
+  - id: 3km8rR4dod4
+    title: 'Durchlauchtster Leopold, BWV 173a: Aria: So schau dies holden Tages Licht (Soprano)'
+    channel: Dorothea Röschmann - Topic
+    performer: Dorothea Röschmann - Topic
+    place: McMillan
+    year: '1994'
+    duration: '3:35'
+    thumbnail: https://img.youtube.com/vi/3km8rR4dod4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=3km8rR4dod4

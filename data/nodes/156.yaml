@@ -1,0 +1,159 @@
+bwv: '156'
+title: Ich steh mit einem Fuß im Grabe
+cycle: PICANDER
+occasion: Epiphany III
+date: '1729-01-23'
+url: https://en.wikipedia.org/wiki/BWV_156
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: ''
+  - num: 2
+    type: Chorale
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ich steh mit einem Fuß im Grabe,
+      Machs mit mir, Gott, nach deiner Güt,
+      Bald fällt der kranke Leib hinein,
+      Hilf mir in meinen Leiden,
+      Komm, lieber Gott, wenn dirs gefällt,
+      Was ich dich bitt, versag mir nicht.
+      Ich habe schon mein Haus bestellt,
+      Wenn sich mein Seel soll scheiden,
+      So nimm sie, Herr, in deine Händ.
+      Nur lass mein Ende selig sein!
+      Ist alles gut, wenn gut das End.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Mein Angst und Not,
+      Mein Leben und mein Tod
+      Steht, liebster Gott, in deinen Händen;
+      So wirst du auch auf mich
+      Dein gnädig Auge wenden.
+      Willst du mich meiner Sünden wegen
+      Ins Krankenbette legen,
+      Mein Gott, so bitt ich dich,
+      Lass deine Güte größer sein als die Gerechtigkeit;
+      Doch hast du mich darzu versehn,
+      Dass mich mein Leiden soll verzehren,
+      Ich bin bereit,
+      Dein Wille soll an mir geschehn,
+      Verschone nicht und fahre fort,
+      Lass meine Not nicht lange währen;
+      Je länger hier, je später dort.
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Oboe, Violino, Continuo
+    de: |-
+      Herr, was du willt, soll mir gefallen,
+      Weil doch dein Rat am besten gilt.
+      In der Freude,
+      In dem Leide,
+      Im Sterben, in Bitten und Flehn
+      Lass mir allemal geschehn,
+      Herr, wie du willt.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Und willst du, dass ich nicht soll kranken,
+      So werd ich dir von Herzen danken;
+      Doch aber gib mir auch dabei,
+      Dass auch in meinem frischen Leibe
+      Die Seele sonder Krankheit sei
+      Und allezeit gesund verbleibe.
+      Nimm sie durch Geist und Wort in acht,
+      Denn dieses ist mein Heil,
+      Und wenn mir Leib und Seel verschmacht,
+      So bist du, Gott, mein Trost und meines Herzens Teil!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Oboe e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Herr, wie du willt, so schicks mit mir
+      Im Leben und im Sterben;
+      Allein zu dir steht mein Begier,
+      Herr, lass mich nicht verderben!
+      Erhalt mich nur in deiner Huld,
+      Sonst wie du willt, gib mir Geduld,
+      Dein Will, der ist der beste.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Chorale
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    S: 1
+    B: 2
+    A: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+wiki:
+  summary: "Ich steh mit einem Fuß im Grabe, BWV\_156, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the third Sunday after Epiphany and first performed it in 1727 or 1729. The cantata is well known for its opening sinfonia for orchestra and oboe solo."
+  image: null
+  url: https://en.wikipedia.org/wiki/Ich_steh_mit_einem_Fu%C3%9F_im_Grabe%2C_BWV_156
+  summary_html: "<p><b><span><i lang=\"de\">Ich steh mit einem Fuß im Grabe</i></span></b>, <b>BWV\_156</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the third Sunday after Epiphany and first performed it in 1727 or 1729. The cantata is well known for its opening sinfonia for orchestra and oboe solo.</p>"
+performances:
+  - id: drFcH_WwK7Y
+    title: Bach - Cantata Ich steh mit einem Fuss im Grabe BWV 156 - Mortensen | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Geertekerk
+    year: '2014'
+    duration: '13:09'
+    thumbnail: https://img.youtube.com/vi/drFcH_WwK7Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=drFcH_WwK7Y
+  - id: OkbJzO7tvNA
+    title: J.S. Bach - Cantata BWV 156 "Ich steh mit einem Fuß im Grabe" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Angst und Not
+    year: '2010'
+    duration: '20:04'
+    thumbnail: https://img.youtube.com/vi/OkbJzO7tvNA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OkbJzO7tvNA
+  - id: 7WGQ01Bbpa0
+    title: J S Bach   Arioso from Cantata BWV 156 (1 Hour) | healing sound
+    channel: W TV@
+    performer: W TV@
+    place: ''
+    year: ''
+    duration: '1:14:57'
+    thumbnail: https://img.youtube.com/vi/7WGQ01Bbpa0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7WGQ01Bbpa0
+  - id: tod_rbkXAHI
+    title: J.S.Bach - Arioso from Cantata 156 (Sinfonia); Marc Schachman, baroque oboe, Voices of Music 4K
+    channel: Voices of Music
+    performer: Voices of Music
+    place: ''
+    year: '2019'
+    duration: '2:52'
+    thumbnail: https://img.youtube.com/vi/tod_rbkXAHI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=tod_rbkXAHI
+  - id: 0I-yf0Gjoas
+    title: Bach - Sinfonia from Cantata BWV 156 - Mortensen | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Geertekerk
+    year: '2014'
+    duration: '2:45'
+    thumbnail: https://img.youtube.com/vi/0I-yf0Gjoas/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=0I-yf0Gjoas
+key: F major

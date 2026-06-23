@@ -1,0 +1,163 @@
+bwv: '24'
+title: Ein ungefärbt Gemüte
+cycle: C1
+occasion: Trinity IV
+date: '1723-06-20'
+url: https://en.wikipedia.org/wiki/BWV_24
+movements:
+  - num: 1
+    type: Aria
+    voices: A
+    instruments: Violino I/II e Viola all' unisono, Continuo
+    de: |-
+      Ein ungefärbt Gemüte
+      Von deutscher Treu und Güte
+      Macht uns vor Gott und Menschen schön.
+      Der Christen Tun und Handel,
+      Ihr ganzer Lebenswandel
+      Soll auf dergleichen Fuße stehn.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Die Redlichkeit
+      Ist eine von den Gottesgaben.
+      Dass sie bei unsrer Zeit
+      So wenig Menschen haben,
+      Das macht, sie bitten Gott nicht drum.
+      Denn von Natur geht unsers Herzens Dichten
+      Mit lauter Bösem um;
+      Soll's seinen Weg auf etwas Gutes richten,
+      So muss es Gott durch seinen Geist regieren
+      Und auf der Bahn der Tugend führen.
+      Verlangst du Gott zum Freunde,
+      So mache dir den Nächsten nicht zum Feinde
+      Durch Falschheit, Trug und List!
+      Ein Christ
+      Soll sich der Taubenart bestreben
+      Und ohne Falsch und Tücke leben.
+      Mach aus dir selbst ein solches Bild,
+      Wie du den Nächsten haben willt!
+  - num: 3
+    type: Chorus
+    voices: S, A, T, B
+    de: |-
+      Clarino, Oboe I e Violino I all' unisono, Oboe II e Violino II all' unisono, Viola, Continuo
+      Alles nun, das ihr wollet, dass euch die Leute tun sollen, das tut ihr ihnen.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Die Heuchelei
+      Ist eine Brut, die Belial gehecket.
+      Wer sich in ihre Larve stecket,
+      Der trägt des Teufels Liberei.
+      Wie? lassen sich denn Christen
+      Dergleichen auch gelüsten?
+      Gott sei's geklagt! die Redlichkeit ist teuer.
+      Manch teuflisch Ungeheuer
+      Sieht wie ein Engel aus.
+      Man kehrt den Wolf hinein,
+      Den Schafspelz kehrt man raus.
+      Wie könnt es ärger sein?
+      Verleumden, Schmähn und Richten,
+      Verdammen und Vernichten
+      Ist überall gemein.
+      So geht es dort, so geht es hier.
+      Der liebe Gott behüte mich dafür!
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Treu und Wahrheit sei der Grund
+      Aller deiner Sinnen,
+      Wie von außen Wort und Mund,
+      Sei das Herz von innen.
+      Gütig sein und tugendreich
+      Macht uns Gott und Engeln gleich.
+  - num: 6
+    type: Chorale
+    voices: S, A, T, B
+    de: |-
+      Clarino, Oboe I/II all' unisono, Violino I/II, Viola, Continuo
+      O Gott, du frommer Gott,
+      Du Brunnquell aller Gaben,
+      Ohn den nichts ist, was ist,
+      Von dem wir alles haben,
+      Gesunden Leib gib mir,
+      Und dass in solchem Leib
+      Ein unverletzte Seel
+      Und rein Gewissen bleib.
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Chorus
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    A: 1
+    T: 2
+    S, A, T, B: 2
+    B: 1
+  instrumentation_families:
+    - oboe_damore
+edges: {}
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ein ungefärbt Gemüte, BWV\_24 in Leipzig for the fourth Sunday after Trinity and first performed it on 20 June 1723. It is the third new cantata of his first cantata cycle in Leipzig. The title has been translated more freely, for example as \"An unstained mind\", \"An unblemished conscience\", \"An undisguised intention\", and \"An unsophisticated mind\"."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Ein_ungef%C3%A4rbt_Gem%C3%BCte%2C_BWV_24
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ein ungefärbt Gemüte</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>24</b> in Leipzig for the fourth Sunday after Trinity and first performed it on 20 June 1723. It is the third new cantata of his first cantata cycle in Leipzig. The title has been translated more freely, for example as \"An unstained mind\", \"An unblemished conscience\", \"An undisguised intention\", and \"An unsophisticated mind\".</p>"
+performances:
+  - id: ioHhbb2L0B0
+    title: J.S. Bach - Cantata BWV 24 "Ein ungefärbt Gemüte" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '19:28'
+    thumbnail: https://img.youtube.com/vi/ioHhbb2L0B0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ioHhbb2L0B0
+  - id: 69Mlm3Hs7Rk
+    title: 'Johann Sebastian Bach - Cantata: Ein ungefärbt Gemüte, BWV 24. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '17:36'
+    thumbnail: https://img.youtube.com/vi/69Mlm3Hs7Rk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=69Mlm3Hs7Rk
+  - id: SPDcGcd40Pg
+    title: J.S. Bach Cantata Ein ungefärbt Gemüte, BWV 24, Karl Richter
+    channel: HarpsichordA6
+    performer: Richter
+    place: ''
+    year: ''
+    duration: '17:34'
+    thumbnail: https://img.youtube.com/vi/SPDcGcd40Pg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=SPDcGcd40Pg
+  - id: 4Bwe96ffEss
+    title: J.S. Bach - Aria Alto "Ein ungefärbt Gemüte" from Cantata BWV 24
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '3:41'
+    thumbnail: https://img.youtube.com/vi/4Bwe96ffEss/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4Bwe96ffEss
+  - id: G3F7lxo9TUw
+    title: Bach - Cantate BWV 24 - Ein ungefärbt Gemüte
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Leipzig
+    year: '1972'
+    duration: '17:06'
+    thumbnail: https://img.youtube.com/vi/G3F7lxo9TUw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=G3F7lxo9TUw
+key: D major

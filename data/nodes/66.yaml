@@ -1,0 +1,120 @@
+bwv: '66'
+title: Erfreut euch, ihr Herzen
+cycle: C1
+occasion: Easter Mon.
+date: '1724-04-10'
+url: https://en.wikipedia.org/wiki/BWV_66
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba, Oboe I/II, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Erfreut euch, ihr Herzen,
+      Entweichet, ihr Schmerzen,
+      Es lebet der Heiland und herrschet in euch.
+      Ihr könnet verjagen
+      Das Trauren, das Fürchten, das ängstliche Zagen,
+      Der Heiland erquicket sein geistliches Reich.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Es bricht das Grab und damit unsre Not,
+      Der Mund verkündigt Gottes Taten;
+      Der Heiland lebt, so ist in Not und Tod
+      Den Gläubigen vollkommen wohl geraten.
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Lasset dem Höchsten ein Danklied erschallen
+      Vor sein Erbarmen und ewige Treu.
+      Jesus erscheinet, uns Friede zu geben,
+      Jesus berufet uns, mit ihm zu leben,
+      Täglich wird seine Barmherzigkeit neu.
+  - num: 4
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Tenor
+      Bei Jesu Leben freudig sein
+      Ist unsrer Brust ein heller Sonnenschein.
+      Mit Trost erfüllt auf seinen Heiland schauen
+      Und in sich selbst ein Himmelreich erbauen,
+      Ist wahrer Christen Eigentum.
+      Doch weil ich hier ein himmlisch Labsal habe,
+      So sucht mein Geist hier seine Lust und Ruh,
+      Mein Heiland ruft mir kräftig zu:
+      Mein Grab und Sterben bringt euch Leben,
+      Mein Auferstehn ist euer Trost.
+      Mein Mund will zwar ein Opfer geben,
+      Mein Heiland, doch wie klein,
+      Wie wenig, wie so gar geringe
+      Wird es vor dir, o großer Sieger, sein,
+      Wenn ich vor dich ein Sieg- und Danklied bringe.
+      {Tenor, Alt}
+      {Mein, Kein} Auge sieht den Heiland auferweckt,
+      Es hält ihn {nicht, noch} der Tod in Banden.
+      Tenor
+      Wie, darf noch Furcht in einer Brust entstehn?
+      Alt
+      Läßt wohl das Grab die Toten aus?
+      Tenor
+      Wenn Gott in einem Grabe lieget,
+      So halten Grab und Tod ihn nicht.
+      Alt
+      Ach Gott! der du den Tod besieget,
+      Dir weicht des Grabes Stein, das Siegel bricht,
+      Ich glaube, aber hilf mir Schwachen,
+      Du kannst mich stärker machen;
+      Besiege mich und meinen Zweifelmut,
+      Der Gott, der Wunder tut,
+      Hat meinen Geist durch Trostes Kraft gestärket,
+      Dass er den auferstandnen Jesum merket.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Violino solo, Continuo
+    de: |-
+      {Alt, Tenor}
+      Ich fürchte {zwar, nicht} des Grabes Finsternissen
+      Und {klagete, hoffete} mein Heil sei {nun, nicht} entrissen.
+      beide
+      Nun ist mein Herze voller Trost,
+      Und wenn sich auch ein Feind erbost,
+      Will ich in Gott zu siegen wissen.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Continuo, Instrumentierung nicht überliefert
+    de: |-
+      Alleluja! Alleluja! Alleluja!
+      Des solln wir alle froh sein,
+      Christus will unser Trost sein.
+      Kyrie eleis.
+scoring: 'Soli: A T B, Coro: S A T B, Tromba, Oboe I/II, Fagotto, Violino solo, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 1
+    B: 2
+    SATB: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - tromba
+    - violino_solo
+key: B♭ major

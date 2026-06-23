@@ -1,0 +1,240 @@
+bwv: '177'
+title: Ich ruf zu dir, Herr Jesu Christ
+cycle: LATE
+occasion: Trinity IV
+date: '1732'
+url: https://en.wikipedia.org/wiki/BWV_177
+movements:
+  - num: 1
+    type: Chorus
+    voices: S, A, T, B
+    instruments: Oboe I/II, Violino concertante, Violino I/II, Viola, Continuo
+    de: |-
+      Ich ruf zu dir, Herr Jesu Christ,
+      Ich bitt, erhör mein Klagen,
+      Verleih mir Gnad zu dieser Frist,
+      Laß mich doch nicht verzagen;
+      Den rechten Glauben, Herr, ich mein,
+      Den wollest du mir geben,
+      Dir zu leben,
+      Meinm Nächsten nütz zu sein,
+      Dein Wort zu halten eben.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ich bitt noch mehr, o Herre Gott,
+      Du kannst es mir wohl geben:
+      Dass ich werd nimmermehr zu Spott,
+      Die Hoffnung gib darneben,
+      Voraus, wenn ich muss hier davon,
+      Dass ich dir mög vertrauen
+      Und nicht bauen
+      Auf alles mein Tun,
+      Sonst wird mich's ewig reuen.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Oboe da caccia, Continuo
+    de: |-
+      Verleih, dass ich aus Herzensgrund
+      Mein' Feinden mög vergeben,
+      Verzeih mir auch zu dieser Stund,
+      Gib mir ein neues Leben;
+      Dein Wort mein Speis lass allweg sein,
+      Damit mein Seel zu nähren,
+      Mich zu wehren,
+      Wenn Unglück geht daher,
+      Das mich bald möcht abkehren.
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violino concertante, Fagotto obligato, Continuo
+    de: |-
+      Laß mich kein Lust noch Furcht von dir
+      In dieser Welt abwenden.
+      Beständigsein ans End gib mir,
+      Du hast's allein in Händen;
+      Und wem du's gibst, der hat's umsonst:
+      Es kann niemand ererben
+      Noch erwerben
+      Durch Werke deine Gnad,
+      Die uns errett' vom Sterben.
+  - num: 5
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll'Alto, Viola col Tenore, Fagotto, Continuo
+    de: |-
+      Ich lieg im Streit und widerstreb,
+      Hilf, o Herr Christ, dem Schwachen!
+      An deiner Gnad allein ich kleb,
+      Du kannst mich stärker machen.
+      Kömmt nun Anfechtung, Herr, so wehr,
+      Dass sie mich nicht umstoßen.
+      Du kannst maßen,
+      Dass mir's nicht bring Gefahr;
+      Ich weiß, du wirst's nicht lassen.
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    S, A, T, B: 2
+    A: 1
+    S: 1
+    T: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - oboe_da_caccia
+    - violino_solo
+edges: {}
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Ich ruf zu dir, Herr Jesu Christ, BWV\_177. He wrote the chorale cantata in Leipzig for the fourth Sunday after Trinity and first performed it on 6 July 1732. The cantata text is formed by the unchanged five stanzas of Johann Agricola's hymn."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Johannes-Agricola-Eisleben-.jpg/330px-Johannes-Agricola-Eisleben-.jpg
+  url: https://en.wikipedia.org/wiki/Ich_ruf_zu_dir%2C_Herr_Jesu_Christ%2C_BWV_177
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Ich ruf zu dir, Herr Jesu Christ</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>177</b>. He wrote the chorale cantata in Leipzig for the fourth Sunday after Trinity and first performed it on 6 July 1732. The cantata text is formed by the unchanged five stanzas of Johann Agricola's hymn.</p>"
+performances:
+  - id: zz7-8St11Bw
+    title: J. S. Bach – Cantata "Ich ruf zu dir, Herr Jesu Christ", BWV 177
+    channel: SP's score videos
+    performer: SP's score videos
+    place: ''
+    year: ''
+    duration: '24:57'
+    thumbnail: https://img.youtube.com/vi/zz7-8St11Bw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zz7-8St11Bw
+  - id: WWmpUMF7ELQ
+    title: J.S. Bach Ich ruf zu dir, Herr Jesu Christ, Cantata BWV 177
+    channel: Johannes Buhlmann
+    performer: Johannes Buhlmann
+    place: ''
+    year: ''
+    duration: '23:20'
+    thumbnail: https://img.youtube.com/vi/WWmpUMF7ELQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WWmpUMF7ELQ
+  - id: NVVr3Tw_10w
+    title: BWV 177, 'Ich ruf zu dir, Herr Jesu Christ', Residentie Bachkoor olv Jos Vermunt, uit dienst 25-6-23
+    channel: Stichting Kloosterkerk
+    performer: Stichting Kloosterkerk
+    place: Klagen
+    year: '2023'
+    duration: '25:56'
+    thumbnail: https://img.youtube.com/vi/NVVr3Tw_10w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=NVVr3Tw_10w
+  - id: Fm8VcpTMCfQ
+    title: Bach - Cantate BWV 177 - Ich ruf zu dir, Herr Jesu Christ
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Lust noch Furcht
+    year: '1988'
+    duration: '24:53'
+    thumbnail: https://img.youtube.com/vi/Fm8VcpTMCfQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Fm8VcpTMCfQ
+  - id: l5SG13CCeeA
+    title: 'J. S. Bach: Ich ruf zu dir, Herr Jesu Christ (BWV 177) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Lust noch Furcht von dir
+    year: ''
+    duration: '23:18'
+    thumbnail: https://img.youtube.com/vi/l5SG13CCeeA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=l5SG13CCeeA
+  - id: lcg_-XkUoDI
+    title: J. S. Bach, "Ich ruf zu dir, Herr Jesu Christ" BWV 177--Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: Rachel Greis
+    year: '2025'
+    duration: '1:12:46'
+    thumbnail: https://img.youtube.com/vi/lcg_-XkUoDI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=lcg_-XkUoDI
+  - id: 9BZb5awgjLQ
+    title: 'Ich ruf zu dir, Herr Jesu Christ, Bwv 177: Aria. Verleih, dass ich aus Herzensgrund (Soprano)'
+    channel: Magdalena Kožená - Topic
+    performer: Gardiner
+    place: ''
+    year: '2000'
+    duration: '6:04'
+    thumbnail: https://img.youtube.com/vi/9BZb5awgjLQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=9BZb5awgjLQ
+  - id: 81IUKwhsY40
+    title: Bach Kantate BWV 177, Ich ruf zu dir, Herr Jesu Christ, Dietr.Knothe
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Berlin
+    year: ''
+    duration: '22:09'
+    thumbnail: https://img.youtube.com/vi/81IUKwhsY40/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=81IUKwhsY40
+  - id: qHulwPe2yHs
+    title: 'Ich ruf zu dir, Herr Jesu Christ, Bwv 177: Ich ruf zu dir, Herr Jesu Christ (Chorus)'
+    channel: Magdalena Kožená - Topic
+    performer: Gardiner
+    place: ''
+    year: '2000'
+    duration: '7:01'
+    thumbnail: https://img.youtube.com/vi/qHulwPe2yHs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qHulwPe2yHs
+  - id: DqZE54i-muE
+    title: Bach - Cantata Wachet auf, ruft uns die Stimme BWV 140 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '28:58'
+    thumbnail: https://img.youtube.com/vi/DqZE54i-muE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DqZE54i-muE
+  - id: vNoDkOVehEk
+    title: Ich ruf zu dir, Herr Jesu Christ BWV 177, LE CERCLE ROUGE (J. S. Bach, J-P Melville)
+    channel: ATOM ART MATTER
+    performer: ATOM ART MATTER
+    place: ''
+    year: ''
+    duration: '2:55'
+    thumbnail: https://img.youtube.com/vi/vNoDkOVehEk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vNoDkOVehEk
+  - id: mVyj0cUxUEs
+    title: BACH Cantate 177 - Gachinger Kantorei & Bach-collegium Stuttgart - Helmuth Rilling - 1981
+    channel: ' MusicHorama - asia&curiosa - Music & Culture'
+    performer: Rilling
+    place: Stuttgart
+    year: '1981'
+    duration: '26:19'
+    thumbnail: https://img.youtube.com/vi/mVyj0cUxUEs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mVyj0cUxUEs
+  - id: M1A6dq4kK6k
+    title: Bach - Cantata Herr Jesu Christ, wahr’ Mensch und Gott BWV 127 - Rademann | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Rademann
+    place: Leipzig
+    year: '2023'
+    duration: '18:11'
+    thumbnail: https://img.youtube.com/vi/M1A6dq4kK6k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=M1A6dq4kK6k
+  - id: ZirQMWRs-GI
+    title: J.S. Bach - BWV 177 (I call to Thee, Lord Jesus Christ)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '24:49'
+    thumbnail: https://img.youtube.com/vi/ZirQMWRs-GI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ZirQMWRs-GI
+  - id: xW86cdiotkM
+    title: 'Bachkantate: Ich ruf zu dir, Herr Jesu Christ (BWV 177) in Unser Lieben Frauen'
+    channel: St. Ansgarii & Unser Lieben Frauen Bremen
+    performer: St. Ansgarii & Unser Lieben Frauen Bremen
+    place: ''
+    year: ''
+    duration: '24:41'
+    thumbnail: https://img.youtube.com/vi/xW86cdiotkM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xW86cdiotkM
+key: G minor

@@ -1,0 +1,146 @@
+bwv: '6'
+title: Bleib bei uns...
+cycle: C2
+occasion: Easter Monday
+date: '1725-04-02'
+url: https://en.wikipedia.org/wiki/BWV_6
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Oboe da caccia, Violino I/II, Viola, Continuo
+    de: |-
+      Bleib bei uns, denn es will Abend werden,
+      und der Tag hat sich geneiget.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe da caccia (o, Viola), Continuo
+    de: |-
+      Hochgelobter Gottessohn,
+      Lass es dir nicht sein entgegen,
+      Dass wir itzt vor deinem Thron
+      Eine Bitte niederlegen:
+      Bleib, ach bleibe unser Licht,
+      Weil die Finsternis einbricht.
+  - num: 3
+    type: Chorale
+    voices: S
+    instruments: Violoncello piccolo, Continuo
+    de: |-
+      Ach bleib bei uns, Herr Jesu Christ,
+      Weil es nun Abend worden ist,
+      Dein göttlich Wort, das helle Licht,
+      Lass ja bei uns auslöschen nicht.
+      In dieser letzt'n betrübten Zeit
+      Verleih uns, Herr, Beständigkeit,
+      Dass wir dein Wort und Sakrament
+      Rein b'halten bis an unser End.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Es hat die Dunkelheit
+      An vielen Orten überhand genommen.
+      Woher ist aber dieses kommen?
+      Bloß daher, weil sowohl die Kleinen als die Großen
+      Nicht in Gerechtigkeit
+      Vor dir, o Gott, gewandelt
+      Und wider ihre Christenpflicht gehandelt.
+      Drum hast du auch den Leuchter umgestoßen.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Jesu, lass uns auf dich sehen,
+      Dass wir nicht
+      Auf den Sündenwegen gehen.
+      Lass das Licht
+      Deines Worts uns helle scheinen
+      Und dich jederzeit treu meinen.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Violino I e Oboe I/II col Soprano, Violino II e Oboe da caccia coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Beweis dein Macht, Herr Jesu Christ,
+      Der du Herr aller Herren bist;
+      Beschirm dein arme Christenheit,
+      Dass sie dich lob in Ewigkeit.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Oboe da caccia, Violino I/II, Viola, Violoncello piccolo, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    S: 1
+    B: 1
+    T: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - violoncello_piccolo
+wiki:
+  summary: "Bleib bei uns, denn es will Abend werden, BWV\_6, is a cantata by Johann Sebastian Bach for use in a Lutheran service. He composed it in Leipzig in 1725 for Easter Monday and first performed it on 2 April 1725."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rembrandt_Christ_with_two_disciples.jpg/330px-Rembrandt_Christ_with_two_disciples.jpg
+  url: https://en.wikipedia.org/wiki/Bleib_bei_uns%2C_denn_es_will_Abend_werden%2C_BWV_6
+  summary_html: "<p><b><span><i lang=\"de\">Bleib bei uns, denn es will Abend werden</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>6</b>, is a cantata by Johann Sebastian Bach for use in a Lutheran service. He composed it in Leipzig in 1725 for Easter Monday and first performed it on 2 April 1725.</p>"
+performances:
+  - id: YOtAvqH_A9k
+    title: Bach - Cantata Bleib bei uns... BWV 6 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Walloon Church
+    year: '2018'
+    duration: '19:06'
+    thumbnail: https://img.youtube.com/vi/YOtAvqH_A9k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YOtAvqH_A9k
+  - id: WbrIRnlUW5k
+    title: 'J.S Bach - Cantata: Bleib bei uns, denn es will Abend werden, BWV 6'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: Macht
+    year: ''
+    duration: '19:33'
+    thumbnail: https://img.youtube.com/vi/WbrIRnlUW5k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=WbrIRnlUW5k
+  - id: i-ed7SFbSow
+    title: J. S. Bach - Cantata BWV 6 "Bleib bei uns, denn es will Abend werden" (J. S. Bach Foundation)
+    channel: Bachstiftung
+    performer: lutz
+    place: Trogen
+    year: '2024'
+    duration: '21:47'
+    thumbnail: https://img.youtube.com/vi/i-ed7SFbSow/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=i-ed7SFbSow
+  - id: _sAYmG8uwQ0
+    title: Bach J.S. Cantata BWV 6
+    channel: Bach Complete
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '19:22'
+    thumbnail: https://img.youtube.com/vi/_sAYmG8uwQ0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_sAYmG8uwQ0
+  - id: nrIZFjEE5tc
+    title: 'Bleib bei uns, denn es will Abend werden, BWV 6: Aria. Hochgelobter Gottessohn (Alto)'
+    channel: Daniel Taylor - Topic
+    performer: Gardiner
+    place: Luther
+    year: '2000'
+    duration: '3:45'
+    thumbnail: https://img.youtube.com/vi/nrIZFjEE5tc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=nrIZFjEE5tc
+key: B♭ major

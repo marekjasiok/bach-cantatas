@@ -1,0 +1,286 @@
+bwv: '31'
+title: Der Himmel lacht! Die Erde jubilieret
+cycle: EARLY
+occasion: Easter Sunday
+date: '1715-04-21'
+url: https://en.wikipedia.org/wiki/BWV_31
+edges: {}
+movements:
+  - num: 2
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Taille, Fagotto, Violino I/II, Viola I/II, Violoncello I/II, Continuo
+    de: |-
+      Der Himmel lacht! die Erde jubilieret
+      Und was sie trägt in ihrem Schoß;
+      Der Schöpfer lebt! der Höchste triumphieret
+      Und ist von Todesbanden los.
+      Der sich das Grab zur Ruh erlesen,
+      Der Heiligste kann nicht verwesen.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Violoncello II, Continuo
+    de: |-
+      Erwünschter Tag! sei, Seele, wieder froh!
+      Das A und O,
+      Der erst und auch der letzte,
+      Den unsre schwere Schuld in Todeskerker setzte,
+      Ist nun gerissen aus der Not!
+      Der Herr war tot,
+      Und sieh, er lebet wieder;
+      Lebt unser Haupt, so leben auch die Glieder.
+      Der Herr hat in der Hand
+      Des Todes und der Hölle Schlüssel!
+      Der sein Gewand
+      Blutrot bespritzt in seinem bittern Leiden,
+      Will heute sich mit Schmuck und Ehren kleiden.
+  - num: 4
+    type: Aria
+    voices: B
+    instruments: Violoncello II, Continuo
+    de: |-
+      Fürst des Lebens, starker Streiter,
+      Hochgelobter Gottessohn!
+      Hebet dich des Kreuzes Leiter
+      Auf den höchsten Ehrenthron?
+      Wird, was dich zuvor gebunden,
+      Nun dein Schmuck und Edelstein?
+      Müssen deine Purpurwunden
+      Deiner Klarheit Strahlen sein?
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Violoncello II, Continuo
+    de: |-
+      So stehe dann, du gottergebne Seele,
+      Mit Christo geistlich auf!
+      Tritt an den neuen Lebenslauf!
+      Auf! von des Todes Werken!
+      Lass, dass dein Heiland in der Welt,
+      An deinem Leben merken!
+      Der Weinstock, der jetzt blüht,
+      Trägt keine tote Reben!
+      Der Lebensbaum lässt seine Zweige leben!
+      Ein Christe flieht
+      Ganz eilend von dem Grabe!
+      Er lässt den Stein,
+      Er lässt das Tuch der Sünden
+      Dahinten
+      Und will mit Christo lebend sein.
+  - num: 6
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola I/II, Violoncello I/II, Continuo
+    de: |-
+      Adam muss in uns verwesen,
+      Soll der neue Mensch genesen,
+      Der nach Gott geschaffen ist.
+      Du musst geistlich auferstehen
+      Und aus Sündengräbern gehen,
+      Wenn du Christi Gliedmaß bist.
+  - num: 7
+    type: Recitative
+    voices: S
+    instruments: Violoncello II, Continuo
+    de: |-
+      Weil dann das Haupt sein Glied
+      Natürlich nach sich zieht,
+      So kann mich nichts von Jesu scheiden.
+      Muss ich mit Christo leiden,
+      So werd ich auch nach dieser Zeit
+      Mit Christo wieder auferstehen
+      Zur Ehr und Herrlichkeit
+      Und Gott in meinem Fleische sehen.
+  - num: 8
+    type: Aria
+    voices: ''
+    instruments: Oboe, Violino I/II all' unisono, Viola I/II all' unisono, Violoncello II, Continuo
+    de: |-
+      Letzte Stunde, brich herein,
+      Mir die Augen zuzudrücken!
+      Lass mich Jesu Freudenschein
+      Und sein helles Licht erblicken,
+      Lass mich Engeln ähnlich sein!
+      Letzte Stunde, brich herein!
+  - num: 9
+    type: Chorale
+    voices: T
+    instruments: Tromba I, Oboe I-III, Taille, Fagotto, Violino I/II, Viola I/II, Violoncello I/II, Continuo
+    de: |-
+      So fahr ich hin zu Jesu Christ,
+      Mein' Arm tu ich ausstrecken;
+      So schlaf ich ein und ruhe fein,
+      Kein Mensch kann mich aufwecken,
+      Denn Jesus Christus, Gottes Sohn,
+      Der wird die Himmelstür auftun,
+      Mich führn zum ewgen Leben.
+scoring: >-
+  Soli: S T B, Coro: S.I S.II A T B, Tromba I-III, Tamburi, Oboe I-III, Taille, Violino I/II, Viola I/II, Violoncello
+  I/II, Fagotto, Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 4
+    B: 2
+    S: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - oboe_da_caccia
+    - timpani
+    - tromba
+    - violoncello
+key: C major
+wiki:
+  summary: "Der Himmel lacht! Die Erde jubilieret, BWV\_31, is a church cantata by Johann Sebastian Bach for the first day of Easter. Bach composed the cantata in Weimar and first performed it on 21 April 1715."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Weimar-1840-Herderplatz-Oeder.jpg/330px-Weimar-1840-Herderplatz-Oeder.jpg
+  url: https://en.wikipedia.org/wiki/Der_Himmel_lacht!_Die_Erde_jubilieret%2C_BWV_31
+  summary_html: "<p><b><span><i lang=\"de\">Der Himmel lacht! Die Erde jubilieret</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>31</b>, is a church cantata by Johann Sebastian Bach for the first day of Easter. Bach composed the cantata in Weimar and first performed it on 21 April 1715.</p>"
+performances:
+  - id: u9VDspz-KOY
+    title: J.S. Bach - Cantata BWV 31  "Der Himmel lacht! Die Erde jubilieret" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Bachstiftung
+    place: ''
+    year: ''
+    duration: '24:31'
+    thumbnail: https://img.youtube.com/vi/u9VDspz-KOY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=u9VDspz-KOY
+  - id: hNHWSSnw0L8
+    title: Bach - Cantata Der Himmel lacht! Die Erde jubilieret BWV 31 - René Jacobs | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Jacobs
+    place: ''
+    year: ''
+    duration: '19:48'
+    thumbnail: https://img.youtube.com/vi/hNHWSSnw0L8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hNHWSSnw0L8
+  - id: X_djIBqHkkA
+    title: Bach Cantata BWV 31- Easter - «Der Himmel lacht! Die Erde jubilieret» (Ensemble Pygmalion)
+    channel: Tom
+    performer: Tom
+    place: ''
+    year: ''
+    duration: '20:23'
+    thumbnail: https://img.youtube.com/vi/X_djIBqHkkA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=X_djIBqHkkA
+  - id: Vjz6yZ-rxCk
+    title: J.S Bach - Der Himmel lacht! die Erde jubiliert, BWV 31 {Vocal score}
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '21:23'
+    thumbnail: https://img.youtube.com/vi/Vjz6yZ-rxCk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Vjz6yZ-rxCk
+  - id: PqwzTK_C3YU
+    title: Bach Cantata BWV 31 Easter «Der Himmel lacht! Die Erde jubilieret» Raphaël Pichon Ensemble
+    channel: Felices Cantus Bach Kirchenmusik
+    performer: Felices Cantus Bach Kirchenmusik
+    place: ''
+    year: ''
+    duration: '20:23'
+    thumbnail: https://img.youtube.com/vi/PqwzTK_C3YU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=PqwzTK_C3YU
+  - id: Qs7Z010N63w
+    title: Bach Kantate BWV 31, Der Himmel lacht, die Erde jubilieret, Hans Thamm
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: ''
+    year: ''
+    duration: '21:01'
+    thumbnail: https://img.youtube.com/vi/Qs7Z010N63w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Qs7Z010N63w
+  - id: Rn0IuyG9SAs
+    title: 'Der Himmel lacht, BWV 31: VIII. Aria, "Letzte Stunde, brich herein"'
+    channel: Elizabeth Watts - Topic
+    performer: Elizabeth Watts - Topic
+    place: ''
+    year: ''
+    duration: '4:48'
+    thumbnail: https://img.youtube.com/vi/Rn0IuyG9SAs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Rn0IuyG9SAs
+  - id: 4CsW52cXNx4
+    title: 'Johann Sebastian Bach - Cantata: Der Himmel lacht! Die Erde jubilieret, BWV 31. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '21:13'
+    thumbnail: https://img.youtube.com/vi/4CsW52cXNx4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4CsW52cXNx4
+  - id: MwcJjPvUUZM
+    title: 'Bach: Cantata No. 31 - Koopman'
+    channel: pannonia77
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '21:04'
+    thumbnail: https://img.youtube.com/vi/MwcJjPvUUZM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=MwcJjPvUUZM
+  - id: T9juM3anT1s
+    title: JS Bach　Cantata　BWV31　Rilling　Der Himmel lacht! Die Erde jubilieret
+    channel: Miruko Yume
+    performer: Rilling
+    place: ''
+    year: ''
+    duration: '22:25'
+    thumbnail: https://img.youtube.com/vi/T9juM3anT1s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=T9juM3anT1s
+  - id: RzKKOSFR5Ws
+    title: 'BWV 31: Der Himmel lacht! Die Erde jubilieret (Scrolling)'
+    channel: gerubach
+    performer: gerubach
+    place: ''
+    year: ''
+    duration: '21:59'
+    thumbnail: https://img.youtube.com/vi/RzKKOSFR5Ws/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RzKKOSFR5Ws
+  - id: Op7K7fkoO54
+    title: J.S. Bach - BWV 31 (The heavens laugh! The earth rejoices)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '21:04'
+    thumbnail: https://img.youtube.com/vi/Op7K7fkoO54/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Op7K7fkoO54
+  - id: _idhkVfiXug
+    title: 'JS Bach: Cantata BWV 31 - Thomanerchor, Georg Christoph Biller (Audio video)'
+    channel: Faces of Classical Music – 11
+    performer: Faces of Classical Music – 11
+    place: ''
+    year: ''
+    duration: '20:57'
+    thumbnail: https://img.youtube.com/vi/_idhkVfiXug/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=_idhkVfiXug
+  - id: JnfaKDI1T0I
+    title: Bach - Cantate BWV 31 - Der Himmel lacht, die Erde jubiliert
+    channel: MusicArt61
+    performer: MusicArt61
+    place: ''
+    year: ''
+    duration: '20:58'
+    thumbnail: https://img.youtube.com/vi/JnfaKDI1T0I/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JnfaKDI1T0I
+  - id: IqHxsajnfAU
+    title: J. S. Bach. Coral de la Cantata BWV 31
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '1:05'
+    thumbnail: https://img.youtube.com/vi/IqHxsajnfAU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IqHxsajnfAU

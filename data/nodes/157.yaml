@@ -1,0 +1,242 @@
+bwv: '157'
+title: Ich lasse dich nicht, du segnest mich denn
+cycle: C3
+occasion: Purification
+date: '1727-02-06'
+url: https://en.wikipedia.org/wiki/BWV_157
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: ''
+    instruments: Flauto traverso, Oboe, Violino solo, Continuo
+    de: Ich lasse dich nicht, du segnest mich denn!
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      Ich halte meinen Jesum feste,
+      Ich lass ihn nun und ewig nicht.
+      Er ist allein mein Aufenthalt,
+      Drum fasst mein Glaube mit Gewalt
+      Sein segenreiches Angesicht;
+      Denn dieser Trost ist doch der beste.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Violetta, Continuo
+    de: |-
+      Mein lieber Jesu du,
+      Wenn ich Verdruss und Kummer leide,
+      So bist du meine Freude,
+      In Unruh meine Ruh
+      Und in der Angst mein sanftes Bette;
+      Die falsche Welt ist nicht getreu,
+      Der Himmel muss veralten,
+      Die Lust der Welt vergeht wie Spreu;
+      Wenn ich dich nicht, mein Jesu, hätte,
+      An wen sollt ich mich sonsten halten?
+      Drum lass ich nimmermehr von dir,
+      Dein Segen bleibe denn bei mir.
+  - num: 4
+    type: Aria
+    voices: ','
+    instruments: Flauto traverso, Violino, Continuo
+    de: |-
+      Ja, ja, ich halte Jesum feste,
+      So geh ich auch zum Himmel ein,
+      Wo Gott und seines Lammes Gäste
+      In Kronen zu der Hochzeit sein.
+      Da lass ich nicht, mein Heil, von dir,
+      Da bleibt dein Segen auch bei mir.
+      Ei, wie vergnügt
+      Ist mir mein Sterbekasten,
+      Weil Jesus mir in Armen liegt!
+      So kann mein Geist recht freudig rasten!
+      Ja, ja, ich halte Jesum feste,
+      So geb ich auch zum Himmel ein!
+      O schöner Ort!
+      Komm, sanfter Tod, und führ mich fort,
+      Wo Gott und seines Lammes Gäste
+      In Kronen zu der Hochzeit sein.
+      Ich bin erfreut,
+      Das Elend dieser Zeit
+      Noch von mir heute abzulegen;
+      Denn Jesus wartet mein im Himmel mit dem Segen.
+      Da lass ich nicht, mein Heil, von dir,
+      Da bleibt dein Segen auch bei mir.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Flauto traverso in octava e Oboe e Violino I col Soprano, Violino II coll' Alto, Violetta col Tenore, Continuo
+    de: |-
+      Meinen Jesum lass ich nicht,
+      Geh ihm ewig an der Seiten;
+      Christus lässt mich für und für
+      Zu dem Lebensbächlein leiten.
+      Selig, wer mit mir so spricht:
+      Meinen Jesum lass ich nicht.
+scoring: 'Soli: T B, Coro: S A T B, Flauto traverso, Oboe, Oboe d''amore, Violino solo, Violino I/II, Violetta, Continuo'
+features:
+  structure:
+    - Aria
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T: 2
+    ', ': 1
+    SATB: 1
+  instrumentation_families:
+    - flauto_traverso
+    - oboe
+    - oboe_damore
+    - violetta
+    - violino_solo
+wiki:
+  summary: "Ich lasse dich nicht, du segnest mich denn, BWV\_157, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig in 1726/27 to a libretto by Picander. The first known performance was on 6 February 1727 during a memorial service for Johann Christoph von Ponickau in Pomßen near Leipzig. The work was later assigned to the feast of the Purification celebrated on 2 February."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johann_Christoph_von_Ponickau.jpg/330px-Johann_Christoph_von_Ponickau.jpg
+  url: https://en.wikipedia.org/wiki/Ich_lasse_dich_nicht%2C_du_segnest_mich_denn%2C_BWV_157
+  summary_html: "<p><b><span><i lang=\"de\">Ich lasse dich nicht, du segnest mich denn</i></span></b>, <b>BWV<span class=\"nowrap\">\_</span>157</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig in 1726/27 to a libretto by Picander. The first known performance was on 6 February 1727 during a memorial service for Johann Christoph von Ponickau in Pomßen near Leipzig. The work was later assigned to the feast of the Purification celebrated on 2 February.</p>"
+performances:
+  - id: Dj-axjWCBDY
+    title: J.S. Bach - Cantata BWV 157 "Ich lasse dich nicht, du segnest mich denn" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: lutz
+    place: ''
+    year: '2016'
+    duration: '23:31'
+    thumbnail: https://img.youtube.com/vi/Dj-axjWCBDY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Dj-axjWCBDY
+  - id: mn2H9dEWBfI
+    title: 'J.S Bach - Cantata: Ich lasse dich nicht, du segnest mich denn!, BWV 157'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: ''
+    year: ''
+    duration: '16:59'
+    thumbnail: https://img.youtube.com/vi/mn2H9dEWBfI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mn2H9dEWBfI
+  - id: p5H1GZdXuh0
+    title: Bach - Cantate BWV 157 - Ich lasse dich nicht, du segnest mich denn!
+    channel: MusicArt61
+    performer: Herreweghe
+    place: ''
+    year: '1985'
+    duration: '19:39'
+    thumbnail: https://img.youtube.com/vi/p5H1GZdXuh0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=p5H1GZdXuh0
+  - id: ZLxNM6nUK04
+    title: BWV 157 -  Ich lasse dich nicht, du segnest mich denn!
+    channel: Bachcantates Tilburg
+    performer: Bachcantates Tilburg
+    place: Tilburg
+    year: '2023'
+    duration: '19:22'
+    thumbnail: https://img.youtube.com/vi/ZLxNM6nUK04/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=ZLxNM6nUK04
+  - id: HVoFRILw8os
+    title: Bach - Cantata Der Friede sei mit dir BWV 158 - Rademann | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Rademann
+    place: Grote Kerk
+    year: '2016'
+    duration: '12:15'
+    thumbnail: https://img.youtube.com/vi/HVoFRILw8os/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=HVoFRILw8os
+  - id: IkefhmWadTc
+    title: 'J. S. Bach:  Ich lasse dich nicht, du segnest mich denn! (BWV 157) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '16:43'
+    thumbnail: https://img.youtube.com/vi/IkefhmWadTc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=IkefhmWadTc
+  - id: e9au9RvdY1k
+    title: J.S. Bach - BWV 157 (I will not let Thee go, except Thou bless me!)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '20:53'
+    thumbnail: https://img.youtube.com/vi/e9au9RvdY1k/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=e9au9RvdY1k
+  - id: hSLlQaUMbcg
+    title: Cantata `Ich lasse dich nicht, du segnest mich denn` BWV 157 - Johann Sebastian Bach
+    channel: Johann Sebastian Bach
+    performer: Johann Sebastian Bach
+    place: ''
+    year: ''
+    duration: '19:35'
+    thumbnail: https://img.youtube.com/vi/hSLlQaUMbcg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hSLlQaUMbcg
+  - id: g37yyToAgC4
+    title: Bach - Motet Ich lasse dich nicht BWV anh. 159 - MacLeod | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk
+    year: '2016'
+    duration: '5:10'
+    thumbnail: https://img.youtube.com/vi/g37yyToAgC4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=g37yyToAgC4
+  - id: 7v49Kaz31Cs
+    title: 'BWV 157 - Ich lasse dich nicht, du segnest mich denn: 1. Duett (Tenor, Bass) - Ich lasse dich...'
+    channel: Orchester der J.S. Bach-Stiftung - Topic
+    performer: Lutz
+    place: ''
+    year: ''
+    duration: '4:38'
+    thumbnail: https://img.youtube.com/vi/7v49Kaz31Cs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7v49Kaz31Cs
+  - id: Q4rGUhynxRo
+    title: Les Argonautes   Ich lasse dich nicht, du segnest mich denn - J.S. Bach
+    channel: Ensemble Les Argonautes
+    performer: Ensemble Les Argonautes
+    place: ''
+    year: ''
+    duration: '4:53'
+    thumbnail: https://img.youtube.com/vi/Q4rGUhynxRo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Q4rGUhynxRo
+  - id: rueY8k_LaKg
+    title: Johann Sebastian Bach - BWV 157 Cantata 'Ich lasse dich nicht,du segnest mich denn' in B minor
+    channel: Baroque Concentus
+    performer: Baroque Concentus
+    place: Zürich
+    year: ''
+    duration: '22:34'
+    thumbnail: https://img.youtube.com/vi/rueY8k_LaKg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=rueY8k_LaKg
+  - id: tod_rbkXAHI
+    title: J.S.Bach - Arioso from Cantata 156 (Sinfonia); Marc Schachman, baroque oboe, Voices of Music 4K
+    channel: Voices of Music
+    performer: Voices of Music
+    place: ''
+    year: '2019'
+    duration: '2:52'
+    thumbnail: https://img.youtube.com/vi/tod_rbkXAHI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=tod_rbkXAHI
+  - id: KLQmFdhDfLY
+    title: 'Bach: Ich lasse dich nicht, du segnest mich denn, BWV 157 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Emmanuel Episcopal Church in Boston
+    year: '2025'
+    duration: '18:32'
+    thumbnail: https://img.youtube.com/vi/KLQmFdhDfLY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=KLQmFdhDfLY
+  - id: Rkj2IWR8C3A
+    title: Bach - Cantata Erfreute Zeit im neuen Bunde BWV 83 - Sato | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Leipzig
+    year: '2017'
+    duration: '17:56'
+    thumbnail: https://img.youtube.com/vi/Rkj2IWR8C3A/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Rkj2IWR8C3A
+key: D minor

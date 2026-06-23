@@ -1,0 +1,118 @@
+bwv: '41'
+title: Jesu, nun sei gepreiset
+cycle: C2
+occasion: New Year
+date: '1725-01-01'
+url: https://en.wikipedia.org/wiki/BWV_41
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Jesu, nun sei gepreiset
+      Zu diesem neuen Jahr
+      Für dein Güt, uns beweiset
+      In aller Not und G'fahr,
+      Dass wir haben erlebet
+      Die neu fröhliche Zeit,
+      Die voller Gnaden schwebet
+      Und ewger Seligkeit;
+      Dass wir in guter Stille
+      Das alt Jahr habn erfüllet.
+      Wir wolln uns dir ergeben
+      Itzund und immerdar,
+      Behüte Leib, Seel und Leben
+      Hinfort durchs ganze Jahr!
+  - num: 2
+    type: Aria
+    voices: S
+    instruments: Oboe I-III, Continuo
+    de: |-
+      Lass uns, o höchster Gott, das Jahr vollbringen,
+      Damit das Ende so wie dessen Anfang sei.
+      Es stehe deine Hand uns bei,
+      Dass künftig bei des Jahres Schluss
+      Wir bei des Segens Überfluss
+      Wie itzt ein Halleluja singen.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Ach! deine Hand, dein Segen muss allein
+      Das A und O, der Anfang und das Ende sein.
+      Das Leben trägest du in deiner Hand,
+      Und unsre Tage sind bei dir geschrieben;
+      Dein Auge steht auf Stadt und Land;
+      Du zählest unser Wohl und kennest unser Leiden,
+      Ach! gib von beiden,
+      Was deine Weisheit will, worzu dich dein Erbarmen angetrieben.
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violoncello piccolo solo, Continuo
+    de: |-
+      Woferne du den edlen Frieden
+      Vor unsern Leib und Stand beschieden,
+      So lass der Seele doch dein selig machend Wort.
+      Wenn uns dies Heil begegnet,
+      So sind wir hier gesegnet
+      Und Auserwählte dort!
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Doch weil der Feind bei Tag und Nacht
+      Zu unserm Schaden wacht
+      Und unsre Ruhe will verstören,
+      So wollest du, o Herze Gott, erhören,
+      Wenn wir in heiliger Gemeine beten:
+      Den Satan unter unsre Füße treten.
+      So bleiben wir zu deinem Ruhm
+      Dein auserwähltes Eigentum
+      Und können auch nach Kreuz und Leiden
+      Zur Herrlichkeit von hinnen scheiden.
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Continuo
+    de: |-
+      Dein ist allein die Ehre,
+      Dein ist allein der Ruhm;
+      Geduld im Kreuz uns lehre,
+      Regier all unser Tun,
+      Bis wir fröhlich abscheiden
+      Ins ewig Himmelreich,
+      Zu wahrem Fried und Freude,
+      Den Heilgen Gottes gleich.
+      Indes machs mit uns allen
+      Nach deinem Wohlgefallen:
+      Solchs singet heut ohn Scherzen
+      Die christgläubige Schar
+      Und wünscht mit Mund und Herzen
+      Ein seligs neues Jahr.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I-III, Violino I/II, Viola, Violoncello piccolo solo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    S: 1
+    A: 1
+    B: 1
+  instrumentation_families:
+    - oboe
+    - timpani
+    - tromba
+    - violoncello_piccolo
+key: C major

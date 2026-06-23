@@ -1,0 +1,105 @@
+bwv: '127'
+title: Herr Jesu Christ, wahr' Mensch und Gott
+cycle: C2
+occasion: Estomihi
+date: '1725-02-11'
+url: https://en.wikipedia.org/wiki/BWV_127
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto I/II, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Herr Jesu Christ, wahr' Mensch und Gott,
+      Der du littst Marter, Angst und Spott,
+      Für mich am Kreuz auch endlich starbst
+      Und mir deins Vaters Huld erwarbst,
+      Ich bitt durchs bittre Leiden dein:
+      Du wollst mir Sünder gnädig sein.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wenn alles sich zur letzten Zeit entsetzet,
+      Und wenn ein kalter Todesschweiß
+      Die schon erstarrten Glieder netzet,
+      Wenn meine Zunge nichts, als nur durch Seufzer spricht
+      Und dieses Herze bricht:
+      Genug, dass da der Glaube weiß,
+      Dass Jesus bei mir steht,
+      Der mit Geduld zu seinem Leiden geht
+      Und diesen schweren Weg auch mich geleitet
+      Und mir die Ruhe zubereitet.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Flauto I/II, Oboe I, Violino I/II, Viola, Continuo
+    de: |-
+      Die Seele ruht in Jesu Händen,
+      Wenn Erde diesen Leib bedeckt.
+      Ach ruft mich bald, ihr Sterbeglocken,
+      Ich bin zum Sterben unerschrocken,
+      Weil mich mein Jesus wieder weckt.
+  - num: 4
+    type: Recitative
+    voices: ''
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Wenn einstens die Posaunen schallen,
+      Und wenn der Bau der Welt
+      Nebst denen Himmelsfesten
+      Zerschmettert wird zerfallen,
+      So denke mein, mein Gott, im besten;
+      Wenn sich dein Knecht einst vors Gerichte stellt,
+      Da die Gedanken sich verklagen,
+      So wollest du allein,
+      O Jesu, mein Fürsprecher sein
+      Und meiner Seele tröstlich sagen:
+      Fürwahr, fürwahr, euch sage ich:
+      Wenn Himmel und Erde im Feuer vergehen,
+      So soll doch ein Gläubiger ewig bestehen.
+      Er wird nicht kommen ins Gericht
+      Und den Tod ewig schmecken nicht.
+      Nur halte dich,
+      Mein Kind, an mich:
+      Ich breche mit starker und helfender Hand
+      Des Todes gewaltig geschlossenes Band.
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto I e Flauto II in octava e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Ach, Herr, vergib all unsre Schuld,
+      Hilf, dass wir warten mit Geduld,
+      Bis unser Stündlein kömmt herbei,
+      Auch unser Glaub stets wacker sei,
+      Dein'm Wort zu trauen festiglich,
+      Bis wir einschlafen seliglich.
+scoring: 'Soli: S T B, Coro: S A T B, Tromba, Flauto I/II, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    S: 1
+  instrumentation_families:
+    - oboe
+    - recorder
+    - tromba
+key: E minor
+wiki:
+  summary: "Herr Jesu Christ, wahr' Mensch und Gott, BWV\_127, is a cantata by Johann Sebastian Bach for use in a Lutheran service. He composed the chorale cantata in 1725 in Leipzig for the Sunday Estomihi, the Sunday before Lent, and first performed it on 11 February 1725. It is based on Paul Eber's 1582 hymn in eight stanzas \"Herr Jesu Christ, wahr Mensch und Gott\"."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Paul_Eber.jpg/330px-Paul_Eber.jpg
+  url: https://en.wikipedia.org/wiki/Herr_Jesu_Christ%2C_wahr'_Mensch_und_Gott%2C_BWV_127
+  summary_html: "<p><b><span><i lang=\"de\">Herr Jesu Christ, wahr' Mensch und Gott</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>127</b>, is a cantata by Johann Sebastian Bach for use in a Lutheran service. He composed the chorale cantata in 1725 in Leipzig for the Sunday Estomihi, the Sunday before Lent, and first performed it on 11 February 1725. It is based on Paul Eber's 1582 hymn in eight stanzas \"Herr Jesu Christ, wahr Mensch und Gott\".</p>"

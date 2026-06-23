@@ -1,0 +1,106 @@
+bwv: '120'
+title: Gott, man lobet dich in der Stille
+cycle: PICANDER
+occasion: Ratswahl
+date: Aug 1729
+url: https://en.wikipedia.org/wiki/BWV_120
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Gott, man lobet dich in der Stille zu Zion,
+      und dir bezahlet man Gelübde.
+  - num: 2
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Jauchzet, ihr erfreuten Stimmen,
+      Steiget bis zum Himmel nauf!
+      Lobet Gott im Heiligtum
+      Und erhebet seinen Ruhm;
+      Seine Güte,
+      Sein erbarmendes Gemüte
+      Hört zu keinen Zeiten auf!
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Auf, du geliebte Lindenstadt,
+      Komm, falle vor dem Höchsten nieder,
+      Erkenne, wie er dich
+      In deinem Schmuck und Pracht
+      So väterlich
+      Erhält, beschützt, bewacht
+      Und seine Liebeshand
+      Noch über dir beständig hat.
+      Wohlan,
+      Bezahle die Gelübde, die du dem Höchsten hast getan,
+      Und singe Dank- und Demutslieder!
+      Komm, bitte, dass er Stadt und Land
+      Unendlich wolle mehr erquicken
+      Und diese werte Obrigkeit,
+      So heute Sitz und Wahl verneut,
+      Mit vielem Segen wolle schmücken!
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Violino concertante, Violino I/II, Viola, Continuo
+    de: |-
+      Heil und Segen
+      Soll und muss zu aller Zeit
+      Sich auf unsre Obrigkeit
+      In erwünschter Fülle legen,
+      Dass sich Recht und Treue müssen
+      Miteinander freundlich küssen.
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Nun, Herr, so weihe selbst das Regiment mit deinem Segen ein,
+      Dass alle Bosheit von uns fliehe
+      Und die Gerechtigkeit in unsern Hütten blühe,
+      Dass deines Vaters reiner Same
+      Und dein gebenedeiter Name
+      Bei uns verherrlicht möge sein!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Instrumentierung nicht überliefert
+    de: |-
+      Nun hilf uns, Herr, den Dienern dein,
+      Die mit deinm Blut erlöset sein!
+      Lass uns im Himmel haben teil
+      Mit den Heilgen im ewgen Heil!
+      Hilf deinem Volk, Herr Jesu Christ,
+      Und segne, was dein Erbteil ist;
+      Wart und pfleg ihr zu aller Zeit
+      Und heb sie hoch in Ewigkeit!
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    A: 1
+    T: 2
+    B: 1
+    S: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe_damore
+    - timpani
+    - tromba
+    - violino_solo
+key: D major

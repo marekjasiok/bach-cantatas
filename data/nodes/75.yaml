@@ -1,0 +1,242 @@
+bwv: '75'
+title: Die Elenden sollen essen
+cycle: C1
+occasion: Trinity I
+date: '1723-05-30'
+url: https://en.wikipedia.org/wiki/BWV_75
+movements:
+  - num: 1
+    type: Chorus
+    voices: S, A, T, B
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Die Elenden sollen essen,
+      dass sie satt werden,
+      und die nach dem Herrn fragen,
+      werden ihn preisen.
+      Euer Herz soll ewiglich leben.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Was hilft des Purpurs Majestät,
+      Da sie vergeht?
+      Was hilft der größte Überfluss,
+      Weil alles, so wir sehen,
+      Verschwinden muss?
+      Was hilft der Kitzel eitler Sinnen,
+      Denn unser Leib muss selbst von hinnen?
+      Ach, wie geschwind ist es geschehen,
+      Dass Reichtum, Wollust, Pracht
+      Den Geist zur Hölle macht!
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Oboe I, Violino I/II, Viola, Continuo
+    de: |-
+      Mein Jesus soll mein alles sein!
+      Mein Purpur ist sein teures Blut,
+      Er selbst mein allerhöchstes Gut,
+      Und seines Geistes Liebesglut
+      Mein allersüß'ster Freudenwein.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Gott stürzet und erhöhet
+      In Zeit und Ewigkeit.
+      Wer in der Welt den Himmel sucht,
+      Wird dort verflucht.
+      Wer aber hier die Hölle überstehet,
+      Wird dort erfreut.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      Ich nehme mein Leiden mit Freuden auf mich.
+      Wer Lazarus' Plagen
+      Geduldig ertragen,
+      Den nehmen die Engel zu sich.
+  - num: 6
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Indes schenkt Gott ein gut Gewissen,
+      Dabei ein Christe kann
+      Ein kleines Gut mit großer Lust genießen.
+      Ja, führt er auch durch lange Not
+      Zum Tod,
+      So ist es doch am Ende wohlgetan.
+  - num: 7
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Oboe I e Violino I all' unisono, Oboe II e Violino II all' unisono, Viola, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan;
+      Muß ich den Kelch gleich schmecken,
+      Der bitter ist nach meinem Wahn,
+      Laß ich mich doch nicht schrecken,
+      Weil doch zuletzt
+      Ich werd ergötzt
+      Mit süßem Trost im Herzen;
+      Da weichen alle Schmerzen.
+      Zweiter Teil
+  - num: 8
+    type: Sinfonia
+    voices: ''
+    instruments: Tromba, Violino I/II, Viola, Continuo
+  - num: 9
+    type: Recitative
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Nur eines kränkt
+      Ein christliches Gemüte:
+      Wenn es an seines Geistes Armut denkt.
+      Es gläubt zwar Gottes Güte,
+      Die alles neu erschafft;
+      Doch mangelt ihm die Kraft,
+      Dem überirdschen Leben
+      Das Wachstum und die Frucht zu geben.
+  - num: 10
+    type: Aria
+    voices: A
+    instruments: Violino solo, Continuo
+    de: |-
+      Jesus macht mich geistlich reich.
+      Kann ich seinen Geist empfangen,
+      Will ich weiter nichts verlangen;
+      Denn mein Leben wächst zugleich.
+      Jesus macht mich geistlich reich.
+  - num: 11
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wer nur in Jesu bleibt,
+      Die Selbstverleugnung treibt,
+      Dass er in Gottes Liebe
+      Sich gläubig übe,
+      Hat, wenn das Irdische verschwunden,
+      Sich selbst und Gott gefunden.
+  - num: 12
+    type: Aria
+    voices: B
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Mein Herze glaubt und liebt.
+      Denn Jesu süße Flammen,
+      Aus den' die meinen stammen,
+      Gehn über mich zusammen,
+      Weil er sich mir ergibt.
+  - num: 13
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      O Armut, der kein Reichtum gleicht!
+      Wenn aus dem Herzen
+      Die ganze Welt entweicht
+      Und Jesus nur allein regiert.
+      So wird ein Christ zu Gott geführt!
+      Gib, Gott, dass wir es nicht verscherzen!
+  - num: 14
+    type: Chorale
+    voices: S, A, T, B
+    instruments: Oboe I e Violino I all' unisono, Oboe II e Violino II all' unisono, Viola, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Dabei will ich verbleiben.
+      Es mag mich auf die rauhe Bahn
+      Not, Tod und Elend treiben;
+      So wird Gott mich
+      Ganz väterlich
+      In seinen Armen halten;
+      Drum lass ich ihn nur walten.
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Sinfonia
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    S, A, T, B: 3
+    B: 3
+    T: 3
+    S: 2
+    A: 2
+  instrumentation_families:
+    - oboe
+    - oboe_damore
+    - tromba
+    - violino_solo
+edges: {}
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Die Elenden sollen essen, BWV\_75, for the first Sunday after Trinity. He led its first performance in Leipzig on 30 May 1723, his first Sunday in the position of Thomaskantor. The complex work is in two parts, each consisting of seven movements, and marks the beginning of his first annual cycle of cantatas."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leipzig_Nikolaikirche_um_1850.jpg/330px-Leipzig_Nikolaikirche_um_1850.jpg
+  url: https://en.wikipedia.org/wiki/Die_Elenden_sollen_essen%2C_BWV_75
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Die Elenden sollen essen</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>75</b>, for the first Sunday after Trinity. He led its first performance in Leipzig on 30 May 1723, his first Sunday in the position of <span><span style=\"font-style:normal\">Thomaskantor</span></span>. The complex work is in two parts, each consisting of seven movements, and marks the beginning of his first annual cycle of cantatas.</p>"
+performances:
+  - id: CVigm_9XHj0
+    title: Bach - Cantata Die Elenden sollen essen BWV 75 - Kuijken | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Kuijken
+    place: Walloon Church
+    year: '2016'
+    duration: '29:41'
+    thumbnail: https://img.youtube.com/vi/CVigm_9XHj0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CVigm_9XHj0
+  - id: Y6sRDSO47HI
+    title: 'Johann Sebastian Bach - Cantata: Die Elenden sollen essen, BWV 75. {w/ score.}'
+    channel: TheOneAndOnlyZeno
+    performer: Koopman
+    place: Amsterdam
+    year: ''
+    duration: '29:22'
+    thumbnail: https://img.youtube.com/vi/Y6sRDSO47HI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Y6sRDSO47HI
+  - id: 7rG8ygHgyOs
+    title: J.S. Bach / Die Elenden sollen essen, BWV 75 (Herreweghe)
+    channel: scrymgeour34
+    performer: Herreweghe
+    place: Sunday
+    year: '2003'
+    duration: '29:56'
+    thumbnail: https://img.youtube.com/vi/7rG8ygHgyOs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7rG8ygHgyOs
+  - id: vVWzYZbmxuM
+    title: 'Bach: Die Elenden sollen essen, BWV 75 | Emmanuel Music Boston'
+    channel: Emmanuel Music
+    performer: Emmanuel Music
+    place: Leipzig
+    year: '2023'
+    duration: '33:28'
+    thumbnail: https://img.youtube.com/vi/vVWzYZbmxuM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=vVWzYZbmxuM
+  - id: KSZ-XJzTFzY
+    title: Bach Kantate BWV 75 Die Elenden sollen essen, Gotthold Schwarz 2003
+    channel: Rainer Harald
+    performer: Rainer Harald
+    place: Ziegler Sopran
+    year: '2003'
+    duration: '34:01'
+    thumbnail: https://img.youtube.com/vi/KSZ-XJzTFzY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=KSZ-XJzTFzY
+key: E minor

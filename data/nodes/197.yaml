@@ -1,0 +1,296 @@
+bwv: '197'
+title: Gott ist unsre Zuversicht
+cycle: LATE
+occasion: Wedding
+date: c. 1736
+url: https://en.wikipedia.org/wiki/BWV_197
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Gott ist unsre Zuversicht,
+      Wir vertrauen seinen Händen.
+      Wie er unsre Wege führt,
+      Wie er unser Herz regiert,
+      Da ist Segen aller Enden.
+  - num: 2
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gott ist und bleibt der beste Sorger,
+      Er hält am besten Haus.
+      Er führet unser Tun zuweilen wunderlich,
+      Jedennoch fröhlich aus,
+      Wohin der Vorsatz nicht gedacht.
+      Was die Vernunft unmöglich macht,
+      Das füget sich.
+      Er hat das Glück der Kinder, die ihn lieben,
+      Von Jugend an in seine Hand geschrieben.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Violino I/II, Viola, Continuo
+    de: |-
+      Schläfert allen Sorgenkummer
+      In den Schlummer
+      Kindlichen Vertrauens ein.
+      Gottes Augen, welche wachen
+      Und die unser Leitstern sein,
+      Werden alles selber machen.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Drum folget Gott und seinem Triebe.
+      Das ist die rechte Bahn.
+      Die führet durch Gefahr
+      Auch endlich in das Kanaan
+      Und durch von ihm geprüfte Liebe
+      'Auch an sein heiliges Altar
+      Und bindet Herz und Herz zusammen,
+      Herr! sei du selbst mit diesen Flammen!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Du süße Lieb, schenk uns deine Gunst,
+      Lass uns empfinden der Liebe Brunst,
+      Dass wir uns von Herzen einander lieben
+      Und in Fried auf einem Sinne bleiben.
+      Kyrie eleis!
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Oboe I, Violino I/II, Viola, Fagotto obligato, Continuo
+    de: |-
+      O du angenehmes Paar,
+      Dir wird eitel Heil begegnen,
+      Gott wird dich aus Zion segnen
+      Und dich leiten immerdar,
+      O du angenehmes Paar!
+  - num: 7
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      So wie es Gott mit dir
+      Getreu und väterlich von Kindesbeinen an gemeint,
+      So will er für und für
+      Dein allerbester Freund
+      Bis an das Ende bleiben.
+      Und also kannst du sicher gläuben,
+      Er wird dir nie
+      Bei deiner Hände Schweiß und Müh
+      Kein Gutes lassen fehlen.
+      Wohl dir, dein Glück ist nicht zu zählen.
+  - num: 8
+    type: Aria
+    voices: S
+    instruments: Violino solo, Oboe d'amore I/II, Continuo
+    de: |-
+      Vergnügen und Lust,
+      Gedeihen und Heil
+      Wird wachsen und stärken und laben.
+      Das Auge, die Brust
+      Wird ewig sein Teil
+      An süßer Zufriedenheit haben.
+  - num: 9
+    type: Recitative
+    voices: B
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Und dieser frohe Lebenslauf
+      Wird bis in späte Jahre währen.
+      Denn Gottes Güte hat kein Ziel,
+      Die schenkt dir viel,
+      Ja mehr, als selbst das Herze kann begehren.
+      Verlasse dich gewiss darauf.
+  - num: 10
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      So wandelt froh auf Gottes Wegen,
+      Und was ihr tut, das tut getreu!
+      Verdienet eures Gottes Segen,
+      Denn der ist alle Morgen neu;
+      Denn welcher seine Zuversicht
+      Auf Gott setzt, den verlässt er nicht.
+scoring: >-
+  Soli: S A B, Coro: S A T B, Tromba I-III, Tamburi, Oboe I/II, Oboe d'amore I/II, Fagotto obligato, Violino I/II,
+  Viola, Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 1
+    B: 4
+    A: 1
+    SATB: 2
+    S: 2
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - oboe_damore
+    - timpani
+    - tromba
+    - violino_solo
+key: D major
+wiki:
+  summary: "Gott ist unsre Zuversicht, BWV\_197.2, is a church cantata by Johann Sebastian Bach."
+  image: null
+  url: https://en.wikipedia.org/wiki/Gott_ist_unsre_Zuversicht%2C_BWV_197
+  summary_html: "<p><b><span><i lang=\"de\">Gott ist unsre Zuversicht</i></span></b>, BWV\_197.2, is a church cantata by Johann Sebastian Bach.</p>"
+performances:
+  - id: dsiLFczdkwA
+    title: Bach - Cantate BWV 197 - Gott ist unsre Zuversicht
+    channel: MusicArt61
+    performer: Jacobs
+    place: Leipzig
+    year: '1989'
+    duration: '29:55'
+    thumbnail: https://img.youtube.com/vi/dsiLFczdkwA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=dsiLFczdkwA
+  - id: skpoxPN3fww
+    title: J. S. Bach, "Gott ist unsre Zuversicht" BWV 197--Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: Victoria Wernicke
+    year: '2025'
+    duration: '1:21:20'
+    thumbnail: https://img.youtube.com/vi/skpoxPN3fww/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=skpoxPN3fww
+  - id: YNjAHgMMsFs
+    title: Bach - Cantata Der Herr denket an uns BWV 196 - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Dornheim
+    year: '2015'
+    duration: '11:52'
+    thumbnail: https://img.youtube.com/vi/YNjAHgMMsFs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YNjAHgMMsFs
+  - id: '-MXjmgLmiFs'
+    title: Johann Sebastian Bach - BWV 197 Cantata 'Gott ist unsre Zuversicht' in D major
+    channel: Baroque Concentus
+    performer: Jacobs
+    place: ''
+    year: ''
+    duration: '29:55'
+    thumbnail: https://img.youtube.com/vi/-MXjmgLmiFs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-MXjmgLmiFs
+  - id: 5h6nI5WgpE4
+    title: J.S. Bach - BWV 197 (God is our trust)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '30:00'
+    thumbnail: https://img.youtube.com/vi/5h6nI5WgpE4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5h6nI5WgpE4
+  - id: '-tfqACzoeAA'
+    title: J. S. Bach – Cantatas BWV 197, 97, 118, 191 – T. Koopman (Vol. 21 CD3)
+    channel: Miguel Zampedri
+    performer: Koopman
+    place: Lebens Licht
+    year: ''
+    duration: '1:11:49'
+    thumbnail: https://img.youtube.com/vi/-tfqACzoeAA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-tfqACzoeAA
+  - id: eSK59rdcSBQ
+    title: Ensemble BachWerkVokal - J. S. Bach (1685-1750) Gott ist unsre Zuversicht BWV 197 - Nr. 1 Coro
+    channel: Ensemble BachWerkVokal
+    performer: Ensemble BachWerkVokal
+    place: Igl
+    year: '2023'
+    duration: '5:42'
+    thumbnail: https://img.youtube.com/vi/eSK59rdcSBQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=eSK59rdcSBQ
+  - id: Ek9fw1BCXDg
+    title: Nicholas Kraemer talks Bach Cantata 197
+    channel: Music of the Baroque
+    performer: Music of the Baroque
+    place: ''
+    year: '2013'
+    duration: '2:50'
+    thumbnail: https://img.youtube.com/vi/Ek9fw1BCXDg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Ek9fw1BCXDg
+  - id: DTPRzSV-zZg
+    title: Bach - Lass, Fürstin, lass noch einen Strahl, 'Trauerode' BWV 198 - Luks | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Grote Kerk
+    year: 7 March 2020
+    duration: '31:27'
+    thumbnail: https://img.youtube.com/vi/DTPRzSV-zZg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=DTPRzSV-zZg
+  - id: YnhkPwFno0Y
+    title: Bach - Cantata Auf, schmetternde Töne BWV 207a - Van Veldhoven | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Van Veldhoven
+    place: Dresden
+    year: '2016'
+    duration: '33:06'
+    thumbnail: https://img.youtube.com/vi/YnhkPwFno0Y/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=YnhkPwFno0Y
+  - id: bQKpsEhcujQ
+    title: J. S. Bach. Cantata nº 197 BWV 197. I- Coro. Audición con partitura
+    channel: MotoPerpetuoVal
+    performer: MotoPerpetuoVal
+    place: ''
+    year: ''
+    duration: '6:16'
+    thumbnail: https://img.youtube.com/vi/bQKpsEhcujQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bQKpsEhcujQ
+  - id: hfylQu5MlMo
+    title: 'Bach: Ehre sei Gott in der Höhe BWV 197.1 (reconstruction: Pieter Dirksen)'
+    channel: Pieterson
+    performer: Pieterson
+    place: ''
+    year: '2022'
+    duration: '22:18'
+    thumbnail: https://img.youtube.com/vi/hfylQu5MlMo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=hfylQu5MlMo
+  - id: a9FaZGEbPjU
+    title: '52 - Chapitre 18 : Choral BWV 197 (en Sib) - J.S. Bach - page 30'
+    channel: Editions Henry Lemoine
+    performer: Editions Henry Lemoine
+    place: ''
+    year: '1995'
+    duration: '1:19'
+    thumbnail: https://img.youtube.com/vi/a9FaZGEbPjU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=a9FaZGEbPjU
+  - id: '-yV241Oyjsc'
+    title: 'Gott ist unsre Zuversicht BWV 197: Aria: Schläfert allen Sorgenkummer'
+    channel: Ton Koopman - Topic
+    performer: Koopman
+    place: ''
+    year: '2007'
+    duration: '5:22'
+    thumbnail: https://img.youtube.com/vi/-yV241Oyjsc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=-yV241Oyjsc
+  - id: zfDM8g_KtvI
+    title: J. S. Bach. Cantata nº 197 BWV 197. VII - recitativo. soprano.
+    channel: MotoPerpetuoVal
+    performer: MotoPerpetuoVal
+    place: ''
+    year: ''
+    duration: '1:47'
+    thumbnail: https://img.youtube.com/vi/zfDM8g_KtvI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zfDM8g_KtvI

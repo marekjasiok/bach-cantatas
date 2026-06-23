@@ -1,0 +1,109 @@
+bwv: '110'
+title: Unser Mund sei voll Lachens
+cycle: C3
+occasion: Christmas Day
+date: '1725-12-25'
+url: https://en.wikipedia.org/wiki/BWV_110
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba I-III, Tamburi, Flauto traverso I/II, Oboe I-III, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Unser Mund sei voll Lachens
+      und unsre Zunge voll Rühmens.
+      Denn der Herr hat Großes an uns getan.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Flauto traverso I/II, Fagotto, Continuo
+    de: |-
+      Ihr Gedanken und ihr Sinnen,
+      Schwinget euch anitzt von hinnen,
+      Steiget schleunig himmelan
+      Und bedenkt, was Gott getan!
+      Er wird Mensch, und dies allein,
+      Dass wir Himmels Kinder sein.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Dir, Herr, ist niemand gleich.
+      Du bist groß und dein Name ist groß
+      und kannst's mit der Tat beweisen.
+  - num: 4
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore solo, Continuo
+    de: |-
+      Ach Herr, was ist ein Menschenkind,
+      Dass du sein Heil so schmerzlich suchest?
+      Ein Wurm, den du verfluchest,
+      Wenn Höll und Satan um ihn sind;
+      Doch auch dein Sohn, den Seel und Geist
+      Aus Liebe seinen Erben heißt.
+  - num: 5
+    type: Aria
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Ehre sei Gott in der Höhe
+      und Friede auf Erden
+      und den Menschen ein Wohlgefallen!
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Tromba I, Oboe I/II, Oboe da caccia, Violino I/II, Viola, Continuo
+    de: |-
+      Wacht auf, ihr Adern und ihr Glieder,
+      Und singt dergleichen Freudenlieder,
+      Die unserm Gott gefällig sein.
+      Und ihr, ihr andachtsvollen Saiten,
+      Sollt ihm ein solches Lob bereiten,
+      Dabei sich Herz und Geist erfreun.
+  - num: 7
+    type: Chorale
+    voices: T
+    instruments: >-
+      Tromba I e Oboe I e Flauto traverso I/II e Violino I col Soprano, Oboe II e Violino II coll' Alto, Oboe da caccia
+      e Viola col Tenore, Continuo
+    de: |-
+      Alleluja! Gelobt sei Gott,
+      Singen wir all aus unsers Herzens Grunde.
+      Denn Gott hat heut gemacht solch Freud,
+      Die wir vergessen solln zu keiner Stunde.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Tromba I-III, Tamburi, Flauto traverso I/II, Oboe I-III, Oboe d'amore, Oboe da caccia,
+  Fagotto, Violino I/II, Viola, Continuo
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Aria
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 3
+    B: 2
+    A: 1
+  instrumentation_families:
+    - fagotto
+    - flauto_traverso
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - timpani
+    - tromba
+wiki:
+  summary: "Unser Mund sei voll Lachens, BWV\_110, is a church cantata by Johann Sebastian Bach. He composed the Christmas cantata in Leipzig for Christmas Day and first performed it on 25 December 1725."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Page_5_from_Unser_Mund_sei_voll_Lachens%2C_BWV_110_by_J.S._Bach_I1%29.jpg/330px-Page_5_from_Unser_Mund_sei_voll_Lachens%2C_BWV_110_by_J.S._Bach_I1%29.jpg
+  url: https://en.wikipedia.org/wiki/Unser_Mund_sei_voll_Lachens%2C_BWV_110
+  summary_html: "<p><b><span><i lang=\"de\">Unser Mund sei voll Lachens</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>110</b>, is a church cantata by Johann Sebastian Bach. He composed the Christmas cantata in Leipzig for Christmas Day and first performed it on 25 December 1725.</p>"
+key: F major

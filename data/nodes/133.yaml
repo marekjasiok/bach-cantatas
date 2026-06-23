@@ -1,0 +1,106 @@
+bwv: '133'
+title: Ich freue mich in dir
+cycle: C2
+occasion: Christmas 3
+date: '1724-12-27'
+url: https://en.wikipedia.org/wiki/BWV_133
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Cornetto col Soprano, Continuo
+    de: |-
+      Ich freue mich in dir
+      Und heiße dich willkommen,
+      Mein liebes Jesulein!
+      Du hast dir vorgenommen,
+      Mein Brüderlein zu sein.
+      Ach, wie ein süßer Ton!
+      Wie freundlich sieht er aus,
+      Der große Gottessohn!
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Getrost! es fasst ein heilger Leib
+      Des Höchsten unbegreiflichs Wesen.
+      Ich habe Gott - wie wohl ist mir geschehen! -
+      Von Angesicht zu Angesicht gesehen.
+      Ach! meine Seele muss genesen.
+  - num: 3
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ein Adam mag sich voller Schrecken
+      Vor Gottes Angesicht
+      Im Paradies verstecken!
+      Der allerhöchste Gott kehrt selber bei uns ein:
+      Und so entsetzet sich mein Herze nicht;
+      Es kennet sein erbarmendes Gemüte.
+      Aus unermessner Güte
+      Wird er ein kleines Kind
+      Und heißt mein Jesulein.
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wie lieblich klingt es in den Ohren,
+      Dies Wort: mein Jesus ist geboren,
+      Wie dringt es in das Herz hinein!
+      Wer Jesu Namen nicht versteht
+      Und wem es nicht durchs Herze geht,
+      Der muss ein harter Felsen sein.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Wohlan, des Todes Furcht und Schmerz
+      Erwägt nicht mein getröstet Herz.
+      Will er vom Himmel sich
+      Bis zu der Erde lenken,
+      So wird er auch an mich
+      In meiner Gruft gedenken.
+      Wer Jesum recht erkennt,
+      Der stirbt nicht, wenn er stirbt,
+      Sobald er Jesum nennt.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Cornetto e Oboe d'amore I e Violino I col Soprano, Oboe d'amore II e Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Wohlan, so will ich mich
+      An dich, o Jesu, halten,
+      Und sollte gleich die Welt
+      In tausend Stücken spalten.
+      O Jesu, dir, nur dir,
+      Dir leb ich ganz allein;
+      Auf dich, allein auf dich,
+      Mein Jesu, schlaf ich ein.
+scoring: 'Soli: S A T B, Coro: S A T B, Cornetto, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    T: 1
+    S: 1
+    B: 1
+  instrumentation_families:
+    - cornetto
+    - oboe_damore
+key: E minor

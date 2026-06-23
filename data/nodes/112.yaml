@@ -1,0 +1,88 @@
+bwv: '112'
+title: Der Herr ist mein getreuer Hirt
+cycle: LATE
+occasion: Easter II
+date: '1731'
+url: https://en.wikipedia.org/wiki/BWV_112
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Der Herr ist mein getreuer Hirt,
+      Hält mich in seiner Hute,
+      Darin mir gar nichts mangeln wird
+      Irgend an einem Gute,
+      Er weidet mich ohn Unterlass,
+      Darauf wächst das wohlschmeckend Gras
+      Seines heilsamen Wortes.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore solo, Continuo
+    de: |-
+      Zum reinen Wasser er mich weist,
+      Das mich erquicken tue.
+      Das ist sein fronheiliger Geist,
+      Der macht mich wohlgemute.
+      Er führet mich auf rechter Straß
+      Seiner Geboten ohn Ablass
+      Von wegen seines Namens willen.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Und ob ich wandelt im finstern Tal,
+      Fürcht ich kein Ungelücke
+      In Verfolgung, Leiden, Trübsal
+      Und dieser Welte Tücke,
+      Denn du bist bei mir stetiglich,
+      Dein Stab und Stecken trösten mich,
+      Auf dein Wort ich mich lasse.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Du bereitest für mir einen Tisch
+      Vor mein' Feinden allenthalben,
+      Machst mein Herze unverzagt und frisch,
+      Mein Haupt tust du mir salben
+      Mit deinem Geist, der Freuden Öl,
+      Und schenkest voll ein meiner Seel
+      Deiner geistlichen Freuden.
+  - num: 5
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Corno I/II, Oboe d'amore I e Violino I col Soprano, Oboe d'amore II e Violino II coll' Alto, Viola col Tenore,
+      Continuo
+    de: |-
+      Gutes und die Barmherzigkeit
+      Folgen mir nach im Leben,
+      Und ich werd bleiben allezeit
+      Im Haus des Herren eben,
+      Auf Erd in christlicher Gemein
+      Und nach dem Tod da werd ich sein
+      Bei Christo meinem Herren.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno I/II, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+    A: 1
+    B: 1
+  instrumentation_families:
+    - corno
+    - oboe_damore
+key: G major

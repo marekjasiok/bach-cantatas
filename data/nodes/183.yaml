@@ -1,0 +1,100 @@
+bwv: '183'
+title: Sie werden euch in den Bann tun
+cycle: C2
+occasion: Ascension I
+date: '1725-05-13'
+url: https://en.wikipedia.org/wiki/BWV_183
+edges: {}
+movements:
+  - num: 1
+    type: Recitative
+    voices: B
+    instruments: Oboe d'amore I/II, Oboe da caccia I/II, Continuo
+    de: |-
+      Sie werden euch in den Bann tun,
+      es kömmt aber die Zeit, dass, wer euch tötet,
+      wird meinen, er tue Gott einen Dienst daran.
+  - num: 2
+    type: Aria
+    voices: T
+    instruments: Violoncello piccolo, Continuo
+    de: |-
+      Ich fürchte nicht des Todes Schrecken,
+      Ich scheue ganz kein Ungemach.
+      Denn Jesus' Schutzarm wird mich decken,
+      Ich folge gern und willig nach;
+      Wollt ihr nicht meines Lebens schonen
+      Und glaubt, Gott einen Dienst zu tun,
+      Er soll euch selber noch belohnen,
+      Wohlan, es mag dabei beruhn.
+  - num: 3
+    type: Recitative
+    voices: A
+    instruments: Oboe d'amore I/II, Oboe da caccia I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Ich bin bereit, mein Blut und armes Leben
+      Vor dich, mein Heiland, hinzugeben,
+      Mein ganzer Mensch soll dir gewidmet sein;
+      Ich tröste mich, dein Geist wird bei mir stehen,
+      Gesetzt, es sollte mir vielleicht zuviel geschehen.
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Oboe da caccia I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Höchster Tröster, Heilger Geist,
+      Der du mir die Wege weist,
+      Darauf ich wandeln soll,
+      Hilf meine Schwachheit mit vertreten,
+      Denn von mir selbst kann ich nicht beten,
+      Ich weiß, du sorgest vor mein Wohl!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Oboe I/II e Violino I col Soprano, Oboe da caccia I e Violino II coll' Alto, Oboe da caccia II e Viola col Tenore,
+      Continuo
+    de: |-
+      Du bist ein Geist, der lehret,
+      Wie man recht beten soll;
+      Dein Beten wird erhöret,
+      Dein Singen klinget wohl.
+      Es steigt zum Himmel an,
+      Es steigt und lässt nicht abe,
+      Bis der geholfen habe,
+      Der allein helfen kann.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Oboe d'amore I/II, Oboe da caccia I/II, Violino I/II, Viola, Violoncello piccolo,
+  Continuo
+features:
+  structure:
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Recitative
+  closing: Chorale
+  voice_profile:
+    B: 1
+    T: 1
+    A: 1
+    S: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - violoncello_piccolo
+key: E minor
+wiki:
+  summary: >-
+    Sie werden euch in den Bann tun, BWV 183, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig
+    for Exaudi, the Sunday after Ascension, and first performed it on 13 May 1725.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Christiana_Mariana_von_Ziegler.jpg/330px-Christiana_Mariana_von_Ziegler.jpg
+  url: https://en.wikipedia.org/wiki/Sie_werden_euch_in_den_Bann_tun%2C_BWV_183
+  summary_html: >-
+    <p><b><span><i lang="de">Sie werden euch in den Bann tun</i></span></b>, <b><span class="nowrap">BWV 183</span></b>,
+    is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for Exaudi, the Sunday after Ascension, and
+    first performed it on 13 May 1725.</p>

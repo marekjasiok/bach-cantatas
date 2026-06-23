@@ -1,0 +1,225 @@
+bwv: '147'
+title: Herz und Mund und Tat und Leben
+cycle: C1
+occasion: Visitation
+date: '1723-07-02'
+url: https://en.wikipedia.org/wiki/BWV_147
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: T
+    instruments: Tromba, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Herz und Mund und Tat und Leben
+      Muss von Christo Zeugnis geben
+      Ohne Furcht und Heuchelei,
+      Dass er Gott und Heiland sei.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Gebenedeiter Mund!
+      Maria macht ihr Innerstes der Seelen
+      Durch Dank und Rühmen kund;
+      Sie fänget bei sich an,
+      Des Heilands Wunder zu erzählen,
+      Was er an ihr als seiner Magd getan.
+      O menschliches Geschlecht,
+      Des Satans und der Sünden Knecht,
+      Du bist befreit
+      Durch Christi tröstendes Erscheinen
+      Von dieser Last und Dienstbarkeit!
+      Jedoch dein Mund und dein verstockt Gemüte
+      Verschweigt, verleugnet solche Güte;
+      Doch wisse, dass dich nach der Schrift
+      Ein allzuscharfes Urteil trifft!
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      Schäme dich, o Seele, nicht,
+      Deinen Heiland zu bekennen,
+      Soll er dich die seine nennen
+      Vor des Vaters Angesicht!
+      Doch wer ihn auf dieser Erden
+      Zu verleugnen sich nicht scheut,
+      Soll von ihm verleugnet werden,
+      Wenn er kommt zur Herrlichkeit.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Verstockung kann Gewaltige verblenden,
+      Bis sie des Höchsten Arm vom Stuhle stößt;
+      Doch dieser Arm erhebt,
+      Obschon vor ihm der Erde Kreis erbebt,
+      Hingegen die Elenden,
+      So er erlöst.
+      O hochbeglückte Christen,
+      Auf, machet euch bereit,
+      Itzt ist die angenehme Zeit,
+      Itzt ist der Tag des Heils: der Heiland heißt
+      Euch Leib und Geist
+      Mit Glaubensgaben rüsten,
+      Auf, ruft zu ihm in brünstigem Verlangen,
+      Um ihn im Glauben zu empfangen!
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Violino solo, Continuo
+    de: |-
+      Bereite dir, Jesu, noch itzo die Bahn,
+      Mein Heiland, erwähle
+      Die gläubende Seele
+      Und siehe mit Augen der Gnade mich an!
+  - num: 6
+    type: Chorale
+    voices: T
+    instruments: Tromba, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wohl mir, dass ich Jesum habe,
+      O wie feste halt ich ihn,
+      Dass er mir mein Herze labe,
+      Wenn ich krank und traurig bin.
+      Jesum hab ich, der mich liebet
+      Und sich mir zu eigen gibet;
+      Ach drum lass ich Jesum nicht,
+      Wenn mir gleich mein Herze bricht.
+  - num: 7
+    type: Aria
+    voices: T
+    instruments: Continuo
+    de: |-
+      Hilf, Jesu, hilf, dass ich auch dich bekenne
+      In Wohl und Weh, in Freud und Leid,
+      Dass ich dich meinen Heiland nenne
+      Im Glauben und Gelassenheit,
+      Dass stets mein Herz von deiner Liebe brenne.
+  - num: 8
+    type: Recitative
+    voices: A
+    instruments: Oboe da caccia I/II, Continuo
+    de: |-
+      Der höchsten Allmacht Wunderhand
+      Wirkt im Verborgenen der Erden.
+      Johannes muss mit Geist erfüllet werden,
+      Ihn zieht der Liebe Band
+      Bereits in seiner Mutter Leibe,
+      Dass er den Heiland kennt,
+      Ob er ihn gleich noch nicht
+      Mit seinem Munde nennt,
+      Er wird bewegt, er hüpft und springet,
+      Indem Elisabeth das Wunderwerk ausspricht,
+      Indem Mariae Mund der Lippen Opfer bringet.
+      Wenn ihr, o Gläubige, des Fleisches Schwachheit merkt
+      Wenn euer Herz in Liebe brennet,
+      Und doch der Mund den Heiland nicht bekennet,
+      Gott ist es, der euch kräftig stärkt,
+      Er will in euch des Geistes Kraft erregen,
+      Ja Dank und Preis auf eure Zunge legen.
+  - num: 9
+    type: Aria
+    voices: B
+    instruments: Tromba, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Ich will von Jesu Wundern singen
+      Und ihm der Lippen Opfer bringen,
+      Er wird nach seiner Liebe Bund
+      Das schwache Fleisch, den irdischen Mund
+      Durch heilges Feuer kräftig zwingen.
+  - num: 10
+    type: Chorale
+    voices: T
+    instruments: Tromba, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Jesus bleibet meine Freude,
+      Meines Herzens Trost und Saft,
+      Jesus wehret allem Leide,
+      Er ist meines Lebens Kraft,
+      Meiner Augen Lust und Sonne,
+      Meiner Seele Schatz und Wonne;
+      Darum lass ich Jesum nicht
+      Aus dem Herzen und Gesicht.
+scoring: 'Soli: S A T B, Coro: S A T B, Tromba, Oboe I/II, Oboe d''amore, Oboe da caccia I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    T: 5
+    A: 2
+    B: 2
+    S: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - tromba
+    - violino_solo
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Herz und Mund und Tat und Leben, BWV\_147 in 1723 during his first year as Thomaskantor, the director of church music in Leipzig. His cantata is part of his first cantata cycle there and was written for the Marian feast of the Visitation on 2 July, which commemorates Mary's visit to Elizabeth as narrated in the Gospel of Luke in the prescribed reading for the feast day. Bach based the music on his earlier cantata BWV 147a, written originally in Weimar in 1716 for Advent. He expanded the Advent cantata in six movements to ten movements in two parts in the new work. While the text of the Advent cantata was written by the Weimar court poet Salomo Franck, the librettist of the adapted version who added several recitatives is anonymous."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wohl_mir%2C_dass_ich_Jesum_habe_%28Autograph%29.jpg/330px-Wohl_mir%2C_dass_ich_Jesum_habe_%28Autograph%29.jpg
+  url: https://en.wikipedia.org/wiki/Herz_und_Mund_und_Tat_und_Leben%2C_BWV_147
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Herz und Mund und Tat und Leben</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>147</b> in 1723 during his first year as Thomaskantor, the director of church music in Leipzig. His cantata is part of his first cantata cycle there and was written for the Marian feast of the Visitation on 2 July, which commemorates Mary's visit to Elizabeth as narrated in the Gospel of Luke in the prescribed reading for the feast day. Bach based the music on his earlier cantata BWV 147a, written originally in Weimar in 1716 for Advent. He expanded the Advent cantata in six movements to ten movements in two parts in the new work. While the text of the Advent cantata was written by the Weimar court poet Salomo Franck, the librettist of the adapted version who added several recitatives is anonymous.</p>"
+performances:
+  - id: h97JE4--p84
+    title: Bach - Cantata Herz und Mund und Tat und Leben BWV 147 - Creed | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Leipzig
+    year: '2018'
+    duration: '30:18'
+    thumbnail: https://img.youtube.com/vi/h97JE4--p84/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=h97JE4--p84
+  - id: wEJruV9SPao
+    title: 'Daniil Trifonov – Bach: Cantata BWV 147: Jesu, Joy of Man’s Desiring (Transcr. Hess for Piano)'
+    channel: Deutsche Grammophon - DG
+    performer: Deutsche Grammophon - DG
+    place: ''
+    year: ''
+    duration: '3:46'
+    thumbnail: https://img.youtube.com/vi/wEJruV9SPao/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=wEJruV9SPao
+  - id: GWtoeYznx8E
+    title: Bach - Jesus bleibet meine Freude from Cantata BWV 147 | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Netherlands Bach Society
+    place: Leipzig
+    year: '2018'
+    duration: '3:04'
+    thumbnail: https://img.youtube.com/vi/GWtoeYznx8E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=GWtoeYznx8E
+  - id: 38TS7EOGo9A
+    title: 'Johann Sebastian Bach: Kantata BWV 147 - Nikolaus Harnoncourt (HD 1080p)'
+    channel: Faces of Classical Music – 2
+    performer: Harnoncourt
+    place: Austria
+    year: '2000'
+    duration: '32:30'
+    thumbnail: https://img.youtube.com/vi/38TS7EOGo9A/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=38TS7EOGo9A
+  - id: evnzhg_9frs
+    title: J.S. Bach - Cantata BWV 147 "Herz und Mund und Tat und Leben" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '33:18'
+    thumbnail: https://img.youtube.com/vi/evnzhg_9frs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=evnzhg_9frs
+key: C major

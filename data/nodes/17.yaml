@@ -1,0 +1,254 @@
+bwv: '17'
+title: Wer Dank opfert, der preiset mich
+cycle: C3
+occasion: Trinity XIV
+date: '1726-09-22'
+url: https://en.wikipedia.org/wiki/BWV_17
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Wer Dank opfert, der preiset mich,
+      und das ist der Weg, dass ich ihm zeige
+      das Heil Gottes.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Es muss die ganze Welt ein stummer Zeuge werden
+      Von Gottes hoher Majestät,
+      Luft, Wasser, Firmament und Erden,
+      Wenn ihre Ordnung als in Schnuren geht;
+      Ihn preiset die Natur mit ungezählten Gaben,
+      Die er ihr in den Schoß gelegt,
+      Und was den Odem hegt,
+      Will noch mehr Anteil an ihm haben,
+      Wenn es zu seinem Ruhm so Zung als Fittich regt.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Continuo
+    de: |-
+      Herr, deine Güte reicht, so weit der Himmel ist,
+      Und deine Wahrheit langt, so weit die Wolken gehen.
+      Wüßt ich gleich sonsten nicht, wie herrlich groß du bist,
+      So könnt ich es gar leicht aus deinen Werken sehen.
+      Wie sollt man dich mit Dank davor nicht stetig preisen?
+      Da du uns willt den Weg des Heils hingegen weisen.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Einer aber unter ihnen,
+      da er sahe, dass er gesund worden war,
+      kehrete um und preisete Gott mit lauter Stimme
+      und fiel auf sein Angesicht zu seinen
+      Füßen und dankte ihm, und das war ein Samariter.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Welch Übermaß der Güte
+      Schenkst du mir!
+      Doch was gibt mein Gemüte
+      Dir dafür?
+      Herr, ich weiß sonst nichts zu bringen,
+      Als dir Dank und Lob zu singen.
+  - num: 6
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Sieh meinen Willen an, ich kenne, was ich bin:
+      Leib, Leben und Verstand, Gesundheit, Kraft und Sinn,
+      Der du mich lässt mit frohem Mund genießen,
+      Sind Ströme deiner Gnad, die du auf mich lässt fließen.
+      Lieb, Fried, Gerechtigkeit und Freud in deinem Geist
+      Sind Schätz, dadurch du mir schon hier ein Vorbild weist,
+      Was Gutes du gedenkst mir dorten zuzuteilen
+      Und mich an Leib und Seel vollkommentlich zu heilen.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Wie sich ein Vatr erbarmet
+      Üb'r seine junge Kindlein klein:
+      So tut der Herr uns Armen,
+      So wir ihn kindlich fürchten rein.
+      Er kennt das arme Gemächte,
+      Gott weiß, wir sind nur Staub.
+      Gleichwie das Gras vom Rechen,
+      Ein Blum und fallendes Laub,
+      Der Wind nur drüber wehet,
+      So ist es nimmer da:
+      Also der Mensch vergehet,
+      Sein End, das ist ihm nah.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    S: 1
+    T: 2
+    B: 1
+  instrumentation_families:
+    - oboe
+key: A major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Wer Dank opfert, der preiset mich, BWV\_17 in Leipzig for the fourteenth Sunday after Trinity and first performed it on 22 September 1726."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ErnstludwigIsamei.JPG/330px-ErnstludwigIsamei.JPG
+  url: https://en.wikipedia.org/wiki/Wer_Dank_opfert%2C_der_preiset_mich%2C_BWV_17
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Wer Dank opfert, der preiset mich</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>17</b> in Leipzig for the fourteenth Sunday after Trinity and first performed it on 22 September 1726.</p>"
+performances:
+  - id: 7v0OlBiADJo
+    title: J.S. Bach - Cantata BWV 17 "Wer Dank opfert, der preiset mich" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2019'
+    duration: '20:04'
+    thumbnail: https://img.youtube.com/vi/7v0OlBiADJo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=7v0OlBiADJo
+  - id: uhZ-Umyfvf0
+    title: 'J. S. Bach: Cantata nº 17 BWV 17 Wer Dank opfert, der preiset mich'
+    channel: Musicnetmaterials
+    performer: Musicnetmaterials
+    place: ''
+    year: ''
+    duration: '17:51'
+    thumbnail: https://img.youtube.com/vi/uhZ-Umyfvf0/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=uhZ-Umyfvf0
+  - id: q382oLdk74A
+    title: J.S. Bach - Chorale "Wie sich ein Vater erbarmet" from Cantata BWV 17
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '3:14'
+    thumbnail: https://img.youtube.com/vi/q382oLdk74A/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=q382oLdk74A
+  - id: LDgDbxBUutQ
+    title: Bach - Cantate BWV 17 - Wer Dank opfert, der preiset mich
+    channel: MusicArt61
+    performer: Harnoncourt
+    place: Vatr erbarmet
+    year: '1971'
+    duration: '17:47'
+    thumbnail: https://img.youtube.com/vi/LDgDbxBUutQ/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=LDgDbxBUutQ
+  - id: izMogpNkdhE
+    title: J.S. Bach Cantata Wer Dank opfert, der preiset mich, BWV 17
+    channel: HarpsichordA6
+    performer: HarpsichordA6
+    place: ''
+    year: ''
+    duration: '16:37'
+    thumbnail: https://img.youtube.com/vi/izMogpNkdhE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=izMogpNkdhE
+  - id: yob1mrDKNwg
+    title: 'J. S. Bach:  Wer Dank opfert, der preiset mich (BWV 17) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: ''
+    year: ''
+    duration: '14:51'
+    thumbnail: https://img.youtube.com/vi/yob1mrDKNwg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=yob1mrDKNwg
+  - id: KWeNMB2IRqg
+    title: 'Wer Dank opfert, der preiset mich, BWV 17: Part I: Wer Dank opfert, der preiset mich (Chorus)'
+    channel: Gerlinde Sämann - Topic
+    performer: Kuijken
+    place: ''
+    year: '2000'
+    duration: '4:16'
+    thumbnail: https://img.youtube.com/vi/KWeNMB2IRqg/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=KWeNMB2IRqg
+  - id: htUFDPx95lU
+    title: 'Wer Dank opfert, der preiset mich, BWV 17: Pt. I: Wer Dank opfert, der preiset mich (Chorus)'
+    channel: Hana Blažíková - Topic
+    performer: Masaaki
+    place: Blaze
+    year: '2010'
+    duration: '4:12'
+    thumbnail: https://img.youtube.com/vi/htUFDPx95lU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=htUFDPx95lU
+  - id: 1Tg42jMV0tI
+    title: J.S. Bach - BWV 17 (Whoso offereth praise gloeifieth Me)
+    channel: Classical Archives
+    performer: Classical Archives
+    place: ''
+    year: ''
+    duration: '17:52'
+    thumbnail: https://img.youtube.com/vi/1Tg42jMV0tI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=1Tg42jMV0tI
+  - id: OGFWHEvOXFk
+    title: 'J.S. Bach: "Wer Dank opfert, der preiset mich" BWV 17 (1) | Thomanerchor Leipzig (Gotthold Schwarz)'
+    channel: CHOR GESANG - Knabenchöre
+    performer: CHOR GESANG - Knabenchöre
+    place: Musik setzen
+    year: September 2018
+    duration: '4:00'
+    thumbnail: https://img.youtube.com/vi/OGFWHEvOXFk/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=OGFWHEvOXFk
+  - id: RNevIP5nI7w
+    title: Bach - WER DANK OPFERT, DER PREISET MICH - BWV 17
+    channel: BEST OF CLASSICAL MUSIC
+    performer: BEST OF CLASSICAL MUSIC
+    place: ''
+    year: ''
+    duration: '17:07'
+    thumbnail: https://img.youtube.com/vi/RNevIP5nI7w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RNevIP5nI7w
+  - id: A7Ytj50Q_Ig
+    title: 'Wer Dank opfert, der preiset mich, BWV 17: Pt. I: Aria. Herr, deine Gute reicht, so weit der...'
+    channel: Hana Blažíková - Topic
+    performer: Masaaki
+    place: Blaze
+    year: '2010'
+    duration: '3:08'
+    thumbnail: https://img.youtube.com/vi/A7Ytj50Q_Ig/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=A7Ytj50Q_Ig
+  - id: elAwfz0BwbE
+    title: 'Wer Dank opfert, der preiset mich, BWV 17: Pt. II: Chorale. Wie sich ein Vater erbarmet (Chorus)'
+    channel: Malin Hartelius - Topic
+    performer: Gardiner
+    place: Hartelius
+    year: '2000'
+    duration: '2:34'
+    thumbnail: https://img.youtube.com/vi/elAwfz0BwbE/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=elAwfz0BwbE
+  - id: CxGJGFQUgwU
+    title: 'J.S. Bach: Wer Dank opfert, der preiset mich, Cantata BWV 17 / Pt. 1: I. "Wer Dank opfert, der...'
+    channel: Münchener Bach-Orchester - Topic
+    performer: Richter
+    place: Berlin
+    year: '1978'
+    duration: '3:52'
+    thumbnail: https://img.youtube.com/vi/CxGJGFQUgwU/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CxGJGFQUgwU
+  - id: la3OVCrkGeA
+    title: 'J. S. Bach : CANTATA – BWV 17 “Wer Dank opfert, der preiset mich” (Ton Koopman)'
+    channel: Emily Brontë
+    performer: Koopman
+    place: Waalse Kerk
+    year: '2002'
+    duration: '14:51'
+    thumbnail: https://img.youtube.com/vi/la3OVCrkGeA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=la3OVCrkGeA

@@ -1,0 +1,117 @@
+bwv: '96'
+title: Herr Christ, der einge Gottessohn
+cycle: C2
+occasion: Trinity XVIII
+date: '1724-10-08'
+url: https://en.wikipedia.org/wiki/BWV_96
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno, Trombone, Flauto piccolo, Oboe I/II, Violino piccolo, Violino I/II, Viola, Continuo
+    de: |-
+      Herr Christ, der einge Gottessohn,
+      Vaters in Ewigkeit,
+      Aus seinem Herzn entsprossen,
+      Gleichwie geschrieben steht,
+      Er ist der Morgensterne,
+      Sein' Glanz streckt er so ferne
+      Vor andern Sternen klar.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      O Wunderkraft der Liebe,
+      Wenn Gott an sein Geschöpfe denket,
+      Wenn sich die Herrlichkeit
+      Im letzten Teil der Zeit
+      Zur Erde senket.
+      O unbegreifliche, geheime Macht!
+      Es trägt ein auserwählter Leib
+      Den großen Gottessohn,
+      Den David schon
+      Im Geist als seinen Herrn verehrte,
+      Da dies gebenedeite Weib
+      In unverletzter Keuschheit bliebe.
+      O reiche Segenskraft! so sich auf uns ergossen,
+      Da er den Himmel auf-, die Hölle zugeschlossen.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Flauto traverso solo, Continuo
+    de: |-
+      Ach, ziehe die Seele mit Seilen der Liebe,
+      O Jesu, ach zeige dich kräftig in ihr!
+      Erleuchte sie, dass sie dich gläubig erkenne,
+      Gib, dass sie mit heiligen Flammen entbrenne,
+      Ach würke ein gläubiges Dürsten nach dir!
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Ach, führe mich, o Gott, zum rechten Wege,
+      Mich, der ich unerleuchtet bin,
+      Der ich nach meines Fleisches Sinn
+      So oft zu irren pflege;
+      Jedoch gehst du nur mir zur Seiten,
+      Willst du mich nur mit deinen Augen leiten,
+      So gehet meine Bahn
+      Gewiss zum Himmel an.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Bald zur Rechten, bald zur Linken
+      Lenkt sich mein verirrter Schritt.
+      Gehe doch, mein Heiland, mit,
+      Lass mich in Gefahr nicht sinken,
+      Lass mich ja dein weises Führen
+      Bis zur Himmelspforte spüren!
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno e Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Ertöt uns durch dein Güte,
+      Erweck uns durch dein Gnad;
+      Den alten Menschen kränke,
+      Dass er neu Leben hab
+      Wohl hier auf dieser Erden,
+      Den Sinn und all Begierden
+      Und G'danken hab'n zu dir.
+scoring: >-
+  Soli: S A T B, Coro: S A T B, Corno, Trombone, Flauto traverso, Flauto piccolo, Oboe I/II, Violino piccolo, Violino
+  I/II, Viola, Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    T: 1
+    S: 1
+    B: 1
+  instrumentation_families:
+    - corno
+    - flauto_piccolo
+    - flauto_traverso
+    - oboe
+    - trombone
+    - violino_piccolo
+key: B♭ major
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Herr Christ, der einge Gottessohn, BWV\_96, in Leipzig for the 18th Sunday after Trinity and first performed it on 8 October 1724. The chorale cantata, part of Bach's second annual cycle, is based on the hymn in five stanzas \"Herr Christ, der einig Gotts Sohn\" by Elisabeth Cruciger, published in Eyn geystlich Gesangk Buchleyn in 1524."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Herr_Christ%2C_der_einge_Gottessohn%2C_BWV_96
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Herr Christ, der einge Gottessohn</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>96</b>, in Leipzig for the 18th Sunday after Trinity and first performed it on 8 October 1724. The chorale cantata, part of Bach's second annual cycle, is based on the hymn in five stanzas \"<span><i lang=\"de\">Herr Christ, der einig Gotts Sohn</i></span>\" by Elisabeth Cruciger, published in <span><i lang=\"de\">Eyn geystlich Gesangk Buchleyn</i></span> in 1524.</p>"

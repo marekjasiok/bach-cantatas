@@ -1,0 +1,255 @@
+bwv: '92'
+title: Ich hab in Gottes Herz und Sinn
+cycle: C2
+occasion: Septuagesima
+date: '1725-01-28'
+url: https://en.wikipedia.org/wiki/BWV_92
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Oboe d'amore I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Ich hab in Gottes Herz und Sinn
+      Mein Herz und Sinn ergeben,
+      Was böse scheint, ist mein Gewinn,
+      Der Tod selbst ist mein Leben.
+      Ich bin ein Sohn
+      Des, der den Thron
+      Des Himmels aufgezogen;
+      Ob er gleich schlägt
+      Und Kreuz auflegt,
+      Bleibt doch sein Herz gewogen.
+  - num: 2
+    type: Chorus
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Es kann mir fehlen nimmermehr!
+      Es müssen eh'r
+      Wie selbst der treue Zeuge spricht,
+      Mit Prasseln und mit grausem Knallen
+      Die Berge und die Hügel fallen:
+      Mein Heiland aber trüget nicht,
+      Mein Vater muss mich lieben.
+      Durch Jesu rotes Blut bin ich in seine Hand geschrieben;
+      Er schützt mich doch!
+      Wenn er mich auch gleich wirft ins Meer,
+      So lebt der Herr auf großen Wassern noch,
+      Der hat mir selbst mein Leben zugeteilt,
+      Drum werden sie mich nicht ersäufen.
+      Wenn mich die Wellen schon ergreifen
+      Und ihre Wut mit mir zum Abgrund eilt,
+      So will er mich nur üben,
+      Ob ich an Jonam werde denken,
+      Ob ich den Sinn mit Petro auf ihn werde lenken.
+      Er will mich stark im Glauben machen,
+      Er will vor meine Seele wachen
+      Und mein Gemüt,
+      Das immer wankt und weicht
+      in seiner Güt,
+      Der an Beständigkeit nichts gleicht,
+      Gewöhnen, fest zu stehen.
+      Mein Fuß soll fest
+      Bis an der Tage letzten Rest
+      Sich hier uf diesen Felsen gründen.
+      Halt ich denn Stand,
+      Und lasse mich in felsenfesten Glauben finden,
+      Weiß seine Hand,
+      Die er mich schon vom Himmel beut,
+      zu rechter Zeit
+      Mich wieder zu erhöhen.
+  - num: 3
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Seht, seht! wie reißt, wie bricht, wie fällt,
+      Was Gottes starker Arm nicht hält.
+      Steht aber fest und unbeweglich prangen,
+      Was unser Held mit seiner Macht umfangen.
+      Lasst Satan wüten, rasen, krachen,
+      Der starke Gott wird uns unüberwindlich machen.
+  - num: 4
+    type: Chorale
+    voices: A
+    instruments: Oboe d'amore I/II, Continuo
+    de: |-
+      Zudem ist Weisheit und Verstand
+      Bei ihm ohn alle Maßen,
+      Zeit, Ort und Stund ist ihm bekannt,
+      Zu tun und auch zu lassen.
+      Er weiß, wenn Freud,
+      er weiß, wenn Leid
+      Uns, seinen Kindern, diene,
+      Und was er tut,
+      ist alles gut,
+      Ob's noch so traurig schiene.
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wir wollen uns nicht länger zagen
+      Und uns mit Fleisch und Blut,
+      Weil wir in Gottes Hut,
+      So furchtsam wie bisher befragen.
+      Ich denke dran,
+      Wie Jesus nicht gefürcht' das tausendfache Leiden;
+      Er sah es an
+      Als eine Quelle ewger Freuden.
+      Und dir, mein Christ,
+      Wird deine Angst und Qual, dein bitter Kreuz und Pein
+      Um Jesu willen Heil und Zucker sein.
+      Vertraue Gottes Huld
+      Und merke noch, was nötig ist:
+      Geduld! Geduld!
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Das Brausen von den rauhen Winden
+      Macht, dass wir volle Ähren finden.
+      Des Kreuzes Ungestüm schafft bei den Christen Frucht,
+      Drum lasst uns alle unser Leben
+      Dem weisen Herrscher ganz ergeben.
+      Küsst seines Sohnes Hand, verehrt die treue Zucht.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Ei nun, mein Gott, so fall ich dir
+      Getrost in deine Hände.
+      Bass
+      So spricht der gottgelassne Geist,
+      Wenn er des Heilands Brudersinn
+      Und Gottes Treue gläubig preist.
+      Nimm mich, und mache es mit mir
+      Bis an mein letztes Ende.
+      Tenor
+      Ich weiss gewiss,
+      Dass ich ohnfehlbar selig bin,
+      Wenn meine Not und mein Bekümmernis
+      Von dir so wird geendigt werden:
+      Wie du wohl weißt,
+      Dass meinem Geist
+      Dadurch sein Nutz entstehe,
+      Alt
+      Dass schon auf dieser Erden,
+      Dem Satan zum Verdruss,
+      Dein Himmelreich sich in mir zeigen muss
+      Und deine Ehr je mehr und mehr
+      Sich in ihr selbst erhöhe,
+      Sopran
+      So kann mein Herz nach deinem Willen
+      Sich, o mein Jesu, selig stillen,
+      Und ich kann bei gedämpften Saiten
+      Dem Friedensfürst ein neues Lied bereiten.
+  - num: 8
+    type: Aria
+    voices: S
+    instruments: Oboe d'amore I, Violino I/II, Viola, Continuo
+    de: |-
+      Meinem Hirten bleib ich treu.
+      Will er mir den Kreuzkelch füllen,
+      Ruh ich ganz in seinem Willen,
+      Er steht mir im Leiden bei.
+      Es wird dennoch, nach dem Weinen,
+      Jesu Sonne wieder scheinen.
+      Meinem Hirten bleib ich treu.
+      Jesu leb ich, der wird walten,
+      Freu dich, Herz, du sollst erkalten,
+      Jesus hat genug getan.
+      Amen: Vater, nimm mich an!
+  - num: 9
+    type: Chorale
+    voices: SATB
+    instruments: Oboe d'amore I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Soll ich denn auch des Todes Weg
+      Und finstre Straße reisen,
+      Wohlan! ich tret auf Bahn und Steg,
+      Den mir dein Augen weisen.
+      Du bist mein Hirt,
+      Der alles wird
+      Zu solchem Ende kehren,
+      Dass ich einmal
+      In deinem Saal
+      Dich ewig möge ehren.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe d''amore I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Chorus
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 4
+    T: 2
+    A: 1
+    B: 1
+    S: 1
+  instrumentation_families:
+    - oboe_damore
+wiki:
+  summary: "Ich hab in Gottes Herz und Sinn, BWV\_92, is a church cantata by Johann Sebastian Bach for use in the Lutheran service. He composed the chorale cantata in Leipzig for Septuagesimae and first performed it on 28 January 1725. It is based on the 1647 hymn \"Ich hab in Gottes Herz und Sinn\" by Paul Gerhardt, and is the only chorale cantata Bach based on a hymn by Gerhardt. The chorale revolves around faith in God and submission to his will. In nine movements, it is one of Bach's longer cantatas in terms of structure, text and music."
+  image: https://upload.wikimedia.org/wikipedia/commons/f/f6/Paul_Gerhardt.jpg
+  url: https://en.wikipedia.org/wiki/Ich_hab_in_Gottes_Herz_und_Sinn%2C_BWV_92
+  summary_html: "<p><b><span><i lang=\"de\">Ich hab in Gottes Herz und Sinn</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>92</b>, is a church cantata by Johann Sebastian Bach for use in the Lutheran service. He composed the chorale cantata in Leipzig for Septuagesimae and first performed it on 28 January 1725. It is based on the 1647 hymn \"Ich hab in Gottes Herz und Sinn\" by Paul Gerhardt, and is the only chorale cantata Bach based on a hymn by Gerhardt. The chorale revolves around faith in God and submission to his will. In nine movements, it is one of Bach's longer cantatas in terms of structure, text and music.</p>"
+performances:
+  - id: b_vjp2hGvDA
+    title: J.S. Bach - Cantata BWV 92 "Ich hab in Gottes Herz und Sinn" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '33:06'
+    thumbnail: https://img.youtube.com/vi/b_vjp2hGvDA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=b_vjp2hGvDA
+  - id: aSnEUkqDN5U
+    title: Bach - Cantata 'Ich hab in Gottes Herz und Sinn' BWV 92
+    channel: BachHarmony
+    performer: BachHarmony
+    place: ''
+    year: ''
+    duration: '29:16'
+    thumbnail: https://img.youtube.com/vi/aSnEUkqDN5U/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=aSnEUkqDN5U
+  - id: JQ-f7WnkdUY
+    title: 'J. S. Bach: Ich habe in Gottes Herz und Sinn (BWV 92) (Koopman)'
+    channel: Edward Murray
+    performer: Koopman
+    place: Gottes Herz und Sinn
+    year: ''
+    duration: '29:20'
+    thumbnail: https://img.youtube.com/vi/JQ-f7WnkdUY/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=JQ-f7WnkdUY
+  - id: 5luiJiU4jD8
+    title: 'J.S Bach - Cantata: Ich hab in Gottes Herz und Sinn, BWV 92'
+    channel: TheOneAndOnlyZeno
+    performer: TheOneAndOnlyZeno
+    place: Gott
+    year: ''
+    duration: '29:42'
+    thumbnail: https://img.youtube.com/vi/5luiJiU4jD8/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=5luiJiU4jD8
+  - id: cpV_vZbzTak
+    title: J. S. Bach, "Ich hab in Gottes Herz und Sinn" BWV 92--Bloomington Bach Cantata Project
+    channel: Bloomington Bach Cantata Project
+    performer: Bloomington Bach Cantata Project
+    place: Victoria Wernicke
+    year: '2024'
+    duration: '1:23:43'
+    thumbnail: https://img.youtube.com/vi/cpV_vZbzTak/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=cpV_vZbzTak
+key: F major

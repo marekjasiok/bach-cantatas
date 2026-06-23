@@ -1,0 +1,113 @@
+bwv: '42'
+title: Am Abend aber desselbigen Sabbats
+cycle: C2
+occasion: Easter I
+date: '1725-04-08'
+url: https://en.wikipedia.org/wiki/BWV_42
+edges: {}
+movements:
+  - num: 1
+    type: Sinfonia
+    voices: ''
+    instruments: Oboe I/II, Fagotto, Violino I/II, Viola, Continuo
+    de: ''
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo, Fagotto
+    de: |-
+      Am Abend aber desselbigen Sabbats,
+      Da die Jünger versammlet
+      Und die Türen verschlossen waren
+      Aus Furcht für den Jüden,
+      Kam Jesus und trat mitten ein.
+  - num: 3
+    type: Aria
+    voices: A
+    instruments: Oboe I/II, Fagotto, Violino I/II, Viola, Continuo
+    de: |-
+      Wo zwei und drei versammlet sind
+      In Jesu teurem Namen,
+      Da stellt sich Jesus mitten ein
+      Und spricht darzu das Amen.
+      Denn was aus Lieb und Not geschicht,
+      Das bricht des Höchsten Ordnung nicht.
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Fagotto, Violoncello, Continuo
+    de: |-
+      Verzage nicht, o Häuflein klein,
+      Obschon die Feinde willens sein,
+      Dich gänzlich zu verstören,
+      Und suchen deinen Untergang,
+      Davon dir wird recht angst und bang:
+      Es wird nicht lange währen.
+  - num: 5
+    type: Recitative
+    voices: B
+    instruments: Fagotto, Continuo
+    de: |-
+      Man kann hiervon ein schön Exempel sehen
+      An dem, was zu Jerusalem geschehen;
+      Denn da die Jünger sich versammlet hatten
+      Im finstern Schatten,
+      Aus Furcht für denen Jüden,
+      So trat mein Heiland mitten ein,
+      Zum Zeugnis, dass er seiner Kirche Schutz will sein.
+      Drum lasst die Feinde wüten!
+  - num: 6
+    type: Aria
+    voices: B
+    instruments: Violino, Fagotto, Continuo
+    de: |-
+      Jesus ist ein Schild der Seinen,
+      Wenn sie die Verfolgung trifft.
+      Ihnen muss die Sonne scheinen
+      Mit der güldnen Überschrift:
+      Jesus ist ein Schild der Seinen,
+      Wenn sie die Verfolgung trifft.
+  - num: 7
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I/II e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Fagotto, Continuo
+    de: |-
+      Verleih uns Frieden gnädiglich,
+      Herr Gott, zu unsern Zeiten;
+      Es ist doch ja kein andrer nicht,
+      Der für uns könnte streiten,
+      Denn du, unsr Gott, alleine.
+      Gib unsern Fürsten und all'r Obrigkeit
+      Fried und gut Regiment,
+      Dass wir unter ihnen
+      Ein geruhig und stilles Leben führen mögen
+      In aller Gottseligkeit und Ehrbarkeit.
+      Amen.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Fagotto, Violino I/II, Viola, Violoncello, Continuo'
+features:
+  structure:
+    - Sinfonia
+    - Recitative
+    - Aria
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Sinfonia
+  closing: Chorale
+  voice_profile:
+    T: 1
+    A: 1
+    B: 2
+    SATB: 1
+  instrumentation_families:
+    - fagotto
+    - oboe
+    - violoncello
+key: D major
+wiki:
+  summary: "Am Abend aber desselbigen Sabbats, BWV\_42, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the first Sunday after Easter and first performed it on 8 April 1725. The cantata is part of Bach's second cantata cycle during his tenure as Thomaskantor that began in 1723. It is the only cantata of that cycle to begin with a sinfonia."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Der_ungl%C3%A4ubige_Thomas_-_Michelangelo_Merisi%2C_named_Caravaggio.jpg/330px-Der_ungl%C3%A4ubige_Thomas_-_Michelangelo_Merisi%2C_named_Caravaggio.jpg
+  url: https://en.wikipedia.org/wiki/Am_Abend_aber_desselbigen_Sabbats%2C_BWV_42
+  summary_html: "<p><b><span><i lang=\"de\">Am Abend aber desselbigen Sabbats</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>42</b>, is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the first Sunday after Easter and first performed it on 8 April 1725. The cantata is part of Bach's second cantata cycle during his tenure as Thomaskantor that began in 1723. It is the only cantata of that cycle to begin with a sinfonia.</p>"

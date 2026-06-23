@@ -1,0 +1,109 @@
+bwv: '115'
+title: Mache dich, mein Geist, bereit
+cycle: C2
+occasion: Trinity XXII
+date: '1724-11-05'
+url: https://en.wikipedia.org/wiki/BWV_115
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto traverso, Oboe d'amore, Violino I/II, Viola, Corno col Soprano, Continuo
+    de: |-
+      Mache dich, mein Geist, bereit,
+      Wache, fleh und bete,
+      Dass dich nicht die böse Zeit
+      Unverhofft betrete;
+      Denn es ist
+      Satans List
+      Über viele Frommen
+      Zur Versuchung kommen.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe d'amore, Violino I/II, Viola, Continuo
+    de: |-
+      Ach schläfrige Seele, wie? ruhest du noch?
+      Ermuntre dich doch!
+      Es möchte die Strafe dich plötzlich erwecken
+      Und, wo du nicht wachest,
+      Im Schlafe des ewigen Todes bedecken.
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Continuo
+    de: |-
+      Gott, so vor deine Seele wacht,
+      Hat Abscheu an der Sünden Nacht;
+      Er sendet dir sein Gnadenlicht
+      Und will vor diese Gaben,
+      Die er so reichlich dir verspricht,
+      Nur offne Geistesaugen haben.
+      Des Satans List ist ohne Grund,
+      Die Sünder zu bestricken;
+      Brichst du nun selbst den Gnadenbund,
+      Wirst du die Hilfe nie erblicken.
+      Die ganze Welt und ihre Glieder
+      Sind nichts als falsche Brüder;
+      Doch macht dein Fleisch und Blut hiebei
+      Sich lauter Schmeichelei.
+  - num: 4
+    type: Aria
+    voices: S
+    instruments: Flauto traverso, Violoncello piccolo, Continuo
+    de: |-
+      Bete aber auch dabei
+      Mitten in dem Wachen!
+      Bitte bei der großen Schuld
+      Deinen Richter um Geduld,
+      Soll er dich von Sünden frei
+      Und gereinigt machen!
+  - num: 5
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Er sehnet sich nach unserm Schreien,
+      Er neigt sein gnädig Ohr hierauf;
+      Wenn Feinde sich auf unsern Schaden freuen,
+      So siegen wir in seiner Kraft:
+      Indem sein Sohn, in dem wir beten,
+      Uns Mut und Kräfte schafft
+      Und will als Helfer zu uns treten.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Corno e Flauto traverso e Oboe d'amore e Violino I col Soprano, Violino II coll' Alto, Viola col Tenore, Continuo
+    de: |-
+      Drum so lasst uns immerdar
+      Wachen, flehen, beten,
+      Weil die Angst, Not und Gefahr
+      Immer näher treten;
+      Denn die Zeit
+      Ist nicht weit,
+      Da uns Gott wird richten
+      Und die Welt vernichten.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Flauto traverso, Oboe d''amore, Violino I/II, Viola, Violoncello piccolo, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    B: 1
+    S: 1
+    T: 1
+  instrumentation_families:
+    - corno
+    - flauto_traverso
+    - oboe_damore
+    - violoncello_piccolo
+key: D minor

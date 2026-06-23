@@ -1,0 +1,110 @@
+bwv: '128'
+title: Auf Christi Himmelfahrt allein
+cycle: C2
+occasion: Ascension
+date: '1725-05-10'
+url: https://en.wikipedia.org/wiki/BWV_128
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno I/II, Oboe I/II, Oboe da caccia, Violino I/II, Viola, Continuo
+    de: |-
+      Auf Christi Himmelfahrt allein
+      Ich meine Nachfahrt gründe
+      Und allen Zweifel, Angst und Pein
+      Hiermit stets überwinde;
+      Denn weil das Haupt im Himmel ist,
+      Wird seine Glieder Jesus Christ
+      Zu rechter Zeit nachholen.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ich bin bereit, komm, hole mich!
+      Hier in der Welt
+      Ist Jammer, Angst und Pein;
+      Hingegen dort, in Salems Zelt,
+      Werd ich verkläret sein.
+      Da seh ich Gott von Angesicht zu Angesicht,
+      Wie mir sein heilig Wort verspricht.
+  - num: 3
+    type: Aria
+    voices: ''
+    instruments: Tromba, Violino I/II, Viola, Continuo
+    de: |-
+      Auf, auf, mit hellem Schall
+      Verkündigt überall:
+      Mein Jesus sitzt zur Rechten!
+      Wer sucht mich anzufechten?
+      Ist er von mir genommen,
+      Ich werd einst dahin kommen,
+      Wo mein Erlöser lebt.
+      Mein Augen werden ihn in größter Klarheit schauen.
+      O könnt ich im voraus mir eine Hütte bauen!
+      Wohin? Vergebner Wunsch!
+      Er wohnet nicht auf Berg und Tal,
+      Sein Allmacht zeigt sich überall;
+      So schweig, verwegner Mund,
+      Und suche nicht dieselbe zu ergründen!
+  - num: 4
+    type: Aria
+    voices: ''
+    instruments: Oboe d'amore I, Continuo
+    de: |-
+      Sein Allmacht zu ergründen,
+      Wird sich kein Mensche finden,
+      Mein Mund verstummt und schweigt.
+      Ich sehe durch die Sterne,
+      Dass er sich schon von ferne
+      Zur Rechten Gottes zeigt.
+  - num: 5
+    type: Chorus
+    voices: SATB
+    instruments: >-
+      Corno I/II, Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Oboe da caccia e Viola col Tenore,
+      Continuo
+    de: |-
+      Alsdenn so wirst du mich
+      Zu deiner Rechten stellen
+      Und mir als deinem Kind
+      Ein gnädig Urteil fällen,
+      Mich bringen zu der Lust,
+      Wo deine Herrlichkeit
+      Ich werde schauen an
+      In alle Ewigkeit.
+scoring: >-
+  Soli: A T B, Coro: S A T B, Tromba, Corno I/II, Oboe I/II, Oboe d'amore I/II, Oboe da caccia, Violino I/II, Viola,
+  Continuo
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Aria
+    - Chorus
+  opening: Chorus
+  closing: Chorus
+  voice_profile:
+    SATB: 2
+    T: 1
+  instrumentation_families:
+    - corno
+    - oboe
+    - oboe_da_caccia
+    - oboe_damore
+    - tromba
+key: D major
+wiki:
+  summary: >-
+    Auf Christi Himmelfahrt allein, BWV 128, is a church cantata by Johann Sebastian Bach. Bach composed it in Leipzig
+    for the Feast of the Ascension and led the first performance on 10 May 1725.
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jelenia_G._Church_ascending.JPG/330px-Jelenia_G._Church_ascending.JPG
+  url: https://en.wikipedia.org/wiki/Auf_Christi_Himmelfahrt_allein%2C_BWV_128
+  summary_html: >-
+    <p><i><b><span><i lang="de">Auf Christi Himmelfahrt allein</i></span></b></i>, <b><span class="nowrap">BWV
+    128</span></b>, is a church cantata by Johann Sebastian Bach. Bach composed it in Leipzig for the Feast of the
+    Ascension and led the first performance on 10 May 1725.</p>

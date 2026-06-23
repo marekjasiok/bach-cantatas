@@ -1,0 +1,117 @@
+bwv: '25'
+title: Es ist nichts Gesundes...
+cycle: C1
+occasion: Trinity XIV
+date: '1723-08-29'
+url: https://en.wikipedia.org/wiki/BWV_25
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Flauto I-III, Cornetto, Trombone I-III, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Es ist nichts Gesundes an meinem Leibe
+      vor deinem Dräuen und ist kein Friede
+      in meinen Gebeinen vor meiner Sünde.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Die ganze Welt ist nur ein Hospital,
+      Wo Menschen von unzählbar großer Zahl
+      Und auch die Kinder in der Wiegen
+      An Krankheit hart darniederliegen.
+      Den einen quälet in der Brust
+      Ein hitzges Fieber böser Lust;
+      Der andre lieget krank
+      An eigner Ehre hässlichem Gestank;
+      Den dritten zehrt die Geldsucht ab
+      Und stürzt ihn vor der Zeit ins Grab.
+      Der erste Fall hat jedermann beflecket
+      Und mit dem Sündenaussatz angestecket.
+      Ach! dieses Gift durchwühlt auch meine Glieder.
+      Wo find ich Armer Arzenei?
+      Wer stehet mir in meinem Elend bei?
+      Wer ist mein Arzt, wer hilft mir wieder?
+  - num: 3
+    type: Aria
+    voices: B
+    instruments: Continuo
+    de: |-
+      Ach, wo hol ich Armer Rat?
+      Meinen Aussatz, meine Beulen
+      Kann kein Kraut noch Pflaster heilen
+      Als die Salb aus Gilead.
+      Du, mein Arzt, Herr Jesu, nur
+      Weißt die beste Seelenkur.
+  - num: 4
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      O Jesu, lieber Meister,
+      Zu dir flieh ich;
+      Ach, stärke die geschwächten Lebensgeister!
+      Erbarme dich,
+      Du Arzt und Helfer aller Kranken,
+      Verstoß mich nicht
+      Von deinem Angesicht!
+      Mein Heiland, mache mich von Sündenaussatz rein,
+      So will ich dir
+      Mein ganzes Herz dafür
+      Zum steten Opfer weihn
+      Und lebenslang vor deine Hülfe danken.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Flauto I-III, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Öffne meinen schlechten Liedern,
+      Jesu, dein Genadenohr!
+      Wenn ich dort im höhern Chor
+      Werde mit den Engeln singen,
+      Soll mein Danklied besser klingen.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: >-
+      Flauto I-III e Cornetto e Oboe I e Violino I col Soprano, Trombone I e Oboe II e Violino II coll' Alto, Trombone
+      II e Viola col Tenore, Trombone III col Basso, Continuo
+    de: |-
+      Ich will alle meine Tage
+      Rühmen deine starke Hand,
+      Dass du meine Plag und Klage
+      Hast so herzlich abgewandt.
+      Nicht nur in der Sterblichkeit
+      Soll dein Ruhm sein ausgebreit':
+      Ich wills auch hernach erweisen
+      Und dort ewiglich dich preisen.
+scoring: 'Soli: S T B, Coro: S A T B, Cornetto, Trombone I-III, Flauto I-III, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    T: 1
+    B: 1
+    S: 2
+  instrumentation_families:
+    - cornetto
+    - oboe
+    - recorder
+    - trombone
+key: E minor
+wiki:
+  summary: "Johann Sebastian Bach composed the church cantata Es ist nichts Gesundes an meinem Leibe, BWV\_25 in Leipzig for the 14th Sunday after Trinity and first performed it on 29 August 1723."
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thomaskirche-1885.png/330px-Thomaskirche-1885.png
+  url: https://en.wikipedia.org/wiki/Es_ist_nichts_Gesundes_an_meinem_Leibe%2C_BWV_25
+  summary_html: "<p>Johann Sebastian Bach composed the church cantata <b><span><i lang=\"de\">Es ist nichts Gesundes an meinem Leibe</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>25</b> in Leipzig for the 14th Sunday after Trinity and first performed it on 29 August 1723.</p>"

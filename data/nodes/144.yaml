@@ -1,0 +1,97 @@
+bwv: '144'
+title: Nimm, was dein ist, und gehe hin
+cycle: C1
+occasion: Septuagesima
+date: '1724-02-06'
+url: https://en.wikipedia.org/wiki/BWV_144
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Continuo
+    de: Nimm, was dein ist, und gehe hin.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Murre nicht,
+      Lieber Christ,
+      Wenn was nicht nach Wunsch geschicht;
+      Sondern sei mit dem zufrieden,
+      Was dir dein Gott hat beschieden,
+      Er weiß, was dir nützlich ist.
+  - num: 3
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Es bleibt gerecht sein Wille;
+      Wie er fängt meine Sachen an,
+      Will ich ihm halten stille.
+      Er ist mein Gott,
+      Der in der Not
+      Mich wohl weiß zu erhalten:
+      Drum lass ich ihn nur walten.
+  - num: 4
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Wo die Genügsamkeit regiert
+      Und überall das Ruder führt,
+      Da ist der Mensch vergnügt
+      Mit dem, wie es Gott fügt.
+      Dagegen, wo die Ungenügsamkeit das Urteil spricht,
+      Da stellt sich Gram und Kummer ein,
+      Das Herz will nicht
+      Zufrieden sein,
+      Und man gedenket nicht daran:
+      Was Gott tut, das ist wohlgetan.
+  - num: 5
+    type: Aria
+    voices: S
+    instruments: Oboe d'amore, Continuo
+    de: |-
+      Genügsamkeit
+      Ist ein Schatz in diesem Leben,
+      Welcher kann Vergnügung geben
+      In der größten Traurigkeit,
+      Genügsamkeit.
+      Denn es lässet sich in Allem
+      Gottes Fügung wohl gefallen
+      Genügsamkeit.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Continuo
+    de: |-
+      Was mein Gott will, das gscheh allzeit,
+      Sein Will, der ist der beste.
+      Zu helfen den'n er ist bereit,
+      Die an ihn glauben feste.
+      Er hilft aus Not, der fromme Gott,
+      Und züchtiget mit Maßen.
+      Wer Gott vertraut, fest auf ihn baut,
+      Den will er nicht verlassen.
+scoring: 'Soli: S A T, Coro: S A T B, Oboe I/II, Oboe d''amore, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Aria
+    - Chorale
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 3
+    A: 1
+    T: 1
+    S: 1
+  instrumentation_families:
+    - oboe_damore
+key: E minor

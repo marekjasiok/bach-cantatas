@@ -1,0 +1,106 @@
+bwv: '105'
+title: Herr, gehe nicht ins Gericht
+cycle: C1
+occasion: Trinity IX
+date: '1723-07-25'
+url: https://en.wikipedia.org/wiki/BWV_105
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Corno, Oboe I/II, Violino I/II, Viola, Continuo
+    de: |-
+      Herr, gehe nicht ins Gericht mit deinem Knecht.
+      Denn vor dir wird kein Lebendiger gerecht.
+  - num: 2
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Mein Gott, verwirf mich nicht,
+      Indem ich mich in Demut vor dir beuge,
+      Von deinem Angesicht.
+      Ich weiß, wie groß dein Zorn und mein Verbrechen ist,
+      Dass du zugleich ein schneller Zeuge
+      Und ein gerechter Richter bist.
+      Ich lege dir ein frei Bekenntnis dar
+      Und stürze mich nicht in Gefahr,
+      Die Fehler meiner Seelen
+      Zu leugnen, zu verhehlen!
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Oboe, Violino I/II, Viola
+    de: |-
+      Wie zittern und wanken
+      Der Sünder Gedanken,
+      Indem sie sich untereinander verklagen
+      Und wiederum sich zu entschuldigen wagen.
+      So wird ein geängstigt Gewissen
+      Durch eigene Folter zerrissen.
+  - num: 4
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Wohl aber dem, der seinen Bürgen weiß,
+      Der alle Schuld ersetzet,
+      So wird die Handschrift ausgetan,
+      Wenn Jesus sie mit Blute netzet.
+      Er heftet sie ans Kreuze selber an,
+      Er wird von deinen Gütern, Leib und Leben,
+      Wenn deine Sterbestunde schlägt,
+      Dem Vater selbst die Rechnung übergeben.
+      So mag man deinen Leib, den man zum Grabe trägt,
+      Mit Sand und Staub beschütten,
+      Dein Heiland öffnet dir die ewgen Hütten.
+  - num: 5
+    type: Aria
+    voices: T
+    instruments: Corno, Violino I/II, Viola, Continuo
+    de: |-
+      Kann ich nur Jesum mir zum Freunde machen,
+      So gilt der Mammon nichts bei mir.
+      Ich finde kein Vergnügen hier
+      Bei dieser eitlen Welt und irdschen Sachen.
+  - num: 6
+    type: Chorale
+    voices: SATB
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Nun, ich weiß, du wirst mir stillen
+      Mein Gewissen, das mich plagt.
+      Es wird deine Treu erfüllen,
+      Was du selber hast gesagt:
+      Dass auf dieser weiten Erden
+      Keiner soll verloren werden,
+      Sondern ewig leben soll,
+      Wenn er nur ist Glaubens voll.
+scoring: 'Soli: S A T B, Coro: S A T B, Corno, Oboe I/II, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Chorus
+  closing: Chorale
+  voice_profile:
+    SATB: 2
+    A: 1
+    S: 1
+    B: 1
+    T: 1
+  instrumentation_families:
+    - corno
+    - oboe
+key: G minor
+wiki:
+  summary: "Herr, gehe nicht ins Gericht mit deinem Knecht, BWV\_105 is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the ninth Sunday after Trinity and first performed it on 25 July 1723. The musicologist Alfred Dürr has described the cantata as one of \"the most sublime descriptions of the soul in baroque and Christian art\"."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Thomaskirche_und_-schule_1723.jpg/330px-Thomaskirche_und_-schule_1723.jpg
+  url: https://en.wikipedia.org/wiki/Herr%2C_gehe_nicht_ins_Gericht_mit_deinem_Knecht%2C_BWV_105
+  summary_html: "<p><b><span><i lang=\"de\">Herr, gehe nicht ins Gericht mit deinem Knecht</i></span></b>, <b><span><abbr>BWV</abbr></span><span class=\"nowrap\">\_</span>105</b> is a church cantata by Johann Sebastian Bach. He composed it in Leipzig for the ninth Sunday after Trinity and first performed it on 25 July 1723. The musicologist Alfred Dürr has described the cantata as one of \"the most sublime descriptions of the soul in baroque and Christian art\".</p>"

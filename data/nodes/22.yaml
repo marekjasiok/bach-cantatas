@@ -1,0 +1,234 @@
+bwv: '22'
+title: Jesus nahm zu sich die Zwölfe
+cycle: C1
+occasion: Estomihi
+date: '1723-02-07'
+url: https://en.wikipedia.org/wiki/BWV_22
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: T, B
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Tenor
+      Jesus nahm zu sich die Zwölfe und sprach:
+      Bass
+      Sehet, wir gehn hinauf gen Jerusalem,
+      und es wird alles vollendet werden,
+      das geschrieben ist von des Menschen Sohn.
+      Chor
+      Sie aber vernahmen der keines und wussten nicht,
+      was das gesaget war.
+  - num: 2
+    type: Aria
+    voices: A
+    instruments: Oboe solo, Continuo
+    de: |-
+      Mein Jesu, ziehe mich nach dir,
+      Ich bin bereit, ich will von hier
+      Und nach Jerusalem zu deinen Leiden gehn.
+      Wohl mir, wenn ich die Wichtigkeit
+      Von dieser Leid- und Sterbenszeit
+      Zu meinem Troste kann durchgehends wohl verstehn!
+  - num: 3
+    type: Recitative
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Mein Jesu, ziehe mich, so werd ich laufen,
+      Denn Fleisch und Blut verstehet ganz und gar,
+      Nebst deinen Jüngern nicht, was das gesaget war.
+      Es sehnt sich nach der Welt und nach dem größten Haufen;
+      Sie wollen beiderseits, wenn du verkläret bist,
+      Zwar eine feste Burg auf Tabors Berge bauen;
+      Hingegen Golgatha, so voller Leiden ist,
+      In deiner Niedrigkeit mit keinem Auge schauen.
+      Ach! kreuzige bei mir in der verderbten Brust
+      Zuvörderst diese Welt und die verbotne Lust,
+      So werd ich, was du sagst, vollkommen wohl verstehen
+      Und nach Jerusalem mit tausend Freuden gehen.
+  - num: 4
+    type: Aria
+    voices: T
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Mein alles in allem, mein ewiges Gut,
+      Verbessre das Herze, verändre den Mut;
+      Schlag alles darnieder,
+      Was dieser Entsagung des Fleisches zuwider!
+      Doch wenn ich nun geistlich ertötet da bin,
+      So ziehe mich nach dir in Friede dahin!
+  - num: 5
+    type: Chorale
+    voices: SATB
+    instruments: Oboe, Violino I/II, Viola, Continuo
+    de: |-
+      Ertöt uns durch dein Güte,
+      Erweck uns durch dein Gnad;
+      Den alten Menschen kränke,
+      Dass der neu' leben mag
+      Wohl hie auf dieser Erden,
+      Den Sinn und all Begehren
+      Und G'danken hab'n zu dir.
+scoring: 'Soli: A T B, Coro: S A T B, Oboe, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Aria
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    T, B: 1
+    A: 1
+    B: 1
+    T: 1
+    SATB: 1
+  instrumentation_families:
+    - oboe
+key: C minor
+wiki:
+  summary: "Jesus nahm zu sich die Zwölfe, BWV\_22, is a church cantata by Johann Sebastian Bach composed for Quinquagesima, the last Sunday before Lent. Bach composed it as an audition piece for the position of Thomaskantor in Leipzig and first performed it there on 7 February 1723."
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bach_BWV_22_manuscript_Kuhnau.jpg/330px-Bach_BWV_22_manuscript_Kuhnau.jpg
+  url: https://en.wikipedia.org/wiki/Jesus_nahm_zu_sich_die_Zw%C3%B6lfe%2C_BWV_22
+  summary_html: "<p><b><span><i lang=\"de\">Jesus nahm zu sich die Zwölfe</i></span></b>, <b><abbr>BWV</abbr><span class=\"nowrap\">\_</span>22</b>, is a church cantata by Johann Sebastian Bach composed for Quinquagesima, the last Sunday before Lent. Bach composed it as an audition piece for the position of Thomaskantor in Leipzig and first performed it there on 7 February 1723.</p>"
+performances:
+  - id: xcflikYLk1w
+    title: Bach - Cantata Jesus nahm zu sich die Zwölfe BWV 22 - Kuijken | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Kuijken
+    place: Walloon Church
+    year: '2016'
+    duration: '16:32'
+    thumbnail: https://img.youtube.com/vi/xcflikYLk1w/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=xcflikYLk1w
+  - id: bbwySPH21KM
+    title: J.S. Bach - Chorale "Ertöt uns durch dein Güte" from Cantata BWV 22
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: ''
+    duration: '2:15'
+    thumbnail: https://img.youtube.com/vi/bbwySPH21KM/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=bbwySPH21KM
+  - id: mhRtb-y5aqw
+    title: J.S. Bach - Cantata BWV 22 "Jesus nahm zu sich die Zwölfe" (J.S. Bach Foundation)
+    channel: Bachstiftung
+    performer: Lutz
+    place: Switzerland
+    year: '2010'
+    duration: '19:55'
+    thumbnail: https://img.youtube.com/vi/mhRtb-y5aqw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=mhRtb-y5aqw
+  - id: FwAjCMszunA
+    title: J. S. Bach – Cantata "Jesus nahm zu sich die Zwölfe", BWV 22
+    channel: SP's score videos
+    performer: SP's score videos
+    place: Jesu
+    year: ''
+    duration: '17:50'
+    thumbnail: https://img.youtube.com/vi/FwAjCMszunA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=FwAjCMszunA
+  - id: RAuiIJWB70E
+    title: 'Johann Sebastian Bach: "Ertöt uns durch dein Güte" BWV 22 (arr. Maurice Duruflé)'
+    channel: Arjen Leistra
+    performer: Arjen Leistra
+    place: ''
+    year: ''
+    duration: '3:40'
+    thumbnail: https://img.youtube.com/vi/RAuiIJWB70E/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=RAuiIJWB70E
+  - id: QLjiTOjOIbo
+    title: Johann Sebastian Bach  :« Jesus nahm zu sich die Zwölfe » BWV 22
+    channel: Les Arts Florissants
+    performer: Les Arts Florissants
+    place: Leipzig
+    year: '2024'
+    duration: '1:50'
+    thumbnail: https://img.youtube.com/vi/QLjiTOjOIbo/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=QLjiTOjOIbo
+  - id: tiJRWvU-gK4
+    title: 'Bach, Cantata BWV 22, aria (A): Mein Jesu, ziehe mich nach dir'
+    channel: Panagiotis Adám
+    performer: Masaaki
+    place: Thomaskirche
+    year: ''
+    duration: '4:46'
+    thumbnail: https://img.youtube.com/vi/tiJRWvU-gK4/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=tiJRWvU-gK4
+  - id: qg5-_1A7oeI
+    title: 'JS Bach : Ertöt uns durch dein Güte BWV 22 - Olivier Latry, orgue.'
+    channel: legrandchene
+    performer: legrandchene
+    place: Paris
+    year: '2004'
+    duration: '4:22'
+    thumbnail: https://img.youtube.com/vi/qg5-_1A7oeI/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=qg5-_1A7oeI
+  - id: Mj57dzBwzMA
+    title: 'J.S. Bach: Jesus nahm zu sich die Zwölfe, Cantata BWV 22: 5. Sanctify Us (Arr. Cohen)'
+    channel: Alicia de Larrocha - Topic
+    performer: Alicia de Larrocha - Topic
+    place: Moorfoot
+    year: '1978'
+    duration: '3:12'
+    thumbnail: https://img.youtube.com/vi/Mj57dzBwzMA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=Mj57dzBwzMA
+  - id: etB-P6a6wBs
+    title: J. S. Bach-A. Hewitt - Transcription for piano of Chorale "Ertöt Uns Durch Dein Güte" BWV 22/5
+    channel: Jacopo Montigiani
+    performer: Jacopo Montigiani
+    place: ''
+    year: ''
+    duration: '2:29'
+    thumbnail: https://img.youtube.com/vi/etB-P6a6wBs/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=etB-P6a6wBs
+  - id: 4cEHCwa1MyA
+    title: Bach's own score - Ertöt uns durch dein Güte (Chorale) - BWV 22
+    channel: stigekalder
+    performer: Lutz
+    place: Leipzig
+    year: '2010'
+    duration: '2:14'
+    thumbnail: https://img.youtube.com/vi/4cEHCwa1MyA/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=4cEHCwa1MyA
+  - id: CLRsB0cgC7s
+    title: 'JS Bach : Choral BWV 22 par Jacques Bétoulières à Ste-Thérèse de Montpellier'
+    channel: Frederic Munoz
+    performer: Frederic Munoz
+    place: ''
+    year: '1987'
+    duration: '4:09'
+    thumbnail: https://img.youtube.com/vi/CLRsB0cgC7s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=CLRsB0cgC7s
+  - id: TASHbnMjiOc
+    title: 'Cantata, BWV 22: Ertöt'' und durch dein'' Güte'
+    channel: Yo-Yo Ma
+    performer: Koopman
+    place: Amsterdam
+    year: '1999'
+    duration: '1:31'
+    thumbnail: https://img.youtube.com/vi/TASHbnMjiOc/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=TASHbnMjiOc
+  - id: zoQl5nhPGuw
+    title: 'Organ: Sanctify Us By Thy Goodness (Chorale from Cantata BWV 22) - J. S. Bach'
+    channel: Aubrey Tucker
+    performer: Aubrey Tucker
+    place: ''
+    year: ''
+    duration: '3:04'
+    thumbnail: https://img.youtube.com/vi/zoQl5nhPGuw/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=zoQl5nhPGuw
+  - id: jFold6aip6s
+    title: Bach - Cantata Du wahrer Gott und Davids Sohn BWV 23 - Kuijken | Netherlands Bach Society
+    channel: Netherlands Bach Society
+    performer: Kuijken
+    place: Thomaskirche in Leipzig
+    year: '2016'
+    duration: '19:03'
+    thumbnail: https://img.youtube.com/vi/jFold6aip6s/mqdefault.jpg
+    url: https://www.youtube.com/watch?v=jFold6aip6s

@@ -1,0 +1,133 @@
+bwv: '57'
+title: Selig ist der Mann
+cycle: C3
+occasion: Christmas 2
+date: '1725-12-26'
+url: https://en.wikipedia.org/wiki/BWV_57
+edges: {}
+movements:
+  - num: 1
+    type: Aria
+    voices: B
+    instruments: Oboe I/II, Taille, Violino I/II, Viola, Continuo
+    de: |-
+      Selig ist der Mann, der die Anfechtung erduldet;
+      denn, nachdem er bewähret ist, wird er die Krone des Lebens
+      empfahen.
+  - num: 2
+    type: Recitative
+    voices: S
+    instruments: Continuo
+    de: |-
+      Ach! dieser süße Trost
+      Erquickt auch mir mein Herz,
+      Das sonst in Ach und Schmerz
+      Sein ewig Leiden findet
+      Und sich als wie ein Wurm in seinem Blute windet.
+      Ich muss als wie ein Schaf
+      Bei tausend rauhen Wölfen leben;
+      Ich bin ein recht verlassnes Lamm,
+      Und muss mich ihrer Wut
+      Und Grausamkeit ergeben.
+      Was Abeln dort betraf,
+      Erpresset mir auch diese Tränenflut.
+      Ach! Jesu, wüsst ich hier
+      Nicht Trost von dir,
+      So müßte Mut und Herze brechen,
+      Und voller Trauren sprechen:
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Violino I/II, Viola, Organo, Continuo
+    de: |-
+      Ich wünschte mir den Tod, den Tod,
+      Wenn du, mein Jesu, mich nicht liebtest.
+      Ja wenn du mich annoch betrübtest,
+      So hätt ich mehr als Höllennot.
+  - num: 4
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Bass
+      Ich reiche dir die Hand
+      Und auch damit das Herze.
+      Sopran
+      Ach! süßes Liebespfand,
+      Du kannst die Feinde stürzen
+      Und ihren Grimm verkürzen.
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Violino I/II, Viola, Continuo
+    de: |-
+      Ja, ja, ich kann die Feinde schlagen,
+      Die dich nur stets bei mir verklagen,
+      Drum fasse dich, bedrängter Geist.
+      Bedrängter Geist, hör auf zu weinen,
+      Die Sonne wird noch helle scheinen,
+      Die dir itzt Kummerwolken weist.
+  - num: 6
+    type: Recitative
+    voices: ''
+    instruments: Continuo
+    de: |-
+      Bass
+      In meiner Schoß liegt Ruh und Leben,
+      Dies will ich dir einst ewig geben.
+      Sopran
+      Ach! Jesu, wär ich schon bei dir,
+      Ach striche mir
+      Der Wind schon über Gruft und Grab,
+      So könnt ich alle Not besiegen.
+      Wohl denen, die im Sarge liegen
+      Und auf den Schall der Engel hofften!
+      Ach! Jesu, mache mir doch nur,
+      Wie Stephano, den Himmel offen!
+      Mein Herz ist schon bereit,
+      Zu dir hinaufzusteigen.
+      Komm, komm, vergnügte Zeit!
+      Du magst mir Gruft und Grab
+      Und meinen Jesum zeigen.
+  - num: 7
+    type: Aria
+    voices: S
+    instruments: Violino solo, Continuo
+    de: |-
+      Ich ende behände mein irdisches Leben,
+      Mit Freuden zu scheiden verlang ich itzt eben.
+      Mein Heiland, ich sterbe mit höchster Begier,
+      Hier hast du die Seele, was schenkest du mir?
+  - num: 8
+    type: Chorale
+    voices: SATB
+    instruments: Oboe I e Violino I col Soprano, Oboe II e Violino II coll' Alto, Taille e Viola col Tenore, Continuo
+    de: |-
+      Richte dich, Liebste, nach meinem Gefallen und gläube
+      Dass ich dein Seelenfreund immer und ewig verbleibe,
+      Der dich ergötzt
+      Und in den Himmel versetzt
+      Aus dem gemarterten Leibe.
+scoring: 'Soli: S B, Coro: S A T B, Oboe I/II, Oboe da caccia, Violino I/II, Viola, Organo, Continuo'
+features:
+  structure:
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+    - Chorale
+  opening: Aria
+  closing: Chorale
+  voice_profile:
+    B: 2
+    S: 3
+    SATB: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+    - organ
+    - violino_solo
+key: D minor

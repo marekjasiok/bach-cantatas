@@ -1,0 +1,98 @@
+bwv: '98'
+title: Was Gott tut, das ist wohlgetan
+cycle: C3
+occasion: Trinity XXI
+date: '1726-11-10'
+url: https://en.wikipedia.org/wiki/BWV_98
+edges: {}
+movements:
+  - num: 1
+    type: Chorus
+    voices: SATB
+    instruments: Violino I/II, Viola, Oboe I col Soprano, Oboe II coll' Alto, Taille col Tenore, Continuo
+    de: |-
+      Was Gott tut, das ist wohlgetan,
+      Es bleibt gerecht sein Wille;
+      Wie er fängt meine Sachen an,
+      Will ich ihm halten stille.
+      Er ist mein Gott,
+      Der in der Not
+      Mich wohl weiß zu erhalten;
+      Drum lass ich ihn nur walten.
+  - num: 2
+    type: Recitative
+    voices: T
+    instruments: Continuo
+    de: |-
+      Ach Gott! wenn wirst du mich einmal
+      Von meiner Leidensqual,
+      Von meiner Angst befreien?
+      Wie lange soll ich Tag und Nacht
+      Um Hilfe schreien?
+      Und ist kein Retter da!
+      Der Herr ist denen allen nah,
+      Die seiner Macht
+      Und seiner Huld vertrauen.
+      Drum will ich meine Zuversicht
+      Auf Gott alleine bauen,
+      Denn er verlässt die Seinen nicht.
+  - num: 3
+    type: Aria
+    voices: S
+    instruments: Oboe I solo, Continuo
+    de: |-
+      Hört, ihr Augen, auf zu weinen!
+      Trag ich doch
+      Mit Geduld mein schweres Joch.
+      Gott, der Vater, lebet noch,
+      Von den Seinen
+      Läßt er keinen.
+      Hört, ihr Augen, auf zu weinen!
+  - num: 4
+    type: Recitative
+    voices: A
+    instruments: Continuo
+    de: |-
+      Gott hat ein Herz, das des Erbarmens Überfluss;
+      Und wenn der Mund vor seinen Ohren klagt
+      Und ihm des Kreuzes Schmerz
+      Im Glauben und Vertrauen sagt,
+      So bricht in ihm das Herz,
+      Dass er sich über uns erbarmen muss.
+      Er hält sein Wort;
+      Er saget: Klopfet an,
+      So wird euch aufgetan!
+      Drum lasst uns alsofort,
+      Wenn wir in höchsten Nöten schweben,
+      Das Herz zu Gott allein erheben!
+  - num: 5
+    type: Aria
+    voices: B
+    instruments: Violino I/II all' unisono, Continuo
+    de: |-
+      Meinen Jesum lass ich nicht,
+      Bis mich erst sein Angesicht
+      Wird erhören oder segnen.
+      Er allein
+      Soll mein Schutz in allem sein,
+      Was mir Übels kann begegnen.
+scoring: 'Soli: S A T B, Coro: S A T B, Oboe I/II, Taille, Violino I/II, Viola, Continuo'
+features:
+  structure:
+    - Chorus
+    - Recitative
+    - Aria
+    - Recitative
+    - Aria
+  opening: Chorus
+  closing: Aria
+  voice_profile:
+    SATB: 1
+    T: 1
+    S: 1
+    A: 1
+    B: 1
+  instrumentation_families:
+    - oboe
+    - oboe_da_caccia
+key: B♭ major
