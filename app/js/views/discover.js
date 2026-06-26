@@ -2,6 +2,7 @@ import { state } from '../state.js';
 import { getNode } from '../api.js';
 import { getVotes, getListeningStats, renderStatsBlock, getCycleClass, getCycleFullName, formatDate } from '../components.js';
 import { renderCatalogueItem } from './catalogue.js';
+import { CYCLE_ORDER } from '../constants.js';
 
 export function startEnrichQueue(priorityBwvs) {
     // Build queue: priority items first, then the rest
@@ -118,7 +119,6 @@ export function renderInsightsView() {
     const stats = getListeningStats();
     const sortedCycles = Object.entries(cycleCounts).sort((a, b) => b[1] - a[1]);
     const topCycle = sortedCycles[0];
-    const cycleOrder = ['EARLY', 'C1', 'C2', 'C3', 'PICANDER', 'LATE'];
     headerEl.innerHTML = renderStatsBlock(stats);
 
     // Scrollable content area
@@ -226,7 +226,7 @@ export function renderInsightsView() {
     // Chunk 4: Try something different + Upcoming
     chunks.push(() => {
         let h = '';
-        const unexploredCycles = cycleOrder.filter(c => !cycleCounts[c] && !heard.some(hc => hc.cycle === c));
+        const unexploredCycles = CYCLE_ORDER.filter(c => !cycleCounts[c] && !heard.some(hc => hc.cycle === c));
         if (unexploredCycles.length > 0) {
             h += `<div class="catalogue-super-header">Try something different</div>`;
             h += `<p class="section-subtitle">You haven't explored ${unexploredCycles.map(c => getCycleFullName(c)).join(', ')} yet</p>`;

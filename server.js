@@ -21,6 +21,21 @@ app.get('/api/instruments', (req, res) => {
   res.json(db.getInstruments());
 });
 
+app.get('/api/occasions', (req, res) => {
+  try { res.json(db.getOccasions()); }
+  catch { res.status(500).json({ error: 'Occasions data not found' }); }
+});
+
+app.get('/api/translations', (req, res) => {
+  try { res.json(db.getTranslations()); }
+  catch { res.status(500).json({ error: 'Translations data not found' }); }
+});
+
+app.get('/api/liturgical-order', (req, res) => {
+  try { res.json(db.getLiturgicalOrder()); }
+  catch { res.status(500).json({ error: 'Liturgical order data not found' }); }
+});
+
 app.get('/api/index', (req, res) => {
   try { res.json(db.getIndex()); }
   catch { res.status(500).json({ error: 'Index not found. Run: npm run migrate' }); }
@@ -139,9 +154,15 @@ app.get('/api/reading/:occasion', async (req, res) => {
   if (!entry) return res.status(404).json({ error: `No reading for "${occasion}"` });
 
   try {
-    const result = await db.fetchReading(entry.gospel);
-    result.occasion = occasion;
-    result.epistle = entry.epistle;
+    const [gospelResult, epistleResult] = await Promise.all([
+      db.fetchReading(entry.gospel),
+      entry.epistle ? db.fetchReading(entry.epistle) : Promise.resolve(null)
+    ]);
+    const result = {
+      occasion,
+      gospel: { ref: entry.gospel, ...gospelResult },
+      epistle: entry.epistle ? { ref: entry.epistle, ...epistleResult } : null
+    };
     res.json(result);
   } catch (err) {
     console.error(`[reading] ${occasion}: failed:`, err.message);

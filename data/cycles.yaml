@@ -1,5 +1,5 @@
 EARLY:
-  name: Pre-Leipzig (1704–1722)
+  name: Pre-Leipzig
   short: Pre-Leipzig
   years: '1704–1722'
   wiki: Church_cantatas_of_Johann_Sebastian_Bach
@@ -10,8 +10,8 @@ EARLY:
     <p>These pre-Leipzig works tend toward older forms: biblical dictum, chorale stanzas, and strophic arias. But already we see the dramatic impulse, the word-painting, and the architectural ambition that would reach full expression in Leipzig.</p>
 
 C1:
-  name: Leipzig Cycle 1 (1723–1724)
-  short: Leipzig Cycle 1
+  name: Leipzig 1
+  short: Leipzig 1
   years: '1723–1724'
   wiki: Church_cantata_(Bach)
   heroPage: Thomaskirche
@@ -21,8 +21,8 @@ C1:
     <p>Notable works include <em>Die Elenden sollen essen</em> (BWV 75, his first Leipzig performance), <em>Ein feste Burg</em> (BWV 80), and the majestic <em>Himmelskönig, sei willkommen</em> (BWV 182).</p>
 
 C2:
-  name: Chorale Cantata Cycle (1724–1725)
-  short: Chorale Cantata
+  name: Chorale
+  short: Chorale
   years: '1724–1725'
   wiki: Chorale_cantata_(Bach)
   heroPage: Wachet_auf,_ruft_uns_die_Stimme,_BWV_140
@@ -32,8 +32,8 @@ C2:
     <p>The cycle was left incomplete when Bach's librettist apparently became unavailable around Easter 1725. But the approximately 40 chorale cantatas that survive form the most unified and intellectually rigorous body of work in the cantata repertoire.</p>
 
 C3:
-  name: Leipzig Cycle 3 (1725–1727)
-  short: Leipzig Cycle 3
+  name: Leipzig 3
+  short: Leipzig 3
   years: '1725–1727'
   wiki: Church_cantata_(Bach)
   heroPage: Nikolaikirche,_Leipzig
@@ -43,7 +43,7 @@ C3:
     <p>The cycle is less complete than the first two — Bach was increasingly occupied with other duties, and may have repeated earlier cantatas for some Sundays. But individual works like <em>Ich will den Kreuzstab gerne tragen</em> (BWV 56) and <em>Vergnügte Ruh</em> (BWV 170) rank among his finest.</p>
 
 PICANDER:
-  name: Picander Cycle (1728–1729)
+  name: Picander
   short: Picander
   years: '1728–1729'
   wiki: Picander
@@ -54,7 +54,7 @@ PICANDER:
     <p>What survives shows a mature partnership: Picander's poetry is more dramatic and psychologically nuanced than earlier librettists, and Bach's settings respond with music of corresponding depth.</p>
 
 LATE:
-  name: Late Works (1730–1748)
+  name: Late Period
   short: Late Period
   years: '1730–1748'
   wiki: Church_cantata_(Bach)

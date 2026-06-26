@@ -1,0 +1,134 @@
+occasionOrder:
+  - Advent I
+  - Advent II
+  - Advent III
+  - Advent IV
+  - Christmas Day
+  - Christmas 2
+  - Christmas 3
+  - Christmas I
+  - New Year
+  - New Year I
+  - Epiphany
+  - Epiphany I
+  - Epiphany II
+  - Epiphany III
+  - Epiphany IV
+  - Purification
+  - Septuagesima
+  - Sexagesima
+  - Estomihi
+  - Invocavit
+  - Reminiscere
+  - Oculi
+  - Laetare
+  - Judica
+  - Palm Sunday
+  - Good Friday
+  - Easter Sunday
+  - Easter Monday
+  - Easter Tuesday
+  - Quasimodogeniti
+  - Misericordias Domini
+  - Jubilate
+  - Cantate
+  - Rogate
+  - Ascension
+  - Exaudi
+  - Pentecost
+  - Pentecost 2
+  - Pentecost 3
+  - Trinity
+  - St. John's
+  - Visitation
+  - Trinity I
+  - Trinity II
+  - Trinity III
+  - Trinity IV
+  - Trinity V
+  - Trinity VI
+  - Trinity VII
+  - Trinity VIII
+  - Trinity IX
+  - Trinity X
+  - Trinity XI
+  - Trinity XII
+  - Trinity XIII
+  - Trinity XIV
+  - Trinity XV
+  - Trinity XVI
+  - Trinity XVII
+  - Trinity XVIII
+  - Trinity XIX
+  - Trinity XX
+  - Trinity XXI
+  - Trinity XXII
+  - Trinity XXIII
+  - Trinity XXIV
+  - Trinity XXV
+  - Trinity XXVI
+  - Trinity XXVII
+  - St. Michael's
+  - Reformation
+  - Ratswahl
+  - Wedding
+  - Funeral
+  - Penitential
+  - Unknown occasion
+
+seasons:
+  - id: advent
+    label: Advent
+    start: Advent I
+  - id: christmas
+    label: Christmas
+    start: Christmas Day
+  - id: epiphany
+    label: Epiphany
+    start: Epiphany
+  - id: pre-lent
+    label: Pre-Lent
+    start: Septuagesima
+  - id: lent
+    label: Lent
+    start: Invocavit
+  - id: holy-week
+    label: Holy Week
+    start: Palm Sunday
+  - id: easter
+    label: Easter
+    start: Easter Sunday
+  - id: ascension
+    label: Ascension
+    start: Ascension
+  - id: pentecost
+    label: Pentecost
+    start: Pentecost
+  - id: trinity
+    label: Trinity
+    start: Trinity
+  - id: feasts
+    label: Feasts
+    start: St. Michael's
+  - id: other
+    label: Other
+    start: Ratswahl
+
+noteOrder:
+  - C
+  - C♯
+  - D♭
+  - D
+  - D♯
+  - E♭
+  - E
+  - F
+  - F♯
+  - G♭
+  - G
+  - G♯
+  - A♭
+  - A
+  - A♯
+  - B♭
+  - B

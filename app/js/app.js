@@ -2,9 +2,9 @@ import { state } from './state.js';
 import { loadCalendarYear, getNode } from './api.js';
 import { getCycleClass, getCycleLabel, getVotes, getVote, toggleVote } from './components.js';
 import { renderSchedule, renderCalendar, navigateHero, setCalendarMode, calendarPrev, calendarNext, isSameDay, getEventForDate } from './views/schedule.js';
-import { renderCatalogue, renderCatalogueItem, buildCatalogueFromIndex, openCycleDetail } from './views/catalogue.js';
-import { renderOccasionDetail, closeOccasionDetail } from './views/occasion.js';
-import { openSheet, closeSheet, renderMovement, fitLibrettoHeight, getEnglishTitle } from './views/sheet.js';
+import { renderCatalogue, renderCatalogueItem, buildCatalogueFromIndex, openCycleDetail, loadLiturgicalOrder } from './views/catalogue.js';
+import { renderOccasionDetail, closeOccasionDetail, loadOccasionData } from './views/occasion.js';
+import { openSheet, closeSheet, renderMovement, fitLibrettoHeight, getEnglishTitle, loadTranslations } from './views/sheet.js';
 import { renderVotesView } from './views/likes.js';
 import { renderInsightsView } from './views/discover.js';
 
@@ -22,7 +22,10 @@ if (!localStorage.getItem('bach-votes-v2')) {
 const referenceDataReady = Promise.all([
     fetch('/api/cycles').then(r => r.json()),
     fetch('/api/instruments').then(r => r.json()),
-    fetch('/api/index').then(r => r.json())
+    fetch('/api/index').then(r => r.json()),
+    loadOccasionData(),
+    loadTranslations(),
+    loadLiturgicalOrder()
 ]).then(([cycles, instruments, items]) => {
     state.cycleData = cycles;
     state.familyLabels = Object.fromEntries(Object.entries(instruments).map(([k, v]) => [k, v.label]));
@@ -430,15 +433,25 @@ document.addEventListener('click', function(e) {
         window.open(url, '_blank');
         return;
     }
-    // Reading tab toggle
+    // Reading source tab toggle (Gospel/Epistle)
+    const sourceTab = e.target.closest('.reading-source-tab');
+    if (sourceTab) {
+        const source = sourceTab.dataset.source;
+        sourceTab.closest('.reading-source-tabs').querySelectorAll('.reading-source-tab').forEach(t => t.classList.remove('active'));
+        sourceTab.classList.add('active');
+        document.querySelectorAll('.reading-panel').forEach(p => p.classList.add('reading-hidden'));
+        const panel = document.getElementById('reading-panel-' + source);
+        if (panel) panel.classList.remove('reading-hidden');
+        return;
+    }
+    // Reading language tab toggle (Luther/Deutsch/English) — shared across panels
     const readingTab = e.target.closest('.reading-tab');
     if (readingTab) {
-        const tab = readingTab.dataset.tab;
-        document.querySelectorAll('.reading-tab').forEach(t => t.classList.remove('active'));
+        const lang = readingTab.dataset.lang;
+        document.querySelectorAll('#reading-lang-tabs .reading-tab').forEach(t => t.classList.remove('active'));
         readingTab.classList.add('active');
-        ['de', 'de-modern', 'en'].forEach(id => {
-            const el = document.getElementById('reading-' + id);
-            if (el) el.classList.toggle('reading-hidden', id !== tab);
+        document.querySelectorAll('.reading-panel .reading-text').forEach(el => {
+            el.classList.toggle('reading-hidden', el.dataset.lang !== lang);
         });
         return;
     }

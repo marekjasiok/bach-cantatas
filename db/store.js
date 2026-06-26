@@ -12,11 +12,14 @@ const Database = require('better-sqlite3');
 // --- Paths ---
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const NODES_DIR = path.join(DATA_DIR, 'nodes');
-const INDEX_PATH = path.join(DATA_DIR, 'index.json');
+const INDEX_PATH = path.join(DATA_DIR, 'index.yaml');
 const CYCLES_PATH = path.join(DATA_DIR, 'cycles.yaml');
 const INSTRUMENTS_PATH = path.join(DATA_DIR, 'instruments.yaml');
 const KEYS_PATH = path.join(DATA_DIR, 'keys.yaml');
-const READINGS_PATH = path.join(DATA_DIR, 'readings.json');
+const READINGS_PATH = path.join(DATA_DIR, 'readings.yaml');
+const OCCASIONS_PATH = path.join(DATA_DIR, 'occasions.yaml');
+const TRANSLATIONS_PATH = path.join(DATA_DIR, 'translations.yaml');
+const LITURGICAL_ORDER_PATH = path.join(DATA_DIR, 'liturgical-order.yaml');
 const DB_PATH = path.join(__dirname, 'bach.db');
 
 // --- SQLite init ---
@@ -45,7 +48,7 @@ function getInstruments() {
 }
 
 function getIndex() {
-  return JSON.parse(fs.readFileSync(INDEX_PATH, 'utf8'));
+  return yaml.load(fs.readFileSync(INDEX_PATH, 'utf8'));
 }
 
 function getKeys() {
@@ -53,7 +56,19 @@ function getKeys() {
 }
 
 function getReadings() {
-  return fs.existsSync(READINGS_PATH) ? JSON.parse(fs.readFileSync(READINGS_PATH, 'utf8')) : {};
+  return fs.existsSync(READINGS_PATH) ? yaml.load(fs.readFileSync(READINGS_PATH, 'utf8')) : {};
+}
+
+function getOccasions() {
+  return fs.existsSync(OCCASIONS_PATH) ? yaml.load(fs.readFileSync(OCCASIONS_PATH, 'utf8')) : {};
+}
+
+function getTranslations() {
+  return fs.existsSync(TRANSLATIONS_PATH) ? yaml.load(fs.readFileSync(TRANSLATIONS_PATH, 'utf8')) : {};
+}
+
+function getLiturgicalOrder() {
+  return fs.existsSync(LITURGICAL_ORDER_PATH) ? yaml.load(fs.readFileSync(LITURGICAL_ORDER_PATH, 'utf8')) : {};
 }
 
 // --- Nodes (cantata enriched data) ---
@@ -115,6 +130,9 @@ module.exports = {
   getIndex,
   getKeys,
   getReadings,
+  getOccasions,
+  getTranslations,
+  getLiturgicalOrder,
   // Nodes
   getNode,
   saveNode,

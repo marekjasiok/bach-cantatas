@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Migrate cantatas_full_list.md + libretti.json → data/nodes/*.yaml + data/index.json
+// Migrate cantatas_full_list.md + libretti.json → data/nodes/*.yaml + data/index.yaml
 
 const fs = require('fs');
 const path = require('path');
@@ -26,7 +26,7 @@ function toISODate(raw) {
 const MD_PATH = path.join(__dirname, 'cantatas_full_list.md');
 const LIBRETTI_PATH = path.join(__dirname, 'app', 'libretti.json');
 const NODES_DIR = path.join(__dirname, 'data', 'nodes');
-const INDEX_PATH = path.join(__dirname, 'data', 'index.json');
+const INDEX_PATH = path.join(__dirname, 'data', 'index.yaml');
 
 // Parse catalogue from markdown
 function parseCatalogue(md) {
@@ -190,7 +190,7 @@ function main() {
   }
 
   // Write index
-  fs.writeFileSync(INDEX_PATH, JSON.stringify(index, null, 2), 'utf8');
+  fs.writeFileSync(INDEX_PATH, yaml.dump(index, { lineWidth: 120, noRefs: true, quotingType: '"' }), 'utf8');
 
   console.log(`Migrated ${catalogue.length} cantatas → ${NODES_DIR}`);
   console.log(`Index written → ${INDEX_PATH}`);

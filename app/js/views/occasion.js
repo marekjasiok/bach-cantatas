@@ -1,50 +1,18 @@
 import { state } from '../state.js';
 import { cantataCard } from '../components.js';
 
-// Liturgical occasion descriptions
-const occasionDescriptions = {
-    'Advent I': 'First Sunday of Advent \u2014 the beginning of the church year, anticipating Christ\'s coming.',
-    'Advent II': 'Second Sunday of Advent \u2014 reflection on the signs of the last days.',
-    'Advent III': 'Third Sunday of Advent (Gaudete) \u2014 a Sunday of joy amid the penitential season.',
-    'Advent IV': 'Fourth Sunday of Advent \u2014 the final preparation before Christmas.',
-    'Christmas': 'The Feast of the Nativity \u2014 celebration of Christ\'s birth.',
-    'Christmas Day': 'Christmas Day \u2014 the principal feast celebrating the Incarnation.',
-    'Christmas 2': 'Second Day of Christmas (St. Stephen\'s Day) \u2014 honouring the first martyr.',
-    'Christmas 3': 'Third Day of Christmas (St. John\'s Day) \u2014 honouring the beloved disciple.',
-    'New Year': 'Feast of the Circumcision \u2014 the naming of Jesus, eight days after Christmas.',
-    'Epiphany': 'The manifestation of Christ to the Gentiles \u2014 the visit of the Magi.',
-    'Purification': 'Candlemas \u2014 the presentation of Christ at the Temple, 40 days after Christmas.',
-    'Annunciation': 'The angel Gabriel announces to Mary that she will bear the Son of God.',
-    'Septuagesima': 'Seventy days before Easter \u2014 the pre-Lenten season begins.',
-    'Sexagesima': 'Sixty days before Easter \u2014 themes of the Word of God as seed.',
-    'Estomihi': 'The Sunday before Ash Wednesday \u2014 the last Sunday before Lent.',
-    'Invocavit': 'First Sunday of Lent \u2014 Christ\'s temptation in the wilderness.',
-    'Reminiscere': 'Second Sunday of Lent \u2014 remembering God\'s mercy and compassion.',
-    'Oculi': 'Third Sunday of Lent \u2014 "My eyes are ever toward the Lord."',
-    'Laetare': 'Fourth Sunday of Lent \u2014 a day of rejoicing amid the Lenten fast.',
-    'Judica': 'Fifth Sunday of Lent (Passion Sunday) \u2014 Christ\'s suffering draws near.',
-    'Palm Sunday': 'The triumphal entry of Christ into Jerusalem \u2014 Holy Week begins.',
-    'Good Friday': 'The Crucifixion of our Lord \u2014 the most solemn day of the church year. In Leipzig, the Passion was performed during Vespers.',
-    'Easter Sunday': 'The Resurrection of our Lord \u2014 the most joyful feast of the church year.',
-    'Easter Monday': 'The second day of Easter \u2014 continuing the celebration of the Resurrection.',
-    'Easter Tuesday': 'The third day of Easter \u2014 the Emmaus road encounter.',
-    'Easter I': 'Quasimodogeniti \u2014 "as newborn babes, desire the pure milk of the Word."',
-    'Easter II': 'Misericordias Domini \u2014 "The earth is full of the goodness of the Lord."',
-    'Easter III': 'Jubilate \u2014 "Make a joyful noise unto the Lord, all the earth."',
-    'Easter IV': 'Cantate \u2014 "O sing unto the Lord a new song."',
-    'Easter V': 'Rogate \u2014 the Sunday of prayer before Ascension.',
-    'Ascension': 'Christ ascends to heaven forty days after Easter.',
-    'Ascension I': 'Exaudi \u2014 the Sunday after Ascension, awaiting the Holy Spirit.',
-    'Pentecost': 'The descent of the Holy Spirit upon the apostles \u2014 the birthday of the Church.',
-    'Pentecost Sunday': 'The outpouring of the Holy Spirit \u2014 fifty days after Easter.',
-    'Trinity': 'Trinity Sunday \u2014 celebrating the mystery of the Triune God.',
-    'Trinity Sunday': 'The first Sunday after Pentecost \u2014 the fullness of God revealed.',
-    'St. John\'s': 'Feast of St. John the Baptist (Jun 24) \u2014 the forerunner of Christ.',
-    'Visitation': 'The Visitation of Mary to Elizabeth \u2014 "My soul magnifies the Lord."',
-    'St. Michael\'s': 'Michaelmas \u2014 the feast of St. Michael and All Angels.',
-    'Reformation': 'Reformation Day (Oct 31) \u2014 commemorating Luther\'s 95 Theses of 1517.',
-    'Ratswahl': 'Council inauguration (Ratswechsel) \u2014 the annual ceremony installing Leipzig\'s new town council, held at the Nikolaikirche on the Monday after St. Bartholomew\'s Day.',
-};
+// Loaded at init from /api/occasions
+let occasionDescriptions = {};
+let occasionWikiMap = {};
+let occasionWikiFallbacks = {};
+
+export async function loadOccasionData() {
+    const resp = await fetch('/api/occasions');
+    const data = await resp.json();
+    occasionDescriptions = data.descriptions;
+    occasionWikiMap = data.wiki;
+    occasionWikiFallbacks = data.wikiFallbacks;
+}
 
 export function getOccasionDescription(occasion) {
     if (occasionDescriptions[occasion]) return occasionDescriptions[occasion];
@@ -81,29 +49,10 @@ function ordinalSuffix(n) {
 }
 
 export function getOccasionWikiUrl(occasion) {
-    const wikiMap = {
-        'Advent I': 'Advent', 'Advent II': 'Advent', 'Advent III': 'Advent', 'Advent IV': 'Advent',
-        'Christmas': 'Christmas', 'Christmas Day': 'Christmas',
-        'Epiphany': 'Epiphany_(holiday)',
-        'Purification': 'Candlemas',
-        'Annunciation': 'Annunciation',
-        'Septuagesima': 'Septuagesima', 'Sexagesima': 'Sexagesima', 'Estomihi': 'Quinquagesima',
-        'Good Friday': 'Good_Friday',
-        'Easter Sunday': 'Easter', 'Easter Monday': 'Easter_Monday',
-        'Ascension': 'Feast_of_the_Ascension',
-        'Pentecost': 'Pentecost', 'Pentecost Sunday': 'Pentecost',
-        'Trinity': 'Trinity_Sunday', 'Trinity Sunday': 'Trinity_Sunday',
-        'St. John\'s': 'Nativity_of_John_the_Baptist',
-        'Visitation': 'Visitation_(Christianity)',
-        'St. Michael\'s': 'Michaelmas',
-        'Reformation': 'Reformation_Day',
-        'Ratswahl': 'Church_cantata_(Bach)#New_council',
-        'Palm Sunday': 'Palm_Sunday',
-    };
-    if (wikiMap[occasion]) return `https://en.wikipedia.org/wiki/${wikiMap[occasion]}`;
-    if (/^Trinity\s/.test(occasion)) return 'https://en.wikipedia.org/wiki/Trinity_Sunday';
-    if (/^Epiphany\s/.test(occasion)) return 'https://en.wikipedia.org/wiki/Epiphany_season';
-    if (/^Easter\s/.test(occasion)) return 'https://en.wikipedia.org/wiki/Eastertide';
+    if (occasionWikiMap[occasion]) return `https://en.wikipedia.org/wiki/${occasionWikiMap[occasion]}`;
+    for (const [prefix, page] of Object.entries(occasionWikiFallbacks)) {
+        if (occasion.startsWith(prefix + ' ')) return `https://en.wikipedia.org/wiki/${page}`;
+    }
     return null;
 }
 
@@ -170,43 +119,56 @@ export function renderOccasionDetail(event, pushState = true) {
     // Lazy-load hero image from Wikipedia
     if (wikiPage) loadOccasionHero(wikiPage);
 
-    // Fetch Gospel reading
+    // Fetch prescribed readings (gospel + epistle)
     fetch(`/api/reading/${encodeURIComponent(event.occasion)}`).then(r => r.json()).then(data => {
         const slot = document.getElementById('reading-slot');
         if (!slot || !data.gospel) return;
-        const chapter = data.gospel.match(/:/) ? data.gospel.match(/(\d+):/)[1] : '';
-        let deFormatted = '';
-        if (data.de) {
-            // Strip verse numbers for Luther 1545 (Gutenberg-style: no indexing)
-            let deClean = data.de.replace(/<span class="verse-num">\d+<\/span>/g, '').replace(/^\s+/, '');
-            const firstLetter = deClean.charAt(0);
-            deClean = deClean.substring(1);
-            deFormatted = `<p><span class="reading-dropcap">${firstLetter}</span>${deClean}</p>`;
-        }
-        let deModern = '';
-        if (data.de_modern) {
-            deModern = `<p><span class="reading-dropcap">${chapter}</span>${data.de_modern}</p>`;
-        }
-        let enFormatted = '';
-        if (data.en) {
-            enFormatted = `<p><span class="reading-dropcap">${chapter}</span>${data.en}</p>`;
-        }
-        const deRef = data.gospel.replace(/^Matthew/, 'Matth\u00e4us').replace(/^Mark/, 'Markus').replace(/^Luke/, 'Lukas').replace(/^John/, 'Johannes').replace(/^Acts/, 'Apostelgeschichte').replace(/^Romans/, 'R\u00f6mer').replace(/^Revelation/, 'Offenbarung');
-        const bgDe = `https://www.biblegateway.com/passage/?search=${encodeURIComponent(data.gospel)}&version=LUTH1545`;
-        const bgSch = `https://www.biblegateway.com/passage/?search=${encodeURIComponent(data.gospel)}&version=SCH2000`;
-        const bgEn = `https://www.biblegateway.com/passage/?search=${encodeURIComponent(data.gospel)}&version=KJV`;
-        const refLink = (href, label) => `<div class="reading-ref"><a href="${href}" target="_blank" rel="noopener" class="app-link">${label}</a></div>`;
+
+        const renderReadingPanel = (reading, prefix) => {
+            const ref = reading.ref;
+            const chapter = ref.match(/:/) ? ref.match(/(\d+):/)[1] : '';
+            let deFormatted = '';
+            if (reading.de) {
+                let deClean = reading.de.replace(/<span class="verse-num">\d+<\/span>/g, '').replace(/^\s+/, '');
+                const firstLetter = deClean.charAt(0);
+                deClean = deClean.substring(1);
+                deFormatted = `<p><span class="reading-dropcap">${firstLetter}</span>${deClean}</p>`;
+            }
+            let deModern = '';
+            if (reading.de_modern) {
+                deModern = `<p><span class="reading-dropcap">${chapter}</span>${reading.de_modern}</p>`;
+            }
+            let enFormatted = '';
+            if (reading.en) {
+                enFormatted = `<p><span class="reading-dropcap">${chapter}</span>${reading.en}</p>`;
+            }
+            const deRef = ref.replace(/^Matthew/, 'Matth\u00e4us').replace(/^Mark/, 'Markus').replace(/^Luke/, 'Lukas').replace(/^John/, 'Johannes').replace(/^Acts/, 'Apostelgeschichte').replace(/^Romans/, 'R\u00f6mer').replace(/^Revelation/, 'Offenbarung').replace(/^1 Corinthians/, '1. Korinther').replace(/^2 Corinthians/, '2. Korinther').replace(/^Galatians/, 'Galater').replace(/^Ephesians/, 'Epheser').replace(/^Philippians/, 'Philipper').replace(/^Colossians/, 'Kolosser').replace(/^1 Thessalonians/, '1. Thessalonicher').replace(/^2 Thessalonians/, '2. Thessalonicher').replace(/^1 Timothy/, '1. Timotheus').replace(/^2 Timothy/, '2. Timotheus').replace(/^Titus/, 'Titus').replace(/^Hebrews/, 'Hebr\u00e4er').replace(/^James/, 'Jakobus').replace(/^1 Peter/, '1. Petrus').replace(/^2 Peter/, '2. Petrus').replace(/^1 John/, '1. Johannes').replace(/^2 John/, '2. Johannes').replace(/^Isaiah/, 'Jesaja');
+            const bgDe = `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=LUTH1545`;
+            const bgSch = `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=SCH2000`;
+            const bgEn = `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=KJV`;
+            const refLink = (href, label) => `<div class="reading-ref"><a href="${href}" target="_blank" rel="noopener" class="app-link">${label}</a></div>`;
+            return `
+                <div class="reading-text reading-fraktur" data-lang="de" id="${prefix}-de" lang="de">${deFormatted || '<em>Unavailable</em>'}${refLink(bgDe, `${deRef} (LUTH1545)`)}</div>
+                <div class="reading-text reading-garamond reading-hidden" data-lang="de-modern" id="${prefix}-de-modern" lang="de">${deModern || '<em>Unavailable</em>'}${refLink(bgSch, `${deRef} (SCH2000)`)}</div>
+                <div class="reading-text reading-garamond reading-hidden" data-lang="en" id="${prefix}-en" lang="en">${enFormatted || '<em>Unavailable</em>'}${refLink(bgEn, `${ref} (KJV)`)}</div>`;
+        };
+
+        const hasEpistle = data.epistle && data.epistle.ref;
         slot.innerHTML = `
-            <div class="occasion-section-label">Prescribed reading</div>
-            <div class="reading-tabs">
-                <button class="reading-tab active" data-tab="de">Luther 1545</button>
-                <button class="reading-tab" data-tab="de-modern">Deutsch</button>
-                <button class="reading-tab" data-tab="en">English</button>
+            <div class="occasion-section-label">Prescribed readings</div>
+            <div class="reading-nav-row">
+                <div class="reading-source-tabs">
+                    <button class="reading-source-tab active" data-source="gospel">Gospel</button>
+                    ${hasEpistle ? `<button class="reading-source-tab" data-source="epistle">Epistle</button>` : ''}
+                </div>
+                <div class="reading-tabs" id="reading-lang-tabs">
+                    <button class="reading-tab active" data-lang="de">Luther 1545</button>
+                    <button class="reading-tab" data-lang="de-modern">Deutsch</button>
+                    <button class="reading-tab" data-lang="en">English</button>
+                </div>
             </div>
-            <div class="spacer-xl"></div>
-            <div class="reading-text reading-fraktur" id="reading-de" lang="de">${deFormatted || '<em>Unavailable</em>'}${refLink(bgDe, `${deRef} (LUTH1545)`)}</div>
-            <div class="reading-text reading-garamond reading-hidden" id="reading-de-modern" lang="de">${deModern || '<em>Unavailable</em>'}${refLink(bgSch, `${deRef} (SCH2000)`)}</div>
-            <div class="reading-text reading-garamond reading-hidden" id="reading-en" lang="en">${enFormatted || '<em>Unavailable</em>'}${refLink(bgEn, `${data.gospel} (KJV)`)}</div>`;
+            <div class="reading-panel" id="reading-panel-gospel">${renderReadingPanel(data.gospel, 'gospel')}</div>
+            ${hasEpistle ? `<div class="reading-panel reading-hidden" id="reading-panel-epistle">${renderReadingPanel(data.epistle, 'epistle')}</div>` : ''}`;
     }).catch(() => {});
 }
 

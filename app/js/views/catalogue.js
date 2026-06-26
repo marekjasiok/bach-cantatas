@@ -1,37 +1,35 @@
 import { state } from '../state.js';
 import { cantataCard, getCycleClass, getCycleFullName, getVote, voteButton } from '../components.js';
 import { closeOccasionDetail, loadOccasionHero } from './occasion.js';
+import { CYCLE_ORDER } from '../constants.js';
+
+// Loaded at init from /api/liturgical-order
+let occasionOrder = [];
+let seasons = [];
+let noteOrder = [];
+
+export async function loadLiturgicalOrder() {
+    const resp = await fetch('/api/liturgical-order');
+    const data = await resp.json();
+    occasionOrder = data.occasionOrder;
+    seasons = data.seasons;
+    noteOrder = data.noteOrder;
+}
 
 export function buildCatalogueFromIndex(items) {
-    const cycleHeaders = {
-        EARLY: 'Pre-Leipzig (1704-1722)',
-        C1: 'Leipzig Cycle 1 (1723-1724)',
-        C2: 'Chorale Cantatas (1724-1725)',
-        C3: 'Leipzig Cycle 3 (1725-1727)',
-        PICANDER: 'Picander Cycle (1728-1729)',
-        LATE: 'Late Works (1730-1748)'
-    };
     const groups = {};
     for (const it of items) {
         const cycle = it.cycle || 'MISC';
         if (!groups[cycle]) groups[cycle] = [];
-        let occasion = (it.occasion || '')
-            .replace('Mon.', 'Monday')
-            .replace('Tue.', 'Tuesday')
-            .replace('Sun.', 'Sunday')
-            .replace(/^Jubilate$/, 'Easter III')
-            .replace(/^Sunday after Xmas$/, 'Christmas I')
-            .replace(/^Unknown$/, 'Unknown occasion');
-        if (it.occasion === 'Easter/Purif.') {
-            groups[cycle].push({ ...it, occasion: 'Easter Tuesday', url: `https://en.wikipedia.org/wiki/BWV_${it.bwv}` });
-            groups[cycle].push({ ...it, occasion: 'Purification', url: `https://en.wikipedia.org/wiki/BWV_${it.bwv}` });
-        } else {
-            groups[cycle].push({ ...it, occasion, url: `https://en.wikipedia.org/wiki/BWV_${it.bwv}` });
-        }
+        groups[cycle].push({ ...it, url: `https://en.wikipedia.org/wiki/BWV_${it.bwv}` });
     }
     const sections = [];
-    for (const [cycle, header] of Object.entries(cycleHeaders)) {
-        if (groups[cycle]) sections.push({ header, cycle, items: groups[cycle] });
+    for (const cycle of CYCLE_ORDER) {
+        if (groups[cycle]) {
+            const info = state.cycleData[cycle];
+            const header = info ? info.name : cycle;
+            sections.push({ header, cycle, items: groups[cycle] });
+        }
     }
     return sections;
 }
@@ -84,9 +82,8 @@ export function renderCatalogue(filter) {
     let html = '';
 
     if (state.catalogueSort === 'cycle') {
-        const cycleOrder = ['EARLY', 'C1', 'C2', 'C3', 'PICANDER', 'LATE'];
         const groups = groupBy(items, it => it.cycle);
-        for (const c of cycleOrder) {
+        for (const c of CYCLE_ORDER) {
             if (!groups[c] || groups[c].length === 0) continue;
             groups[c].sort((a, b) => parseDateForSort(a.date) - parseDateForSort(b.date));
             const cycleName = state.cycleData[c] ? state.cycleData[c].name : c;
@@ -95,28 +92,12 @@ export function renderCatalogue(filter) {
             html += '</div>';
         }
     } else if (state.catalogueSort === 'occasion') {
-        const occasionOrder = ['Advent I','Advent II','Advent III','Advent IV','Christmas Day','Christmas','Christmas 2','Christmas 3','Christmas I','New Year','New Year I','Epiphany','Epiphany I','Epiphany II','Epiphany III','Epiphany IV','Purification','Septuagesima','Sexagesima','Estomihi','Oculi','Annunciation','Palm Sunday','Good Friday','Easter Sunday','Easter Monday','Easter Tuesday','Easter I','Easter II','Easter III','Easter IV','Easter V','Ascension','Ascension I','Pentecost','Pentecost 2','Pentecost 3','Trinity','St. John\'s','Visitation','Trinity I','Trinity II','Trinity III','Trinity IV','Trinity V','Trinity VI','Trinity VII','Trinity VIII','Trinity IX','Trinity X','Trinity XI','Trinity XII','Trinity XIII','Trinity XIV','Trinity XV','Trinity XVI','Trinity XVII','Trinity XVIII','Trinity XIX','Trinity XX','Trinity XXI','Trinity XXII','Trinity XXIII','Trinity XXIV','Trinity XXV','Trinity XXVI','Trinity XXVII','St. Michael\'s','Reformation','Ratswahl','Wedding','Funeral','Penitential','Unknown occasion'];
         const groups = groupBy(items, it => it.occasion);
         const sortedKeys = Object.keys(groups).sort((a, b) => {
             const ia = occasionOrder.indexOf(a);
             const ib = occasionOrder.indexOf(b);
             return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
         });
-
-        // Season boundaries for navigation
-        const seasons = [
-            { id: 'advent', label: 'Advent', start: 'Advent I' },
-            { id: 'christmas', label: 'Christmas', start: 'Christmas Day' },
-            { id: 'epiphany', label: 'Epiphany', start: 'Epiphany' },
-            { id: 'pre-lent', label: 'Pre-Lent', start: 'Septuagesima' },
-            { id: 'lent', label: 'Lent & Holy Week', start: 'Oculi' },
-            { id: 'easter', label: 'Easter', start: 'Easter Sunday' },
-            { id: 'ascension', label: 'Ascension', start: 'Ascension' },
-            { id: 'pentecost', label: 'Pentecost', start: 'Pentecost' },
-            { id: 'trinity', label: 'Trinity', start: 'Trinity' },
-            { id: 'feasts', label: 'Feasts', start: "St. Michael's" },
-            { id: 'other', label: 'Other', start: 'Ratswahl' },
-        ];
         const seasonStartSet = new Set(seasons.map(s => s.start));
         function getSeasonId(occ) {
             for (let i = seasons.length - 1; i >= 0; i--) {
@@ -153,7 +134,6 @@ export function renderCatalogue(filter) {
         const groups = groupBy(withKey, it => state.tagsCache[it.bwv].key);
 
         // Sort keys: major before minor, then by note
-        const noteOrder = ['C', 'C♯', 'D♭', 'D', 'D♯', 'E♭', 'E', 'F', 'F♯', 'G♭', 'G', 'G♯', 'A♭', 'A', 'A♯', 'B♭', 'B'];
         const sortedKeys = Object.keys(groups).sort((a, b) => {
             const aMajor = a.includes('major') ? 0 : 1;
             const bMajor = b.includes('major') ? 0 : 1;

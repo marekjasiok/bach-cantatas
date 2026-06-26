@@ -1,4 +1,5 @@
 import { state } from './state.js';
+import { CYCLE_ORDER, CYCLE_LABELS, CYCLE_COLORS } from './constants.js';
 
 // Format date string for display (ISO -> user locale)
 export function formatDate(dateStr) {
@@ -19,8 +20,7 @@ export function formatDate(dateStr) {
 }
 
 export function getCycleLabel(cycle) {
-    const map = { 'EARLY': 'E', 'C1': 'I', 'C2': 'II', 'C3': 'III', 'PICANDER': 'P', 'LATE': 'L', 'MISC': '?' };
-    return map[cycle] || cycle;
+    return CYCLE_LABELS[cycle] || cycle;
 }
 
 export function getCycleClass(cycle) {
@@ -39,11 +39,7 @@ export function getCycleFullName(cycle) {
 }
 
 export function getCycleColor(cycle) {
-    const colors = {
-        'EARLY': '#FF9500', 'C1': '#7B2FF7', 'C2': '#0066FF',
-        'C3': '#00B85C', 'LATE': '#E6197E', 'MISC': '#8E8E93'
-    };
-    return colors[cycle] || colors['MISC'];
+    return CYCLE_COLORS[cycle] || CYCLE_COLORS['MISC'];
 }
 
 export function getImslpUrl(title, num) {
@@ -84,7 +80,6 @@ export function getListeningStats() {
 }
 
 export function renderStatsBlock(stats) {
-    const cycleOrder = ['EARLY', 'C1', 'C2', 'C3', 'PICANDER', 'LATE'];
     let html = `<div class="insights-profile">
         <div class="insights-stat"><span class="insights-stat-num">${stats.listened}</span><span class="insights-stat-label">listened</span></div>
         <div class="insights-stat"><span class="insights-stat-num">${stats.liked}</span><span class="insights-stat-label">liked</span></div>
@@ -93,7 +88,7 @@ export function renderStatsBlock(stats) {
 
     if (stats.liked > 0) {
         html += `<div class="insights-bar">`;
-        for (const c of cycleOrder) {
+        for (const c of CYCLE_ORDER) {
             const count = stats.cycleCounts[c] || 0;
             if (count === 0) continue;
             const pct = Math.round((count / stats.liked) * 100);
@@ -101,7 +96,7 @@ export function renderStatsBlock(stats) {
         }
         html += `</div>`;
         html += `<div class="insights-bar-legend">`;
-        for (const c of cycleOrder) {
+        for (const c of CYCLE_ORDER) {
             if (!stats.cycleCounts[c]) continue;
             html += `<span class="insights-legend-item"><span class="insights-legend-dot ${getCycleClass(c)}"></span>${getCycleFullName(c)} (${stats.cycleCounts[c]})</span>`;
         }

@@ -67,7 +67,6 @@ function computeLiturgicalYear(year) {
   dates['Visitation'] = new Date(year, 6, 2);         // Jul 2 (old calendar)
   dates['St. Michael\'s'] = new Date(year, 8, 29);    // Sep 29
   dates['Reformation'] = new Date(year, 9, 31);       // Oct 31
-  dates['Christmas'] = new Date(year, 11, 25);
   dates['Christmas Day'] = new Date(year, 11, 25);
   dates['Christmas 2'] = new Date(year, 11, 26);
   dates['Christmas 3'] = new Date(year, 11, 27);
@@ -87,35 +86,29 @@ function computeLiturgicalYear(year) {
   dates['Laetare'] = addDays(e, -21);
   dates['Judica'] = addDays(e, -14);
   dates['Palm Sunday'] = addDays(e, -7);
-  dates['Palm Sun.'] = addDays(e, -7);
   dates['Good Friday'] = addDays(e, -2);
 
   // Easter
   dates['Easter Sunday'] = e;
-  dates['Easter Mon.'] = addDays(e, 1);
   dates['Easter Monday'] = addDays(e, 1);
-  dates['Easter Tue.'] = addDays(e, 2);
   dates['Easter Tuesday'] = addDays(e, 2);
 
-  // Sundays after Easter (Quasimodogeniti through Exaudi)
-  dates['Easter I'] = addDays(e, 7);    // Quasimodogeniti
-  dates['Easter II'] = addDays(e, 14);   // Misericordias Domini
-  dates['Easter III'] = addDays(e, 21);  // Jubilate
+  // Sundays after Easter
+  dates['Quasimodogeniti'] = addDays(e, 7);
+  dates['Misericordias Domini'] = addDays(e, 14);
   dates['Jubilate'] = addDays(e, 21);
-  dates['Easter IV'] = addDays(e, 28);   // Cantate
-  dates['Easter V'] = addDays(e, 35);    // Rogate
+  dates['Cantate'] = addDays(e, 28);
+  dates['Rogate'] = addDays(e, 35);
 
   dates['Ascension'] = addDays(e, 39);
-  dates['Ascension I'] = addDays(e, 42); // Exaudi (Sunday after Ascension)
+  dates['Exaudi'] = addDays(e, 42);
 
   dates['Pentecost'] = addDays(e, 49);
-  dates['Pentecost Sunday'] = addDays(e, 49);
   dates['Pentecost 2'] = addDays(e, 50);
   dates['Pentecost 3'] = addDays(e, 51);
 
   // Trinity Sunday and Sundays after Trinity
   dates['Trinity'] = addDays(e, 56);
-  dates['Trinity Sunday'] = addDays(e, 56);
   for (let i = 1; i <= 27; i++) {
     const roman = toRoman(i);
     dates[`Trinity ${roman}`] = addDays(e, 56 + 7 * i);
@@ -179,14 +172,9 @@ function generateCalendarEvents(year, index) {
 
   for (const cantata of index) {
     const occasion = cantata.occasion;
-    if (!occasion || occasion === 'Unknown' || occasion === 'Funeral' || occasion === 'Wedding') continue;
+    if (!occasion || occasion === 'Unknown occasion' || occasion === 'Funeral' || occasion === 'Wedding') continue;
 
-    // Normalize occasion name for lookup
-    let lookupKey = occasion
-      .replace('Easter/Purif.', 'Purification')
-      .replace(/\s*\(\*\*.*?\*\*\)/, '')
-      .trim();
-
+    const lookupKey = occasion;
     if (!dates[lookupKey]) continue;
 
     if (!occasionGroups[lookupKey]) {

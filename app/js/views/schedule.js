@@ -2,6 +2,7 @@ import { state } from '../state.js';
 import { loadCalendarYear } from '../api.js';
 import { cantataCard, getCycleClass, getCycleColor } from '../components.js';
 import { getOccasionDescription, getOccasionWikiUrl } from './occasion.js';
+import { MONTH_NAMES, MONTH_NAMES_SHORT, DAY_NAMES, DAY_NAMES_SHORT } from '../constants.js';
 
 export function isSameDay(a, b) {
     return a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth() && a.getDate() === b.getDate();
@@ -22,10 +23,7 @@ export function renderCalendar() {
     const today = new Date();
     today.setHours(0, 0, 0, 0);
 
-    const monthNames = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-    const dayNames = ['Mo','Tu','We','Th','Fr','Sa','Su'];
-
-    let grid = dayNames.map(d => `<div class="day-header">${d}</div>`).join('');
+    let grid = DAY_NAMES_SHORT.map(d => `<div class="day-header">${d}</div>`).join('');
 
     // Previous month padding
     const prevMonth = new Date(year, month, 0);
@@ -66,7 +64,7 @@ export function renderCalendar() {
     container.innerHTML = `
         <div class="calendar-nav">
             <button id="cal-prev"><span class="material-symbols-outlined">chevron_left</span></button>
-            <span class="calendar-month-label">${monthNames[month]} ${year}</span>
+            <span class="calendar-month-label">${MONTH_NAMES[month]} ${year}</span>
             <button id="cal-next"><span class="material-symbols-outlined">chevron_right</span></button>
         </div>
         <div class="calendar-grid">${grid}</div>`;
@@ -83,8 +81,6 @@ export function renderSchedule() {
 
     const today = new Date();
     today.setHours(0, 0, 0, 0);
-    const monthNames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-    const dayNames = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 
     // Find next upcoming event (default hero)
     if (state.heroIdx < 0) {
@@ -94,11 +90,11 @@ export function renderSchedule() {
         if (state.heroIdx < 0) state.heroIdx = state.allEvents.length - 1;
     }
 
-    renderHeroCard(heroEl, state.heroIdx, today, dayNames);
-    renderScheduleList(container, state.heroIdx, today, monthNames, dayNames);
+    renderHeroCard(heroEl, state.heroIdx, today);
+    renderScheduleList(container, state.heroIdx, today);
 }
 
-export function renderHeroCard(heroEl, idx, today, dayNames) {
+export function renderHeroCard(heroEl, idx, today) {
     if (idx < 0 || !heroEl) return;
     const ev = state.allEvents[idx];
     const d = ev.date;
@@ -106,7 +102,7 @@ export function renderHeroCard(heroEl, idx, today, dayNames) {
     let label = 'Next Occasion';
     if (daysUntil === 0) label = 'Today';
     else if (daysUntil === 1) label = 'Tomorrow';
-    else if (daysUntil <= 7 && daysUntil > 0) label = 'This ' + dayNames[d.getDay()];
+    else if (daysUntil <= 7 && daysUntil > 0) label = 'This ' + DAY_NAMES[d.getDay()];
     else if (daysUntil < 0) label = 'Past Occasion';
 
     const dateStr = d.toLocaleDateString(undefined, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
@@ -151,7 +147,7 @@ export function renderHeroCard(heroEl, idx, today, dayNames) {
     }
 }
 
-export function renderScheduleList(container, currentHeroIdx, today, monthNames, dayNames) {
+export function renderScheduleList(container, currentHeroIdx, today) {
     const renderItem = (ev, idx, isPast) => {
         const d = ev.date;
         const chips = (ev.cantatas || []).map(c =>
@@ -159,11 +155,11 @@ export function renderScheduleList(container, currentHeroIdx, today, monthNames,
         ).join('');
         return `<div class="schedule-item${isPast ? ' past' : ''}" data-occasion-idx="${idx}" id="schedule-ev-${idx}">
             <div class="schedule-date">
-                <div class="schedule-date-month">${monthNames[d.getMonth()]}</div>
+                <div class="schedule-date-month">${MONTH_NAMES_SHORT[d.getMonth()]}</div>
                 <div class="schedule-date-day">${d.getDate()}</div>
             </div>
             <div class="schedule-body">
-                <div class="schedule-weekday">${dayNames[d.getDay()]}</div>
+                <div class="schedule-weekday">${DAY_NAMES[d.getDay()]}</div>
                 <div class="schedule-occasion" data-occasion-idx="${idx}">${ev.occasion}</div>
                 <div class="schedule-cantatas">${chips}</div>
             </div>
@@ -205,8 +201,7 @@ export function navigateHero(direction) {
     const container = document.getElementById('schedule-list');
     const today = new Date();
     today.setHours(0, 0, 0, 0);
-    const dayNames = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
-    renderHeroCard(heroEl, state.heroIdx, today, dayNames);
+    renderHeroCard(heroEl, state.heroIdx, today);
     // Update schedule scroll
     const scrollTarget = state.heroIdx + 1 < state.allEvents.length
         ? document.getElementById(`schedule-ev-${state.heroIdx + 1}`)
